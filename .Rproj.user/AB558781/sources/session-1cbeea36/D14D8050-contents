@@ -1,0 +1,57 @@
+# scripts/run_scraper.R
+source("config/config.R")
+source("R/scrape_startlist.R")
+source("R/scrape_startlist_quality.R")
+source("R/scrape_rider_form.R")
+source("R/scrape_stages.R")
+source("R/scrape_stage_results.R")
+
+# Maak submappen aan als ze nog niet bestaan
+dir.create("data/processed/stages", showWarnings = FALSE, recursive = TRUE)
+dir.create("data/processed/startlists", showWarnings = FALSE, recursive = TRUE)
+
+for (i in seq_len(nrow(event_years))) {
+  id <- event_years$event_id[i]
+  year <- event_years$event_year[i]
+  
+  message(glue::glue("Scraping: {id} {year}"))
+  
+  # Startlists
+  startlist <- scrape_startlist(id, year)
+  quality <- scrape_startlist_quality(id, year)
+  
+  form <- scrape_all_rider_forms(
+    rider_ids  = startlist$rider_id,
+    event_date = as.Date(unique(startlist$event_date)),
+    event_year = year
+  )
+  
+  startlist_full <- startlist %>%
+    left_join(quality, by = "rider_id") %>%
+    left_join(form, by = "rider_id")
+  
+  write_csv(startlist_full, glue("data/processed/startlists/startlist_{id}_{year}.csv"))
+  
+  # Stages
+  stages <- scrape_stages(id, year)
+  write_csv(stages, glue("data/processed/stages/stages_{id}_{year}.csv"))
+  
+  # Loop over stages en categorieën
+  for(j in seq_len(nrow(stages))) {
+    stage_id <- stages$stage_id[j]
+    
+    # Typen om te scrapen: 'stage', 'gc', 'points', 'mountains', 'young'
+    categories <- c("stage", "gc", "points", "mountains", "young")
+    
+    for(category in categories) {
+      df <- scrape_stage_results(event_id, year, stage_id, category)
+      
+      # Alleen opslaan als er resultaten zijn
+      if(!is.null(df) && nrow(df) > 0) {
+        file_name <- glue("{dir_path}/stage_results_{year}_{stage_id}_{category}.csv")
+        write_csv(df, file_name)
+        message(glue("Saved: {file_name}"))
+      }
+    }
+  }
+}

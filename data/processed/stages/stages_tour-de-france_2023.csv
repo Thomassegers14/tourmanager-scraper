@@ -1,0 +1,22 @@
+stage,stage_id,stage_name,stage_type
+1,race/tour-de-france/2023/stage-1,Stage 1 | Bilbao - Bilbao,"Hills, uphill finish"
+2,race/tour-de-france/2023/stage-2,Stage 2 | Vitoria-Gasteiz - San Sébastián,"Hills, flat finish"
+3,race/tour-de-france/2023/stage-3,Stage 3 | Amorebieta-Etxano - Bayonne,"Hills, flat finish"
+4,race/tour-de-france/2023/stage-4,Stage 4 | Dax - Nogaro, Flat
+5,race/tour-de-france/2023/stage-5,Stage 5 | Pau - Laruns,"Mountains, flat finish"
+6,race/tour-de-france/2023/stage-6,Stage 6 | Tarbes - Cauterets-Cambasque,"Mountains, uphill finish"
+7,race/tour-de-france/2023/stage-7,Stage 7 | Mont-de-Marsan - Bordeaux, Flat
+8,race/tour-de-france/2023/stage-8,Stage 8 | Libourne - Limoges,"Hills, flat finish"
+9,race/tour-de-france/2023/stage-9,Stage 9 | Saint-Léonard-de-Noblat - Puy de Dôme,"Mountains, uphill finish"
+10,race/tour-de-france/2023/stage-10,Stage 10 | Vulcania - Issoire,"Hills, flat finish"
+11,race/tour-de-france/2023/stage-11,Stage 11 | Clermont-Ferrand - Moulins,"Hills, flat finish"
+12,race/tour-de-france/2023/stage-12,Stage 12 | Roanne - Belleville-en-Beaujolais,"Hills, flat finish"
+13,race/tour-de-france/2023/stage-13,Stage 13 | Châtillon-Sur-Chalaronne - Grand Colombier,"Mountains, uphill finish"
+14,race/tour-de-france/2023/stage-14,Stage 14 | Annemasse - Morzine les Portes du Soleil,"Mountains, flat finish"
+15,race/tour-de-france/2023/stage-15,Stage 15 | Les Gets les Portes du Soleil - Saint-Gervais Mont-Blanc,"Mountains, uphill finish"
+16,race/tour-de-france/2023/stage-16,Stage 16 (ITT) | Passy - Combloux,"Mountains, uphill finish"
+17,race/tour-de-france/2023/stage-17,Stage 17 | Saint-Gervais Mont-Blanc - Courchevel,"Mountains, flat finish"
+18,race/tour-de-france/2023/stage-18,Stage 18 | Moûtiers - Bourg-en-Bresse, Flat
+19,race/tour-de-france/2023/stage-19,Stage 19 | Moirans-en-Montagne - Poligny,"Hills, flat finish"
+20,race/tour-de-france/2023/stage-20,Stage 20 | Belfort - Le Markstein,"Mountains, flat finish"
+21,race/tour-de-france/2023/stage-21,Stage 21 | Saint-Quentin-en-Yvelines - Paris, Flat

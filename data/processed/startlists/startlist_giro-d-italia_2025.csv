@@ -1,0 +1,185 @@
+event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points,pcs_points_last_60d
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ROGLIČ Primož,rider/primoz-roglic,5,1,1543,890,520,381
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ALEOTTI Giovanni,rider/giovanni-aleotti,142,47,162.71,138,83,10
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,DENZ Nico,rider/nico-denz,564,134,257.71,165,5,54
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,HINDLEY Jai,rider/jai-hindley,101,35,370.71,265,216,212
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez,70,25,276,117,10,90
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MOSCON Gianni,rider/gianni-moscon,729,158,0.71,71,30,20
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,PELLIZZARI Giulio,rider/giulio-pellizzari,159,48,760,392,116,42
+giro-d-italia,2025-05-09,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,TRATNIK Jan,rider/jan-tratnik,293,78,28,44,8,5
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,GROVES Kaden,rider/kaden-groves,42,15,1420,612,25,148
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,HERMANS Quinten,rider/quinten-hermans,186,56,303,223,42,40
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,HOLLMANN Juri,rider/juri-hollmann,679,150,3,15,5,15
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,JANSSENS Jimmy,rider/jimmy-janssens,720,155,0,30,10,5
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,KIELICH Timo,rider/timo-kielich,412,107,259,188,15,72
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PLANCKAERT Edward,rider/edward-planckaert,610,140,142,90,10,25
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche,522,127,45,76,10,45
+giro-d-italia,2025-05-09,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PLOWRIGHT Jensen,rider/jensen-plowright,341,90,138,99,5,43
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VERRE Alessandro,rider/alessandro-verre,433,113,140,90,10,10
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,EPIS Giosuè,rider/giosue-epis,970,172,18,60,5,20
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,GUGLIELMI Simon,rider/simon-guglielmi,558,132,0,39,5,10
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,HUYS Laurens,rider/laurens-huys,887,168,0,25,0,0
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,MOZZATO Luca,rider/luca-mozzato,299,79,199,149,0,48
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,RIES Michel,rider/michel-ries,614,142,44,21,10,10
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,SVESTAD-BÅRDSENG Embret,rider/embret-svestad-bardseng,494,126,165,182,100,10
+giro-d-italia,2025-05-09,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,TJØTTA Martin,rider/martin-tjotta,-,179,110,112,60,12
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,TIBERI Antonio,rider/antonio-tiberi,57,19,1070,604,366,187
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BILBAO Pello,rider/pello-bilbao,44,16,906,652,420,113
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,CARUSO Damiano,rider/damiano-caruso,344,91,896,402,65,76
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,EULÁLIO Afonso,rider/afonso-eulalio,447,119,83,68,5,5
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,GOVEKAR Matevž,rider/matevz-govekar,380,101,172,86,5,8
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,MIHOLJEVIĆ Fran,rider/fran-miholjevic,-,175,30,45,15,10
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,PASQUALON Andrea,rider/andrea-pasqualon,546,129,6,40,10,30
+giro-d-italia,2025-05-09,Bahrain - Victorious (WT),team/bahrain-victorious-2025,ZAMBANINI Edoardo,rider/edoardo-zambanini,89,32,352,200,10,87
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,FRETIN Milan,rider/milan-fretin,40,13,952,540,0,206
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,DEBEAUMARCHÉ Nicolas,rider/nicolas-debeaumarche,-,182,0,20,0,0
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,LASTRA Jonathan,rider/jonathan-lastra,824,163,41,67,5,30
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,MAAS Jan,rider/jan-maas,698,152,8,65,20,20
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,MONIQUET Sylvain,rider/sylvain-moniquet,353,92,122,130,44,65
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,OLDANI Stefano,rider/stefano-oldani,267,74,223,125,7,60
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,PEREZ Anthony,rider/anthony-perez,728,157,3,42,17,15
+giro-d-italia,2025-05-09,Cofidis (WT),team/cofidis-2025,SAMITIER Sergio,rider/sergio-samitier,605,138,37,59,15,29
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BENNETT Sam,rider/sam-bennett,88,31,222,186,6,87
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BOUCHARD Geoffrey,rider/geoffrey-bouchard,873,166,43,35,28,5
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,DE BONDT Dries,rider/dries-de-bondt,327,87,333,201,5,161
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,DEWULF Stan,rider/stan-dewulf,238,66,9,30,5,0
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,GODON Dorian,rider/dorian-godon,166,50,381,237,41,61
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,GUDMESTAD Tord,rider/tord-gudmestad,338,88,20,45,5,15
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,PRODHOMME Nicolas,rider/nicolas-prodhomme,321,85,862,589,225,45
+giro-d-italia,2025-05-09,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,VENDRAME Andrea,rider/andrea-vendrame,235,64,278,193,26,84
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,CARAPAZ Richard,rider/richard-carapaz,41,14,1559,612,114,122
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,ASGREEN Kasper,rider/kasper-asgreen,285,76,255,163,30,15
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,CEPEDA Jefferson Alexander,rider/jefferson-alexander-cepeda,251,69,182,104,34,59
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,DOULL Owain,rider/owain-doull,608,139,84.5,62,5,37
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,HONORÉ Mikkel Frølich,rider/mikkel-honore,262,72,170,113,0,49
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,RAFFERTY Darren,rider/darren-rafferty,574,135,83,41,15,10
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,SHAW James,rider/james-shaw,524,128,101,106,60,72
+giro-d-italia,2025-05-09,EF Education - EasyPost (WT),team/ef-education-easypost-2025,STEINHAUSER Georg,rider/georg-steinhauser,189,57,116.5,113,65,28
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,GAUDU David,rider/david-gaudu,69,24,185,177,95,5
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,BYSTRØM Sven Erik,rider/sven-erik-bystrom,694,151,52,100,45,20
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,DAVY Clément,rider/clement-davy,-,177,5,45,10,10
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,GENIETS Kevin,rider/kevin-geniets,397,103,186,143,74,30
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,GERMANI Lorenzo,rider/lorenzo-germani,668,149,30,62,28,15
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,PACHER Quentin,rider/quentin-pacher,226,62,175,132,30,31
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,PALENI Enzo,rider/enzo-paleni,548,130,0,35,15,15
+giro-d-italia,2025-05-09,Groupama - FDJ (WT),team/groupama-fdj-2025,ROCHAS Rémy,rider/remy-rochas,391,102,325,184,5,5
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,BERNAL Egan,rider/egan-bernal,169,52,978,469,160,104
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,ARENSMAN Thymen,rider/thymen-arensman,61,21,1453.29,910,544,311
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,CASTROVIEJO Jonathan,rider/jonathan-castroviejo,808,161,8.43,28,5,0
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,HAMILTON Lucas,rider/lucas-hamilton,933,171,9,50,20,10
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,HEIDUK Kim,rider/kim-heiduk,704,153,60,103,55,5
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,RIVERA Brandon Smith,rider/brandon-smith-rivera-vargas,260,71,243,103,41,5
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,TARLING Joshua,rider/joshua-tarling,134,43,451.86,260,26,57
+giro-d-italia,2025-05-09,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,TURNER Ben,rider/ben-turner,290,77,328,261,5,25
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,MEINTJES Louis,rider/louis-meintjes,318,84,106,115,33,5
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BUSATTO Francesco,rider/francesco-busatto,358,94,200,127,10,40
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,COLLEONI Kevin,rider/kevin-colleoni,784,160,12,45,15,10
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,PETILLI Simone,rider/simone-petilli,875,167,15,35,10,0
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,SMITH Dion,rider/dion-smith,419,110,151,112,18,92
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,THIJSSEN Gerben,rider/gerben-thijssen,168,51,131,109,5,53
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN DER HOORN Taco,rider/taco-van-der-hoorn,473,123,50,60,0,30
+giro-d-italia,2025-05-09,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN HOECKE Gijs,rider/gijs-van-hoecke,575,136,17,45,10,10
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,GEE Derek,rider/derek-gee,28,9,1614,731,230,274
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,CLARKE Simon,rider/simon-clarke,434,114,9,45,0,10
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,FRIGO Marco,rider/marco-frigo,360,95,331,280,181,46
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,FUGLSANG Jakob,rider/jakob-fuglsang,443,116,14,43,5,18
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,HIRT Jan,rider/jan-hirt,274,75,5,5,5,0
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,HOULE Hugo,rider/hugo-houle,478,125,124,70,5,30
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,SCHULTZ Nick,rider/nick-schultz,641,147,23,40,5,15
+giro-d-italia,2025-05-09,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,STRONG Corbin,rider/corbin-strong,52,18,1034,735,305,92
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,CICCONE Giulio,rider/giulio-ciccone,20,5,1946,1063,390,398
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,HOOLE Daan,rider/daan-hoole,307,83,380.43,216,10,44
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,KONRAD Patrick,rider/patrick-konrad,209,59,253,229,75,20
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,420,111,127,53,32,5
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,MOSCA Jacopo,rider/jacopo-mosca,920,170,14,51,5,10
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,PEDERSEN Mads,rider/mads-pedersen,8,2,3934.57,1674,109,1051
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,VACEK Mathias,rider/mathias-vacek,59,20,597.86,383,142,10
+giro-d-italia,2025-05-09,Lidl - Trek (WT),team/lidl-trek-2025,VERONA Carlos,rider/carlos-verona,444,117,251,122,5,5
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,QUINTANA Nairo,rider/nairo-quintana,266,73,134,103,34,29
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,AULAR Orluis,rider/orluis-aular,111,38,749,334,60,74
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,180,54,454,285,9,140
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,136,44,231.71,146,55,0
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,FORMOLO Davide,rider/davide-formolo,365,98,230,180,37,38
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,MILESI Lorenzo,rider/lorenzo-milesi,459,120,105.71,121,10,25
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,RUBIO Einer,rider/einer-rubio,129,41,735,397,101,65
+giro-d-italia,2025-05-09,Movistar Team (WT),team/movistar-team-2025,TORRES Albert,rider/albert-torres,-,180,0,20,0,0
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,PIDCOCK Thomas,rider/thomas-pidcock,21,6,2028,1185,410,439
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun,-,176,28,38,0,10
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,DONOVAN Mark,rider/mark-donovan,231,63,185,158,75,96
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,HOWSON Damien,rider/damien-howson,301,81,183,163,101,32
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,LIEPIŅŠ Emīls,rider/emils-liepins,763,159,36,51,0,16
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,MOSCHETTI Matteo,rider/matteo-moschetti,139,45,692,451,0,234
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,VADER Milan,rider/milan-vader,810,162,31,53,10,20
+giro-d-italia,2025-05-09,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,ZUKOWSKY Nickolas,rider/nickolas-zukowsky,-,183,3,15,0,10
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LANDA Mikel,rider/mikel-landa,26,7,502,334,252,284
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,CATTANEO Mattia,rider/mattia-cattaneo,241,68,241,139,70,84
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,ČERNÝ Josef,rider/josef-cerny,661,148,40,55,15,20
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,GAROFOLI Gianmarco,rider/gianmarco-garofoli,553,131,211,86,14,10
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,HAYTER Ethan,rider/ethan-hayter,411,106,418,245,120,23
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,KNOX James,rider/james-knox,839,164,63,90,10,10
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LAMPERTI Luke,rider/luke-lamperti,126,40,377,232,0,172
+giro-d-italia,2025-05-09,Soudal Quick-Step (WT),team/soudal-quick-step-2025,MAGNIER Paul,rider/paul-magnier,71,26,1253,776,10,33
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,HARPER Chris,rider/chris-harper,465,121,432,264,60,5
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,BOUWMAN Koen,rider/koen-bouwman,629,145,10,30,18,25
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DE PRETTO Davide,rider/davide-de-pretto,240,67,123,91,7,25
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DOUBLE Paul,rider/paul-double,340,89,49,77,29,56
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,ENGELHARDT Felix,rider/felix-engelhardt,418,109,249,184,91,16
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,HEPBURN Michael,rider/michael-hepburn,633,146,51.81,66,5,21
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,PLAPP Luke,rider/luke-plapp,236,65,787,396,30,25
+giro-d-italia,2025-05-09,Team Jayco AlUla (WT),team/team-jayco-alula-2025,ZANA Filippo,rider/filippo-zana,132,42,191.14,147,80,25
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,BARDET Romain,rider/romain-bardet,79,29,380,224,49,64
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,EDMONDSON Alex,rider/alexander-edmondson,1000,174,60,53,5,5
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,HAMILTON Chris,rider/chris-hamilton,623,144,78,74,38,15
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,LEEMREIZE Gijs,rider/gijs-leemreize,476,124,105,60,22,15
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,MÄRKL Niklas,rider/niklas-markl,709,154,30,71,35,10
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,POOLE Max,rider/max-poole,82,30,425,281,83,72
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,VAN UDEN Casper,rider/casper-van-uden,208,58,340,182,5,23
+giro-d-italia,2025-05-09,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,WELTEN Bram,rider/bram-welten,910,169,0,10,0,10
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,PIGANZOLI Davide,rider/davide-piganzoli,105,36,411,420,170,82
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,BAIS Davide,rider/davide-bais,604,137,93,85,5,60
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,BAIS Mattia,rider/mattia-bais,404,105,11,46,17,21
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,LONARDI Giovanni,rider/giovanni-lonardi,213,60,319,231,5,89
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,MAESTRI Mirco,rider/mirco-maestri,370,99,219,116,5,15
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,MUÑOZ Francisco,rider/francisco-munoz-llana,-,178,3,26,5,6
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,PIETROBON Andrea,rider/andrea-pietrobon,617,143,0,30,5,5
+giro-d-italia,2025-05-09,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,TONELLI Alessandro,rider/alessandro-tonelli,846,165,23,25,5,5
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN AERT Wout,rider/wout-van-aert,9,3,2722,1134,25,637
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,AFFINI Edoardo,rider/edoardo-affini,178,53,258.57,173,30,30
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KELDERMAN Wilco,rider/wilco-kelderman,78,28,218,135,60,54
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KOOIJ Olav,rider/olav-kooij,33,10,1370,662,10,161
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KRUIJSWIJK Steven,rider/steven-kruijswijk,561,133,32,30,10,5
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,LEMMEN Bart,rider/bart-lemmen,219,61,100.57,97,39,25
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN BAARLE Dylan,rider/dylan-van-baarle,722,156,92,69,5,37
+giro-d-italia,2025-05-09,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,YATES Simon,rider/simon-yates,97,33,1973,928,275,128
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,STORER Michael,rider/michael-storer,34,11,1230,795,335,401
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,BRENNER Marco,rider/marco-brenner,160,49,239,186,69,48
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,KRIEGER Alexander,rider/alexander-krieger,999,173,5,50,10,25
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,PLUIMERS Rick,rider/rick-pluimers,140,46,444,275,8,87
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,STORK Florian,rider/florian-stork,300,80,419,251,19,13
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,VOISARD Yannis,rider/yannis-voisard,362,96,169,120,67,16
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,WARBASSE Larry,rider/lawrence-warbasse,442,115,42,65,22,5
+giro-d-italia,2025-05-09,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,ZIJLAARD Maikel,rider/maikel-zijlaard,469,122,241,151,5,54
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,AYUSO Juan,rider/juan-ayuso-pesquera,27,8,1836,1049,440,601
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,ARRIETA Igor,rider/igor-arrieta-lizarraga,378,100,348,236,60,76
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,BARONCINI Filippo,rider/filippo-baroncini,182,55,346.43,254,150,33
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,DEL TORO Isaac,rider/isaac-del-toro,100,34,3216,1610,314,276
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,MAJKA Rafał,rider/rafal-majka,303,82,438,320,148,5
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,MCNULTY Brandon,rider/brandon-mcnulty,67,23,1152.57,741,325,89
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,VINE Jay,rider/jay-vine,63,22,778,454,205,278
+giro-d-italia,2025-05-09,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,YATES Adam,rider/adam-yates,14,4,677,537,271,92
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,FIORELLI Filippo,rider/filippo-fiorelli,254,70,378,249,78,120
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,COVILI Luca,rider/luca-covili,445,118,23,49,29,19
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,MAGLI Filippo,rider/filippo-magli2,416,108,141,80,0,35
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,MARCELLUSI Martin,rider/martin-marcellusi,363,97,238,157,0,40
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,MARTINELLI Alessio,rider/alessio-martinelli,-,184,30,14,3,8
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,PINARELLO Alessandro,rider/alessandro-pinarello,355,93,125,111,56,45
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,TAROZZI Manuele,rider/manuele-tarozzi,324,86,11,37,10,12
+giro-d-italia,2025-05-09,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,ZANONCELLO Enrico,rider/enrico-zanoncello,398,104,149,118,10,30
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,ULISSI Diego,rider/diego-ulissi,37,12,710,442,66,113
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,CONCI Nicola,rider/nicola-conci,425,112,187,104,28,23
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,FORTUNATO Lorenzo,rider/lorenzo-fortunato,45,17,1307,750,321,284
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,KANTER Max,rider/max-kanter,113,39,711,410,5,190
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,KUZMIN Anton,rider/anton-kuzmin,613,141,208.32999999999998,97,0,0
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,MASNADA Fausto,rider/fausto-masnada,-,181,28,25,5,0
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,POELS Wout,rider/wout-poels,110,37,339,304,233,226
+giro-d-italia,2025-05-09,XDS Astana Team (WT),team/xds-astana-team-2025,SCARONI Christian,rider/christian-scaroni,72,27,1713,962,190,29

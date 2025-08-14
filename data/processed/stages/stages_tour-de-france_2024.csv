@@ -1,0 +1,22 @@
+stage,stage_id,stage_name,stage_type
+1,race/tour-de-france/2024/stage-1,Stage 1 | Firenze - Rimini,"Mountains, flat finish"
+2,race/tour-de-france/2024/stage-2,Stage 2 | Cesenatico - Bologna,"Hills, flat finish"
+3,race/tour-de-france/2024/stage-3,Stage 3 | Piacenza - Torino, Flat
+4,race/tour-de-france/2024/stage-4,Stage 4 | Pinerolo - Valloire,"Mountains, flat finish"
+5,race/tour-de-france/2024/stage-5,Stage 5 | Saint-Jean-de-Maurienne - Saint Vulbas, Flat
+6,race/tour-de-france/2024/stage-6,Stage 6 | Mâcon - Dijon, Flat
+7,race/tour-de-france/2024/stage-7,Stage 7 (ITT) | Nuits-Saint-Georges - Gevrey-Chambertin, Flat
+8,race/tour-de-france/2024/stage-8,Stage 8 | Semur-en-Auxois - Colombey-les-Deux-Eglises,"Hills, flat finish"
+9,race/tour-de-france/2024/stage-9,Stage 9 | Troyes - Troyes,"Hills, flat finish"
+10,race/tour-de-france/2024/stage-10,Stage 10 | Orléans - Saint-Amand-Montrond, Flat
+11,race/tour-de-france/2024/stage-11,Stage 11 | Évaux-les-Bains - Le Lioran,"Mountains, uphill finish"
+12,race/tour-de-france/2024/stage-12,Stage 12 | Aurillac - Villeneuve-sur-Lot, Flat
+13,race/tour-de-france/2024/stage-13,Stage 13 | Agen - Pau, Flat
+14,race/tour-de-france/2024/stage-14,Stage 14 | Pau - Saint-Lary-Soulan Pla d'Adet,"Mountains, uphill finish"
+15,race/tour-de-france/2024/stage-15,Stage 15 | Loudenvielle - Plateau de Beille,"Mountains, uphill finish"
+16,race/tour-de-france/2024/stage-16,Stage 16 | Gruissan - Nîmes, Flat
+17,race/tour-de-france/2024/stage-17,Stage 17 | Saint-Paul-Trois-Châteaux - Superdévoluy,"Hills, uphill finish"
+18,race/tour-de-france/2024/stage-18,Stage 18 | Gap - Barcelonnette,"Hills, flat finish"
+19,race/tour-de-france/2024/stage-19,Stage 19 | Embrun - Isola 2000,"Mountains, uphill finish"
+20,race/tour-de-france/2024/stage-20,Stage 20 | Nice - Col de la Couillole,"Mountains, uphill finish"
+21,race/tour-de-france/2024/stage-21,Stage 21 (ITT) | Monaco - Nice,"Mountains, flat finish"
