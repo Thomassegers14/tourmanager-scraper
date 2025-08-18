@@ -1,177 +1,177 @@
 event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points,pcs_points_last_60d
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VINGEGAARD Jonas,rider/jonas-vingegaard,5,5,3470,1702,980,0
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,BENOOT Tiesj,rider/tiesj-benoot,61,47,1265,564,48,5
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,JORGENSON Matteo,rider/matteo-jorgenson,22,16,2702.14,1466,660,293
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KELDERMAN Wilco,rider/wilco-kelderman,159,90,908.14,672,461,101
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,LAPORTE Christophe,rider/christophe-laporte,94,64,1537,825,165,0
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,LEMMEN Bart,rider/bart-lemmen,148,87,692,496,335,134
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,TRATNIK Jan,rider/jan-tratnik,92,62,989,630,140,67
-tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN AERT Wout,rider/wout-van-aert,10,9,2885,1428,80,71
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,POGAČAR Tadej,rider/tadej-pogacar,1,1,10785,4588,1150,1138
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,ALMEIDA João,rider/joao-almeida,27,20,2144.57,1100,630,376
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,AYUSO Juan,rider/juan-ayuso-pesquera,12,11,2051,1236,630,2
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,POLITT Nils,rider/nils-politt,58,44,1535.9,651,40,25
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,SIVAKOV Pavel,rider/pavel-sivakov,70,52,1118,694,423,0
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,SOLER Marc,rider/marc-soler,124,80,996.57,500,222,32
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,WELLENS Tim,rider/tim-wellens,38,27,1616,1007,390,20
-tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,YATES Adam,rider/adam-yates,7,6,2243,1342,876,444
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,YATES Simon,rider/simon-yates,23,17,1006,714,445,0
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DURBRIDGE Luke,rider/luke-durbridge,654,161,8.71,66,25,0
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,GROENEWEGEN Dylan,rider/dylan-groenewegen,34,24,1461.71,826,30,178
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VINGEGAARD Jonas,rider/jonas-vingegaard,5,5,3470,522,980,0
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,BENOOT Tiesj,rider/tiesj-benoot,61,47,1265,333,48,5
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,JORGENSON Matteo,rider/matteo-jorgenson,22,16,2702.14,929,660,293
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KELDERMAN Wilco,rider/wilco-kelderman,159,90,908.14,200,461,101
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,LAPORTE Christophe,rider/christophe-laporte,94,64,1537,187,165,0
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,LEMMEN Bart,rider/bart-lemmen,148,87,692,358,335,134
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,TRATNIK Jan,rider/jan-tratnik,92,62,989,495,140,67
+tour-de-france,2024-06-29,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN AERT Wout,rider/wout-van-aert,10,9,2885,523,80,71
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,POGAČAR Tadej,rider/tadej-pogacar,1,1,10785,2268,1150,1138
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,ALMEIDA João,rider/joao-almeida,27,20,2144.57,569,630,376
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,AYUSO Juan,rider/juan-ayuso-pesquera,12,11,2051,1032,630,2
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,POLITT Nils,rider/nils-politt,58,44,1535.9,579,40,25
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,SIVAKOV Pavel,rider/pavel-sivakov,70,52,1118,140,423,0
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,SOLER Marc,rider/marc-soler,124,80,996.57,245,222,32
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,WELLENS Tim,rider/tim-wellens,38,27,1616,477,390,20
+tour-de-france,2024-06-29,UAE Team Emirates (WT),team/uae-team-emirates-2024,YATES Adam,rider/adam-yates,7,6,2243,724,876,444
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,YATES Simon,rider/simon-yates,23,17,1006,300,445,0
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DURBRIDGE Luke,rider/luke-durbridge,654,161,8.71,41,25,0
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,GROENEWEGEN Dylan,rider/dylan-groenewegen,34,24,1461.71,517,30,178
 tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,HARPER Chris,rider/chris-harper,109,73,381.71,250,174,0
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,JUUL-JENSEN Christopher,rider/christopher-juul-jensen,719,168,0,60,45,0
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,MATTHEWS Michael,rider/michael-matthews,69,51,1945.71,901,30,35
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,MEZGEC Luka,rider/luka-mezgec,308,124,120.71,129,30,34
-tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,REINDERS Elmar,rider/elmar-reinders,694,163,71.71,76,10,0
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,16,13,2280.86,1279,977,201
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,BERNAL Egan,rider/egan-bernal,59,45,1242.86,773,603,196
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,CASTROVIEJO Jonathan,rider/jonathan-castroviejo,270,117,44.86,59,45,5
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,DE PLUS Laurens,rider/laurens-de-plus,235,107,602.86,471,361,143
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,KWIATKOWSKI Michał,rider/michal-kwiatkowski,114,76,258,157,35,5
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,PIDCOCK Thomas,rider/thomas-pidcock,29,22,1975,1053,250,146
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,THOMAS Geraint,rider/geraint-thomas,101,67,1270,454,301,384
-tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,TURNER Ben,rider/ben-turner,632,160,199.86,222,135,5
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,CICCONE Giulio,rider/giulio-ciccone,133,82,1253,630,285,173
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,BERNARD Julien,rider/julien-bernard,518,150,262,185,100,15
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,DECLERCQ Tim,rider/tim-declercq,718,167,16,35,10,5
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,GIBBONS Ryan,rider/ryan-gibbons,671,162,285,142,30,0
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,PEDERSEN Mads,rider/mads-pedersen,4,4,2698,1467,360,77
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,SKUJIŅŠ Toms,rider/toms-skujins,74,53,2037,867,70,0
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,STUYVEN Jasper,rider/jasper-stuyven,56,43,927,549,156,94
-tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,VERONA Carlos,rider/carlos-verona,350,131,257,263,231,5
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GALL Felix,rider/felix-gall,51,38,869.14,557,335,78
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,ARMIRAIL Bruno,rider/bruno-armirail,255,112,366.14,201,97,25
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BENNETT Sam,rider/sam-bennett,89,61,724.14,571,194,335
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GODON Dorian,rider/dorian-godon,116,77,692.14,494,102,63
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,LAPEIRA Paul,rider/paul-lapeira,106,71,1086,584,35,30
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,NAESEN Oliver,rider/oliver-naesen,181,95,691.14,404,99,57
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PETERS Nans,rider/nans-peters,512,149,110,128,80,45
-tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PRODHOMME Nicolas,rider/nicolas-prodhomme,239,110,250,182,90,18
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BILBAO Pello,rider/pello-bilbao,17,14,1492.29,874,459,157
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,ARNDT Nikias,rider/nikias-arndt,695,164,153,121,45,0
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BAUHAUS Phil,rider/phil-bauhaus,103,68,904,502,15,136
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,75,54,1127.29,763,430,81
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,HAIG Jack,rider/jack-haig,325,126,257.29,234,221,38
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,MOHORIČ Matej,rider/matej-mohoric,26,19,1148,637,228,26
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,POELS Wout,rider/wout-poels,49,36,518,448,345,165
-tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,WRIGHT Fred,rider/alfred-wright,373,136,430.29,297,128,8
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,EVENEPOEL Remco,rider/remco-evenepoel,3,3,6047.57,2889,780,174
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,HIRT Jan,rider/jan-hirt,163,92,601,384,337,199
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LAMPAERT Yves,rider/yves-lampaert,112,75,216.57,207,30,72
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LANDA Mikel,rider/mikel-landa,50,37,2122,1074,726,74
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,MOSCON Gianni,rider/gianni-moscon,605,157,13.57,58,30,5
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,PEDERSEN Casper,rider/casper-pedersen,527,151,98.57,91,30,5
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VAN WILDER Ilan,rider/ilan-van-wilder,32,23,997.57,687,426,4
-tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VERVAEKE Louis,rider/louis-vervaeke,445,141,106.57,94,53,5
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ROGLIČ Primož,rider/primoz-roglic,11,10,3362,1513,720,406
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,DENZ Nico,rider/nico-denz,532,152,41,66,41,5
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,HALLER Marco,rider/marco-haller,470,144,469,224,40,32
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,HINDLEY Jai,rider/jai-hindley,45,33,888,600,432,22
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,JUNGELS Bob,rider/bob-jungels,416,139,119,115,60,5
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,SOBRERO Matteo,rider/matteo-sobrero,262,115,207,139,72,5
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VAN POPPEL Danny,rider/danny-van-poppel,60,46,756,494,155,34
-tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VLASOV Aleksandr,rider/aleksandr-vlasov,8,7,2073,1181,730,136
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GAUDU David,rider/david-gaudu,97,65,1363,749,393,43
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GENIETS Kevin,rider/kevin-geniets,329,127,323,183,54,20
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GRÉGOIRE Romain,rider/romain-gregoire1,76,55,1363,835,249,41
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,KÜNG Stefan,rider/stefan-kung,53,40,2022,964,70,24
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,MADOUAS Valentin,rider/valentin-madouas,52,39,1593,780,148,6
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,MARTINEZ Lenny,rider/lenny-martinez,25,18,1246,834,290,97
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,PACHER Quentin,rider/quentin-pacher,237,108,760,419,169,7
-tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,RUSSO Clément,rider/clement-russo,916,172,126,119,35,2
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VAN DER POEL Mathieu,rider/mathieu-van-der-poel,9,8,4038,1612,135,0
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,DILLIER Silvan,rider/silvan-dillier,716,166,19,65,45,5
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,GHYS Robbe,rider/robbe-ghys,-,176,5,30,30,0
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,160,91,292,226,95,56
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,LAURANCE Axel,rider/axel-laurance,110,74,483,435,195,212
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,PHILIPSEN Jasper,rider/jasper-philipsen,2,2,4790,2355,220,168
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,RICKAERT Jonas,rider/jonas-rickaert,796,169,34,23,10,0
-tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VERMEERSCH Gianni,rider/gianni-vermeersch,152,88,706,396,35,125
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CARAPAZ Richard,rider/richard-carapaz,65,49,2244,1118,532,1
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,BETTIOL Alberto,rider/alberto-bettiol,42,31,1548,853,275,289
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,BISSEGGER Stefan,rider/stefan-bissegger,180,94,539.79,348,45,49
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,COSTA Rui,rider/rui-costa,107,72,268,149,30,46
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,HEALY Ben,rider/ben-healy,105,70,976,600,261,90
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,POWLESS Neilson,rider/neilson-powless,186,97,1154.33,578,25,26
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,QUINN Sean,rider/sean-quinn,555,154,136,87,63,20
-tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,VAN DEN BERG Marijn,rider/marijn-van-den-berg,62,48,873,646,175,47
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,DE LIE Arnaud,rider/arnaud-de-lie,14,12,2443.43,1406,185,370
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,BEULLENS Cedric,rider/cedric-beullens,352,132,90,114,35,19
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,CAMPENAERTS Victor,rider/victor-campenaerts,304,123,581,330,50,2
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,DRIZNERS Jarrad,rider/jarrad-drizners,867,170,1.43,49,40,5
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,GRIGNARD Sébastien,rider/sebastien-grignard,919,173,1.43,74,25,0
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN GILS Maxim,rider/maxim-van-gils,20,15,2542,1179,7,339
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VANHOUCKE Harm,rider/harm-vanhoucke,260,113,324,259,126,108
-tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN MOER Brent,rider/brent-van-moer,176,93,237,222,87,63
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,WILLIAMS Stephen,rider/stephen-williams,36,25,1471,963,435,36
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,ACKERMANN Pascal,rider/pascal-ackermann,309,125,933,503,35,106
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,BOIVIN Guillaume,rider/guillaume-boivin,571,155,35,60,15,16
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,FUGLSANG Jakob,rider/jakob-fuglsang,471,145,165,133,60,12
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,GEE Derek,rider/derek-gee,197,99,1158.33,670,375,284
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,HOULE Hugo,rider/hugo-houle,481,147,98,108,59,10
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,NEILANDS Krists,rider/krists-neilands,364,133,209,191,58,10
-tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,STEWART Jake,rider/jake-stewart,577,156,191,155,38,32
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,MARTIN Guillaume,rider/guillaume-martin,47,34,805,633,367,49
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,ALLEGAERT Piet,rider/piet-allegaert,486,148,233,168,31,1
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,COQUARD Bryan,rider/bryan-coquard,83,58,795.71,429,45,50
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,GESCHKE Simon,rider/simon-geschke,375,137,197,208,161,127
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,HERRADA Jesús,rider/jesus-herrada-lopez,220,103,127,98,35,19
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,IZAGIRRE Ion,rider/ion-izagirre,104,69,1135.71,457,109,0
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,RENARD Alexis,rider/alexis-renard,457,142,260,173,10,8
-tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,ZINGLE Axel,rider/axel-zingle,39,28,1384,950,259,450
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,MAS Enric,rider/enric-mas,48,35,2876,1283,735,119
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,ARANBURU Alex,rider/alex-aranburu,28,21,1483,883,160,313
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,FORMOLO Davide,rider/davide-formolo,144,86,332,207,73,13
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,GAVIRIA Fernando,rider/fernando-gaviria,290,122,712,342,20,110
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,LAZKANO Oier,rider/oier-lazkano,131,81,697,436,125,123
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,MÜHLBERGER Gregor,rider/gregor-muhlberger,345,130,328,190,55,43
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,OLIVEIRA Nelson,rider/nelson-oliveira,264,116,291,221,65,5
-tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,ROMO Javier,rider/javier-romo,369,135,376,326,205,55
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,VAUQUELIN Kévin,rider/kevin-vauquelin,88,60,1108,689,262,12
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,CAPIOT Amaury,rider/amaury-capiot,207,102,439,315,8,149
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,CHAMPOUSSIN Clément,rider/clement-champoussin,192,98,681,492,153,6
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,DÉMARE Arnaud,rider/arnaud-demare,135,83,511,344,18,5
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,336,129,256,203,161,7
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,MCLAY Daniel,rider/daniel-mclay,538,153,61,89,35,5
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,MOZZATO Luca,rider/luca-mozzato,41,30,1238,634,25,89
-tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RODRÍGUEZ Cristián,rider/cristian-rodriguez,93,63,570,452,357,0
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MEINTJES Louis,rider/louis-meintjes,461,143,226,276,208,45
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GIRMAY Biniam,rider/biniam-girmay,55,42,3352,1666,35,319
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GOOSSENS Kobe,rider/kobe-goossens,629,159,120,101,30,70
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PAGE Hugo,rider/hugo-page,231,105,362,262,35,35
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,REX Laurenz,rider/laurenz-rex,247,111,535,355,35,46
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,TEUNISSEN Mike,rider/mike-teunissen,117,78,660,438,80,33
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,THIJSSEN Gerben,rider/gerben-thijssen,81,56,1035,639,5,80
-tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,ZIMMERMANN Georg,rider/georg-zimmermann,118,79,563,386,107,21
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BARDET Romain,rider/romain-bardet,37,26,1864,908,297,348
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BARGUIL Warren,rider/warren-barguil,137,84,411.86,306,148,16
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,DEGENKOLB John,rider/john-degenkolb,261,114,212,151,30,9
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,EEKHOFF Nils,rider/nils-eekhoff,287,121,233.86,160,0,8
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,JAKOBSEN Fabio,rider/fabio-jakobsen,185,96,362,241,5,0
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,ONLEY Oscar,rider/oscar-onley,86,59,1370,938,649,108
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,VAN DEN BROEK Frank,rider/frank-van-den-broek,202,100,519.86,428,255,111
-tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,WELTEN Bram,rider/bram-welten,708,165,60,66,10,0
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,CAVENDISH Mark,rider/mark-cavendish,330,128,247,190,30,38
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BALLERINI Davide,rider/davide-ballerini,628,158,205,147,50,53
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BOL Cees,rider/cees-bol,277,119,245,181,35,7
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,FEDOROV Yevgeniy,rider/yevgeniy-fedorov,140,85,326.33,249,10,155
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,JUUL-JENSEN Christopher,rider/christopher-juul-jensen,719,168,0,25,45,0
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,MATTHEWS Michael,rider/michael-matthews,69,51,1945.71,485,30,35
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,MEZGEC Luka,rider/luka-mezgec,308,124,120.71,76,30,34
+tour-de-france,2024-06-29,Team Jayco AlUla (WT),team/team-jayco-alula-2024,REINDERS Elmar,rider/elmar-reinders,694,163,71.71,31,10,0
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,16,13,2280.86,727,977,201
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,BERNAL Egan,rider/egan-bernal,59,45,1242.86,714,603,196
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,CASTROVIEJO Jonathan,rider/jonathan-castroviejo,270,117,44.86,24,45,5
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,DE PLUS Laurens,rider/laurens-de-plus,235,107,602.86,269,361,143
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,KWIATKOWSKI Michał,rider/michal-kwiatkowski,114,76,258,72,35,5
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,PIDCOCK Thomas,rider/thomas-pidcock,29,22,1975,801,250,146
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,THOMAS Geraint,rider/geraint-thomas,101,67,1270,428,301,384
+tour-de-france,2024-06-29,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,TURNER Ben,rider/ben-turner,632,160,199.86,71,135,5
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,CICCONE Giulio,rider/giulio-ciccone,133,82,1253,178,285,173
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,BERNARD Julien,rider/julien-bernard,518,150,262,25,100,15
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,DECLERCQ Tim,rider/tim-declercq,718,167,16,25,10,5
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,GIBBONS Ryan,rider/ryan-gibbons,671,162,285,50,30,0
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,PEDERSEN Mads,rider/mads-pedersen,4,4,2698,1004,360,77
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,SKUJIŅŠ Toms,rider/toms-skujins,74,53,2037,344,70,0
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,STUYVEN Jasper,rider/jasper-stuyven,56,43,927,410,156,94
+tour-de-france,2024-06-29,Lidl - Trek (WT),team/lidl-trek-2024,VERONA Carlos,rider/carlos-verona,350,131,257,143,231,5
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GALL Felix,rider/felix-gall,51,38,869.14,287,335,78
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,ARMIRAIL Bruno,rider/bruno-armirail,255,112,366.14,85,97,25
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BENNETT Sam,rider/sam-bennett,89,61,724.14,454,194,335
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GODON Dorian,rider/dorian-godon,116,77,692.14,323,102,63
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,LAPEIRA Paul,rider/paul-lapeira,106,71,1086,434,35,30
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,NAESEN Oliver,rider/oliver-naesen,181,95,691.14,316,99,57
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PETERS Nans,rider/nans-peters,512,149,110,88,80,45
+tour-de-france,2024-06-29,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PRODHOMME Nicolas,rider/nicolas-prodhomme,239,110,250,120,90,18
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BILBAO Pello,rider/pello-bilbao,17,14,1492.29,657,459,157
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,ARNDT Nikias,rider/nikias-arndt,695,164,153,34,45,0
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BAUHAUS Phil,rider/phil-bauhaus,103,68,904,308,15,136
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,75,54,1127.29,420,430,81
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,HAIG Jack,rider/jack-haig,325,126,257.29,118,221,38
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,MOHORIČ Matej,rider/matej-mohoric,26,19,1148,298,228,26
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,POELS Wout,rider/wout-poels,49,36,518,386,345,165
+tour-de-france,2024-06-29,Bahrain - Victorious (WT),team/bahrain-victorious-2024,WRIGHT Fred,rider/alfred-wright,373,136,430.29,134,128,8
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,EVENEPOEL Remco,rider/remco-evenepoel,3,3,6047.57,832,780,174
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,HIRT Jan,rider/jan-hirt,163,92,601,354,337,199
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LAMPAERT Yves,rider/yves-lampaert,112,75,216.57,182,30,72
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LANDA Mikel,rider/mikel-landa,50,37,2122,365,726,74
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,MOSCON Gianni,rider/gianni-moscon,605,157,13.57,33,30,5
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,PEDERSEN Casper,rider/casper-pedersen,527,151,98.57,71,30,5
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VAN WILDER Ilan,rider/ilan-van-wilder,32,23,997.57,431,426,4
+tour-de-france,2024-06-29,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VERVAEKE Louis,rider/louis-vervaeke,445,141,106.57,69,53,5
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ROGLIČ Primož,rider/primoz-roglic,11,10,3362,550,720,406
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,DENZ Nico,rider/nico-denz,532,152,41,41,41,5
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,HALLER Marco,rider/marco-haller,470,144,469,78,40,32
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,HINDLEY Jai,rider/jai-hindley,45,33,888,359,432,22
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,JUNGELS Bob,rider/bob-jungels,416,139,119,65,60,5
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,SOBRERO Matteo,rider/matteo-sobrero,262,115,207,91,72,5
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VAN POPPEL Danny,rider/danny-van-poppel,60,46,756,246,155,34
+tour-de-france,2024-06-29,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VLASOV Aleksandr,rider/aleksandr-vlasov,8,7,2073,977,730,136
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GAUDU David,rider/david-gaudu,97,65,1363,245,393,43
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GENIETS Kevin,rider/kevin-geniets,329,127,323,154,54,20
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,GRÉGOIRE Romain,rider/romain-gregoire1,76,55,1363,410,249,41
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,KÜNG Stefan,rider/stefan-kung,53,40,2022,395,70,24
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,MADOUAS Valentin,rider/valentin-madouas,52,39,1593,296,148,6
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,MARTINEZ Lenny,rider/lenny-martinez,25,18,1246,801,290,97
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,PACHER Quentin,rider/quentin-pacher,237,108,760,204,169,7
+tour-de-france,2024-06-29,Groupama - FDJ (WT),team/groupama-fdj-2024,RUSSO Clément,rider/clement-russo,916,172,126,22,35,2
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VAN DER POEL Mathieu,rider/mathieu-van-der-poel,9,8,4038,1138,135,0
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,DILLIER Silvan,rider/silvan-dillier,716,166,19,25,45,5
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,GHYS Robbe,rider/robbe-ghys,-,176,5,5,30,0
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,160,91,292,95,95,56
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,LAURANCE Axel,rider/axel-laurance,110,74,483,351,195,212
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,PHILIPSEN Jasper,rider/jasper-philipsen,2,2,4790,1228,220,168
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,RICKAERT Jonas,rider/jonas-rickaert,796,169,34,10,10,0
+tour-de-france,2024-06-29,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VERMEERSCH Gianni,rider/gianni-vermeersch,152,88,706,302,35,125
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CARAPAZ Richard,rider/richard-carapaz,65,49,2244,344,532,1
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,BETTIOL Alberto,rider/alberto-bettiol,42,31,1548,727,275,289
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,BISSEGGER Stefan,rider/stefan-bissegger,180,94,539.79,154,45,49
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,COSTA Rui,rider/rui-costa,107,72,268,80,30,46
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,HEALY Ben,rider/ben-healy,105,70,976,296,261,90
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,POWLESS Neilson,rider/neilson-powless,186,97,1154.33,31,25,26
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,QUINN Sean,rider/sean-quinn,555,154,136,41,63,20
+tour-de-france,2024-06-29,EF Education - EasyPost (WT),team/ef-education-easypost-2024,VAN DEN BERG Marijn,rider/marijn-van-den-berg,62,48,873,487,175,47
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,DE LIE Arnaud,rider/arnaud-de-lie,14,12,2443.43,642,185,370
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,BEULLENS Cedric,rider/cedric-beullens,352,132,90,68,35,19
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,CAMPENAERTS Victor,rider/victor-campenaerts,304,123,581,46,50,2
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,DRIZNERS Jarrad,rider/jarrad-drizners,867,170,1.43,15,40,5
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,GRIGNARD Sébastien,rider/sebastien-grignard,919,173,1.43,20,25,0
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN GILS Maxim,rider/maxim-van-gils,20,15,2542,1034,7,339
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VANHOUCKE Harm,rider/harm-vanhoucke,260,113,324,234,126,108
+tour-de-france,2024-06-29,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN MOER Brent,rider/brent-van-moer,176,93,237,172,87,63
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,WILLIAMS Stephen,rider/stephen-williams,36,25,1471,702,435,36
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,ACKERMANN Pascal,rider/pascal-ackermann,309,125,933,181,35,106
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,BOIVIN Guillaume,rider/guillaume-boivin,571,155,35,45,15,16
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,FUGLSANG Jakob,rider/jakob-fuglsang,471,145,165,37,60,12
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,GEE Derek,rider/derek-gee,197,99,1158.33,299,375,284
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,HOULE Hugo,rider/hugo-houle,481,147,98,30,59,10
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,NEILANDS Krists,rider/krists-neilands,364,133,209,87,58,10
+tour-de-france,2024-06-29,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,STEWART Jake,rider/jake-stewart,577,156,191,45,38,32
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,MARTIN Guillaume,rider/guillaume-martin,47,34,805,307,367,49
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,ALLEGAERT Piet,rider/piet-allegaert,486,148,233,109,31,1
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,COQUARD Bryan,rider/bryan-coquard,83,58,795.71,261,45,50
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,GESCHKE Simon,rider/simon-geschke,375,137,197,163,161,127
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,HERRADA Jesús,rider/jesus-herrada-lopez,220,103,127,77,35,19
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,IZAGIRRE Ion,rider/ion-izagirre,104,69,1135.71,179,109,0
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,RENARD Alexis,rider/alexis-renard,457,142,260,97,10,8
+tour-de-france,2024-06-29,Cofidis (WT),team/cofidis-2024,ZINGLE Axel,rider/axel-zingle,39,28,1384,644,259,450
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,MAS Enric,rider/enric-mas,48,35,2876,434,735,119
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,ARANBURU Alex,rider/alex-aranburu,28,21,1483,523,160,313
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,FORMOLO Davide,rider/davide-formolo,144,86,332,132,73,13
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,GAVIRIA Fernando,rider/fernando-gaviria,290,122,712,180,20,110
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,LAZKANO Oier,rider/oier-lazkano,131,81,697,316,125,123
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,MÜHLBERGER Gregor,rider/gregor-muhlberger,345,130,328,55,55,43
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,OLIVEIRA Nelson,rider/nelson-oliveira,264,116,291,25,65,5
+tour-de-france,2024-06-29,Movistar Team (WT),team/movistar-team-2024,ROMO Javier,rider/javier-romo,369,135,376,113,205,55
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,VAUQUELIN Kévin,rider/kevin-vauquelin,88,60,1108,513,262,12
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,CAPIOT Amaury,rider/amaury-capiot,207,102,439,304,8,149
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,CHAMPOUSSIN Clément,rider/clement-champoussin,192,98,681,126,153,6
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,DÉMARE Arnaud,rider/arnaud-demare,135,83,511,81,18,5
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,336,129,256,101,161,7
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,MCLAY Daniel,rider/daniel-mclay,538,153,61,59,35,5
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,MOZZATO Luca,rider/luca-mozzato,41,30,1238,573,25,89
+tour-de-france,2024-06-29,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RODRÍGUEZ Cristián,rider/cristian-rodriguez,93,63,570,245,357,0
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MEINTJES Louis,rider/louis-meintjes,461,143,226,128,208,45
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GIRMAY Biniam,rider/biniam-girmay,55,42,3352,588,35,319
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GOOSSENS Kobe,rider/kobe-goossens,629,159,120,76,30,70
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PAGE Hugo,rider/hugo-page,231,105,362,141,35,35
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,REX Laurenz,rider/laurenz-rex,247,111,535,256,35,46
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,TEUNISSEN Mike,rider/mike-teunissen,117,78,660,143,80,33
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,THIJSSEN Gerben,rider/gerben-thijssen,81,56,1035,384,5,80
+tour-de-france,2024-06-29,Intermarché - Wanty (WT),team/intermarche-wanty-2024,ZIMMERMANN Georg,rider/georg-zimmermann,118,79,563,238,107,21
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BARDET Romain,rider/romain-bardet,37,26,1864,730,297,348
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BARGUIL Warren,rider/warren-barguil,137,84,411.86,193,148,16
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,DEGENKOLB John,rider/john-degenkolb,261,114,212,90,30,9
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,EEKHOFF Nils,rider/nils-eekhoff,287,121,233.86,91,0,8
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,JAKOBSEN Fabio,rider/fabio-jakobsen,185,96,362,167,5,0
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,ONLEY Oscar,rider/oscar-onley,86,59,1370,392,649,108
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,VAN DEN BROEK Frank,rider/frank-van-den-broek,202,100,519.86,323,255,111
+tour-de-france,2024-06-29,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,WELTEN Bram,rider/bram-welten,708,165,60,39,10,0
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,CAVENDISH Mark,rider/mark-cavendish,330,128,247,65,30,38
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BALLERINI Davide,rider/davide-ballerini,628,158,205,60,50,53
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BOL Cees,rider/cees-bol,277,119,245,99,35,7
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,FEDOROV Yevgeniy,rider/yevgeniy-fedorov,140,85,326.33,219,10,155
 tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,GAZZOLI Michele,rider/michele-gazzoli,475,146,20,42,15,12
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,LUTSENKO Alexey,rider/aleksey-lutsenko,66,50,576.43,343,110,18
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,MØRKØV Michael,rider/michael-morkov,895,171,5,35,10,5
-tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,TEJADA Harold,rider/harold-tejada,283,120,450.43,287,127,17
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,CORT Magnus,rider/magnus-cort-nielsen,222,104,1227.67,831,349,120
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,ABRAHAMSEN Jonas,rider/jonas-abrahamsen,82,57,1109,684,62,276
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,EIKING Odd Christian,rider/odd-christian-eiking,376,138,223,159,47,36
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,44,32,854,569,160,44
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,KRISTOFF Alexander,rider/alexander-kristoff,40,29,1430,972,30,340
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,KULSET Johannes,rider/johannes-kulset,441,140,132,118,93,0
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,TILLER Rasmus,rider/rasmus-tiller,98,66,399,239,25,105
-tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,WÆRENSKJOLD Søren,rider/soren-waerenskjold,54,41,1016,678,280,248
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,CRAS Steff,rider/steff-cras,238,109,223,246,188,47
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,BURGAUDEAU Mathieu,rider/mathieu-burgaudeau,155,89,354,372,214,0
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,DUJARDIN Sandy,rider/sandy-dujardin,233,106,276,202,34,28
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,GACHIGNARD Thomas,rider/thomas-gachignard,365,134,336,241,110,86
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,GRELLIER Fabien,rider/fabien-grellier,-,175,19,52,30,0
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,JEGAT Jordan,rider/jordan-jegat,204,101,564,466,205,36
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,TURGIS Anthony,rider/anthony-turgis,275,118,456,271,57,41
-tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,VERCHER Mattéo,rider/matheo-vercher,-,174,243,153,25,5
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,LUTSENKO Alexey,rider/aleksey-lutsenko,66,50,576.43,257,110,18
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,MØRKØV Michael,rider/michael-morkov,895,171,5,10,10,5
+tour-de-france,2024-06-29,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,TEJADA Harold,rider/harold-tejada,283,120,450.43,136,127,17
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,CORT Magnus,rider/magnus-cort-nielsen,222,104,1227.67,142,349,120
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,ABRAHAMSEN Jonas,rider/jonas-abrahamsen,82,57,1109,522,62,276
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,EIKING Odd Christian,rider/odd-christian-eiking,376,138,223,100,47,36
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,44,32,854,249,160,44
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,KRISTOFF Alexander,rider/alexander-kristoff,40,29,1430,526,30,340
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,KULSET Johannes,rider/johannes-kulset,441,140,132,88,93,0
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,TILLER Rasmus,rider/rasmus-tiller,98,66,399,203,25,105
+tour-de-france,2024-06-29,Uno-X Mobility (PRT),team/uno-x-mobility-2024,WÆRENSKJOLD Søren,rider/soren-waerenskjold,54,41,1016,398,280,248
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,CRAS Steff,rider/steff-cras,238,109,223,98,188,47
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,BURGAUDEAU Mathieu,rider/mathieu-burgaudeau,155,89,354,40,214,0
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,DUJARDIN Sandy,rider/sandy-dujardin,233,106,276,157,34,28
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,GACHIGNARD Thomas,rider/thomas-gachignard,365,134,336,158,110,86
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,GRELLIER Fabien,rider/fabien-grellier,-,175,19,10,30,0
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,JEGAT Jordan,rider/jordan-jegat,204,101,564,223,205,36
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,TURGIS Anthony,rider/anthony-turgis,275,118,456,94,57,41
+tour-de-france,2024-06-29,TotalEnergies (PRT),team/totalenergies-2024,VERCHER Mattéo,rider/matheo-vercher,-,174,NA,NA,NA,NA

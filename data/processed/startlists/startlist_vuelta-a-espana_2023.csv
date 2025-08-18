@@ -1,177 +1,177 @@
 event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points,pcs_points_last_60d
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,EVENEPOEL Remco,rider/remco-evenepoel,2,1,5477.71,2849,790,511
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,BAGIOLI Andrea,rider/andrea-bagioli,96,27,1680,816,42,139
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,CATTANEO Mattia,rider/mattia-cattaneo,219,64,591,381,176,259
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,HIRT Jan,rider/jan-hirt,945,162,46,70,54,21
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,KNOX James,rider/james-knox,285,79,226,186,120,16
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,PEDERSEN Casper,rider/casper-pedersen,250,71,349,284,120,18
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,SERRY Pieter,rider/pieter-serry,539,116,37.71,104,45,16
-vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,VERVAEKE Louis,rider/louis-vervaeke,355,91,165.71,158,57,48
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,AYUSO Juan,rider/juan-ayuso-pesquera,38,8,1958.62,882,446,78
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,ALMEIDA João,rider/joao-almeida,12,4,3110.62,1478,1000,280
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,OLIVEIRA Rui,rider/rui-oliveira,428,104,310.48,169,25,0
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,FISHER-BLACK Finn,rider/finn-fisher-black,445,106,312.62,193,89,28
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,MOLANO Juan Sebastián,rider/juan-sebastian-molano,95,26,972.48,649,35,33
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,NOVAK Domen,rider/domen-novak,975,164,43.91,66,47,8
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,SOLER Marc,rider/marc-soler,112,34,701.05,438,308,25
-vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,VINE Jay,rider/jay-vine,59,14,897.48,495,320,70
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,ROGLIČ Primož,rider/primoz-roglic,8,3,5505.36,2526,1290,225
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,GESINK Robert,rider/robert-gesink,424,102,28.36,45,30,15
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,KELDERMAN Wilco,rider/wilco-kelderman,118,36,560.5,375,305,132
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,KUSS Sepp,rider/sepp-kuss,77,23,2355.5,1150,834,228
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,TRATNIK Jan,rider/jan-tratnik,431,105,141.93,128,37,27
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VALTER Attila,rider/attila-valter,138,43,789.36,468,241,17
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VAN BAARLE Dylan,rider/dylan-van-baarle,149,46,538.5,350,50,85
-vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VINGEGAARD Jonas,rider/jonas-vingegaard,4,2,5869.07,2715,1550,908
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,THOMAS Geraint,rider/geraint-thomas,75,22,1703,645,345,73
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,ARENSMAN Thymen,rider/thymen-arensman,68,19,645,285,213,5
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,BERNAL Egan,rider/egan-bernal,260,74,348,274,245,25
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,CASTROVIEJO Jonathan,rider/jonathan-castroviejo,216,63,436,345,272,159
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,EVENEPOEL Remco,rider/remco-evenepoel,2,1,5477.71,2075,790,511
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,BAGIOLI Andrea,rider/andrea-bagioli,96,27,1680,377,42,139
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,CATTANEO Mattia,rider/mattia-cattaneo,219,64,591,306,176,259
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,HIRT Jan,rider/jan-hirt,945,162,46,50,54,21
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,KNOX James,rider/james-knox,285,79,226,166,120,16
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,PEDERSEN Casper,rider/casper-pedersen,250,71,349,264,120,18
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,SERRY Pieter,rider/pieter-serry,539,116,37.71,76,45,16
+vuelta-a-espana,2023-08-26,Soudal Quick-Step (WT),team/soudal-quick-step-2023,VERVAEKE Louis,rider/louis-vervaeke,355,91,165.71,138,57,48
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,AYUSO Juan,rider/juan-ayuso-pesquera,38,8,1958.62,513,446,78
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,ALMEIDA João,rider/joao-almeida,12,4,3110.62,1249,1000,280
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,OLIVEIRA Rui,rider/rui-oliveira,428,104,310.48,119,25,0
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,FISHER-BLACK Finn,rider/finn-fisher-black,445,106,312.62,123,89,28
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,MOLANO Juan Sebastián,rider/juan-sebastian-molano,95,26,972.48,363,35,33
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,NOVAK Domen,rider/domen-novak,975,164,43.91,32,47,8
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,SOLER Marc,rider/marc-soler,112,34,701.05,242,308,25
+vuelta-a-espana,2023-08-26,UAE Team Emirates (WT),team/uae-team-emirates-2023,VINE Jay,rider/jay-vine,59,14,897.48,471,320,70
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,ROGLIČ Primož,rider/primoz-roglic,8,3,5505.36,1690,1290,225
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,GESINK Robert,rider/robert-gesink,424,102,28.36,25,30,15
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,KELDERMAN Wilco,rider/wilco-kelderman,118,36,560.5,307,305,132
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,KUSS Sepp,rider/sepp-kuss,77,23,2355.5,545,834,228
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,TRATNIK Jan,rider/jan-tratnik,431,105,141.93,77,37,27
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VALTER Attila,rider/attila-valter,138,43,789.36,390,241,17
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VAN BAARLE Dylan,rider/dylan-van-baarle,149,46,538.5,330,50,85
+vuelta-a-espana,2023-08-26,Jumbo-Visma (WT),team/team-jumbo-visma-2023,VINGEGAARD Jonas,rider/jonas-vingegaard,4,2,5869.07,2114,1550,908
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,THOMAS Geraint,rider/geraint-thomas,75,22,1703,604,345,73
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,ARENSMAN Thymen,rider/thymen-arensman,68,19,645,284,213,5
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,BERNAL Egan,rider/egan-bernal,260,74,348,242,245,25
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,CASTROVIEJO Jonathan,rider/jonathan-castroviejo,216,63,436,295,272,159
 vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,DE PLUS Laurens,rider/laurens-de-plus,281,77,313,221,171,5
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,GANNA Filippo,rider/filippo-ganna,19,7,2932,1512,435,400
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,FRAILE Omar,rider/omar-fraile,300,81,70.29,95,55,25
-vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,HEIDUK Kim,rider/kim-heiduk,414,100,95.86,148,40,12
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,72,21,1526.33,845,465,32
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,CARUSO Damiano,rider/damiano-caruso,61,15,1563.33,768,597,34
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,GOVEKAR Matevž,rider/matevz-govekar,585,120,144.76,110,35,25
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,GRADEK Kamil,rider/kamil-gradek,-,173,31.04,43,30,11
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,LANDA Mikel,rider/mikel-landa,16,6,2215.62,1231,846,167
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,POELS Wout,rider/wout-poels,156,48,1038.47,639,334,169
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,SÜTTERLIN Jasha,rider/jasha-sutterlin,762,146,6.33,51,45,6
-vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,TIBERI Antonio,rider/antonio-tiberi,241,69,481.76,375,275,5
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,LÓPEZ Juan Pedro,rider/juan-pedro-lopez,560,118,142,154,141,25
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,BERNARD Julien,rider/julien-bernard,559,117,205.14,116,57,24
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,ELISSONDE Kenny,rider/kenny-elissonde,402,97,129,123,99,94
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,GHEBREIGZABHIER Amanuel,rider/amanuel-ghebreigzabhier,398,96,357.14,204,42,7
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,MOLLEMA Bauke,rider/bauke-mollema,191,58,333,242,157,55
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,MOSCA Jacopo,rider/jacopo-mosca,860,155,74.14,96,40,5
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,THEUNS Edward,rider/edward-theuns,103,30,818,485,43,17
-vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,VERGAERDE Otto,rider/otto-vergaerde,834,151,6.14,51,45,5
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,MOLARD Rudy,rider/rudy-molard,153,47,408.07,267,178,54
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,MARTINEZ Lenny,rider/lenny-martinez,136,42,835.5,541,195,74
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,ASKEY Lewis,rider/lewis-askey,311,84,518.5,319,31,32
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,DAVY Clément,rider/clement-davy,-,176,21.5,48,30,13
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,GERMANI Lorenzo,rider/lorenzo-germani,844,153,37.5,68,40,13
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,GRÉGOIRE Romain,rider/romain-gregoire1,67,18,1111.5,757,319,153
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,STORER Michael,rider/michael-storer,181,54,563.5,370,267,199
-vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,WATSON Samuel,rider/samuel-watson,321,86,248.5,203,65,8
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,VLASOV Aleksandr,rider/aleksandr-vlasov,83,24,2040.55,972,440,259
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,DENZ Nico,rider/nico-denz,277,76,625.12,314,50,0
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,BUCHMANN Emanuel,rider/emanuel-buchmann,178,53,490.98,403,321,143
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,HIGUITA Sergio,rider/sergio-higuita,52,11,637.12,496,305,29
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,KÄMNA Lennard,rider/lennard-kamna,108,32,1172.55,651,385,24
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,KOCH Jonas,rider/jonas-koch,495,112,144.12,130,25,5
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks,134,41,984.12,615,505,0
-vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,ZWIEHOFF Ben,rider/ben-zwiehoff,177,52,424.98,425,382,86
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,GROVES Kaden,rider/kaden-groves,85,25,2043.25,1012,40,0
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,BALLERSTEDT Maurice,rider/maurice-ballerstedt,921,159,80.25,71,25,0
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,BAYER Tobias,rider/tobias-bayer,885,158,43.25,60,30,0
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,GANNA Filippo,rider/filippo-ganna,19,7,2932,1193,435,400
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,FRAILE Omar,rider/omar-fraile,300,81,70.29,75,55,25
+vuelta-a-espana,2023-08-26,INEOS Grenadiers (WT),team/ineos-grenadiers-2023,HEIDUK Kim,rider/kim-heiduk,414,100,95.86,128,40,12
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,72,21,1526.33,628,465,32
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,CARUSO Damiano,rider/damiano-caruso,61,15,1563.33,643,597,34
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,GOVEKAR Matevž,rider/matevz-govekar,585,120,144.76,76,35,25
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,GRADEK Kamil,rider/kamil-gradek,-,173,31.04,23,30,11
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,LANDA Mikel,rider/mikel-landa,16,6,2215.62,947,846,167
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,POELS Wout,rider/wout-poels,156,48,1038.47,375,334,169
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,SÜTTERLIN Jasha,rider/jasha-sutterlin,762,146,6.33,31,45,6
+vuelta-a-espana,2023-08-26,Bahrain - Victorious (WT),team/bahrain-victorious-2023,TIBERI Antonio,rider/antonio-tiberi,241,69,481.76,237,275,5
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,LÓPEZ Juan Pedro,rider/juan-pedro-lopez,560,118,142,66,141,25
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,BERNARD Julien,rider/julien-bernard,559,117,205.14,54,57,24
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,ELISSONDE Kenny,rider/kenny-elissonde,402,97,129,103,99,94
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,GHEBREIGZABHIER Amanuel,rider/amanuel-ghebreigzabhier,398,96,357.14,142,42,7
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,MOLLEMA Bauke,rider/bauke-mollema,191,58,333,201,157,55
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,MOSCA Jacopo,rider/jacopo-mosca,860,155,74.14,40,40,5
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,THEUNS Edward,rider/edward-theuns,103,30,818,271,43,17
+vuelta-a-espana,2023-08-26,Lidl - Trek (WT),team/lidl-trek-2023,VERGAERDE Otto,rider/otto-vergaerde,834,151,6.14,31,45,5
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,MOLARD Rudy,rider/rudy-molard,153,47,408.07,225,178,54
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,MARTINEZ Lenny,rider/lenny-martinez,136,42,835.5,416,195,74
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,ASKEY Lewis,rider/lewis-askey,311,84,518.5,172,31,32
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,DAVY Clément,rider/clement-davy,-,176,21.5,18,30,13
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,GERMANI Lorenzo,rider/lorenzo-germani,844,153,37.5,48,40,13
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,GRÉGOIRE Romain,rider/romain-gregoire1,67,18,1111.5,654,319,153
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,STORER Michael,rider/michael-storer,181,54,563.5,297,267,199
+vuelta-a-espana,2023-08-26,Groupama - FDJ (WT),team/groupama-fdj-2023,WATSON Samuel,rider/samuel-watson,321,86,248.5,180,65,8
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,VLASOV Aleksandr,rider/aleksandr-vlasov,83,24,2040.55,496,440,259
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,DENZ Nico,rider/nico-denz,277,76,625.12,225,50,0
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,BUCHMANN Emanuel,rider/emanuel-buchmann,178,53,490.98,328,321,143
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,HIGUITA Sergio,rider/sergio-higuita,52,11,637.12,476,305,29
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,KÄMNA Lennard,rider/lennard-kamna,108,32,1172.55,485,385,24
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,KOCH Jonas,rider/jonas-koch,495,112,144.12,70,25,5
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks,134,41,984.12,390,505,0
+vuelta-a-espana,2023-08-26,Bora - Hansgrohe (WT),team/bora-hansgrohe-2023,ZWIEHOFF Ben,rider/ben-zwiehoff,177,52,424.98,316,382,86
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,GROVES Kaden,rider/kaden-groves,85,25,2043.25,410,40,0
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,BALLERSTEDT Maurice,rider/maurice-ballerstedt,921,159,80.25,36,25,0
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,BAYER Tobias,rider/tobias-bayer,885,158,43.25,32,30,0
 vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,GAZE Samuel,rider/samuel-gaze,-,175,20.25,20,5,0
 vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,GHYS Robbe,rider/robbe-ghys,358,92,210.25,165,55,0
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,JANSSENS Jimmy,rider/jimmy-janssens,700,135,26.25,41,30,0
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,OSBORNE Jason,rider/jason-osborne,331,87,158.25,161,109,102
-vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,PLANCKAERT Edward,rider/edward-planckaert,707,138,90.25,110,45,0
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,DE GENDT Thomas,rider/thomas-de-gendt,925,160,3.25,40,40,5
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,DRIZNERS Jarrad,rider/jarrad-drizners,865,156,46.25,66,30,5
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,GRIGNARD Sébastien,rider/sebastien-grignard,-,171,3.25,35,20,0
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,KRON Andreas,rider/andreas-kron,143,44,1477.25,662,80,12
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,MENTEN Milan,rider/milan-menten,69,20,1011.25,653,105,29
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,MONIQUET Sylvain,rider/sylvain-moniquet,185,57,322.25,336,230,62
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,236,66,460.25,361,181,150
-vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,VAN EETVELT Lennert,rider/lennert-van-eetvelt,172,50,709.25,451,198,130
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CARTHY Hugh,rider/hugh-carthy,121,38,703.88,527,401,24
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,BISSEGGER Stefan,rider/stefan-bissegger,335,88,428.26,290,30,74
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CAICEDO Jonathan Klever,rider/jonathan-klever-caicedo,662,132,234.88,137,37,31
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CAMARGO Diego Andrés,rider/diego-andres-camargo,734,143,93.45,102,34,26
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,PICCOLO Andrea,rider/andrea-piccolo,174,51,41.59,100,25,24
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,QUINN Sean,rider/sean-quinn,468,108,141.88,155,59,40
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,VAN DEN BERG Marijn,rider/marijn-van-den-berg,102,29,795.16,577,67,109
-vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,VAN DEN BERG Julius,rider/julius-van-den-berg,587,121,37.88,80,25,34
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,CHEREL Mikaël,rider/mikael-cherel,800,149,62,56,45,5
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,JANSSENS Jimmy,rider/jimmy-janssens,700,135,26.25,10,30,0
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,OSBORNE Jason,rider/jason-osborne,331,87,158.25,136,109,102
+vuelta-a-espana,2023-08-26,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2023,PLANCKAERT Edward,rider/edward-planckaert,707,138,90.25,59,45,0
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,DE GENDT Thomas,rider/thomas-de-gendt,925,160,3.25,15,40,5
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,DRIZNERS Jarrad,rider/jarrad-drizners,865,156,46.25,40,30,5
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,GRIGNARD Sébastien,rider/sebastien-grignard,-,171,3.25,15,20,0
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,KRON Andreas,rider/andreas-kron,143,44,1477.25,311,80,12
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,MENTEN Milan,rider/milan-menten,69,20,1011.25,575,105,29
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,MONIQUET Sylvain,rider/sylvain-moniquet,185,57,322.25,216,230,62
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,236,66,460.25,204,181,150
+vuelta-a-espana,2023-08-26,Lotto Dstny (PRT),team/lotto-dstny-2023,VAN EETVELT Lennert,rider/lennert-van-eetvelt,172,50,709.25,356,198,130
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CARTHY Hugh,rider/hugh-carthy,121,38,703.88,303,401,24
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,BISSEGGER Stefan,rider/stefan-bissegger,335,88,428.26,157,30,74
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CAICEDO Jonathan Klever,rider/jonathan-klever-caicedo,662,132,234.88,68,37,31
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,CAMARGO Diego Andrés,rider/diego-andres-camargo,734,143,93.45,82,34,26
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,PICCOLO Andrea,rider/andrea-piccolo,174,51,41.59,75,25,24
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,QUINN Sean,rider/sean-quinn,468,108,141.88,135,59,40
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,VAN DEN BERG Marijn,rider/marijn-van-den-berg,102,29,795.16,448,67,109
+vuelta-a-espana,2023-08-26,EF Education - EasyPost (WT),team/ef-education-easypost-2023,VAN DEN BERG Julius,rider/julius-van-den-berg,587,121,37.88,60,25,34
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,CHEREL Mikaël,rider/mikael-cherel,800,149,62,36,45,5
 vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,BOUCHARD Geoffrey,rider/geoffrey-bouchard,291,80,216,168,123,0
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,GODON Dorian,rider/dorian-godon,255,72,569,364,66,14
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,LAPEIRA Paul,rider/paul-lapeira,492,110,131,121,50,55
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,GODON Dorian,rider/dorian-godon,255,72,569,210,66,14
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,LAPEIRA Paul,rider/paul-lapeira,492,110,131,101,50,55
 vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,TOUZÉ Damien,rider/damien-touze,744,145,45,54,5,0
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,VENDRAME Andrea,rider/andrea-vendrame,240,68,697,386,36,22
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,WARBASSE Larry,rider/lawrence-warbasse,730,141,80,76,61,6
-vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,PRODHOMME Nicolas,rider/nicolas-prodhomme,307,83,267,227,172,82
-vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,DUNBAR Eddie,rider/edward-irl-dunbar,125,39,798,451,375,103
-vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,ENGELHARDT Felix,rider/felix-engelhardt,195,60,571,449,115,150
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,VENDRAME Andrea,rider/andrea-vendrame,240,68,697,231,36,22
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,WARBASSE Larry,rider/lawrence-warbasse,730,141,80,56,61,6
+vuelta-a-espana,2023-08-26,AG2R Citroën Team (WT),team/ag2r-citroen-team-2023,PRODHOMME Nicolas,rider/nicolas-prodhomme,307,83,267,176,172,82
+vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,DUNBAR Eddie,rider/edward-irl-dunbar,125,39,798,431,375,103
+vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,ENGELHARDT Felix,rider/felix-engelhardt,195,60,571,324,115,150
 vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,BERHE Welay Hagos,rider/welay-hagos-berhe,472,109,116,107,76,71
 vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,HEPBURN Michael,rider/michael-hepburn,422,101,46.43,89,40,5
-vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,MAAS Jan,rider/jan-maas,704,137,26.43,68,40,5
+vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,MAAS Jan,rider/jan-maas,704,137,26.43,44,40,5
 vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,SCOTSON Callum,rider/callum-scotson,404,98,95.43,124,115,5
-vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,SOBRERO Matteo,rider/matteo-sobrero,211,62,549.62,349,123,67
-vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,ZANA Filippo,rider/filippo-zana,119,37,884,588,267,0
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,COSTA Rui,rider/rui-costa,66,17,1684.88,1002,235,75
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,GOOSSENS Kobe,rider/kobe-goossens,194,59,482.88,309,88,0
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,HERREGODTS Rune,rider/rune-herregodts,274,75,284.88,193,75,5
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,JOHANSEN Julius,rider/julius-johansen,622,126,21.88,64,35,5
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,PAGE Hugo,rider/hugo-page,148,45,611.88,384,70,63
+vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,SOBRERO Matteo,rider/matteo-sobrero,211,62,549.62,264,123,67
+vuelta-a-espana,2023-08-26,Team Jayco AlUla (WT),team/team-jayco-alula-2023,ZANA Filippo,rider/filippo-zana,119,37,884,433,267,0
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,COSTA Rui,rider/rui-costa,66,17,1684.88,650,235,75
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,GOOSSENS Kobe,rider/kobe-goossens,194,59,482.88,303,88,0
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,HERREGODTS Rune,rider/rune-herregodts,274,75,284.88,188,75,5
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,JOHANSEN Julius,rider/julius-johansen,622,126,21.88,35,35,5
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,PAGE Hugo,rider/hugo-page,148,45,611.88,306,70,63
 vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,TAARAMÄE Rein,rider/rein-taaramae,258,73,233.88,203,165,8
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,PETILLI Simone,rider/simone-petilli,609,124,171.88,95,48,0
-vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,VAN POPPEL Boy,rider/boy-van-poppel,-,172,101.88,73,30,5
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,MAS Enric,rider/enric-mas,14,5,1475.25,819,522,32
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,ARCAS Jorge,rider/jorge-arcas,722,140,24.39,89,35,44
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,PETILLI Simone,rider/simone-petilli,609,124,171.88,70,48,0
+vuelta-a-espana,2023-08-26,Intermarché - Circus - Wanty (WT),team/intermarche-circus-wanty-2023,VAN POPPEL Boy,rider/boy-van-poppel,-,172,101.88,18,30,5
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,MAS Enric,rider/enric-mas,14,5,1475.25,464,522,32
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,ARCAS Jorge,rider/jorge-arcas,722,140,24.39,69,35,44
 vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,GUERREIRO Ruben,rider/ruben-guerreiro,107,31,502.25,381,196,96
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,ERVITI Imanol,rider/imanol-erviti,-,170,32.25,77,35,37
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,99,28,741.39,430,30,90
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,LAZKANO Oier,rider/oier-lazkano,111,33,740.39,531,212,106
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,OLIVEIRA Nelson,rider/nelson-oliveira,306,82,350.25,261,69,162
-vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,RUBIO Einer,rider/einer-rubio,41,10,1161.39,870,596,120
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,HERRADA Jesús,rider/jesus-herrada-lopez,65,16,872.75,590,258,64
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,CIMOLAI Davide,rider/davide-cimolai,768,147,159.75,104,35,10
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,BIDARD François,rider/francois-bidard,879,157,63.75,54,45,0
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,CARVALHO André,rider/andre-carvalho,-,166,33.75,49,25,5
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,COQUARD Bryan,rider/bryan-coquard,39,9,1174.08,697,125,211
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,FERNÁNDEZ Rubén,rider/ruben-fernandez-andujar,411,99,129.75,114,95,5
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,HERRADA José,rider/jose-herrada,-,167,3.75,40,25,5
-vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,ROCHAS Rémy,rider/remy-rochas,425,103,374.75,289,251,18
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,BARDET Romain,rider/romain-bardet,55,12,1446.5,827,403,78
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,COMBAUD Romain,rider/romain-combaud,857,154,26.5,85,35,40
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,DAINESE Alberto,rider/alberto-dainese,230,65,697.5,401,45,70
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,FLYNN Sean,rider/sean-flynn,625,128,126.5,129,30,45
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,HAMILTON Chris,rider/chris-hamilton,536,115,247.5,166,65,70
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,ERVITI Imanol,rider/imanol-erviti,-,170,32.25,52,35,37
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,99,28,741.39,288,30,90
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,LAZKANO Oier,rider/oier-lazkano,111,33,740.39,511,212,106
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,OLIVEIRA Nelson,rider/nelson-oliveira,306,82,350.25,206,69,162
+vuelta-a-espana,2023-08-26,Movistar Team (WT),team/movistar-team-2023,RUBIO Einer,rider/einer-rubio,41,10,1161.39,747,596,120
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,HERRADA Jesús,rider/jesus-herrada-lopez,65,16,872.75,490,258,64
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,CIMOLAI Davide,rider/davide-cimolai,768,147,159.75,30,35,10
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,BIDARD François,rider/francois-bidard,879,157,63.75,34,45,0
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,CARVALHO André,rider/andre-carvalho,-,166,33.75,23,25,5
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,COQUARD Bryan,rider/bryan-coquard,39,9,1174.08,565,125,211
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,FERNÁNDEZ Rubén,rider/ruben-fernandez-andujar,411,99,129.75,29,95,5
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,HERRADA José,rider/jose-herrada,-,167,3.75,20,25,5
+vuelta-a-espana,2023-08-26,Cofidis (WT),team/cofidis-2023,ROCHAS Rémy,rider/remy-rochas,425,103,374.75,33,251,18
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,BARDET Romain,rider/romain-bardet,55,12,1446.5,599,403,78
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,COMBAUD Romain,rider/romain-combaud,857,154,26.5,65,35,40
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,DAINESE Alberto,rider/alberto-dainese,230,65,697.5,255,45,70
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,FLYNN Sean,rider/sean-flynn,625,128,126.5,96,30,45
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,HAMILTON Chris,rider/chris-hamilton,536,115,247.5,96,65,70
 vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,MILESI Lorenzo,rider/lorenzo-milesi,512,113,259.5,136,43,93
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,ONLEY Oscar,rider/oscar-onley,182,55,385.5,372,264,133
-vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,POOLE Max,rider/max-poole,169,49,664.5,446,331,45
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,VAUQUELIN Kévin,rider/kevin-vauquelin,56,13,622,461,236,55
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,GESBERT Élie,rider/elie-gesbert,237,67,361,243,112,58
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,HOFSTETTER Hugo,rider/hugo-hofstetter,203,61,427,289,25,30
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,LE BERRE Mathis,rider/mathis-le-berre,697,134,25,71,30,3
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,LEDANOIS Kévin,rider/kevin-ledanois,732,142,63,76,35,3
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,OWSIAN Łukasz,rider/lukasz-owsian,736,144,4,55,35,10
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,RIES Michel,rider/michel-ries,777,148,119,69,59,5
-vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,RODRÍGUEZ Cristián,rider/cristian-rodriguez,183,56,682,527,341,10
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,CRAS Steff,rider/steff-cras,465,107,421,283,192,10
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,ONLEY Oscar,rider/oscar-onley,182,55,385.5,307,264,133
+vuelta-a-espana,2023-08-26,Team dsm - firmenich (WT),team/team-dsm-firmenich-2023,POOLE Max,rider/max-poole,169,49,664.5,400,331,45
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,VAUQUELIN Kévin,rider/kevin-vauquelin,56,13,622,447,236,55
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,GESBERT Élie,rider/elie-gesbert,237,67,361,219,112,58
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,HOFSTETTER Hugo,rider/hugo-hofstetter,203,61,427,214,25,30
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,LE BERRE Mathis,rider/mathis-le-berre,697,134,25,51,30,3
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,LEDANOIS Kévin,rider/kevin-ledanois,732,142,63,56,35,3
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,OWSIAN Łukasz,rider/lukasz-owsian,736,144,4,35,35,10
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,RIES Michel,rider/michel-ries,777,148,119,49,59,5
+vuelta-a-espana,2023-08-26,Team Arkéa Samsic (WT),team/team-arkea-samsic-2023,RODRÍGUEZ Cristián,rider/cristian-rodriguez,183,56,682,342,341,10
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,CRAS Steff,rider/steff-cras,465,107,421,119,192,10
 vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,BONNET Thomas,rider/thomas-bonnet,572,119,95,83,1,0
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,DOUBEY Fabien,rider/fabien-doubey,-,174,38,32,32,10
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,JOUSSEAUME Alan,rider/alan-jousseaume,711,139,28,38,13,5
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,LATOUR Pierre,rider/pierre-latour,133,40,360,259,120,95
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,OURSELIN Paul,rider/paul-ourselin,703,136,172,114,74,0
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,SOUPE Geoffrey,rider/geoffrey-soupe,347,90,403,287,120,0
-vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,VAN GESTEL Dries,rider/dries-van-gestel,116,35,642,396,44,26
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,BATTISTELLA Samuele,rider/samuele-battistella,248,70,264,223,105,84
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,DE LA CRUZ David,rider/david-de-la-cruz,336,89,234,142,88,10
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,SÁNCHEZ Luis León,rider/luis-leon-sanchez,319,85,121,115,106,0
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,DOUBEY Fabien,rider/fabien-doubey,-,174,38,12,32,10
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,JOUSSEAUME Alan,rider/alan-jousseaume,711,139,28,35,13,5
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,LATOUR Pierre,rider/pierre-latour,133,40,360,245,120,95
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,OURSELIN Paul,rider/paul-ourselin,703,136,172,50,74,0
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,SOUPE Geoffrey,rider/geoffrey-soupe,347,90,403,168,120,0
+vuelta-a-espana,2023-08-26,TotalEnergies (PRT),team/totalenergies-2023,VAN GESTEL Dries,rider/dries-van-gestel,116,35,642,259,44,26
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,BATTISTELLA Samuele,rider/samuele-battistella,248,70,264,128,105,84
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,DE LA CRUZ David,rider/david-de-la-cruz,336,89,234,111,88,10
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,SÁNCHEZ Luis León,rider/luis-leon-sanchez,319,85,121,95,106,0
 vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,ROMO Javier,rider/javier-romo,656,131,71.29,69,65,59
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,DOMBROWSKI Joe,rider/joe-dombrowski,836,152,30,57,57,0
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,PRONSKIY Vadim,rider/vadim-pronskiy,630,129,141,134,125,5
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,FELLINE Fabio,rider/fabio-felline,-,169,7,45,35,5
-vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,ZEITS Andrey,rider/andrey-zeits,597,122,198,161,125,0
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,DÍAZ José Manuel,rider/jose-manuel-diaz-gallego,393,95,121,142,76,10
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,BARTHE Cyril,rider/cyril-barthe,624,127,49,68,30,0
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,BOL Jetse,rider/jetse-bol,607,123,63,75,25,6
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,EZQUERRA Jesús,rider/jesus-ezquerra-muela,680,133,67,51,24,0
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez,284,78,561,422,141,145
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,NAVARRO Daniel,rider/daniel-navarro,-,165,67,40,25,0
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,OKAMIKA Ander,rider/ander-okamika,641,130,58,76,49,5
-vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,SÁNCHEZ Pelayo,rider/pelayo-sanchez-mayo,359,93,385,237,54,0
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,AULAR Orluis,rider/orluis-aular,367,94,748,462,125,65
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BALDERSTONE Abel,rider/abel-balderstone-roumens,494,111,88,107,91,5
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BARCELÓ Fernando,rider/fernando-barcelo,816,150,171,93,27,5
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,517,114,198,135,55,0
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,610,125,161,63,28,0
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,GONZÁLEZ David,rider/david-gonzalez-lopez,954,163,134,73,21,12
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,NICOLAU Joel,rider/joel-nicolau,938,161,32,51,32,5
-vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,SCHLEGEL Michal,rider/michal-schlegel,-,168,36,39,34,16
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,DOMBROWSKI Joe,rider/joe-dombrowski,836,152,30,37,57,0
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,PRONSKIY Vadim,rider/vadim-pronskiy,630,129,141,40,125,5
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,FELLINE Fabio,rider/fabio-felline,-,169,7,20,35,5
+vuelta-a-espana,2023-08-26,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2023,ZEITS Andrey,rider/andrey-zeits,597,122,198,21,125,0
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,DÍAZ José Manuel,rider/jose-manuel-diaz-gallego,393,95,121,118,76,10
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,BARTHE Cyril,rider/cyril-barthe,624,127,49,48,30,0
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,BOL Jetse,rider/jetse-bol,607,123,63,55,25,6
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,EZQUERRA Jesús,rider/jesus-ezquerra-muela,680,133,67,23,24,0
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez,284,78,561,267,141,145
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,NAVARRO Daniel,rider/daniel-navarro,-,165,67,10,25,0
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,OKAMIKA Ander,rider/ander-okamika,641,130,58,34,49,5
+vuelta-a-espana,2023-08-26,Burgos - BH (PRT),team/burgos-bh-2023,SÁNCHEZ Pelayo,rider/pelayo-sanchez-mayo,359,93,385,165,54,0
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,AULAR Orluis,rider/orluis-aular,367,94,748,177,125,65
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BALDERSTONE Abel,rider/abel-balderstone-roumens,494,111,88,87,91,5
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BARCELÓ Fernando,rider/fernando-barcelo,816,150,171,44,27,5
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,517,114,198,97,55,0
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,610,125,161,57,28,0
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,GONZÁLEZ David,rider/david-gonzalez-lopez,954,163,134,24,21,12
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,NICOLAU Joel,rider/joel-nicolau,938,161,32,26,32,5
+vuelta-a-espana,2023-08-26,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2023,SCHLEGEL Michal,rider/michal-schlegel,-,168,36,19,34,16
