@@ -1,185 +1,185 @@
-event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points_season,pcs_points_last_60d,pcs_gc_points
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,POGAČAR Tadej,rider/tadej-pogacar,1,1,8536,2300,1000,431,2662.5
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,ALMEIDA João,rider/joao-almeida,3,3,2612.57,1634,1080,460,2380
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,NARVÁEZ Jhonatan,rider/jhonatan-narvaez,95,57,966.14,389,180,5,769.5
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,POLITT Nils,rider/nils-politt,460,156,106.14,52,35,5,184.25
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SIVAKOV Pavel,rider/pavel-sivakov,60,41,272.57,231,208,8,896.5
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SOLER Marc,rider/marc-soler,121,71,281,228,229,5,619.5
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,WELLENS Tim,rider/tim-wellens,47,32,920,316,100,20,779.5
-tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,YATES Adam,rider/adam-yates,31,23,677,419,271,140,1991.5
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VINGEGAARD Jonas,rider/jonas-vingegaard,6,5,3228.57,573,720,340,2870
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,AFFINI Edoardo,rider/edoardo-affini,165,90,258.57,98,30,63,105
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,BENOOT Tiesj,rider/tiesj-benoot,89,56,1070,370,30,5,161.25
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,CAMPENAERTS Victor,rider/victor-campenaerts,196,103,249.57,50,70,6,150
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,JORGENSON Matteo,rider/matteo-jorgenson,21,16,1603.57,651,470,172,1391.5
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KUSS Sepp,rider/sepp-kuss,169,93,186,65,194,51,1159.75
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN AERT Wout,rider/wout-van-aert,5,4,2790,859,25,212,276.25
-tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,YATES Simon,rider/simon-yates,29,21,1973,636,275,508,1533.75
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,EVENEPOEL Remco,rider/remco-evenepoel,2,2,1883,728,260,258,1557.5
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,CATTANEO Mattia,rider/mattia-cattaneo,206,110,241,139,70,49,286.5
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,EENKHOORN Pascal,rider/pascal-eenkhoorn,458,155,188,50,40,5,93.5
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,MERLIER Tim,rider/tim-merlier,17,14,1613.29,799,30,227,80.75
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,300,134,525,204,145,5,408.25
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,SCHACHMANN Maximilian,rider/maximilian-schachmann,81,52,568.29,397,292,20,471.75
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VAN LERBERGHE Bert,rider/bert-van-lerberghe,-,183,16.29,20,30,0,73.5
-tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VAN WILDER Ilan,rider/ilan-van-wilder,79,50,612.29,369,365,105,1157
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,HEALY Ben,rider/ben-healy,64,42,1994,457,232,7,572.5
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,ALBANESE Vincenzo,rider/vincenzo-albanese,146,81,263.5,188,63,99,187.75
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,ASGREEN Kasper,rider/kasper-asgreen,257,123,255,138,30,112,220.5
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,BAUDIN Alex,rider/alex-baudin,109,63,195,93,35,12,425.75
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,POWLESS Neilson,rider/neilson-powless,18,15,1250.5,650,95,80,368.75
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,SWEENY Harry,rider/harry-sweeny,430,152,120.5,57,35,17,152
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VALGREN Michael,rider/michael-valgren-andersen,584,167,153,65,30,5,62.5
-tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VAN DEN BERG Marijn,rider/marijn-van-den-berg,113,67,479,352,105,77,287.25
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,GIRMAY Biniam,rider/biniam-girmay,10,9,1260,538,37,264,92
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BARRÉ Louis,rider/louis-barre,166,91,603,326,49,45,221.25
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BRAET Vito,rider/vito-braet,359,145,158,101,25,1,59.75
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,PAGE Hugo,rider/hugo-page,291,130,168,110,30,85,107.75
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,REX Laurenz,rider/laurenz-rex,174,95,487,274,25,81,72.5
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,RUTSCH Jonas,rider/jonas-rutsch,381,149,363,134,35,7,130.5
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN SINTMAARTENSDIJK Roel,rider/roel-van-sintmaartensdijk,760,177,10,25,25,0,77.25
-tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,ZIMMERMANN Georg,rider/georg-zimmermann,162,88,378,249,160,59,371.25
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,49,34,835,501,295,0,965
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BAUHAUS Phil,rider/phil-bauhaus,135,75,583,261,30,81,57.5
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,GRADEK Kamil,rider/kamil-gradek,752,175,0,35,35,0,92.5
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,HAIG Jack,rider/jack-haig,317,139,132,90,69,5,501.5
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,MARTINEZ Lenny,rider/lenny-martinez,59,40,1478,753,440,57,801.5
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,MOHORIČ Matej,rider/matej-mohoric,131,74,235,126,100,5,726
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,STANNARD Robert,rider/robert-stannard,500,161,35,35,35,10,117.5
-tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,WRIGHT Fred,rider/alfred-wright,128,73,739,306,71,88,241
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,THOMAS Geraint,rider/geraint-thomas,779,178,43,27,37,0,622.75
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,ARENSMAN Thymen,rider/thymen-arensman,110,64,1453.29,454,544,38,1163.25
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,FOSS Tobias,rider/tobias-foss,212,114,233.29,157,138,22,272.25
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,GANNA Filippo,rider/filippo-ganna,16,13,1837,788,270,113,565
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,LAURANCE Axel,rider/axel-laurance,186,99,732,275,55,44,238
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,52,36,435.43,273,250,82,1560.25
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,SWIFT Connor,rider/connor-swift,492,159,65,87,32,3,156.25
-tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,WATSON Samuel,rider/samuel-watson,111,65,741.86,480,185,229,341.5
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ROGLIČ Primož,rider/primoz-roglic,11,10,1543,533,520,103,1902.5
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,LIPOWITZ Florian,rider/florian-lipowitz,30,22,2549,616,830,223,1356.25
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MEEUS Jordi,rider/jordi-meeus,51,35,760,432,25,291,57.5
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MOSCON Gianni,rider/gianni-moscon,650,168,0.71,46,30,20,111.25
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,PITHIE Laurence,rider/laurence-pithie,202,108,406,197,30,18,80.5
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN DIJKE Mick,rider/mick-van-dijke,379,148,130,107,35,5,112.25
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN POPPEL Danny,rider/danny-van-poppel,114,68,571,262,10,133,307
-tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VLASOV Aleksandr,rider/aleksandr-vlasov,211,113,221.71,102,119,25,1119
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,MILAN Jonathan,rider/jonathan-milan,28,20,1972.86,694,40,65,96.25
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,CONSONNI Simone,rider/simone-consonni,691,172,47.86,52,35,5,88.75
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,NYS Thibau,rider/thibau-nys,84,54,838,374,30,55,216.75
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SIMMONS Quinn,rider/quinn-simmons,152,84,505,168,35,83,179.25
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,40,28,1204.57,590,170,75,1238.75
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SKUJIŅŠ Toms,rider/toms-skujins,72,45,353,141,41,37,194.5
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,STUYVEN Jasper,rider/jasper-stuyven,173,94,701,239,35,5,361
-tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,THEUNS Edward,rider/edward-theuns,294,131,207.86,179,40,5,103.25
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,MARTIN Guillaume,rider/guillaume-martin,58,39,752,469,339,71,1022.5
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,ASKEY Lewis,rider/lewis-askey,108,62,734,496,140,318,182
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,BARTHE Cyril,rider/cyril-barthe,720,174,61,50,1,12,60
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,GRÉGOIRE Romain,rider/romain-gregoire1,33,24,1323,598,194,115,611.5
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,MADOUAS Valentin,rider/valentin-madouas,73,46,402,177,109,69,510.25
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,PACHER Quentin,rider/quentin-pacher,201,107,175,107,30,32,248.5
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,PENHOËT Paul,rider/paul-penhoet,200,106,392,180,35,55,181.5
-tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,RUSSO Clément,rider/clement-russo,348,143,188,117,35,31,88.75
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PHILIPSEN Jasper,rider/jasper-philipsen,7,6,1428,706,55,272,293.25
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,DILLIER Silvan,rider/silvan-dillier,711,173,0,20,40,5,116.25
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,GROVES Kaden,rider/kaden-groves,54,37,1420,389,25,236,121.25
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,MEURISSE Xandro,rider/xandro-meurisse,188,100,195,51,100,5,231.25
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,RICKAERT Jonas,rider/jonas-rickaert,862,181,36,30,30,0,60
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VAN DER POEL Mathieu,rider/mathieu-van-der-poel,9,8,3338,1113,10,60,241.25
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VERMEERSCH Gianni,rider/gianni-vermeersch,209,112,360,215,35,5,91.5
-tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VERSTRYNGE Emiel,rider/emiel-verstrynge,660,169,90,59,35,5,58
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,ALAPHILIPPE Julian,rider/julian-alaphilippe,66,43,651,235,158,149,405.75
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,DAINESE Alberto,rider/alberto-dainese,290,129,481,223,25,112,100.75
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,HALLER Marco,rider/marco-haller,261,124,197,108,62,36,138.25
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,HIRSCHI Marc,rider/marc-hirschi,8,7,759,332,44,10,630
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,LIENHARD Fabian,rider/fabian-lienhard,497,160,78,80,30,0,88.75
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,MAYRHOFER Marius,rider/marius-mayrhofer,488,157,169,114,30,73,55.25
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,STORER Michael,rider/michael-storer,39,27,1230,687,335,186,1057
-tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,TRENTIN Matteo,rider/matteo-trentin,88,55,462,198,30,33,422
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,O'CONNOR Ben,rider/ben-o-connor,25,19,874.81,310,430,132,1603.75
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DUNBAR Eddie,rider/edward-irl-dunbar,150,83,162,62,49,28,411.75
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DURBRIDGE Luke,rider/luke-durbridge,754,176,105,30,35,5,105
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,GROENEWEGEN Dylan,rider/dylan-groenewegen,78,49,401,326,30,201,98.75
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,MEZGEC Luka,rider/luka-mezgec,662,170,1,16,35,5,102.5
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,PLAPP Luke,rider/luke-plapp,245,121,787,265,30,92,348.75
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,REINDERS Elmar,rider/elmar-reinders,578,166,32,42,35,5,71.25
-tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,SCHMID Mauro,rider/mauro-schmid,48,33,960.67,454,35,67,421.25
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VAUQUELIN Kévin,rider/kevin-vauquelin,23,18,2426,939,685,408,1137.75
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,CAPIOT Amaury,rider/amaury-capiot,411,151,198,137,85,90,107.25
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,COSTIOU Ewen,rider/ewen-costiou,313,137,224,115,78,14,304.5
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,DÉMARE Arnaud,rider/arnaud-demare,101,59,471,286,25,182,105.5
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,278,127,257,137,135,22,344.5
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,LE BERRE Mathis,rider/mathis-le-berre,552,163,61,35,40,5,88.75
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,RODRÍGUEZ Cristián,rider/cristian-rodriguez,119,70,526,282,177,142,699
-tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VENTURINI Clément,rider/clement-venturini,182,98,518,253,64,138,167.25
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,MAS Enric,rider/enric-mas,12,11,1021,613,462,151,1554.25
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,BARTA Will,rider/william-barta,329,141,176.71,115,134,58,326.5
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,CASTRILLO Pablo,rider/pablo-castrillo-zapater,82,53,362.71,301,302,84,555.5
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,OLIVEIRA Nelson,rider/nelson-oliveira,297,133,43,29,40,5,168.25
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,233,118,337.71,200,30,6,69.5
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,MÜHLBERGER Gregor,rider/gregor-muhlberger,331,142,160,61,161,36,325
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,ROMEO Iván,rider/ivan-romeo,139,78,597.71,365,243,70,319.75
-tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,RUBIO Einer,rider/einer-rubio,163,89,735,311,101,206,909.25
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,GALL Felix,rider/felix-gall,69,44,1601.43,413,546,210,1163.75
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,ARMIRAIL Bruno,rider/bruno-armirail,352,144,211.43,70,78,33,316.5
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BERTHET Clément,rider/clement-berthet,126,72,508,339,212,12,464.5
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BISSEGGER Stefan,rider/stefan-bissegger,159,86,458.43,209,20,27,95
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,NAESEN Oliver,rider/oliver-naesen,366,146,92.43,90,35,5,158.75
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre,175,96,508.43,254,159,5,521.5
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,SCOTSON Callum,rider/callum-scotson,528,162,98.43,72,90,7,244.75
-tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,TRONCHON Bastien,rider/bastien-tronchon,154,85,691,386,35,197,228
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,BUCHMANN Emanuel,rider/emanuel-buchmann,436,153,247,136,144,64,462.5
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,ARANBURU Alex,rider/alex-aranburu,46,31,941,469,131,30,418
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,COQUARD Bryan,rider/bryan-coquard,112,66,535,346,43,86,156.75
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,IZAGIRRE Ion,rider/ion-izagirre,194,102,88,59,58,5,321.5
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,RENARD Alexis,rider/alexis-renard,137,77,610,378,25,235,77.5
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,TEUNS Dylan,rider/dylan-teuns,279,128,201,156,130,5,471.25
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,THOMAS Benjamin,rider/benjamin-thomas-2,312,136,209,193,124,99,201
-tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,TOUZÉ Damien,rider/damien-touze,570,164,88,79,65,21,155.75
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,TEJADA Harold,rider/harold-tejada,145,80,460,287,258,30,514.5
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,BALLERINI Davide,rider/davide-ballerini,240,119,650,180,30,35,77.5
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,BOL Cees,rider/cees-bol,221,116,332,214,0,80,148.75
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,CHAMPOUSSIN Clément,rider/clement-champoussin,41,29,940,564,341,104,546.25
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,FEDOROV Yevgeniy,rider/yevgeniy-fedorov,250,122,436.33,233,16,39,58.5
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,HIGUITA Sergio,rider/sergio-higuita,275,126,210,64,208,16,642.25
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,TEUNISSEN Mike,rider/mike-teunissen,80,51,679,340,36,113,236.5
-tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,VELASCO Simone,rider/simone-velasco,96,58,1090,454,157,45,259.5
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,CRAS Steff,rider/steff-cras,190,101,227,194,138,58,450
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,BURGAUDEAU Mathieu,rider/mathieu-burgaudeau,168,92,129,58,30,5,320
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,DELETTRE Alexandre,rider/alexandre-delettre,241,120,346,225,172,80,354.25
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,GACHIGNARD Thomas,rider/thomas-gachignard,400,150,78,74,90,24,205.25
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,JEANNIÈRE Emilien,rider/emilien-jeanniere,44,30,855,463,6,234,223
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,JEGAT Jordan,rider/jordan-jegat,118,69,745,248,342,45,568.25
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,TURGIS Anthony,rider/anthony-turgis,180,97,424,229,30,95,112.75
-tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,VERCHER Mattéo,rider/matheo-vercher,205,109,240,173,69,5,95.5
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,ONLEY Oscar,rider/oscar-onley,13,12,2717,880,696,306,1622
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,BARGUIL Warren,rider/warren-barguil,263,125,241,140,133,36,378.75
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,BITTNER Pavel,rider/pavel-bittner,107,61,508,228,40,71,76.25
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,FLYNN Sean,rider/sean-flynn,325,140,19,47,35,5,198.25
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,ANDRESEN Tobias Lund,rider/tobias-lund-andresen,56,38,1001,567,115,396,302.5
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,MÄRKL Niklas,rider/niklas-markl,673,171,30,46,35,31,93.25
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,NABERMAN Tim,rider/tim-naberman,-,184,0,5,30,5,60
-tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,VAN DEN BROEK Frank,rider/frank-van-den-broek,197,104,403,161,110,5,358.5
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,WOODS Michael,rider/michael-woods,143,79,170,131,25,0,243
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,ACKERMANN Pascal,rider/pascal-ackermann,136,76,355,132,25,132,83.75
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,BLACKMORE Joseph,rider/joseph-blackmore,149,82,344,178,85,28,413.75
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,BOIVIN Guillaume,rider/guillaume-boivin,955,182,37,20,30,5,61.25
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,LOUVEL Matis,rider/matis-louvel,372,147,164,67,30,23,82.25
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,LUTSENKO Alexey,rider/aleksey-lutsenko,316,138,155,120,112,32,468
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,NEILANDS Krists,rider/krists-neilands,443,154,112,28,30,28,135.75
-tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,STEWART Jake,rider/jake-stewart,207,111,291,200,50,108,129.25
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DE LIE Arnaud,rider/arnaud-de-lie,38,26,1032,200,31,65,258.5
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,BERCKMOES Jenno,rider/jenno-berckmoes,105,60,359,207,127,144,428.5
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DE BUYST Jasper,rider/jasper-de-buyst,851,180,0,23,10,5,103.25
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DRIZNERS Jarrad,rider/jarrad-drizners,816,179,15,15,30,5,88.75
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,GRIGNARD Sébastien,rider/sebastien-grignard,572,165,15,35,30,5,70
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,489,158,47,53,63,28,313.5
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,VAN EETVELT Lennert,rider/lennert-van-eetvelt,36,25,439,355,190,0,804
-tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,VAN MOER Brent,rider/brent-van-moer,305,135,327,170,30,10,282.75
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,75,47,1370,323,456,147,847.75
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,ABRAHAMSEN Jonas,rider/jonas-abrahamsen,295,132,508,67,25,35,110.5
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,CORT Magnus,rider/magnus-cort-nielsen,22,17,802,457,35,5,576.75
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,FREDHEIM Stian,rider/stian-fredheim,224,117,480,274,30,35,30
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,HOELGAARD Markus,rider/markus-hoelgaard,160,87,480,226,75,6,93.25
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,JOHANNESSEN Anders Halland,rider/anders-halland-johannessen,218,115,447,282,204,190,237.75
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,LEKNESSUND Andreas,rider/andreas-leknessund,199,105,420,162,106,54,466
-tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,WÆRENSKJOLD Søren,rider/soren-waerenskjold,77,48,698,408,10,125,460
+event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_points_last_60d,pcs_gc_points,pcs_gc_points_season,pcs_sprint_points,pcs_sprint_points_season
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,POGAČAR Tadej,rider/tadej-pogacar,1,1,8536,2300,431,2162.5,1000,278,251
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,ALMEIDA João,rider/joao-almeida,3,3,2612.57,1634,460,2380,1380,0,0
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,NARVÁEZ Jhonatan,rider/jhonatan-narvaez,95,57,966.14,389,5,599.5,280,100,5
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,POLITT Nils,rider/nils-politt,460,156,106.14,52,5,159.25,40,205.5,10
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SIVAKOV Pavel,rider/pavel-sivakov,60,41,272.57,231,8,871.5,503,0,0
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SOLER Marc,rider/marc-soler,121,71,281,228,5,564.5,224,0,0
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,WELLENS Tim,rider/tim-wellens,47,32,920,316,20,754.5,460,75,15
+tour-de-france,2025-07-05,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,YATES Adam,rider/adam-yates,31,23,677,419,140,1911.5,711,75,50
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VINGEGAARD Jonas,rider/jonas-vingegaard,6,5,3228.57,573,340,2490,970,12,0
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,AFFINI Edoardo,rider/edoardo-affini,165,90,258.57,98,63,80,45,29.5,0
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,BENOOT Tiesj,rider/tiesj-benoot,89,56,1070,370,5,136.25,48,203.75,126
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,CAMPENAERTS Victor,rider/victor-campenaerts,196,103,249.57,50,6,90,55,8.75,5
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,JORGENSON Matteo,rider/matteo-jorgenson,21,16,1603.57,651,172,1281.5,580,265.25,95
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KUSS Sepp,rider/sepp-kuss,169,93,186,65,51,1029.75,324,6.5,0
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN AERT Wout,rider/wout-van-aert,5,4,2790,859,212,251.25,45,714.75,342
+tour-de-france,2025-07-05,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,YATES Simon,rider/simon-yates,29,21,1973,636,508,1383.75,705,20.25,0
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,EVENEPOEL Remco,rider/remco-evenepoel,2,2,1883,728,258,1557.5,600,32.5,0
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,CATTANEO Mattia,rider/mattia-cattaneo,206,110,241,139,49,286.5,145,0,0
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,EENKHOORN Pascal,rider/pascal-eenkhoorn,458,155,188,50,5,68.5,40,66.25,5
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,MERLIER Tim,rider/tim-merlier,17,14,1613.29,799,227,55.75,10,2114.5,882
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,300,134,525,204,5,383.25,140,3,0
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,SCHACHMANN Maximilian,rider/maximilian-schachmann,81,52,568.29,397,20,446.75,353,10.75,5
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VAN LERBERGHE Bert,rider/bert-van-lerberghe,-,183,16.29,20,0,48.5,10,91,20
+tour-de-france,2025-07-05,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VAN WILDER Ilan,rider/ilan-van-wilder,79,50,612.29,369,105,1117,455,3,0
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,HEALY Ben,rider/ben-healy,64,42,1994,457,7,362.5,87,7.5,0
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,ALBANESE Vincenzo,rider/vincenzo-albanese,146,81,263.5,188,99,162.75,38,25.5,16
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,ASGREEN Kasper,rider/kasper-asgreen,257,123,255,138,112,195.5,45,198.5,91
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,BAUDIN Alex,rider/alex-baudin,109,63,195,93,12,400.75,270,0,0
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,POWLESS Neilson,rider/neilson-powless,18,15,1250.5,650,80,343.75,95,304.5,225
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,SWEENY Harry,rider/harry-sweeny,430,152,120.5,57,17,127,85,30,15
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VALGREN Michael,rider/michael-valgren-andersen,584,167,153,65,5,37.5,15,51.5,0
+tour-de-france,2025-07-05,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VAN DEN BERG Marijn,rider/marijn-van-den-berg,113,67,479,352,77,282.25,130,463.25,146
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,GIRMAY Biniam,rider/biniam-girmay,10,9,1260,538,264,67,42,768.75,390
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BARRÉ Louis,rider/louis-barre,166,91,603,326,45,196.25,79,0,0
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BRAET Vito,rider/vito-braet,359,145,158,101,1,34.75,20,125,69
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,PAGE Hugo,rider/hugo-page,291,130,168,110,85,82.75,30,158.25,70
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,REX Laurenz,rider/laurenz-rex,174,95,487,274,81,47.5,30,402.5,239
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,RUTSCH Jonas,rider/jonas-rutsch,381,149,363,134,7,105.5,39,126.75,100
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN SINTMAARTENSDIJK Roel,rider/roel-van-sintmaartensdijk,760,177,10,25,0,52.25,5,47.5,40
+tour-de-france,2025-07-05,Intermarché - Wanty (WT),team/intermarche-wanty-2025,ZIMMERMANN Georg,rider/georg-zimmermann,162,88,378,249,59,371.25,223,17,5
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,49,34,835,501,0,940,470,4.5,0
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BAUHAUS Phil,rider/phil-bauhaus,135,75,583,261,81,32.5,15,564.25,266
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,GRADEK Kamil,rider/kamil-gradek,752,175,0,35,0,67.5,30,17.5,5
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,HAIG Jack,rider/jack-haig,317,139,132,90,5,496.5,169,0,0
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,MARTINEZ Lenny,rider/lenny-martinez,59,40,1478,753,57,776.5,440,0,0
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,MOHORIČ Matej,rider/matej-mohoric,131,74,235,126,5,701,300,90.75,5
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,STANNARD Robert,rider/robert-stannard,500,161,35,35,10,92.5,65,10,10
+tour-de-france,2025-07-05,Bahrain - Victorious (WT),team/bahrain-victorious-2025,WRIGHT Fred,rider/alfred-wright,128,73,739,306,88,216,157,208.5,120
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,THOMAS Geraint,rider/geraint-thomas,779,178,43,27,0,597.75,42,1,0
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,ARENSMAN Thymen,rider/thymen-arensman,110,64,1453.29,454,38,983.25,397,0,0
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,FOSS Tobias,rider/tobias-foss,212,114,233.29,157,22,247.25,128,5,5
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,GANNA Filippo,rider/filippo-ganna,16,13,1837,788,113,565,270,166.5,38
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,LAURANCE Axel,rider/axel-laurance,186,99,732,275,44,213,55,26.25,11
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,52,36,435.43,273,82,1560.25,640,1.5,0
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,SWIFT Connor,rider/connor-swift,492,159,65,87,3,131.25,21,33.25,17
+tour-de-france,2025-07-05,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,WATSON Samuel,rider/samuel-watson,111,65,741.86,480,229,316.5,180,62,14
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ROGLIČ Primož,rider/primoz-roglic,11,10,1543,533,103,1682.5,700,4,4
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,LIPOWITZ Florian,rider/florian-lipowitz,30,22,2549,616,223,1016.25,770,10.5,0
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MEEUS Jordi,rider/jordi-meeus,51,35,760,432,291,32.5,5,911.5,505
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,MOSCON Gianni,rider/gianni-moscon,650,168,0.71,46,20,86.25,50,18.25,5
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,PITHIE Laurence,rider/laurence-pithie,202,108,406,197,18,55.5,15,331,75
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN DIJKE Mick,rider/mick-van-dijke,379,148,130,107,5,87.25,28,103.75,76
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN POPPEL Danny,rider/danny-van-poppel,114,68,571,262,133,307,155,648,236
+tour-de-france,2025-07-05,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VLASOV Aleksandr,rider/aleksandr-vlasov,211,113,221.71,102,25,1054,134,3,0
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,MILAN Jonathan,rider/jonathan-milan,28,20,1972.86,694,65,71.25,15,1196.75,752
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,CONSONNI Simone,rider/simone-consonni,691,172,47.86,52,5,63.75,15,242,33
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,NYS Thibau,rider/thibau-nys,84,54,838,374,55,191.75,10,30,0
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SIMMONS Quinn,rider/quinn-simmons,152,84,505,168,83,154.25,113,15,0
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,40,28,1204.57,590,75,1188.75,320,5.25,0
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,SKUJIŅŠ Toms,rider/toms-skujins,72,45,353,141,37,169.5,69,31,6
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,STUYVEN Jasper,rider/jasper-stuyven,173,94,701,239,5,336,71,119.25,27
+tour-de-france,2025-07-05,Lidl - Trek (WT),team/lidl-trek-2025,THEUNS Edward,rider/edward-theuns,294,131,207.86,179,5,78.25,25,412.75,157
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,MARTIN Guillaume,rider/guillaume-martin,58,39,752,469,71,882.5,469,0,0
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,ASKEY Lewis,rider/lewis-askey,108,62,734,496,318,157,120,267.5,128
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,BARTHE Cyril,rider/cyril-barthe,720,174,61,50,12,60,5,31.75,22
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,GRÉGOIRE Romain,rider/romain-gregoire1,33,24,1323,598,115,581.5,329,0,0
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,MADOUAS Valentin,rider/valentin-madouas,73,46,402,177,69,415.25,152,96,70
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,PACHER Quentin,rider/quentin-pacher,201,107,175,107,32,223.5,120,21,12
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,PENHOËT Paul,rider/paul-penhoet,200,106,392,180,55,156.5,19,169.25,93
+tour-de-france,2025-07-05,Groupama - FDJ (WT),team/groupama-fdj-2025,RUSSO Clément,rider/clement-russo,348,143,188,117,31,63.75,40,103,91
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PHILIPSEN Jasper,rider/jasper-philipsen,7,6,1428,706,272,293.25,190,2606,929
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,DILLIER Silvan,rider/silvan-dillier,711,173,0,20,5,91.25,50,12.5,0
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,GROVES Kaden,rider/kaden-groves,54,37,1420,389,236,96.25,40,252.5,68
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,MEURISSE Xandro,rider/xandro-meurisse,188,100,195,51,5,141.25,58,8,0
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,RICKAERT Jonas,rider/jonas-rickaert,862,181,36,30,0,35,5,84,30
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VAN DER POEL Mathieu,rider/mathieu-van-der-poel,9,8,3338,1113,60,241.25,145,832.75,358
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VERMEERSCH Gianni,rider/gianni-vermeersch,209,112,360,215,5,66.5,35,312.25,90
+tour-de-france,2025-07-05,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,VERSTRYNGE Emiel,rider/emiel-verstrynge,660,169,90,59,5,33,13,0,0
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,ALAPHILIPPE Julian,rider/julian-alaphilippe,66,43,651,235,149,380.75,157,34.5,0
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,DAINESE Alberto,rider/alberto-dainese,290,129,481,223,112,75.75,5,410.25,113
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,HALLER Marco,rider/marco-haller,261,124,197,108,36,113.25,67,191,52
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,HIRSCHI Marc,rider/marc-hirschi,8,7,759,332,10,605,179,117.5,14
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,LIENHARD Fabian,rider/fabian-lienhard,497,160,78,80,0,63.75,15,75.25,34
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,MAYRHOFER Marius,rider/marius-mayrhofer,488,157,169,114,73,30.25,5,59,32
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,STORER Michael,rider/michael-storer,39,27,1230,687,186,1032,586,47.25,37
+tour-de-france,2025-07-05,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,TRENTIN Matteo,rider/matteo-trentin,88,55,462,198,33,397,255,244.75,119
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,O'CONNOR Ben,rider/ben-o-connor,25,19,874.81,310,132,1413.75,530,13.5,0
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DUNBAR Eddie,rider/edward-irl-dunbar,150,83,162,62,28,410.75,192,4.5,4
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DURBRIDGE Luke,rider/luke-durbridge,754,176,105,30,5,80,40,15,0
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,GROENEWEGEN Dylan,rider/dylan-groenewegen,78,49,401,326,201,73.75,30,1166.5,336
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,MEZGEC Luka,rider/luka-mezgec,662,170,1,16,5,77.5,35,112.25,11
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,PLAPP Luke,rider/luke-plapp,245,121,787,265,92,323.75,115,6.5,0
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,REINDERS Elmar,rider/elmar-reinders,578,166,32,42,5,46.25,15,74.75,55
+tour-de-france,2025-07-05,Team Jayco AlUla (WT),team/team-jayco-alula-2025,SCHMID Mauro,rider/mauro-schmid,48,33,960.67,454,67,396.25,115,0,0
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VAUQUELIN Kévin,rider/kevin-vauquelin,23,18,2426,939,408,897.75,470,47,47
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,CAPIOT Amaury,rider/amaury-capiot,411,151,198,137,90,82.25,60,191,25
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,COSTIOU Ewen,rider/ewen-costiou,313,137,229,115,14,279.5,133,22.75,7
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,DÉMARE Arnaud,rider/arnaud-demare,101,59,471,286,182,80.5,13,714.75,308
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,278,127,257,137,22,274.5,150,0,0
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,LE BERRE Mathis,rider/mathis-le-berre,552,163,61,35,5,63.75,40,8.75,0
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,RODRÍGUEZ Cristián,rider/cristian-rodriguez,119,70,526,282,142,599,228,0.75,0
+tour-de-france,2025-07-05,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VENTURINI Clément,rider/clement-venturini,182,98,518,253,138,142.25,71,16.75,5
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,MAS Enric,rider/enric-mas,12,11,1021,613,151,1554.25,812,0,0
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,BARTA Will,rider/william-barta,329,141,176.71,115,58,301.5,186,2,0
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,CASTRILLO Pablo,rider/pablo-castrillo-zapater,82,53,362.71,301,84,530.5,372,7,7
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,OLIVEIRA Nelson,rider/nelson-oliveira,297,133,43,29,5,143.25,60,7.5,0
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,233,118,337.71,200,6,44.5,15,206.25,44
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,MÜHLBERGER Gregor,rider/gregor-muhlberger,331,142,160,61,36,205,91,5.25,0
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,ROMEO Iván,rider/ivan-romeo,139,78,597.71,365,70,294.75,255,46.25,13
+tour-de-france,2025-07-05,Movistar Team (WT),team/movistar-team-2025,RUBIO Einer,rider/einer-rubio,163,89,735,311,206,864.25,261,60.5,47
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,GALL Felix,rider/felix-gall,69,44,1601.43,413,210,883.75,451,0,0
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,ARMIRAIL Bruno,rider/bruno-armirail,352,144,211.43,70,33,291.5,108,0,0
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BERTHET Clément,rider/clement-berthet,126,72,508,339,12,439.5,257,0,0
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BISSEGGER Stefan,rider/stefan-bissegger,159,86,458.43,209,27,95,55,183.25,122
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,NAESEN Oliver,rider/oliver-naesen,366,146,92.43,90,5,133.75,54,107,43
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,PARET-PEINTRE Aurélien,rider/aurelien-paret-peintre,175,96,508.43,254,5,446.5,162,0,0
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,SCOTSON Callum,rider/callum-scotson,528,162,98.43,72,7,209.75,55,7,7
+tour-de-france,2025-07-05,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,TRONCHON Bastien,rider/bastien-tronchon,154,85,691,386,197,203,136,133.75,130
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,BUCHMANN Emanuel,rider/emanuel-buchmann,436,153,247,136,64,412.5,94,0,0
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,ARANBURU Alex,rider/alex-aranburu,46,31,941,469,30,393,131,18.5,5
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,COQUARD Bryan,rider/bryan-coquard,112,66,535,346,86,156.75,73,268,62
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,IZAGIRRE Ion,rider/ion-izagirre,194,102,88,59,5,296.5,63,1,0
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,RENARD Alexis,rider/alexis-renard,137,77,610,378,235,52.5,10,345.25,284
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,TEUNS Dylan,rider/dylan-teuns,279,128,201,156,5,440.25,159,6.5,4
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,THOMAS Benjamin,rider/benjamin-thomas-2,312,136,209,193,99,176,99,15,2
+tour-de-france,2025-07-05,Cofidis (WT),team/cofidis-2025,TOUZÉ Damien,rider/damien-touze,570,164,88,79,21,130.75,45,36.75,22
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,TEJADA Harold,rider/harold-tejada,145,80,460,287,30,489.5,278,4,4
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,BALLERINI Davide,rider/davide-ballerini,240,119,650,180,35,52.5,35,171,98
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,BOL Cees,rider/cees-bol,221,116,332,214,80,148.75,25,291,142
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,CHAMPOUSSIN Clément,rider/clement-champoussin,41,29,940,564,104,451.25,381,9,0
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,FEDOROV Yevgeniy,rider/yevgeniy-fedorov,250,122,436.33,233,39,58.5,21,175.75,60
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,HIGUITA Sergio,rider/sergio-higuita,275,126,210,64,16,482.25,168,0,0
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,TEUNISSEN Mike,rider/mike-teunissen,80,51,679,340,113,211.5,68,399.75,231
+tour-de-france,2025-07-05,XDS Astana Team (WT),team/xds-astana-team-2025,VELASCO Simone,rider/simone-velasco,96,58,1090,454,45,234.5,132,3.75,0
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,CRAS Steff,rider/steff-cras,190,101,227,194,58,450,278,20,20
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,BURGAUDEAU Mathieu,rider/mathieu-burgaudeau,168,92,129,58,5,295,202,0,0
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,DELETTRE Alexandre,rider/alexandre-delettre,241,120,349,225,80,329.25,201,40.5,18
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,GACHIGNARD Thomas,rider/thomas-gachignard,400,150,92,74,24,180.25,126,75,7
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,JEANNIÈRE Emilien,rider/emilien-jeanniere,44,30,855,463,234,223,160,342,197
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,JEGAT Jordan,rider/jordan-jegat,118,69,745,248,45,344.25,256,16,16
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,TURGIS Anthony,rider/anthony-turgis,180,97,424,229,95,87.75,30,252.25,190
+tour-de-france,2025-07-05,Team TotalEnergies (PRT),team/team-totalenergies-2025,VERCHER Mattéo,rider/matheo-vercher,205,109,240,173,5,60.5,59,3.75,0
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,ONLEY Oscar,rider/oscar-onley,13,12,2717,880,306,1322,931,63.5,20
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,BARGUIL Warren,rider/warren-barguil,263,125,241,140,36,293.75,115,0,0
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,BITTNER Pavel,rider/pavel-bittner,107,61,508,228,71,51.25,35,161.75,112
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,FLYNN Sean,rider/sean-flynn,325,140,19,47,5,173.25,139,29.5,10
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,ANDRESEN Tobias Lund,rider/tobias-lund-andresen,56,38,1001,567,396,277.5,245,417.5,314
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,MÄRKL Niklas,rider/niklas-markl,673,171,30,46,31,68.25,42,38.25,15
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,NABERMAN Tim,rider/tim-naberman,-,184,0,5,5,35,25,6.25,0
+tour-de-france,2025-07-05,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,VAN DEN BROEK Frank,rider/frank-van-den-broek,197,104,403,161,5,333.5,170,5.75,0
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,WOODS Michael,rider/michael-woods,143,79,170,131,0,218,70,0.5,0
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,ACKERMANN Pascal,rider/pascal-ackermann,136,76,355,132,132,58.75,25,334.5,116
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,BLACKMORE Joseph,rider/joseph-blackmore,149,82,344,178,28,388.75,207,23.25,15
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,BOIVIN Guillaume,rider/guillaume-boivin,955,182,37,20,5,36.25,10,51.25,10
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,LOUVEL Matis,rider/matis-louvel,372,147,164,67,23,57.25,10,78.25,38
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,LUTSENKO Alexey,rider/aleksey-lutsenko,316,138,155,120,32,443,92,16.5,0
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,NEILANDS Krists,rider/krists-neilands,443,154,112,28,28,110.75,35,16.5,5
+tour-de-france,2025-07-05,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,STEWART Jake,rider/jake-stewart,207,111,291,200,108,104.25,63,156.5,83
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DE LIE Arnaud,rider/arnaud-de-lie,38,26,1032,200,65,233.5,186,624.25,148
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,BERCKMOES Jenno,rider/jenno-berckmoes,105,60,359,207,144,403.5,227,84.75,63
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DE BUYST Jasper,rider/jasper-de-buyst,851,180,0,23,5,98.25,12,111,10
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,DRIZNERS Jarrad,rider/jarrad-drizners,816,179,15,15,5,63.75,30,16.25,5
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,GRIGNARD Sébastien,rider/sebastien-grignard,572,165,15,35,5,45,30,31.25,15
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,489,158,47,53,28,288.5,81,1,0
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,VAN EETVELT Lennert,rider/lennert-van-eetvelt,36,25,439,355,0,804,476,50.5,13
+tour-de-france,2025-07-05,Lotto (PRT),team/lotto-2025,VAN MOER Brent,rider/brent-van-moer,305,135,327,170,10,257.75,35,107.5,65
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,75,47,1370,323,147,587.75,311,107,62
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,ABRAHAMSEN Jonas,rider/jonas-abrahamsen,295,132,508,67,35,85.5,57,282.25,40
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,CORT Magnus,rider/magnus-cort-nielsen,22,17,802,457,5,551.75,345,64,24
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,FREDHEIM Stian,rider/stian-fredheim,224,117,480,274,35,5,5,235,139
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,HOELGAARD Markus,rider/markus-hoelgaard,160,87,480,226,6,68.25,50,85,79
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,JOHANNESSEN Anders Halland,rider/anders-halland-johannessen,218,115,447,282,190,212.75,184,43.25,41
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,LEKNESSUND Andreas,rider/andreas-leknessund,199,105,420,162,54,413,177,1.5,0
+tour-de-france,2025-07-05,Uno-X Mobility (PRT),team/uno-x-mobility-2025,WÆRENSKJOLD Søren,rider/soren-waerenskjold,77,48,698,408,125,460,135,381.25,130
