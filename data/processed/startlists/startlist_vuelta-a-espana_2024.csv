@@ -1,177 +1,177 @@
-event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points,pcs_points_last_60d
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KUSS Sepp,rider/sepp-kuss,40,14,581,341,365,185
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,AFFINI Edoardo,rider/edoardo-affini,415,96,580.14,108,45,50
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,GESINK Robert,rider/robert-gesink,899,157,35,20,40,0
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KRUIJSWIJK Steven,rider/steven-kruijswijk,-,171,90,15,90,0
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks,158,45,327,179,133,0
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VALTER Attila,rider/attila-valter,104,28,1048,436,243,192
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN AERT Wout,rider/wout-van-aert,7,1,2885,1020,80,549
-vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN BAARLE Dylan,rider/dylan-van-baarle,486,108,20,40,5,20
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,ALMEIDA João,rider/joao-almeida,10,2,2144.57,1055,630,486
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,BARONCINI Filippo,rider/filippo-baroncini,424,98,600,109,45,34
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,DEL TORO Isaac,rider/isaac-del-toro,55,18,1369,767,570,5
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,SIVAKOV Pavel,rider/pavel-sivakov,69,22,1118,196,423,56
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,VINE Jay,rider/jay-vine,380,92,785.57,158,36,32
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,YATES Adam,rider/adam-yates,16,6,2243,1088,876,364
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,MCNULTY Brandon,rider/brandon-mcnulty,12,4,2192.9,1135,555,244
-vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,SOLER Marc,rider/marc-soler,123,36,996.57,270,222,25
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,ARENSMAN Thymen,rider/thymen-arensman,103,27,1149,510,386,11
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,DE PLUS Laurens,rider/laurens-de-plus,124,37,602.86,461,361,192
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,HEIDUK Kim,rider/kim-heiduk,853,153,72,20,35,9
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,NARVÁEZ Jhonatan,rider/jhonatan-narvaez,36,13,1840,754,248,95
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RIVERA Brandon Smith,rider/brandon-smith-rivera-vargas,216,59,375,306,262,151
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,20,8,2280.86,1070,977,343
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Óscar,rider/oscar-rodriguez,357,90,247,159,219,31
-vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,TARLING Joshua,rider/joshua-tarling,77,24,764.86,345,15,175
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LANDA Mikel,rider/mikel-landa,27,11,2122,796,726,433
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,ASGREEN Kasper,rider/kasper-asgreen,355,89,420,154,90,18
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,CATTANEO Mattia,rider/mattia-cattaneo,184,48,301.57,25,63,0
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,KNOX James,rider/james-knox,755,142,29,21,40,0
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LECERF Junior,rider/junior-lecerf,260,73,332,211,159,5
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,PEDERSEN Casper,rider/casper-pedersen,524,113,98.57,71,30,0
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VANSEVENANT Mauri,rider/mauri-vansevenant,189,51,1050,319,208,10
-vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VERVAEKE Louis,rider/louis-vervaeke,434,100,106.57,69,53,0
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,19,7,2366,861,660,71
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,CICCONE Giulio,rider/giulio-ciccone,110,30,1253,460,285,282
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,GEOGHEGAN HART Tao,rider/tao-geoghegan-hart,449,104,163,131,143,0
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,KONRAD Patrick,rider/patrick-konrad,326,86,318,196,116,108
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,OOMEN Sam,rider/sam-oomen,749,141,188,33,38,8
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VACEK Mathias,rider/mathias-vacek,135,40,1190,444,223,157
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VERGAERDE Otto,rider/otto-vergaerde,806,148,13,25,30,0
-vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VERONA Carlos,rider/carlos-verona,290,81,257,223,231,80
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,O'CONNOR Ben,rider/ben-o-connor,25,10,3871,959,930,53
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,ARMIRAIL Bruno,rider/bruno-armirail,253,71,366.14,130,97,60
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BERTHET Clément,rider/clement-berthet,259,72,510,226,113,26
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BOUCHARD Geoffrey,rider/geoffrey-bouchard,-,176,8,0,25,0
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,DE PESTEL Sander,rider/sander-de-pestel,673,132,102,63,0,0
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GALL Felix,rider/felix-gall,109,29,869.14,493,335,206
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,LAFAY Victor,rider/victor-lafay,570,120,235,23,181,23
-vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,134,39,721,438,301,0
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ROGLIČ Primož,rider/primoz-roglic,11,3,3362,690,720,140
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ADRIÀ Roger,rider/roger-adria,220,63,1166,263,58,26
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ALEOTTI Giovanni,rider/giovanni-aleotti,153,43,529,300,363,13
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,DENZ Nico,rider/nico-denz,448,103,41,66,41,25
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,GAMPER Patrick,rider/patrick-gamper,494,109,48,65,35,7
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,LIPOWITZ Florian,rider/florian-lipowitz,156,44,1339,397,445,157
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez,65,20,1860,740,400,20
-vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VLASOV Aleksandr,rider/aleksandr-vlasov,15,5,2073,985,730,8
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,GROVES Kaden,rider/kaden-groves,48,16,1756,317,45,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,BALLERSTEDT Maurice,rider/maurice-ballerstedt,479,107,96,89,35,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,HERMANS Quinten,rider/quinten-hermans,185,49,711,261,40,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,HOLLMANN Juri,rider/juri-hollmann,802,147,71,35,35,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,MEURISSE Xandro,rider/xandro-meurisse,676,133,578,62,53,37
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,PLANCKAERT Edward,rider/edward-planckaert,616,125,63,32,45,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,RIESEBEEK Oscar,rider/oscar-riesebeek,950,161,0,25,35,0
-vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VERGALLITO Luca,rider/luca-vergallito,470,106,167,119,124,0
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,WOODS Michael,rider/michael-woods,218,61,827,151,19,80
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,BENNETT George,rider/george-bennett,217,60,502,279,207,91
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,FRIGO Marco,rider/marco-frigo,957,162,223,35,50,5
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,RAISBERG Nadav,rider/nadav-raisberg,-,169,61,22,25,2
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,RICCITELLO Matthew,rider/matthew-riccitello,222,64,553,282,227,33
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,SHEEHAN Riley,rider/riley-sheehan,112,32,509,297,36,0
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,STRONG Corbin,rider/corbin-strong,50,17,1625,553,115,179
-vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,TEUNS Dylan,rider/dylan-teuns,122,35,584,304,78,40
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN EETVELT Lennert,rider/lennert-van-eetvelt,66,21,1742,610,536,158
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,CAMPENAERTS Victor,rider/victor-campenaerts,196,53,581,207,50,163
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,DE GENDT Thomas,rider/thomas-de-gendt,916,158,0,9,25,4
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,KRON Andreas,rider/andreas-kron,144,41,103,59,10,34
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,LIVYNS Arjen,rider/arjen-livyns,558,119,159,52,42,17
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,MONIQUET Sylvain,rider/sylvain-moniquet,201,55,228,145,117,66
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,236,68,135,129,113,33
-vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,GREGAARD Jonas,rider/jonas-gregaard,992,165,10,24,34,2
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GAUDU David,rider/david-gaudu,225,66,1363,271,393,26
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,BYSTRØM Sven Erik,rider/sven-erik-bystrom,683,135,21,40,35,0
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GENIETS Kevin,rider/kevin-geniets,330,87,323,179,54,40
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GERMANI Lorenzo,rider/lorenzo-germani,587,123,19,59,52,0
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,KÜNG Stefan,rider/stefan-kung,47,15,2022,600,70,221
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,PACHER Quentin,rider/quentin-pacher,200,54,760,287,169,83
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,ROCHAS Rémy,rider/remy-rochas,176,46,130,94,43,28
-vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,THOMPSON Reuben,rider/reuben-thompson,667,131,59,61,45,0
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CARAPAZ Richard,rider/richard-carapaz,23,9,2244,792,532,448
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,COSTA Rui,rider/rui-costa,118,34,268,134,30,71
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,DOULL Owain,rider/owain-doull,299,84,142.29,97,35,2
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,RAFFERTY Darren,rider/darren-rafferty,447,102,319,122,65,31
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,SHAW James,rider/james-shaw,870,154,35,38,43,0
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,SWEENY Harry,rider/harry-sweeny,726,139,110.29,52,85,0
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,URÁN Rigoberto,rider/rigoberto-uran,511,112,99.29,82,59,0
-vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CEPEDA Jefferson Alexander,rider/jefferson-alexander-cepeda,219,62,243,177,170,135
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,MAS Enric,rider/enric-mas,34,12,2876,633,735,199
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,ARCAS Jorge,rider/jorge-arcas,640,128,0,25,35,0
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,CANAL Carlos,rider/carlos-canal,250,70,393,239,147,65
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,LAZKANO Oier,rider/oier-lazkano,129,38,697,398,125,92
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,OLIVEIRA Nelson,rider/nelson-oliveira,180,47,291,176,65,151
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,QUINTANA Nairo,rider/nairo-quintana,465,105,298,127,95,0
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,RUBIO Einer,rider/einer-rubio,92,25,794,401,334,7
-vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,SÁNCHEZ Pelayo,rider/pelayo-sanchez-mayo,151,42,620,340,123,0
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,TIBERI Antonio,rider/antonio-tiberi,59,19,1656,636,538,12
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,CARUSO Damiano,rider/damiano-caruso,224,65,195,144,119,0
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,GRADEK Kamil,rider/kamil-gradek,833,152,45.29,22,25,7
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,HAIG Jack,rider/jack-haig,361,91,257.29,168,221,50
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,KEPPLINGER Rainer,rider/rainer-kepplinger,503,110,60,87,75,0
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,MIHOLJEVIĆ Fran,rider/fran-miholjevic,-,168,3,30,25,0
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,SÜTTERLIN Jasha,rider/jasha-sutterlin,809,149,20.29,30,50,0
-vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,TRÆEN Torstein,rider/torstein-traeen,402,95,102,114,79,19
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DUNBAR Eddie,rider/edward-irl-dunbar,417,97,703,25,149,19
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,BERHE Welay Hagos,rider/welay-hagos-berhe,696,137,92,67,116,22
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DE MARCHI Alessandro,rider/alessandro-de-marchi,620,126,44,67,45,0
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,ENGELHARDT Felix,rider/felix-engelhardt,293,82,110,95,75,85
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,HARPER Chris,rider/chris-harper,205,57,381.71,250,174,0
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,SCHMID Mauro,rider/mauro-schmid,195,52,816,249,205,237
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,SCOTSON Callum,rider/callum-scotson,398,94,164,152,128,28
-vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,ZANA Filippo,rider/filippo-zana,114,33,785,335,270,5
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RODRÍGUEZ Cristián,rider/cristian-rodriguez,111,31,570,310,357,65
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GESBERT Élie,rider/elie-gesbert,886,156,5,0,5,0
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GUERNALEC Thibault,rider/thibault-guernalec,509,111,141,59,67,2
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GUGLIELMI Simon,rider/simon-guglielmi,-,170,164,21,26,1
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,HUYS Laurens,rider/laurens-huys,815,151,31,36,41,11
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,LE BERRE Mathis,rider/mathis-le-berre,603,124,136,67,30,18
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,OWSIAN Łukasz,rider/lukasz-owsian,772,143,6,25,30,0
-vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RIES Michel,rider/michel-ries,525,114,127,84,67,19
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MEINTJES Louis,rider/louis-meintjes,285,79,226,233,208,105
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,BRAET Vito,rider/vito-braet,281,77,470,214,20,0
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GOOSSENS Kobe,rider/kobe-goossens,530,115,120,101,30,25
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MARIT Arne,rider/arne-marit,277,75,201,87,35,0
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PAQUOT Tom,rider/tom-paquot,-,167,10,25,15,0
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PETILLI Simone,rider/simone-petilli,812,150,20,25,30,5
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,ROTA Lorenzo,rider/lorenzo-rota,204,56,610,202,23,27
-vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,TAARAMÄE Rein,rider/rein-taaramae,885,155,50,41,26,21
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,POOLE Max,rider/max-poole,206,58,1085,231,408,118
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BITTNER Pavel,rider/pavel-bittner,284,78,730,205,25,72
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,HAMILTON Chris,rider/chris-hamilton,280,76,196,127,60,5
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,LEEMREIZE Gijs,rider/gijs-leemreize,737,140,173,52,55,5
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,LEIJNSE Enzo,rider/enzo-leijnse,924,159,16,39,35,0
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,NABERMAN Tim,rider/tim-naberman,-,172,0,10,30,0
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,TUSVELD Martijn,rider/martijn-tusveld,-,166,26,25,30,0
-vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,VAN DEN BERG Julius,rider/julius-van-den-berg,713,138,5,10,25,0
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,MARTIN Guillaume,rider/guillaume-martin,72,23,805,503,367,196
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,CHAMPION Thomas,rider/thomas-champion,784,145,34,37,52,2
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,COQUARD Bryan,rider/bryan-coquard,98,26,795.71,380,45,119
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,FERNÁNDEZ Rubén,rider/ruben-fernandez-andujar,381,93,98,77,81,12
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,IZAGIRRE Ion,rider/ion-izagirre,227,67,1135.71,184,109,5
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,HERRADA Jesús,rider/jesus-herrada-lopez,296,83,127,77,35,7
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,LASTRA Jonathan,rider/jonathan-lastra,580,122,79,83,25,8
-vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,ELISSONDE Kenny,rider/kenny-elissonde,797,146,21,32,20,11
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,FORTUNATO Lorenzo,rider/lorenzo-fortunato,186,50,652,321,440,28
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BRUSSENSKIY Gleb,rider/gleb-brussenskiy,661,130,185,57,20,12
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,GAROFOLI Gianmarco,rider/gianmarco-garofoli,649,129,187,55,35,25
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,LÓPEZ Harold Martín,rider/harold-martin-lopez,312,85,207,163,196,0
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,SCHELLING Ide,rider/ide-schelling,978,163,20,33,20,5
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,TEJADA Harold,rider/harold-tejada,266,74,450.43,211,127,75
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,UMBA Santiago,rider/santiago-umba,638,127,68,73,80,63
-vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,VINOKUROV Nicolas,rider/nicolas-vinokurov,543,118,187,71,35,2
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,BERRADE Urko,rider/urko-berrade-fernandez,435,101,505,117,106,85
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,CASTRILLO Pablo,rider/pablo-castrillo-zapater,241,69,762,176,170,75
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,GUTIÉRREZ Jorge,rider/jorge-gutierrez-gonzalez,928,160,104,38,102,4
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,IRIBAR Unai,rider/unai-iribar-jauregi,981,164,192,33,115,21
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,MIQUEL Pau,rider/pau-miquel-delgado,338,88,682,189,25,45
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,PARRA José Félix,rider/jose-felix-parra,534,116,276,94,139,12
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,RUIZ Ibon,rider/ibon-ruiz,-,174,98,13,83,2
-vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,SOTO Antonio Jesús,rider/antonio-soto,-,173,91,13,20,0
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,JUARISTI Txomin,rider/txomin-juaristi,680,134,84,33,33,28
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,ABERASTURI Jon,rider/jon-aberasturi,433,99,312,121,12,33
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BERASATEGI Xabier,rider/xabier-berasategi-garmendia,536,117,173,75,29,6
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BIZKARRA Mikel,rider/mikel-bizkarra,578,121,194,79,159,33
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BOU Joan,rider/joan-bou,289,80,222,143,74,32
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,ISASA Xabier,rider/xabier-isasa-larranaga,-,175,8,10,25,5
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,MARTÍN Gotzon,rider/gotzon-martin,692,136,92,36,32,0
-vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,MATÉ Luis Ángel,rider/luis-angel-mate,774,144,55,55,41,22
+event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_gc_points_season,pcs_points_last_60d,pcs_gc_points
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KUSS Sepp,rider/sepp-kuss,40,14,581,341,365,185,1464.5
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,AFFINI Edoardo,rider/edoardo-affini,415,96,580.14,108,45,50,133.75
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,GESINK Robert,rider/robert-gesink,899,157,35,20,40,0,97.5
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,KRUIJSWIJK Steven,rider/steven-kruijswijk,-,171,90,15,90,0,279.75
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks,158,45,327,179,133,0,916
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VALTER Attila,rider/attila-valter,104,28,1048,436,243,192,554
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN AERT Wout,rider/wout-van-aert,7,1,2885,1020,80,549,410
+vuelta-a-espana,2024-08-17,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2024,VAN BAARLE Dylan,rider/dylan-van-baarle,486,108,20,40,5,20,173.5
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,ALMEIDA João,rider/joao-almeida,10,2,2144.57,1055,630,486,2986
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,BARONCINI Filippo,rider/filippo-baroncini,424,98,600,109,45,34,321.75
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,DEL TORO Isaac,rider/isaac-del-toro,55,18,1369,767,570,5,1220.75
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,SIVAKOV Pavel,rider/pavel-sivakov,69,22,1118,196,423,56,1090.5
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,VINE Jay,rider/jay-vine,380,92,785.57,158,36,32,673.5
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,YATES Adam,rider/adam-yates,16,6,2243,1088,876,364,2614.75
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,MCNULTY Brandon,rider/brandon-mcnulty,12,4,2192.9,1135,555,244,1655.75
+vuelta-a-espana,2024-08-17,UAE Team Emirates (WT),team/uae-team-emirates-2024,SOLER Marc,rider/marc-soler,123,36,996.57,270,222,25,820.5
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,ARENSMAN Thymen,rider/thymen-arensman,103,27,1149,510,386,11,1537.75
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,DE PLUS Laurens,rider/laurens-de-plus,124,37,602.86,461,361,192,704.25
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,HEIDUK Kim,rider/kim-heiduk,853,153,72,20,35,9,145
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,NARVÁEZ Jhonatan,rider/jhonatan-narvaez,36,13,1840,754,248,95,870
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RIVERA Brandon Smith,rider/brandon-smith-rivera-vargas,216,59,375,306,262,151,392.5
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,20,8,2280.86,1070,977,343,1988
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,RODRÍGUEZ Óscar,rider/oscar-rodriguez,357,90,247,159,219,31,296.25
+vuelta-a-espana,2024-08-17,INEOS Grenadiers (WT),team/ineos-grenadiers-2024,TARLING Joshua,rider/joshua-tarling,77,24,764.86,345,15,175,249.75
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LANDA Mikel,rider/mikel-landa,27,11,2122,796,726,433,2004.25
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,ASGREEN Kasper,rider/kasper-asgreen,355,89,420,154,90,18,304
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,CATTANEO Mattia,rider/mattia-cattaneo,184,48,301.57,25,63,0,352.5
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,KNOX James,rider/james-knox,755,142,29,21,40,0,299.5
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,LECERF Junior,rider/junior-lecerf,260,73,332,211,159,5,570.5
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,PEDERSEN Casper,rider/casper-pedersen,524,113,98.57,71,30,0,159.5
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VANSEVENANT Mauri,rider/mauri-vansevenant,189,51,1050,319,208,10,498.75
+vuelta-a-espana,2024-08-17,Soudal Quick-Step (WT),team/soudal-quick-step-2024,VERVAEKE Louis,rider/louis-vervaeke,434,100,106.57,69,53,0,138.25
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,19,7,2366,861,660,71,1650.75
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,CICCONE Giulio,rider/giulio-ciccone,110,30,1253,460,285,282,1105.5
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,GEOGHEGAN HART Tao,rider/tao-geoghegan-hart,449,104,163,131,143,0,808
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,KONRAD Patrick,rider/patrick-konrad,326,86,318,196,116,108,493
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,OOMEN Sam,rider/sam-oomen,749,141,188,33,38,8,255.5
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VACEK Mathias,rider/mathias-vacek,135,40,1190,444,223,157,494.5
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VERGAERDE Otto,rider/otto-vergaerde,806,148,13,25,30,0,88.75
+vuelta-a-espana,2024-08-17,Lidl - Trek (WT),team/lidl-trek-2024,VERONA Carlos,rider/carlos-verona,290,81,257,223,231,80,504
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,O'CONNOR Ben,rider/ben-o-connor,25,10,3871,959,930,53,2133.75
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,ARMIRAIL Bruno,rider/bruno-armirail,253,71,366.14,130,97,60,414.75
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BERTHET Clément,rider/clement-berthet,259,72,510,226,113,26,535.25
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,BOUCHARD Geoffrey,rider/geoffrey-bouchard,-,176,8,0,25,0,296.25
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,DE PESTEL Sander,rider/sander-de-pestel,673,132,102,63,0,0,43
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,GALL Felix,rider/felix-gall,109,29,869.14,493,335,206,1336
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,LAFAY Victor,rider/victor-lafay,570,120,235,23,181,23,261.25
+vuelta-a-espana,2024-08-17,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2024,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,134,39,721,438,301,0,497.25
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ROGLIČ Primož,rider/primoz-roglic,11,3,3362,690,720,140,2800
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ADRIÀ Roger,rider/roger-adria,220,63,1166,263,58,26,233.25
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,ALEOTTI Giovanni,rider/giovanni-aleotti,153,43,529,300,363,13,675.5
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,DENZ Nico,rider/nico-denz,448,103,41,66,41,25,133.5
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,GAMPER Patrick,rider/patrick-gamper,494,109,48,65,35,7,83.5
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,LIPOWITZ Florian,rider/florian-lipowitz,156,44,1339,397,445,157,1408.25
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez,65,20,1860,740,400,20,888.25
+vuelta-a-espana,2024-08-17,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2024,VLASOV Aleksandr,rider/aleksandr-vlasov,15,5,2073,985,730,8,1741.5
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,GROVES Kaden,rider/kaden-groves,48,16,1756,317,45,0,175
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,BALLERSTEDT Maurice,rider/maurice-ballerstedt,479,107,96,89,35,0,71.25
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,HERMANS Quinten,rider/quinten-hermans,185,49,711,261,40,0,264.5
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,HOLLMANN Juri,rider/juri-hollmann,802,147,71,35,35,0,67
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,MEURISSE Xandro,rider/xandro-meurisse,676,133,578,62,53,37,292.5
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,PLANCKAERT Edward,rider/edward-planckaert,616,125,63,32,45,0,140
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,RIESEBEEK Oscar,rider/oscar-riesebeek,950,161,0,25,35,0,88
+vuelta-a-espana,2024-08-17,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2024,VERGALLITO Luca,rider/luca-vergallito,470,106,167,119,124,0,256.25
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,WOODS Michael,rider/michael-woods,218,61,827,151,19,80,466.25
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,BENNETT George,rider/george-bennett,217,60,502,279,207,91,554
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,FRIGO Marco,rider/marco-frigo,957,162,223,35,50,5,300.5
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,RAISBERG Nadav,rider/nadav-raisberg,-,169,61,22,25,2,45
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,RICCITELLO Matthew,rider/matthew-riccitello,222,64,553,282,227,33,629.75
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,SHEEHAN Riley,rider/riley-sheehan,112,32,509,297,36,0,136.75
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,STRONG Corbin,rider/corbin-strong,50,17,1625,553,115,179,540.75
+vuelta-a-espana,2024-08-17,Israel - Premier Tech (PRT),team/israel-premier-tech-2024,TEUNS Dylan,rider/dylan-teuns,122,35,584,304,78,40,630
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,VAN EETVELT Lennert,rider/lennert-van-eetvelt,66,21,1742,610,536,158,913
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,CAMPENAERTS Victor,rider/victor-campenaerts,196,53,581,207,50,163,267.5
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,DE GENDT Thomas,rider/thomas-de-gendt,916,158,0,9,25,4,88.75
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,KRON Andreas,rider/andreas-kron,144,41,103,59,10,34,140.5
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,LIVYNS Arjen,rider/arjen-livyns,558,119,159,52,42,17,83
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,MONIQUET Sylvain,rider/sylvain-moniquet,201,55,228,145,117,66,483.25
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,236,68,135,129,113,33,448.5
+vuelta-a-espana,2024-08-17,Lotto Dstny (PRT),team/lotto-dstny-2024,GREGAARD Jonas,rider/jonas-gregaard,992,165,10,24,34,2,188.25
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GAUDU David,rider/david-gaudu,225,66,1363,271,393,26,1176.75
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,BYSTRØM Sven Erik,rider/sven-erik-bystrom,683,135,21,40,35,0,288
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GENIETS Kevin,rider/kevin-geniets,330,87,323,179,54,40,294.5
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,GERMANI Lorenzo,rider/lorenzo-germani,587,123,19,59,52,0,144
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,KÜNG Stefan,rider/stefan-kung,47,15,2022,600,70,221,486.5
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,PACHER Quentin,rider/quentin-pacher,200,54,760,287,169,83,300.5
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,ROCHAS Rémy,rider/remy-rochas,176,46,130,94,43,28,440.75
+vuelta-a-espana,2024-08-17,Groupama - FDJ (WT),team/groupama-fdj-2024,THOMPSON Reuben,rider/reuben-thompson,667,131,59,61,45,0,144.75
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CARAPAZ Richard,rider/richard-carapaz,23,9,2244,792,532,448,1233.5
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,COSTA Rui,rider/rui-costa,118,34,268,134,30,71,318.75
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,DOULL Owain,rider/owain-doull,299,84,142.29,97,35,2,109
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,RAFFERTY Darren,rider/darren-rafferty,447,102,319,122,65,31,132.25
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,SHAW James,rider/james-shaw,870,154,35,38,43,0,299
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,SWEENY Harry,rider/harry-sweeny,726,139,110.29,52,85,0,165.75
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,URÁN Rigoberto,rider/rigoberto-uran,511,112,99.29,82,59,0,480.25
+vuelta-a-espana,2024-08-17,EF Education - EasyPost (WT),team/ef-education-easypost-2024,CEPEDA Jefferson Alexander,rider/jefferson-alexander-cepeda,219,62,243,177,170,135,476.5
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,MAS Enric,rider/enric-mas,34,12,2876,633,735,199,2078.5
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,ARCAS Jorge,rider/jorge-arcas,640,128,0,25,35,0,98.75
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,CANAL Carlos,rider/carlos-canal,250,70,393,239,147,65,371
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,LAZKANO Oier,rider/oier-lazkano,129,38,697,398,125,92,331.5
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,OLIVEIRA Nelson,rider/nelson-oliveira,180,47,291,176,65,151,207.25
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,QUINTANA Nairo,rider/nairo-quintana,465,105,298,127,95,0,457
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,RUBIO Einer,rider/einer-rubio,92,25,794,401,334,7,1205
+vuelta-a-espana,2024-08-17,Movistar Team (WT),team/movistar-team-2024,SÁNCHEZ Pelayo,rider/pelayo-sanchez-mayo,151,42,620,340,123,0,180.5
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,TIBERI Antonio,rider/antonio-tiberi,59,19,1656,636,538,12,1251.75
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,CARUSO Damiano,rider/damiano-caruso,224,65,195,144,119,0,1132
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,GRADEK Kamil,rider/kamil-gradek,833,152,45.29,22,25,7,102.5
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,HAIG Jack,rider/jack-haig,361,91,257.29,168,221,50,893.25
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,KEPPLINGER Rainer,rider/rainer-kepplinger,503,110,60,87,75,0,263.75
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,MIHOLJEVIĆ Fran,rider/fran-miholjevic,-,168,3,30,25,0,87
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,SÜTTERLIN Jasha,rider/jasha-sutterlin,809,149,20.29,30,50,0,129.75
+vuelta-a-espana,2024-08-17,Bahrain - Victorious (WT),team/bahrain-victorious-2024,TRÆEN Torstein,rider/torstein-traeen,402,95,102,114,79,19,478.75
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DUNBAR Eddie,rider/edward-irl-dunbar,417,97,703,25,149,19,590.25
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,BERHE Welay Hagos,rider/welay-hagos-berhe,696,137,92,67,116,22,175
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,DE MARCHI Alessandro,rider/alessandro-de-marchi,620,126,44,67,45,0,126
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,ENGELHARDT Felix,rider/felix-engelhardt,293,82,110,95,75,85,283.25
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,HARPER Chris,rider/chris-harper,205,57,381.71,250,174,0,535.25
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,SCHMID Mauro,rider/mauro-schmid,195,52,816,249,205,237,645.75
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,SCOTSON Callum,rider/callum-scotson,398,94,164,152,128,28,316.75
+vuelta-a-espana,2024-08-17,Team Jayco AlUla (WT),team/team-jayco-alula-2024,ZANA Filippo,rider/filippo-zana,114,33,785,335,270,5,690.25
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RODRÍGUEZ Cristián,rider/cristian-rodriguez,111,31,570,310,357,65,921.25
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GESBERT Élie,rider/elie-gesbert,886,156,5,0,5,0,165.5
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GUERNALEC Thibault,rider/thibault-guernalec,509,111,141,59,67,2,254.75
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,GUGLIELMI Simon,rider/simon-guglielmi,-,170,164,21,26,1,104.25
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,HUYS Laurens,rider/laurens-huys,815,151,31,36,41,11,150
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,LE BERRE Mathis,rider/mathis-le-berre,603,124,136,67,30,18,118
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,OWSIAN Łukasz,rider/lukasz-owsian,772,143,6,25,30,0,112.75
+vuelta-a-espana,2024-08-17,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2024,RIES Michel,rider/michel-ries,525,114,127,84,67,19,131.25
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MEINTJES Louis,rider/louis-meintjes,285,79,226,233,208,105,816.5
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,BRAET Vito,rider/vito-braet,281,77,470,214,20,0,65
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,GOOSSENS Kobe,rider/kobe-goossens,530,115,120,101,30,25,156.5
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,MARIT Arne,rider/arne-marit,277,75,201,87,35,0,72
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PAQUOT Tom,rider/tom-paquot,-,167,10,25,15,0,38.5
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,PETILLI Simone,rider/simone-petilli,812,150,20,25,30,5,116
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,ROTA Lorenzo,rider/lorenzo-rota,204,56,610,202,23,27,335
+vuelta-a-espana,2024-08-17,Intermarché - Wanty (WT),team/intermarche-wanty-2024,TAARAMÄE Rein,rider/rein-taaramae,885,155,50,41,26,21,237.25
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,POOLE Max,rider/max-poole,206,58,1085,231,408,118,963.75
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,BITTNER Pavel,rider/pavel-bittner,284,78,730,205,25,72,82.5
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,HAMILTON Chris,rider/chris-hamilton,280,76,196,127,60,5,227.75
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,LEEMREIZE Gijs,rider/gijs-leemreize,737,140,173,52,55,5,200.75
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,LEIJNSE Enzo,rider/enzo-leijnse,924,159,16,39,35,0,50
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,NABERMAN Tim,rider/tim-naberman,-,172,0,10,30,0,63.75
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,TUSVELD Martijn,rider/martijn-tusveld,-,166,26,25,30,0,82.25
+vuelta-a-espana,2024-08-17,Team dsm-firmenich PostNL (WT),team/team-dsm-firmenich-postnl-2024,VAN DEN BERG Julius,rider/julius-van-den-berg,713,138,5,10,25,0,93.75
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,MARTIN Guillaume,rider/guillaume-martin,72,23,805,503,367,196,1344
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,CHAMPION Thomas,rider/thomas-champion,784,145,34,37,52,2,127.25
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,COQUARD Bryan,rider/bryan-coquard,98,26,795.71,380,45,119,191.25
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,FERNÁNDEZ Rubén,rider/ruben-fernandez-andujar,381,93,98,77,81,12,256.75
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,IZAGIRRE Ion,rider/ion-izagirre,227,67,1135.71,184,109,5,593.5
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,HERRADA Jesús,rider/jesus-herrada-lopez,296,83,127,77,35,7,393
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,LASTRA Jonathan,rider/jonathan-lastra,580,122,79,83,25,8,210.5
+vuelta-a-espana,2024-08-17,Cofidis (WT),team/cofidis-2024,ELISSONDE Kenny,rider/kenny-elissonde,797,146,21,32,20,11,168.25
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,FORTUNATO Lorenzo,rider/lorenzo-fortunato,186,50,652,321,440,28,1174
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,BRUSSENSKIY Gleb,rider/gleb-brussenskiy,661,130,185,57,20,12,28.75
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,GAROFOLI Gianmarco,rider/gianmarco-garofoli,649,129,187,55,35,25,79.5
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,LÓPEZ Harold Martín,rider/harold-martin-lopez,312,85,207,163,196,0,788.5
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,SCHELLING Ide,rider/ide-schelling,978,163,20,33,20,5,93.75
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,TEJADA Harold,rider/harold-tejada,266,74,450.43,211,127,75,617.25
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,UMBA Santiago,rider/santiago-umba,638,127,68,73,80,63,137.25
+vuelta-a-espana,2024-08-17,Astana Qazaqstan Team (WT),team/astana-qazaqstan-team-2024,VINOKUROV Nicolas,rider/nicolas-vinokurov,543,118,187,71,35,2,81
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,BERRADE Urko,rider/urko-berrade-fernandez,435,101,505,117,106,85,326
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,CASTRILLO Pablo,rider/pablo-castrillo-zapater,241,69,762,176,170,75,607.75
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,GUTIÉRREZ Jorge,rider/jorge-gutierrez-gonzalez,928,160,104,38,102,4,121
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,IRIBAR Unai,rider/unai-iribar-jauregi,981,164,192,33,115,21,191
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,MIQUEL Pau,rider/pau-miquel-delgado,338,88,682,189,25,45,54.5
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,PARRA José Félix,rider/jose-felix-parra,534,116,276,94,139,12,357
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,RUIZ Ibon,rider/ibon-ruiz,-,174,98,13,83,2,154
+vuelta-a-espana,2024-08-17,Equipo Kern Pharma (PRT),team/equipo-kern-pharma-2024,SOTO Antonio Jesús,rider/antonio-soto,-,173,91,13,20,0,74
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,JUARISTI Txomin,rider/txomin-juaristi,680,134,84,33,33,28,283
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,ABERASTURI Jon,rider/jon-aberasturi,433,99,312,121,12,33,34.5
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BERASATEGI Xabier,rider/xabier-berasategi-garmendia,536,117,173,75,29,6,82
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BIZKARRA Mikel,rider/mikel-bizkarra,578,121,194,79,159,33,382.25
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,BOU Joan,rider/joan-bou,289,80,222,143,74,32,281.75
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,ISASA Xabier,rider/xabier-isasa-larranaga,-,175,8,10,25,5,50.5
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,MARTÍN Gotzon,rider/gotzon-martin,692,136,92,36,32,0,101.75
+vuelta-a-espana,2024-08-17,Euskaltel - Euskadi (PRT),team/euskaltel-euskadi-2024,MATÉ Luis Ángel,rider/luis-angel-mate,774,144,55,55,41,22,103

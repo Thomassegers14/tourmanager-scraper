@@ -35,7 +35,7 @@ scrape_rider_form <- function(rider_id, event_date, event_year) {
     
 
   # Scrape rider results
-  rider_gc_points <- read_html(glue("https://www.procyclingstats.com/rider.php?id={rider_php_id}&p=results&s=&xseason={event_year - 2}&pxseason=largerorequal&sort=date&type=4")) %>%
+  rider_gc_points <- read_html(glue("https://www.procyclingstats.com/rider.php?id={rider_php_id}&p=results&s=&xseason={event_year - 3}&pxseason=largerorequal&sort=date&type=4")) %>%
     html_element(".basic") %>%
     html_table() %>%
     transmute(
@@ -48,10 +48,10 @@ scrape_rider_form <- function(rider_id, event_date, event_year) {
     summarise(
       pcs_gc_points = sum(
         case_when(
-          year(date) <= year(event_date) - 2 ~ pcs_points * 0.5,
-          year(date) <= year(event_date) - 1 ~ pcs_points * 0.75,
-          date <= event_date ~ pcs_points,
-          TRUE ~ 0
+          date <= event_date - years(3) ~ 0,
+          date <= event_date - years(2) ~ pcs_points * 0.5,
+          date <= event_date - years(1) ~ pcs_points * 0.75,
+          TRUE ~ pcs_points
           ),
         na.rm = T
       )
