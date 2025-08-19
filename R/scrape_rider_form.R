@@ -26,14 +26,39 @@ scrape_rider_form <- function(rider_id, event_date, event_year) {
     ) %>%
     filter(!is.na(date)) %>%
     summarise(
-      uci_points          = sum(uci_points, na.rm = TRUE),
-      pcs_points_season   = sum(pcs_points[date <= event_date], na.rm = TRUE),
-      pcs_gc_points       = sum(pcs_points[grepl("General classification", race_name)], na.rm = TRUE),
-      pcs_points_last_60d = sum(pcs_points[date <= event_date & date >= event_date - 60], na.rm = TRUE)
+      uci_points            = sum(uci_points, na.rm = TRUE),
+      pcs_points_season     = sum(pcs_points[date <= event_date], na.rm = TRUE),
+      pcs_gc_points_season  = sum(pcs_points[grepl("General classification", race_name)], na.rm = TRUE),
+      pcs_points_last_60d   = sum(pcs_points[date <= event_date & date >= event_date - 60], na.rm = TRUE)
+    )
+
+    
+
+  # Scrape rider results
+  rider_gc_points <- read_html(glue("https://www.procyclingstats.com/rider.php?id={rider_php_id}&p=results&s=&xseason={event_year - 2}&pxseason=largerorequal&sort=date&type=4")) %>%
+    html_element(".basic") %>%
+    html_table() %>%
+    transmute(
+      date       = as.Date(Date),
+      race_name  = Race,
+      pcs_points = suppressWarnings(as.numeric(`PCS points`)),
+      uci_points = suppressWarnings(as.numeric(`UCI points`))
+    ) %>%
+    filter(!is.na(date)) %>%
+    summarise(
+      pcs_gc_points = sum(
+        case_when(
+          year(date) <= year(event_date) - 2 ~ pcs_points * 0.5,
+          year(date) <= year(event_date) - 1 ~ pcs_points * 0.75,
+          date <= event_date ~ pcs_points,
+          TRUE ~ 0
+          ),
+        na.rm = T
+      )
     )
 
   # Return dataframe
-  data.frame(rider_id = rider_id, rider_points)
+  data.frame(rider_id = rider_id, rider_points, rider_gc_points)
 }
 
 # Safe wrapper to catch errors and return NA row
@@ -44,6 +69,7 @@ safe_scrape_rider_form <- purrr::possibly(
     uci_points = NA,
     pcs_points_season = NA,
     pcs_gc_points = NA,
+    pcs_gc_points_season = NA,
     pcs_points_last_60d = NA
   )
 )
