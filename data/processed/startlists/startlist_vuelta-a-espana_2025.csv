@@ -1,152 +1,172 @@
 event_id,event_date,team_name,team_id,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_points_last_60d,pcs_gc_points,pcs_gc_points_season,pcs_sprint_points,pcs_sprint_points_season
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,BELOKI Markel,rider/markel-beloki,827,130,55,42,37,222.25,42,85.75,0
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,CHAVES Esteban,rider/johan-esteban-chaves,377,77,223,147,28,264.5,83,0,0
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,MIHKELS Madis,rider/madis-mihkels,187,48,460,236,30,31.25,10,432.75,272
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,NERURKAR Lukas,rider/lukas-nerurkar,297,69,155,99,58,105.75,82,3.75,0
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,QUINN Sean,rider/sean-quinn,-,143,0,0,0,85.75,16,0,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,BELOKI Markel,rider/markel-beloki,827,147,55,42,37,222.25,42,85.75,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,CHAVES Esteban,rider/johan-esteban-chaves,377,83,223,147,28,264.5,83,0,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,MIHKELS Madis,rider/madis-mihkels,187,47,460,236,30,31.25,10,432.75,272
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,NERURKAR Lukas,rider/lukas-nerurkar,297,70,155,99,58,105.75,82,3.75,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,QUINN Sean,rider/sean-quinn,-,161,0,0,0,85.75,16,0,0
 vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,RYAN Archie,rider/archie-ryan,204,52,194,170,108,265.75,168,0,0
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,SHAW James,rider/james-shaw,448,88,101,106,9,168.25,100,2.5,0
-vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VAN DER LEE Jardi Christiaan,rider/jardi-christiaan-van-der-lee,-,142,18,27,12,49,15,0,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,SHAW James,rider/james-shaw,448,96,101,106,9,168.25,100,2.5,0
+vuelta-a-espana,2025-08-23,EF Education - EasyPost (WT),team/ef-education-easypost-2025,VAN DER LEE Jardi Christiaan,rider/jardi-christiaan-van-der-lee,-,160,18,27,12,49,15,0,0
 vuelta-a-espana,2025-08-23,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,HERMANS Quinten,rider/quinten-hermans,192,49,303,223,50,154.5,82,105,50
-vuelta-a-espana,2025-08-23,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,GHYS Robbe,rider/robbe-ghys,798,127,60,50,0,55,5,77,40
-vuelta-a-espana,2025-08-23,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PLANCKAERT Edward,rider/edward-planckaert,461,92,142,90,0,97.5,50,30.25,16
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,CONCI Nicola,rider/nicola-conci,501,98,187,104,5,140.5,53,3,3
+vuelta-a-espana,2025-08-23,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,GHYS Robbe,rider/robbe-ghys,798,144,60,50,0,55,5,77,40
+vuelta-a-espana,2025-08-23,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,PLANCKAERT Edward,rider/edward-planckaert,461,100,142,90,0,97.5,50,30.25,16
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,GUERNALEC Victor,rider/victor-guernalec,650,128,60,69,5,27.5,15,0,0
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,BIERMANS Jenthe,rider/jenthe-biermans,227,57,388,238,7,12.5,0,207,54
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,GARCÍA PIERNA Raúl,rider/raul-garcia-pierna,303,71,257,213,78,309.25,135,0,0
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,ROULAND Louis,rider/louis-rouland,569,119,83,83,56,64.75,48,0,0
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,THIERRY Pierre,rider/pierre-thierry,905,152,10,30,0,21.5,10,16.25,10
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,RODRÍGUEZ Cristián,rider/cristian-rodriguez,102,25,526,392,110,690.25,303,0.75,0
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,VERRE Alessandro,rider/alessandro-verre,492,107,140,90,5,111.75,35,0,0
+vuelta-a-espana,2025-08-23,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,LOZOUET Léandre,rider/leandre-lozouet,702,135,5,30,0,5,5,47,47
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,CONCI Nicola,rider/nicola-conci,501,108,187,104,5,140.5,53,3,3
 vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,FORTUNATO Lorenzo,rider/lorenzo-fortunato,34,10,1307,750,126,904,551,30,30
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,HIGUITA Sergio,rider/sergio-higuita,250,61,210,228,164,564.75,222,0,0
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,LÓPEZ Harold Martín,rider/harold-martin-lopez,67,17,763,639,102,714.5,540,38,38
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,MASNADA Fausto,rider/fausto-masnada,838,131,28,25,0,66.25,25,0,0
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,HIGUITA Sergio,rider/sergio-higuita,250,62,210,228,164,564.75,222,0,0
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,LÓPEZ Harold Martín,rider/harold-martin-lopez,67,16,763,639,102,714.5,540,38,38
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,MASNADA Fausto,rider/fausto-masnada,838,148,28,25,0,66.25,25,0,0
 vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,POELS Wout,rider/wout-poels,207,53,339,304,0,707.25,267,2,0
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,TEJADA Harold,rider/harold-tejada,148,39,460,348,61,478.25,278,4,4
-vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,VINOKUROV Nicolas,rider/nicolas-vinokurov,825,129,84,27,9,69.25,34,18.75,0
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,TEJADA Harold,rider/harold-tejada,148,38,460,348,61,478.25,278,4,4
+vuelta-a-espana,2025-08-23,XDS Astana Team (WT),team/xds-astana-team-2025,VINOKUROV Nicolas,rider/nicolas-vinokurov,825,146,84,27,9,69.25,34,18.75,0
 vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,TIBERI Antonio,rider/antonio-tiberi,47,12,1070,604,238,1059.5,601,1.5,0
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,CARUSO Damiano,rider/damiano-caruso,156,41,896,402,39,671.5,265,12,12
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,TRÆEN Torstein,rider/torstein-traeen,463,93,107,97,62,311,106,0,0
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,79,20,835,581,80,887.5,295,4.5,0
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BURATTI Nicolò,rider/nicolo-buratti,722,123,59,44,1,32.75,11,18,8
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,ERMAKOV Roman,rider/roman-ermakov,718,122,8,30,5,10,10,5,5
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,HAIG Jack,rider/jack-haig,390,80,132,95,5,475.25,129,0,0
-vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,PAASSCHENS Mathijs,rider/mathijs-paasschens,959,137,6,30,0,84.25,25,6.75,0
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,CARR Simon,rider/simon-carr,-,147,19,14,14,132.5,0,5,5
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,CARUSO Damiano,rider/damiano-caruso,156,40,896,402,39,671.5,265,12,12
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,TRÆEN Torstein,rider/torstein-traeen,463,101,107,97,62,311,106,0,0
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BUITRAGO Santiago,rider/santiago-buitrago-sanchez,79,18,835,581,80,887.5,295,4.5,0
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,BURATTI Nicolò,rider/nicolo-buratti,722,139,59,44,1,32.75,11,18,8
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,ERMAKOV Roman,rider/roman-ermakov,718,138,8,30,5,10,10,5,5
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,HAIG Jack,rider/jack-haig,390,87,132,95,5,475.25,129,0,0
+vuelta-a-espana,2025-08-23,Bahrain - Victorious (WT),team/bahrain-victorious-2025,PAASSCHENS Mathijs,rider/mathijs-paasschens,959,155,6,30,0,84.25,25,6.75,0
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,CARR Simon,rider/simon-carr,-,166,19,14,14,132.5,0,5,5
 vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,ANIOŁKOWSKI Stanisław,rider/stanislaw-aniolkowski,224,56,325,206,14,53.75,0,427.75,251
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,BUCHMANN Emanuel,rider/emanuel-buchmann,347,74,247,186,51,432.75,144,0,0
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,COQUARD Bryan,rider/bryan-coquard,139,37,535,394,48,144.25,48,261,58
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,HERRADA Jesús,rider/jesus-herrada-lopez,309,71,265,197,65,236.25,81,60.25,55
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,KNIGHT Oliver,rider/oliver-knight,409,83,193,144,129,101.5,100,5,5
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,OURSELIN Paul,rider/paul-ourselin,565,104,13,35,0,117,70,6.5,5
-vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,SAMITIER Sergio,rider/sergio-samitier,616,110,37,59,5,64.5,40,2.5,0
-vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BISIAUX Léo,rider/leo-bisiaux,316,73,263,204,153,1120.75,116,96.5,0
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,BUCHMANN Emanuel,rider/emanuel-buchmann,347,80,247,186,51,432.75,144,0,0
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,COQUARD Bryan,rider/bryan-coquard,139,36,535,394,48,144.25,48,261,58
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,HERRADA Jesús,rider/jesus-herrada-lopez,309,74,265,197,65,236.25,81,60.25,55
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,KNIGHT Oliver,rider/oliver-knight,409,90,193,144,129,101.5,100,5,5
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,OURSELIN Paul,rider/paul-ourselin,565,117,13,35,0,117,70,6.5,5
+vuelta-a-espana,2025-08-23,Cofidis (WT),team/cofidis-2025,SAMITIER Sergio,rider/sergio-samitier,616,124,37,59,5,64.5,40,2.5,0
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,BISIAUX Léo,rider/leo-bisiaux,316,76,263,204,153,1120.75,116,96.5,0
 vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,GALL Felix,rider/felix-gall,41,11,1601.43,853,440,1048.75,571,0,0
-vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,PETERS Nans,rider/nans-peters,654,115,43,58,5,141.5,55,5,5
-vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,STAUNE-MITTET Johannes,rider/johannes-staune-mittet,268,65,203,195,68,287,214,2.5,0
-vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,DE PESTEL Sander,rider/sander-de-pestel,642,113,69.43,55,5,35,23,47.5,10
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,MARTIN Guillaume,rider/guillaume-martin,62,15,752,613,144,834.75,439,0,0
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,GAUDU David,rider/david-gaudu,75,19,185,177,12,762.25,395,0,0
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,ROLLAND Brieuc,rider/brieuc-rolland,660,117,79,50,5,86.75,29,0,0
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,CAVAGNA Rémi,rider/remi-cavagna,655,116,46,58,0,169.5,35,7.5,0
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,GRUEL Thibaud,rider/thibaud-gruel,141,38,443,354,33,218,193,30,17
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,KÜNG Stefan,rider/stefan-kung,65,16,508,241,12,230,40,294,51
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,MOLARD Rudy,rider/rudy-molard,305,70,56,71,47,217.5,50,5,5
-vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,BRAZ AFONSO Clément,rider/clement-braz-afonso,459,90,172,107,5,52.5,24,0,0
-vuelta-a-espana,2025-08-23,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,BERNAL Egan,rider/egan-bernal,124,31,978,469,64,919.75,340,0,0
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,PETERS Nans,rider/nans-peters,654,130,43,58,5,141.5,55,5,5
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,STAUNE-MITTET Johannes,rider/johannes-staune-mittet,268,66,203,195,68,287,214,2.5,0
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,DE PESTEL Sander,rider/sander-de-pestel,642,127,69.43,55,5,35,23,47.5,10
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,ARMIRAIL Bruno,rider/bruno-armirail,317,77,211.43,135,80,272.75,98,0,0
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,LABROSSE Jordan,rider/jordan-labrosse,509,110,137,107,23,17,10,3.75,0
+vuelta-a-espana,2025-08-23,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,SCOTSON Callum,rider/callum-scotson,506,109,98.43,107,35,243.5,90,7,7
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,MARTIN Guillaume,rider/guillaume-martin,62,14,752,613,144,834.75,439,0,0
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,GAUDU David,rider/david-gaudu,75,17,185,177,12,762.25,395,0,0
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,ROLLAND Brieuc,rider/brieuc-rolland,660,132,79,50,5,86.75,29,0,0
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,CAVAGNA Rémi,rider/remi-cavagna,655,131,46,58,0,169.5,35,7.5,0
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,GRUEL Thibaud,rider/thibaud-gruel,141,37,443,354,33,218,193,30,17
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,KÜNG Stefan,rider/stefan-kung,65,15,508,241,12,230,40,294,51
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,MOLARD Rudy,rider/rudy-molard,305,73,56,71,47,217.5,50,5,5
+vuelta-a-espana,2025-08-23,Groupama - FDJ (WT),team/groupama-fdj-2025,BRAZ AFONSO Clément,rider/clement-braz-afonso,459,98,172,107,5,52.5,24,0,0
+vuelta-a-espana,2025-08-23,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,BERNAL Egan,rider/egan-bernal,124,30,978,469,64,919.75,340,0,0
 vuelta-a-espana,2025-08-23,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,GANNA Filippo,rider/filippo-ganna,33,9,1837,788,15,515,270,166.5,38
-vuelta-a-espana,2025-08-23,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,KWIATKOWSKI Michał,rider/michal-kwiatkowski,481,97,165,116,5,174.25,5,0,0
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,ARTZ Huub,rider/huub-artz,407,82,147,111,14,95,65,102,54
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BONNEU Kamiel,rider/kamiel-bonneu,993,138,18,32,0,211.5,15,0,0
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,DE POOTER Dries,rider/dries-de-pooter,-,139,39,31,5,36.25,15,15.25,5
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,MARIT Arne,rider/arne-marit,266,64,276,200,2,56.5,25,171.75,55
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,MEINTJES Louis,rider/louis-meintjes,393,81,106,115,0,459.5,143,0,0
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,PETILLI Simone,rider/simone-petilli,713,121,15,35,5,86.5,50,0,0
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,SMITH Dion,rider/dion-smith,460,91,151,112,0,74.25,28,5,0
-vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN BOVEN Luca,rider/luca-van-boven,446,87,122,123,20,100,31,32.5,16
+vuelta-a-espana,2025-08-23,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,KWIATKOWSKI Michał,rider/michal-kwiatkowski,481,105,165,116,5,174.25,5,0,0
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,ARTZ Huub,rider/huub-artz,407,89,147,111,14,95,65,102,54
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,BONNEU Kamiel,rider/kamiel-bonneu,993,156,18,32,0,211.5,15,0,0
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,DE POOTER Dries,rider/dries-de-pooter,-,157,39,31,5,36.25,15,15.25,5
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,MARIT Arne,rider/arne-marit,266,65,276,200,2,56.5,25,171.75,55
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,MEINTJES Louis,rider/louis-meintjes,393,88,106,115,0,459.5,143,0,0
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,PETILLI Simone,rider/simone-petilli,713,137,15,35,5,86.5,50,0,0
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,SMITH Dion,rider/dion-smith,460,99,151,112,0,74.25,28,5,0
+vuelta-a-espana,2025-08-23,Intermarché - Wanty (WT),team/intermarche-wanty-2025,VAN BOVEN Luca,rider/luca-van-boven,446,95,122,123,20,100,31,32.5,16
 vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,PEDERSEN Mads,rider/mads-pedersen,2,1,4174.57,1884,277,684,429,1467,668
 vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,CICCONE Giulio,rider/giulio-ciccone,20,6,1946,1063,343,821.75,390,30,30
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,422,86,200,117,80,280.75,102,43,24
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,GHEBREIGZABHIER Amanuel,rider/amanuel-ghebreigzabhier,557,103,94.86,61,21,105.5,57,0,0
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,VERONA Carlos,rider/carlos-verona,387,79,251,122,5,265.25,45,5.25,0
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,BERNARD Julien,rider/julien-bernard,537,101,77.57,43,5,128.5,10,0,0
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,BAGIOLI Andrea,rider/andrea-bagioli,135,35,768,409,54,78.5,35,15,0
-vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,HOOLE Daan,rider/daan-hoole,242,57,380.43,221,20,78,35,61,36
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CASTRILLO Pablo,rider/pablo-castrillo-zapater,91,25,362.71,341,40,531.5,342,7,7
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,AULAR Orluis,rider/orluis-aular,85,23,749,334,30,280.5,112,144.5,82
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CANAL Carlos,rider/carlos-canal,155,40,447,340,92,315.25,205,49.5,15
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,310,72,231.71,146,5,353.5,119,0,0
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,ARCAS Jorge,rider/jorge-arcas,898,134,3,20,0,73.75,40,0,0
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,ROMO Javier,rider/javier-romo,104,27,833,463,3,451.25,265,0,0
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,274,67,337.71,225,31,67.5,40,194.75,50
-vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,HESSMANN Michel,rider/michel-hessmann,-,145,3,20,0,38.5,15,0,0
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,HINDLEY Jai,rider/jai-hindley,178,45,370.71,265,1,907,216,0,0
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN DIJKE Tim,rider/tim-van-dijke,567,105,135,90,4,73,5,171,37
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,PELLIZZARI Giulio,rider/giulio-pellizzari,106,28,760,392,94,526,324,1,1
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ALEOTTI Giovanni,rider/giovanni-aleotti,246,60,162.71,138,69,507,233,5,5
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,SOBRERO Matteo,rider/matteo-sobrero,275,68,371.71,228,186,293.5,173,9.5,5
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,DENZ Nico,rider/nico-denz,376,76,257.71,165,0,85.75,25,45.75,8
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,FISHER-BLACK Finn,rider/finn-fisher-black,137,36,680,433,9,525.25,280,40,34
-vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ZWIEHOFF Ben,rider/ben-zwiehoff,586,107,58,58,14,362.5,32,3.5,0
-vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LANDA Mikel,rider/mikel-landa,84,22,502,334,12,1394.5,422,0,0
-vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VERVAEKE Louis,rider/louis-vervaeke,618,111,31,53,0,88.25,20,5,5
-vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,183,46,525,343,139,408.25,165,3,0
-vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,REINDERINK Pepijn,rider/pepijn-reinderink,791,125,13,44,9,22.5,15,6.5,0
-vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LECERF Junior,rider/junior-lecerf,127,32,444,410,133,512.25,370,13,3
-vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,POOLE Max,rider/max-poole,73,18,425,281,0,749,421,5,5
-vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,KOERDT Bjorn,rider/bjoern-koerdt,513,99,86,106,24,56,56,5,5
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DUNBAR Eddie,rider/edward-irl-dunbar,133,34,162,103,41,385.75,189,4.5,4
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,422,93,200,117,80,280.75,102,43,24
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,GHEBREIGZABHIER Amanuel,rider/amanuel-ghebreigzabhier,557,116,94.86,61,21,105.5,57,0,0
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,VERONA Carlos,rider/carlos-verona,387,86,251,122,5,265.25,45,5.25,0
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,BERNARD Julien,rider/julien-bernard,537,114,77.57,43,5,128.5,10,0,0
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,BAGIOLI Andrea,rider/andrea-bagioli,135,34,768,409,54,78.5,35,15,0
+vuelta-a-espana,2025-08-23,Lidl - Trek (WT),team/lidl-trek-2025,HOOLE Daan,rider/daan-hoole,242,58,380.43,221,20,78,35,61,36
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CASTRILLO Pablo,rider/pablo-castrillo-zapater,91,23,362.71,341,40,531.5,342,7,7
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,AULAR Orluis,rider/orluis-aular,85,21,749,334,30,280.5,112,144.5,82
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CANAL Carlos,rider/carlos-canal,155,39,447,340,92,315.25,205,49.5,15
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,310,75,231.71,146,5,353.5,119,0,0
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,ARCAS Jorge,rider/jorge-arcas,898,151,3,20,0,73.75,40,0,0
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,ROMO Javier,rider/javier-romo,104,26,833,463,3,451.25,265,0,0
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,GARCÍA CORTINA Iván,rider/ivan-garcia-cortina,274,68,337.71,225,31,67.5,40,194.75,50
+vuelta-a-espana,2025-08-23,Movistar Team (WT),team/movistar-team-2025,HESSMANN Michel,rider/michel-hessmann,-,164,3,20,0,38.5,15,0,0
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,HINDLEY Jai,rider/jai-hindley,178,44,370.71,265,1,907,216,0,0
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,VAN DIJKE Tim,rider/tim-van-dijke,567,118,135,90,4,73,5,171,37
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,PELLIZZARI Giulio,rider/giulio-pellizzari,106,27,760,392,94,526,324,1,1
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ALEOTTI Giovanni,rider/giovanni-aleotti,246,61,162.71,138,69,507,233,5,5
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,SOBRERO Matteo,rider/matteo-sobrero,275,69,371.71,228,186,293.5,173,9.5,5
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,DENZ Nico,rider/nico-denz,376,82,257.71,165,0,85.75,25,45.75,8
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,FISHER-BLACK Finn,rider/finn-fisher-black,137,35,680,433,9,525.25,280,40,34
+vuelta-a-espana,2025-08-23,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,ZWIEHOFF Ben,rider/ben-zwiehoff,586,121,58,58,14,362.5,32,3.5,0
+vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LANDA Mikel,rider/mikel-landa,84,20,502,334,12,1394.5,422,0,0
+vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,VERVAEKE Louis,rider/louis-vervaeke,618,125,31,53,0,88.25,20,5,5
+vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,183,45,525,343,139,408.25,165,3,0
+vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,REINDERINK Pepijn,rider/pepijn-reinderink,791,142,13,44,9,22.5,15,6.5,0
+vuelta-a-espana,2025-08-23,Soudal Quick-Step (WT),team/soudal-quick-step-2025,LECERF Junior,rider/junior-lecerf,127,31,444,410,133,512.25,370,13,3
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,KOERDT Bjorn,rider/bjoern-koerdt,513,111,86,106,24,56,56,5,5
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,EDDY Patrick,rider/patrick-eddy,784,141,25,41,5,27.5,20,11,11
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,HAMILTON Chris,rider/chris-hamilton,535,113,78,74,28,159.5,78,0,0
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,LEEMREIZE Gijs,rider/gijs-leemreize,484,106,105,60,7,124.75,67,0,0
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,MARTINEZ Juan Guillermo,rider/guillermo-juan-martinez,427,94,173,140,0,122.5,118,2,2
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,ROOSEN Timo,rider/timo-roosen,-,162,0,15,5,23.75,15,21.25,5
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,VAN UDEN Casper,rider/casper-van-uden,304,72,340,182,0,72.25,30,340,103
+vuelta-a-espana,2025-08-23,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,VERMAERKE Kevin,rider/kevin-vermaerke,323,78,95,103,69,408.75,124,33.75,0
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,DUNBAR Eddie,rider/edward-irl-dunbar,133,33,162,103,41,385.75,189,4.5,4
 vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,O'CONNOR Ben,rider/ben-o-connor,12,4,874.81,646,336,1571.25,720,13.5,0
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,HARPER Chris,rider/chris-harper,257,62,432,264,5,401,160,0,0
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,GAMPER Patrick,rider/patrick-gamper,875,132,30,42,17,50.25,15,12.5,5
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,BOUWMAN Koen,rider/koen-bouwman,895,133,10,30,0,245.25,23,5,5
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,HARPER Chris,rider/chris-harper,257,63,432,264,5,401,160,0,0
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,GAMPER Patrick,rider/patrick-gamper,875,149,30,42,17,50.25,15,12.5,5
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,BOUWMAN Koen,rider/koen-bouwman,895,150,10,30,0,245.25,23,5,5
 vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,FOLDAGER Anders,rider/anders-foldager,218,54,161,183,117,258.25,124,38.5,26
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,O'BRIEN Kelland,rider/kelland-brien,691,119,37.67,58,0,65,15,32.75,15
-vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,JUUL-JENSEN Christopher,rider/christopher-juul-jensen,781,124,23.14,42,5,82.5,25,7.5,5
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,O'BRIEN Kelland,rider/kelland-brien,691,134,37.67,58,0,65,15,32.75,15
+vuelta-a-espana,2025-08-23,Team Jayco AlUla (WT),team/team-jayco-alula-2025,JUUL-JENSEN Christopher,rider/christopher-juul-jensen,781,140,23.14,42,5,82.5,25,7.5,5
 vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VINGEGAARD Jonas,rider/jonas-vingegaard,10,3,3228.57,1508,935,2337.5,720,10,0
 vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KUSS Sepp,rider/sepp-kuss,196,50,186,205,140,1012.25,304,6.5,0
-vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,ZINGLE Axel,rider/axel-zingle,186,47,151.57,158,42,347.25,41,241.5,129
-vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,TULETT Ben,rider/ben-tulett,108,30,754,510,62,360.5,205,85,85
-vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN BAARLE Dylan,rider/dylan-van-baarle,466,94,122,106,44,104.75,61,17,17
+vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,ZINGLE Axel,rider/axel-zingle,186,46,151.57,158,42,347.25,41,241.5,129
+vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,TULETT Ben,rider/ben-tulett,108,29,754,510,62,360.5,205,85,85
+vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,VAN BAARLE Dylan,rider/dylan-van-baarle,466,102,122,106,44,104.75,61,17,17
 vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,JORGENSON Matteo,rider/matteo-jorgenson,27,8,1603.57,906,273,1286.5,470,315.25,145
-vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KELDERMAN Wilco,rider/wilco-kelderman,244,58,218,135,10,641,116,0,0
+vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,KELDERMAN Wilco,rider/wilco-kelderman,244,59,218,135,10,641,116,0,0
 vuelta-a-espana,2025-08-23,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,CAMPENAERTS Victor,rider/victor-campenaerts,220,55,249.57,180,131,127.5,90,8.75,5
-vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,NOVAK Domen,rider/domen-novak,-,150,0,10,0,75.5,5,0,0
+vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,NOVAK Domen,rider/domen-novak,-,170,0,10,0,75.5,5,0,0
 vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,ALMEIDA João,rider/joao-almeida,6,2,2612.57,1679,45,2202.5,1080,0,0
-vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SOLER Marc,rider/marc-soler,107,29,281,283,55,607,254,0,0
-vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,BJERG Mikkel,rider/mikkel-bjerg,452,89,62,53,0,158.75,13,128.5,35
+vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,SOLER Marc,rider/marc-soler,107,28,281,283,55,607,254,0,0
+vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,BJERG Mikkel,rider/mikkel-bjerg,452,97,62,53,0,158.75,13,128.5,35
 vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,AYUSO Juan,rider/juan-ayuso-pesquera,21,7,1836,1049,60,1328,510,1.5,1
-vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,GROßSCHARTNER Felix,rider/felix-grossschartner,128,33,503.43,359,71,659.25,271,11,5
-vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,OLIVEIRA Ivo,rider/ivo-emanuel-alves,418,85,223.57,143,17,78.75,10,31.25,5
+vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,GROßSCHARTNER Felix,rider/felix-grossschartner,128,32,503.43,359,71,659.25,271,11,5
+vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,OLIVEIRA Ivo,rider/ivo-emanuel-alves,418,92,223.57,143,17,78.75,10,31.25,5
 vuelta-a-espana,2025-08-23,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,VINE Jay,rider/jay-vine,53,13,778,454,0,457,285,15,0
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,LIVYNS Arjen,rider/arjen-livyns,272,66,289,187,19,72.75,53,81,71
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,VIVIANI Elia,rider/elia-viviani,538,102,108,91,10,22.5,5,219.5,86
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,476,96,47,78,25,277,88,1,0
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SLOCK Liam,rider/liam-slock,592,108,20,33,28,106.75,52,35.75,10
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SEGAERT Alec,rider/alec-segaert,86,24,326,259,90,375.25,310,129,104
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,DE BUYST Jasper,rider/jasper-de-buyst,924,135,0,28,5,96.5,15,70.75,10
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,GREGAARD Jonas,rider/jonas-gregaard,796,126,0,30,0,110,40,0.5,0
-vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,CRAPS Lars,rider/lars-craps,-,148,11,5,5,56.5,11,25.5,0
-vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,FRIGO Marco,rider/marco-frigo,171,44,331,280,106,272.5,231,0,0
-vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,RICCITELLO Matthew,rider/matthew-riccitello,168,43,328,334,182,532,307,0,0
-vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,VERNON Ethan,rider/ethan-vernon,160,42,355,221,22,55.25,15,301.5,128
-vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,GEE Derek,rider/derek-gee,59,14,1614,731,22,872.5,550,14.5,12
-vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,RAISBERG Nadav,rider/nadav-raisberg,651,114,17,40,5,45,45,22,10
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez,262,63,405,229,8,217.5,55,48.5,20
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,APARICIO Mario,rider/mario-aparicio-munoz,622,112,81,72,37,210.5,68,6,5
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,CHUMIL Sergio Geovani,rider/sergio-geovani-chumil-gonzalez,413,84,259,127,0,79,65,0.5,0
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FAURA José Luis,rider/jose-luis-faura-asensio,-,141,43,28,5,19,19,0,0
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,CAVIA Daniel,rider/daniel-cavia-sanz,670,118,48,66,0,36,36,12,12
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,DE LA CALLE Hugo,rider/hugo-de-la-calle-arango,578,106,103,88,16,57,57,14,14
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,GARCÍA PIERNA Carlos,rider/carlos-garcia-pierna,-,144,47,20,0,24.5,20,0,0
-vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FERNÁNDEZ Sinuhé,rider/sinuhe-fernandez-rodriguez,-,149,10,11,0,15.75,12,0,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BARCELÓ Fernando,rider/fernando-barcelo,245,59,385,267,55,180.25,127,10.5,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,SILVA Guillermo Thomas,rider/guillermo-thomas-silva-coussan,82,21,804,490,182,236,137,63.25,52
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,OTRUBA Jakub,rider/jakub-otruba,708,120,108,54,11,211.75,38,7,7
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BOU Joan,rider/joan-bou,814,128,24,20,0,187.75,34,0,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,NICOLAU Joel,rider/joel-nicolau,529,100,89,71,0,43,13,25.5,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,GUARDEÑO Jaume,rider/jaume-guardeno,-,151,14,5,0,53.75,5,0,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BALDERSTONE Abel,rider/abel-balderstone-roumens,468,95,171,121,19,154.5,95,0,0
-vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,MOLENAAR Alex,rider/alex-molenaar,359,75,269,181,32,73.5,13,29.5,7
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,LIVYNS Arjen,rider/arjen-livyns,272,67,289,187,19,72.75,53,81,71
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,VIVIANI Elia,rider/elia-viviani,538,115,108,91,10,22.5,5,219.5,86
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SEPÚLVEDA Eduardo,rider/eduardo-sepulveda,476,104,47,78,25,277,88,1,0
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SLOCK Liam,rider/liam-slock,592,122,20,33,28,106.75,52,35.75,10
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,SEGAERT Alec,rider/alec-segaert,86,22,326,259,90,375.25,310,129,104
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,DE BUYST Jasper,rider/jasper-de-buyst,924,153,0,28,5,96.5,15,70.75,10
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,GREGAARD Jonas,rider/jonas-gregaard,796,143,0,30,0,110,40,0.5,0
+vuelta-a-espana,2025-08-23,Lotto (PRT),team/lotto-2025,CRAPS Lars,rider/lars-craps,-,167,11,5,5,56.5,11,25.5,0
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,FRIGO Marco,rider/marco-frigo,171,43,331,280,106,272.5,231,0,0
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,RICCITELLO Matthew,rider/matthew-riccitello,168,42,328,334,182,532,307,0,0
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,VERNON Ethan,rider/ethan-vernon,160,41,355,221,22,55.25,15,301.5,128
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,RAISBERG Nadav,rider/nadav-raisberg,651,129,17,40,5,45,45,22,10
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,STEWART Jake,rider/jake-stewart,191,48,291,253,53,128,83,132.75,85
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,CÔTÉ Pier-André,rider/pier-andre-cote,334,79,165,109,8,124.75,83,48.75,36
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,BENNETT George,rider/george-bennett,378,84,177,105,12,352.25,95,11.5,8
+vuelta-a-espana,2025-08-23,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,HIRT Jan,rider/jan-hirt,-,169,5,5,0,291,10,0,0
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FAGÚNDEZ Eric Antonio,rider/eric-antonio-fagundez,262,64,405,229,8,217.5,55,48.5,20
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,APARICIO Mario,rider/mario-aparicio-munoz,622,126,81,72,37,210.5,68,6,5
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,CHUMIL Sergio Geovani,rider/sergio-geovani-chumil-gonzalez,413,91,259,127,0,79,65,0.5,0
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FAURA José Luis,rider/jose-luis-faura-asensio,-,159,43,28,5,19,19,0,0
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,CAVIA Daniel,rider/daniel-cavia-sanz,670,133,48,66,0,36,36,12,12
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,DE LA CALLE Hugo,rider/hugo-de-la-calle-arango,578,120,103,88,16,57,57,14,14
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,GARCÍA PIERNA Carlos,rider/carlos-garcia-pierna,-,163,47,20,0,24.5,20,0,0
+vuelta-a-espana,2025-08-23,Burgos Burpellet BH (PRT),team/burgos-burpellet-bh-2025,FERNÁNDEZ Sinuhé,rider/sinuhe-fernandez-rodriguez,-,168,10,11,0,15.75,12,0,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BARCELÓ Fernando,rider/fernando-barcelo,245,60,385,267,55,180.25,127,10.5,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,SILVA Guillermo Thomas,rider/guillermo-thomas-silva-coussan,82,19,804,490,182,236,137,63.25,52
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,OTRUBA Jakub,rider/jakub-otruba,708,136,108,54,11,211.75,38,7,7
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BOU Joan,rider/joan-bou,814,145,24,20,0,187.75,34,0,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,NICOLAU Joel,rider/joel-nicolau,529,112,89,71,0,43,13,25.5,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,GUARDEÑO Jaume,rider/jaume-guardeno,-,171,14,5,0,53.75,5,0,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,BALDERSTONE Abel,rider/abel-balderstone-roumens,468,103,171,121,19,154.5,95,0,0
+vuelta-a-espana,2025-08-23,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2025,MOLENAAR Alex,rider/alex-molenaar,359,81,269,181,32,73.5,13,29.5,7
 vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,PIDCOCK Thomas,rider/thomas-pidcock,15,5,2028,1185,143,863,500,118.75,72
 vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,DE LA CRUZ David,rider/david-de-la-cruz,202,51,404,318,97,410,256,9,9
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,ZUKOWSKY Nickolas,rider/nickolas-zukowsky,-,146,3,15,0,12.5,0,9.5,1
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun,925,136,28,38,0,56.5,20,7.5,7
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,CAMPRUBÍ Marcel,rider/marcel-camprubi,614,109,69,53,0,40.5,29,5,5
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,CHRISTEN Fabio,rider/fabio-christen,96,26,481,406,57,191.25,135,86.75,50
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,GONZÁLEZ David,rider/david-gonzalez-lopez,-,140,13,30,0,26.75,5,17,0
-vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,HOWSON Damien,rider/damien-howson,382,78,183,163,6,404.5,126,13.5,12
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,ZUKOWSKY Nickolas,rider/nickolas-zukowsky,-,165,3,15,0,12.5,0,9.5,1
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun,925,154,28,38,0,56.5,20,7.5,7
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,CAMPRUBÍ Marcel,rider/marcel-camprubi,614,123,69,53,0,40.5,29,5,5
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,CHRISTEN Fabio,rider/fabio-christen,96,24,481,406,57,191.25,135,86.75,50
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,GONZÁLEZ David,rider/david-gonzalez-lopez,-,158,13,30,0,26.75,5,17,0
+vuelta-a-espana,2025-08-23,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,HOWSON Damien,rider/damien-howson,382,85,183,163,6,404.5,126,13.5,12
