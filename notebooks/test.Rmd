@@ -1,0 +1,114 @@
+---
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+
+library(ggplot2)
+library(lubridate)
+
+startlists <- map_df(list.files("../data/processed/startlists", full.names = T), ~read.csv(.x, encoding = "UTF-8")) %>% 
+  mutate(
+    across(c(pcs_rank, event_rank), ~as.numeric(.x))
+  )
+startlists
+
+```
+
+
+```{r}
+
+library(dplyr)
+library(psych)
+
+df_scored <- startlists %>%
+  filter(!is.na(pcs_rank), !is.na(event_rank)) %>%
+  mutate(
+    across(
+      c(pcs_rank, event_rank),
+      ~ -log1p(.x),
+      .names = "{.col}_t"
+    ),
+    across(
+      c(uci_points, pcs_points_season, pcs_gc_points_season, pcs_points_last_60d, pcs_gc_points),
+      ~ log1p(.x),
+      .names = "{.col}_t"
+    ),
+    across(
+      c(pcs_rank_t, event_rank_t, uci_points_t, pcs_points_season_t, pcs_gc_points_season_t, pcs_points_last_60d_t, pcs_gc_points_t),
+      ~ psych::winsor(.x, trim = 0.01),
+      .names = "{.col}"
+    ),
+  ) %>%
+  group_by(event_id, event_date) %>%
+  mutate(
+    # Combined score: rankings omlaag (-), punten omhoog (+)
+    combined_score = 
+                      scale(pcs_points_season_t) * 0.8 +
+                      scale(pcs_points_last_60d_t) * 0.7 +
+                      scale(pcs_gc_points_season_t) * 0.6 +
+                      scale(pcs_gc_points_t) * 1.2,
+    gc_weight = pcs_gc_points_season_t / max(pcs_gc_points_season_t),
+    combined_score = combined_score + 0.5 * gc_weight
+
+  ) %>%
+  ungroup()
+
+cor(df_scored$combined_score, df_scored$event_rank, use = "complete.obs")
+
+```
+
+
+```{r}
+
+df_tiers <- df_scored %>%
+  group_by(event_id, event_date) %>%
+  arrange(desc(combined_score)) %>%
+  slice_head(n = 15) %>%                # top 15
+  mutate(rank = row_number(),
+         diff_next = combined_score - lead(combined_score)) %>%
+  group_modify(~ {
+    # zoek 2 grootste sprongen
+    gaps <- .x %>% arrange(desc(diff_next)) %>% slice_head(n = 2) %>% pull(rank)
+    cutpoints <- sort(na.omit(gaps))
+    
+    # fallback: percentielen 33% en 66%
+    if(length(cutpoints) < 2){
+      n <- nrow(.x)
+      cutpoints <- floor(quantile(1:n, probs = c(1/3, 2/3)))
+    }
+    
+    .x %>% mutate(
+      tier = case_when(
+        rank <= cutpoints[1] ~ "Tier 1",
+        rank <= cutpoints[2] ~ "Tier 2",
+        TRUE ~ "Tier 3"
+      )
+    )
+  }) %>%
+  ungroup()
+
+df_tiers %>% write.csv("scored.csv", row.names = F, fileEncoding = "UTF-8")
+
+library(ggplot2)
+
+df_tiers %>% 
+  filter(year(event_date) == 2025) %>% 
+ggplot(aes(x = rank, y = combined_score, color = tier)) +
+  geom_point(size = 3) +
+  ggrepel::geom_text_repel(aes(label = rider_name)) +
+  geom_line(aes(group = interaction(event_id, event_date)), alpha = 0.5) +
+  scale_x_reverse(breaks = 1:15) +  
+  scale_color_manual(values = c("Tier 1" = "red", "Tier 2" = "orange", "Tier 3" = "blue")) +
+  facet_wrap(event_id ~ event_date) +
+  labs(title = "Top 15 favorieten per event met tiers",
+       x = "Rank (1 = beste)",
+       y = "Combined score") +
+  theme_minimal() +
+  theme(panel.grid.minor = element_blank())
+
+```
+
+
