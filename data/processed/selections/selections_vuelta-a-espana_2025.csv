@@ -1,0 +1,25 @@
+id,tijdstip,voornaam,achternaam,email,rider_id,rider_name
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/lukas-nerurkar,NERURKAR Lukas
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/jardi-christiaan-van-der-lee,VAN DER LEE Jardi Christiaan
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/edward-planckaert,PLANCKAERT Edward
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/jasper-philipsen,PHILIPSEN Jasper
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/jenthe-biermans,BIERMANS Jenthe
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/pierre-thierry,THIERRY Pierre
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/sergio-higuita,HIGUITA Sergio
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/fausto-masnada,MASNADA Fausto
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/antonio-tiberi,TIBERI Antonio
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/damiano-caruso,CARUSO Damiano
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/stanislaw-aniolkowski,ANIOŁKOWSKI Stanisław
+28,2025-08-21 11:55:36.754614,vuelta-test,vuelta-test,vuelta@mail,rider/sergio-samitier,SAMITIER Sergio
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/jonas-vingegaard,VINGEGAARD Jonas
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/matteo-jorgenson,JORGENSON Matteo
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/ben-tulett,TULETT Ben
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/felix-grossschartner,GROßSCHARTNER Felix
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/jay-vine,VINE Jay
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/marc-soler,SOLER Marc
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/andrea-bagioli,BAGIOLI Andrea
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/soren-kragh-andersen,KRAGH ANDERSEN Søren
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/carlos-verona,VERONA Carlos
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/mikkel-bjerg,BJERG Mikkel
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/amanuel-ghebreigzabhier,GHEBREIGZABHIER Amanuel
+29,2025-08-21 19:47:58.739206,test,test,test@mail.com,rider/domen-novak,NOVAK Domen
