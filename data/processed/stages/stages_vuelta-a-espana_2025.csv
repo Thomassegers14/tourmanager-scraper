@@ -1,10 +1,10 @@
 stage,stage_id,stage_name,stage_type
-1,race/vuelta-a-espana/2025/stage-1,Stage 1 | Torino - Reggia di Venaria - Novara, Flat
-2,race/vuelta-a-espana/2025/stage-2,Stage 2 | Alba - Puerto Limone,"Hills, uphill finish"
+1,race/vuelta-a-espana/2025/stage-1,Stage 1 | Torino-Reggia di Venaria - Novara, Flat
+2,race/vuelta-a-espana/2025/stage-2,Stage 2 | Alba - Limone Piemonte,"Hills, uphill finish"
 3,race/vuelta-a-espana/2025/stage-3,Stage 3 | San Maurizio Canavese - Ceres,"Hills, uphill finish"
 4,race/vuelta-a-espana/2025/stage-4,Stage 4 | Susa - Voiron,"Hills, uphill finish"
 5,race/vuelta-a-espana/2025/stage-5,Stage 5 (TTT) | Figueres - Figueres, Flat
-6,race/vuelta-a-espana/2025/stage-6,Stage 6 | Olot - Pal,"Mountains, uphill finish"
+6,race/vuelta-a-espana/2025/stage-6,Stage 6 | Olot - Pal. Andorra,"Mountains, uphill finish"
 7,race/vuelta-a-espana/2025/stage-7,Stage 7 | Andorra la Vella - Cerler. Huesca La Magia,"Mountains, uphill finish"
 8,race/vuelta-a-espana/2025/stage-8,Stage 8 | Monzón Templario - Zaragoza, Flat
 9,race/vuelta-a-espana/2025/stage-9,Stage 9 | Alfaro - Estación de Esquí de Valdezcaray,"Hills, uphill finish"
@@ -12,9 +12,9 @@ stage,stage_id,stage_name,stage_type
 11,race/vuelta-a-espana/2025/stage-11,Stage 11 | Bilbao - Bilbao,"Hills, flat finish"
 12,race/vuelta-a-espana/2025/stage-12,Stage 12 | Laredo - Los Corrales de Buelna,"Hills, flat finish"
 13,race/vuelta-a-espana/2025/stage-13,Stage 13 | Cabezón de la Sal - L'Angliru,"Mountains, uphill finish"
-14,race/vuelta-a-espana/2025/stage-14,Stage 14 | Avilés - Alto de la Farrapona,"Mountains, uphill finish"
+14,race/vuelta-a-espana/2025/stage-14,Stage 14 | Avilés - La Farrapona. Lagos de Somiedo,"Mountains, uphill finish"
 15,race/vuelta-a-espana/2025/stage-15,Stage 15 | A Veiga/Vegadeo - Monforte de Lemos,"Hills, flat finish"
-16,race/vuelta-a-espana/2025/stage-16,Stage 16 | Poio - Mos.Castro de Herville,"Hills, uphill finish"
+16,race/vuelta-a-espana/2025/stage-16,Stage 16 | Poio - Mos. Castro de Herville,"Hills, uphill finish"
 17,race/vuelta-a-espana/2025/stage-17,Stage 17 | O Barco de Valdeorras - Alto de El Morredero,"Mountains, uphill finish"
 18,race/vuelta-a-espana/2025/stage-18,Stage 18 (ITT) | Valladolid - Valladolid, Flat
 19,race/vuelta-a-espana/2025/stage-19,Stage 19 | Rueda - Guijuelo, Flat
