@@ -1,0 +1,40 @@
+# Config en functies
+source("config/config.R")
+source("R/scrape_stage_results.R")
+source("R/scrape_stages.R")
+
+# Parallel plan instellen
+if (.Platform$OS.type == "windows") {
+  plan(multisession, workers = parallel::detectCores() - 1)
+} else {
+  plan(multicore, workers = parallel::detectCores() - 1)
+}
+
+for (i in seq_len(nrow(EVENT_YEARS))) {
+  id   <- EVENT_YEARS$event_id[i]
+  year <- EVENT_YEARS$event_year[i]
+
+  message(glue("Scraping results: {id} {year}"))
+
+  stages <- scrape_stages(id, year)
+  categories <- c("stage", "gc", "points", "kom", "youth")
+
+  stage_cat <- tidyr::crossing(stage_id = stages$stage_id, category = categories)
+
+  all_results <- future_pmap_dfr(
+    list(stage_cat$stage_id, stage_cat$category),
+    function(stage_id, category) {
+      scrape_stage_results(event_id = id, year = year, stage_id = stage_id, category = category)
+    },
+    .options = furrr_options(seed = TRUE)
+  )
+
+  if (nrow(all_results) > 0) {
+    dir.create("data/processed/results", showWarnings = FALSE, recursive = TRUE)
+    file <- glue("data/processed/results/{id}_{year}_all_stage_results.csv")
+    write_csv(all_results, file)
+    message(glue("Saved results: {file}"))
+  } else {
+    message("No results available yet.")
+  }
+}
