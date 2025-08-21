@@ -23,7 +23,7 @@ scrape_rider_form <- function(rider_id, event_date, event_year) {
     ) %>%
     filter(!is.na(date)) %>%
     summarise(
-      uci_points            = sum(uci_points, na.rm = TRUE),
+      uci_points            = sum(uci_points[date <= event_date], na.rm = TRUE),
       pcs_points_season     = sum(pcs_points[date <= event_date & date >= event_date - years(1)], na.rm = TRUE),
       pcs_points_last_60d   = sum(pcs_points[date <= event_date & date >= event_date - 60], na.rm = TRUE)
     )
