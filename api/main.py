@@ -46,7 +46,7 @@ def get_startlist(event_id: str, year: int):
         return df.to_dict(orient="records")
     return {"error": "No startlist found"}
 
-@app.get("/startlist_favorites/{event_id}/{year}", tags=["Startlist"])
+@app.get("/startlists_favorites/{event_id}/{year}", tags=["Startlist"])
 def get_startlist(event_id: str, year: int):
     file_path = f"data/processed/startlist_favorites/startlist_{event_id}_{year}.csv"
     if os.path.exists(file_path):
