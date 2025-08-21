@@ -6,14 +6,12 @@ import os
 
 # ----- Veilige CSV-lezer -----
 def read_csv_safe(file_path):
-    """
-    Lees CSV en zet alle NaN / NA waarden om naar None voor JSON compatibiliteit.
-    """
     if not os.path.exists(file_path):
         return None
     df = pd.read_csv(file_path, encoding="utf-8")
-    df = df.replace("NA", None).where(pd.notnull(df), None)
-    return jsonable_encoder(df)
+    # Vervang "NA" en np.nan door None
+    df = df.replace("NA", None).replace({np.nan: None})
+    return df.to_dict(orient="records")
 
 # ----- FastAPI instantie -----
 app = FastAPI(
