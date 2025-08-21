@@ -2916,11 +2916,11 @@ tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,151,rider/davide-bal
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,152,rider/gerben-thijssen
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,153,rider/mark-cavendish
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,154,rider/cees-bol
+tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNF,rider/amaury-capiot
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNF,rider/louis-vervaeke
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNF,rider/alberto-bettiol
-tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNF,rider/amaury-capiot
-tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNS,rider/guillaume-boivin
 tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNS,rider/thomas-pidcock
+tour-de-france,2024,race/tour-de-france/2024/stage-14,stage,DNS,rider/guillaume-boivin
 tour-de-france,2024,race/tour-de-france/2024/stage-14,youth,1,rider/remco-evenepoel
 tour-de-france,2024,race/tour-de-france/2024/stage-14,youth,2,rider/carlos-rodriguez-cano
 tour-de-france,2024,race/tour-de-france/2024/stage-14,youth,3,rider/matteo-jorgenson
@@ -3924,8 +3924,8 @@ tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,147,rider/richard-ca
 tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,148,rider/harold-tejada
 tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,149,rider/tim-wellens
 tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,150,rider/christopher-juul-jensen
-tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,DNS,rider/maxim-van-gils
 tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,DNS,rider/chris-harper
+tour-de-france,2024,race/tour-de-france/2024/stage-16,stage,DNS,rider/maxim-van-gils
 tour-de-france,2024,race/tour-de-france/2024/stage-16,youth,1,rider/remco-evenepoel
 tour-de-france,2024,race/tour-de-france/2024/stage-16,youth,2,rider/carlos-rodriguez-cano
 tour-de-france,2024,race/tour-de-france/2024/stage-16,youth,3,rider/santiago-buitrago-sanchez
@@ -4415,10 +4415,10 @@ tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,143,rider/davide-bal
 tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,144,rider/cees-bol
 tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,145,rider/robbe-ghys
 tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNF,rider/sam-bennett
-tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNF,rider/fernando-gaviria
 tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNF,rider/aleksey-lutsenko
-tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNS,rider/phil-bauhaus
+tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNF,rider/fernando-gaviria
 tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNS,rider/elmar-reinders
+tour-de-france,2024,race/tour-de-france/2024/stage-17,stage,DNS,rider/phil-bauhaus
 tour-de-france,2024,race/tour-de-france/2024/stage-17,youth,1,rider/remco-evenepoel
 tour-de-france,2024,race/tour-de-france/2024/stage-17,youth,2,rider/carlos-rodriguez-cano
 tour-de-france,2024,race/tour-de-france/2024/stage-17,youth,3,rider/santiago-buitrago-sanchez
@@ -5400,8 +5400,8 @@ tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,139,rider/davide-bal
 tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,140,rider/cees-bol
 tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,141,rider/mark-cavendish
 tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,DNF,rider/nils-eekhoff
-tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,DNS,rider/jake-stewart
 tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,DNS,rider/stefan-kung
+tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,DNS,rider/jake-stewart
 tour-de-france,2024,race/tour-de-france/2024/stage-19,stage,OTL,rider/arnaud-demare
 tour-de-france,2024,race/tour-de-france/2024/stage-19,youth,1,rider/remco-evenepoel
 tour-de-france,2024,race/tour-de-france/2024/stage-19,youth,2,rider/carlos-rodriguez-cano
