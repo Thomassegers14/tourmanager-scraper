@@ -97,11 +97,9 @@ compute_favorites <- function(df) {
     left_join(
       df_top15 %>% select(event_id, event_date, rider_id, rank, tier, fav_points),
       by = c("event_id", "event_date", "rider_id")
-    ) %>%
-    mutate(
-      tier = ifelse(is.na(tier), 0, tier),
-      fav_points = ifelse(is.na(fav_points), 0, fav_points)
     )
+    
+    df[is.na(df)] <- 0
 
   return(df)
 }
