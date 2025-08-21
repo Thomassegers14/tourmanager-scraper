@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: tourmanager-api
-    env: r
-    region: frankfurt
-    plan: free
-    buildCommand: ""
-    startCommand: Rscript run_api.R

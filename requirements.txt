@@ -1,5 +1,3 @@
-plumber
-readr
-dplyr
-glue
-tidyr
+fastapi
+uvicorn
+pandas
