@@ -1,3 +1,4 @@
+source("config/config.R")
 source("R/get_selections.R")
 
 selections <- get_selections() %>% process_selections()

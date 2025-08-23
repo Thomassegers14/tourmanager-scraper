@@ -52,6 +52,11 @@ process_selections <- function(df) {
     mutate(across(everything(), str_trim)) %>%
     select(id, tijdstip, voornaam, achternaam, email, rider_id, rider_name)
 
+    df <- df %>%
+      group_by(voornaam, achternaam, email) %>%
+      filter(tijdstip == max(tijdstip)) %>%
+      ungroup()
+
     return(df)
 
 }
