@@ -69,3 +69,19 @@ def get_results(event_id: str, year: int):
         df = pd.read_csv(file_path)
         return df.to_dict(orient="records")
     return {"error": "No results found"}
+
+@app.get("/selections/{event_id}/{year}", tags=["Selections"])
+def get_selections(event_id: str, year: int):
+    file_path = f"data/processed/selections/selections_{event_id}_{year}.csv"
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path)
+        return df.to_dict(orient="records")
+    return {"error": "No results found"}
+
+@app.get("/ranking/{event_id}/{year}", tags=["Ranking"])
+def get_ranking_by_stage(event_id: str, year: int):
+    file_path = f"data/processed/ranking/ranking_by_stage_{event_id}_{year}.csv"
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path)
+        return df.to_dict(orient="records")
+    return {"error": "No results found"}
