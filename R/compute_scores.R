@@ -7,8 +7,7 @@ library(readr)
 source("R/point_system.R")
 
 # ---- Parameters ----
-event_id <- "vuelta-a-espana"
-event_year <- 2025
+source('config/config.R')
 
 # ---- Data inladen ----
 startlist   <- read_csv(glue("data/processed/startlists_favorites/startlist_{event_id}_{event_year}.csv"))
@@ -114,7 +113,6 @@ participant_stage_ranked <- all_combinations %>%
   arrange(desc(cumulative_points)) %>%
   mutate(rank = row_number()) %>%
   ungroup()
-
 
 # ---- Wegschrijven ----
 out_path <- glue("data/processed/ranking/ranking_by_stage_{event_id}_{event_year}.csv")

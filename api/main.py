@@ -85,3 +85,11 @@ def get_ranking_by_stage(event_id: str, year: int):
         df = pd.read_csv(file_path)
         return df.to_dict(orient="records")
     return {"error": "No results found"}
+
+@app.get("/points/{event_id}/{year}", tags=["Points"])
+def get_points_by_stage(event_id: str, year: int):
+    file_path = f"data/processed/points/rider_stage_summary_{event_id}_{year}.csv"
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path)
+        return df.to_dict(orient="records")
+    return {"error": "No results found"}
