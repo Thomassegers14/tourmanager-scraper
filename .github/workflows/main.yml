@@ -4,7 +4,7 @@ name: Daily script run and push
 # Adjust cron if your period is in winter (CET).
 on:
   schedule:
-    - cron: '0 16 * * *'   # run daily at 16:00 UTC
+    - cron: '0 15,16,17 * * *'   # run daily at 16:00 UTC
   workflow_dispatch:       # optioneel: handmatige trigger
 
 permissions:
@@ -50,9 +50,9 @@ jobs:
 
       - name: Install R dependencies (if needed)
         run: |
-          Rscript -e 'if(!requireNamespace("remotes")) install.packages("remotes")'
-          Rscript -e 'pkgs <- c("dplyr","tidyr","glue","readr","rvest"); \
-                      to_install <- pkgs[!pkgs %in% installed.packages()[,"Package"]]; \
+          Rscript -e 'if(!requireNamespace("remotes")) install.packages("remotes");
+                      pkgs <- c("dplyr","tidyr","glue","readr","rvest");
+                      to_install <- pkgs[!pkgs %in% installed.packages()[,"Package"]];
                       if(length(to_install)) install.packages(to_install)'
 
       - name: Run your R script
