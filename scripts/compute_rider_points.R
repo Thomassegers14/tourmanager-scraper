@@ -11,9 +11,9 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
   year <- EVENT_YEARS$event_year[i]
 
   # ---- Data inladen ----
-  stages <- read_csv(glue("data/processed/stages/stages_{id}_{year}.csv"))
-  results <- read_csv(glue("data/processed/results/{id}_{year}_all_stage_results.csv"))
-  startlist <- read_csv(glue("data/processed/startlists_favorites/startlist_{id}_{year}.csv"))
+  stages <- read.csv(glue("data/processed/stages/stages_{id}_{year}.csv"))
+  results <- read.csv(glue("data/processed/results/{id}_{year}_all_stage_results.csv"))
+  startlist <- read.csv(glue("data/processed/startlists_favorites/startlist_{id}_{year}.csv"))
 
   # ---- Stage results ----
   stage_results <- results %>%
