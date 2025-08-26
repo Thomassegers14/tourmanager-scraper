@@ -1,21 +1,19 @@
 name: Daily script run and push
 
-# Run daily at 16:00 UTC -> corresponds to 18:00 Europe/Brussels during CEST (UTC+2).
-# Adjust cron if your period is in winter (CET).
 on:
   schedule:
-    - cron: '0 15,16,17 * * *'   # run daily at 16:00 UTC
-  workflow_dispatch:       # optioneel: handmatige trigger
+    # runs at 15, 16, 17 UTC (= 17h, 18h, 19h Brussels time in CEST)
+    - cron: '0 15,16,17 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write   # zorg dat GITHUB_TOKEN mag pushen
+  contents: write
 
 env:
-  # Pas START_DATE aan op de eerste dag (YYYY-MM-DD)
   START_DATE: '2025-08-27'
-  DAYS: '18'                     # duur in dagen
-  TARGET_FOLDER: 'data/processed'  # map die je naar github wilt committen
-  R_SCRIPT: 'scripts/process_results.R'    # pad naar jouw script dat moet draaien
+  DAYS: '18'
+  TARGET_FOLDER: 'data/processed'
+  R_SCRIPT: 'scripts/process_results.R'
 
 jobs:
   run-and-push:
@@ -32,7 +30,6 @@ jobs:
         run: |
           START=${{ env.START_DATE }}
           DAYS=${{ env.DAYS }}
-          # compute END (START + DAYS - 1)
           END=$(date -d "$START + $((DAYS - 1)) days" +%Y-%m-%d)
           NOW=$(date -u +%Y-%m-%d)
           echo "Now (UTC): $NOW"
@@ -46,20 +43,44 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
         with:
-          r-version: '4.2'   # of de versie die je gebruikt
+          r-version: '4.2'
 
-      - name: Install R dependencies (if needed)
+      - name: Install system dependencies
         run: |
-          Rscript -e 'if(!requireNamespace("remotes")) install.packages("remotes");
-                      pkgs <- c("dplyr","tidyr","glue","readr","rvest");
-                      to_install <- pkgs[!pkgs %in% installed.packages()[,"Package"]];
-                      if(length(to_install)) install.packages(to_install)'
+          sudo apt-get update
+          sudo apt-get install -y \
+            libxml2-dev \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libfontconfig1-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libfreetype6-dev \
+            libpng-dev \
+            libtiff5-dev \
+            libjpeg-dev
+
+      - name: Install pak
+        run: Rscript -e 'install.packages("pak", repos="https://r-lib.github.io/p/pak/dev/")'
+
+      - name: Install R dependencies
+        run: |
+          Rscript -e 'pak::pak(c(
+            "dplyr",
+            "tidyr",
+            "glue",
+            "readr",
+            "rvest",
+            "furrr",
+            "purrr",
+            "DBI",
+            "RPostgres",
+            "lubridate",
+            "stringr"
+          ))'
 
       - name: Run your R script
-        run: |
-          Rscript ${{ env.R_SCRIPT }}
-        # als je script faalt wil je dat de job faalt (default). Je kan hier tryCatch in R doen
-        # of toevoegen: continue-on-error: true (niet aangeraden)
+        run: Rscript ${{ env.R_SCRIPT }}
 
       - name: Show git status (debug)
         run: |
@@ -71,18 +92,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # configure git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # add only target folder (veiliger)
           git add ${{ env.TARGET_FOLDER }} || true
 
-          # commit if changes
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Automated update: write ${{ env.TARGET_FOLDER }} (run $GITHUB_RUN_ID)"
-            # push (uses the pre-configured GITHUB_TOKEN via actions/checkout)
             git push
           fi
