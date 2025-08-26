@@ -15,7 +15,7 @@ env:
   START_DATE: '2025-08-27'
   DAYS: '18'                     # duur in dagen
   TARGET_FOLDER: 'data/processed'  # map die je naar github wilt committen
-  R_SCRIPT: 'R/scripts/process_results.R'    # pad naar jouw script dat moet draaien
+  R_SCRIPT: 'scripts/process_results.R'    # pad naar jouw script dat moet draaien
 
 jobs:
   run-and-push:
