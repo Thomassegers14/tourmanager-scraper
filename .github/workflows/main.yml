@@ -73,8 +73,7 @@ jobs:
             "rvest",
             "furrr",
             "purrr",
-            "DBI",
-            "RPostgres",
+            "plyr",
             "lubridate",
             "stringr"
           ))'
