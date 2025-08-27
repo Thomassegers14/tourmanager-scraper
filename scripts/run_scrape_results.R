@@ -3,12 +3,7 @@ source("config/config.R")
 source("R/scrape_stage_results.R")
 source("R/scrape_stages.R")
 
-# Parallel plan instellen
-if (.Platform$OS.type == "windows") {
-  plan(multisession, workers = max(1, parallel::detectCores() - 1))
-} else {
-  plan(multicore, workers = max(1, parallel::detectCores() - 1))
-}
+plan(multisession, workers = max(1, parallel::detectCores() - 1))
 
 # Safe wrapper zodat future_map niet crasht
 safe_scrape <- purrr::possibly(
