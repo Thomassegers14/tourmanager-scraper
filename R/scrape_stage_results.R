@@ -31,34 +31,31 @@ scrape_stage_results <- function(event_id, year, stage_id, category) {
   is_ttt <- length(ttt_list) > 0 & category == "stage"
 
   if (is_ttt) {
-    df_ttt <- ttt_list %>%
-      html_elements("li") %>%
-      map_df(function(team) {
-        rows <- team %>% html_elements("tr")
+  teams <- ttt_list %>% html_elements("li")  # elk li = een team
+  df_ttt <- map_df(seq_along(teams), function(i) {
+    team <- teams[[i]]
+    rows <- team %>% html_elements("tr")
+    if (length(rows) == 0) return(NULL)
 
-        if (length(rows) == 0) {
-          return(NULL)
-        } # niets gevonden
+    rider_ids <- map_chr(rows, ~ .x %>% html_element("a[href*='rider']") %>% html_attr("href"))
 
-        rows %>% map_df(function(r) {
-          data.frame(
-            rider_id = r %>% html_element("a[href*='rider']") %>% html_attr("href")
-          )
-        })
-      })
-
-    df_ttt$rank <- 1:nrow(df_ttt)
-
-    df <- data.frame(
-      event_id = event_id,
-      year = year,
-      stage_id = stage_id,
-      category = category,
-      rank = as.character(df_ttt$rank),
-      rider_id = df_ttt$rider_id,
+    data.frame(
+      rider_id = rider_ids,
+      rank = i - 1,   # team rank = i -1 because first element is header
       stringsAsFactors = FALSE
     )
-  } else {
+  })
+
+  df <- data.frame(
+    event_id = event_id,
+    year = year,
+    stage_id = stage_id,
+    category = category,
+    rank = as.character(df_ttt$rank),
+    rider_id = df_ttt$rider_id,
+    stringsAsFactors = FALSE
+  )
+} else {
     # Zoek resultaten-tabel
     tables <- page %>%
       html_elements("div:not(.hide).resTab") %>%

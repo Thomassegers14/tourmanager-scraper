@@ -8,6 +8,9 @@ stage_points <- tibble(
   points = c(30, 25, 20, 14, 12, 10, 8, 6, 4, 2)
 )
 
+stage_points_ttt <- stage_points %>%
+  mutate(points = round(points / 2))
+
 # 🟡 Stage type weights
 stage_weight <- tibble(
   type = c("Flat", "Hilly", "Mountain", "TT"),
