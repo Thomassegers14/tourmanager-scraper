@@ -65,10 +65,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-R-
 
-      - name: Install R dependencies via pak
+      - name: Install pak
         run: |
-          Rscript -e 'if(!requireNamespace("pak")) install.packages("pak", repos="https://r-lib.github.io/p/pak/dev/")'
-          Rscript -e 'pak::pkg_install()'  # installeert alle packages uit DESCRIPTION
+          Rscript -e 'install.packages("pak", repos = sprintf(
+            "https://r-lib.github.io/p/pak/stable/%s/%s/%s",
+            .Platform$pkgType, R.version$os, R.version$arch
+          ))'
+
+      - name: Install R dependencies via pak
+        run: Rscript -e 'pak::pkg_install("local::.")'
 
       - name: Run your R script
         run: Rscript ${{ env.R_SCRIPT }}
