@@ -2,7 +2,7 @@ name: Daily script run and push
 
 on:
   schedule:
-    # runs at 15, 16, 17 UTC (= 17h, 18h, 19h Brussels time in CEST)
+    # runs at 6 15, 16, 19 UTC (= 8h, 17h, 18h, 21h Brussels time in CEST)
     - cron: '0 6,15,16,19 * * *'
   workflow_dispatch:
 
