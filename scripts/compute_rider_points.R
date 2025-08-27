@@ -20,7 +20,22 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
     filter(category == "stage") %>%
     mutate(rank = as.integer(rank)) %>%
     filter(rank <= 10) %>%
-    left_join(stage_points, by = "rank") %>%
+    # Voeg een kolom toe die aangeeft of het een TTT is
+    left_join(
+      stages %>% select(stage_id, stage_name),
+      by = "stage_id"
+    ) %>%
+    mutate(
+      is_ttt = grepl("\\(TTT\\)", stage_name)
+    ) %>%
+    # kies het juiste puntenschema
+    rowwise() %>%
+    mutate(
+      points = ifelse(is_ttt,
+                      stage_points_ttt$points[match(rank, stage_points_ttt$rank)],
+                      stage_points$points[match(rank, stage_points$rank)])
+    ) %>%
+    ungroup() %>%
     select(stage_id, rider_id, points)
 
   # ---- Daily class results ----
