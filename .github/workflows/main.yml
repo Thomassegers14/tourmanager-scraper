@@ -2,7 +2,7 @@ name: Daily script run and push
 
 on:
   schedule:
-    # runs at 6 15, 16, 19 UTC (= 8h, 17h, 18h, 21h Brussels time in CEST)
+    # Runs at 6, 15, 16, 19 UTC
     - cron: '0 6,15,16,19 * * *'
   workflow_dispatch:
 
@@ -32,13 +32,10 @@ jobs:
           DAYS=${{ env.DAYS }}
           END=$(date -d "$START + $((DAYS - 1)) days" +%Y-%m-%d)
           NOW=$(date -u +%Y-%m-%d)
-          echo "Now (UTC): $NOW"
-          echo "Start: $START  End: $END"
           if [[ "$NOW" < "$START" || "$NOW" > "$END" ]]; then
-            echo "Outside date range - exiting without running."
+            echo "Outside date range - exiting."
             exit 0
           fi
-          echo "In date range - continue."
 
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
@@ -60,32 +57,21 @@ jobs:
             libtiff5-dev \
             libjpeg-dev
 
-      - name: Install pak
-        run: Rscript -e 'install.packages("pak", repos="https://r-lib.github.io/p/pak/dev/")'
+      - name: Cache R libraries
+        uses: actions/cache@v3
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-R-${{ hashFiles('DESCRIPTION') }}
+          restore-keys: |
+            ${{ runner.os }}-R-
 
-      - name: Install R dependencies
+      - name: Install R dependencies via pak
         run: |
-          Rscript -e 'pak::pak(c(
-            "dplyr",
-            "tidyr",
-            "glue",
-            "readr",
-            "rvest",
-            "furrr",
-            "purrr",
-            "plyr",
-            "lubridate",
-            "stringr"
-          ))'
+          Rscript -e 'if(!requireNamespace("pak")) install.packages("pak", repos="https://r-lib.github.io/p/pak/dev/")'
+          Rscript -e 'pak::pkg_install()'  # installeert alle packages uit DESCRIPTION
 
       - name: Run your R script
         run: Rscript ${{ env.R_SCRIPT }}
-
-      - name: Show git status (debug)
-        run: |
-          git status --porcelain
-          git add -A
-          git status --porcelain
 
       - name: Commit & push generated folder
         env:
@@ -93,9 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add ${{ env.TARGET_FOLDER }} || true
-
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
