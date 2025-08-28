@@ -1,2 +1,5 @@
 .Rproj.user
 .Renviron
+.RData
+.Rhistory
+.gitignore
