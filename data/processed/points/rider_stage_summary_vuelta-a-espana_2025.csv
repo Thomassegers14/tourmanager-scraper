@@ -131,7 +131,7 @@ rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-3,3,0,0
 rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-5,5,2,2
 rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-6,6,0,2
-rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-7,7,0,2
+rider/brieuc-rolland,ROLLAND Brieuc,race/vuelta-a-espana/2025/stage-7,7,6,8
 rider/bruno-armirail,ARMIRAIL Bruno,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/bruno-armirail,ARMIRAIL Bruno,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/bruno-armirail,ARMIRAIL Bruno,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -348,7 +348,7 @@ rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-3,3,0,35
 rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-4,4,16,51
 rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-5,5,2,53
 rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-6,6,2,55
-rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-7,7,0,55
+rider/ethan-vernon,VERNON Ethan,race/vuelta-a-espana/2025/stage-7,7,2,57
 rider/fabio-christen,CHRISTEN Fabio,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/fabio-christen,CHRISTEN Fabio,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/fabio-christen,CHRISTEN Fabio,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -446,7 +446,7 @@ rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-3,3,0,
 rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-5,5,9,9
 rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-6,6,3,12
-rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-7,7,0,12
+rider/giulio-pellizzari,PELLIZZARI Giulio,race/vuelta-a-espana/2025/stage-7,7,3,15
 rider/guillaume-martin,MARTIN Guillaume,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/guillaume-martin,MARTIN Guillaume,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/guillaume-martin,MARTIN Guillaume,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -572,7 +572,7 @@ rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-3,3,0,41
 rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-4,4,26,67
 rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-5,5,1,68
 rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-6,6,1,69
-rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-7,7,0,69
+rider/jasper-philipsen,PHILIPSEN Jasper,race/vuelta-a-espana/2025/stage-7,7,1,70
 rider/jaume-guardeno,GUARDEÑO Jaume,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/jaume-guardeno,GUARDEÑO Jaume,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/jaume-guardeno,GUARDEÑO Jaume,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -593,7 +593,7 @@ rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-3,3,0,0
 rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-5,5,15,15
 rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-6,6,33,48
-rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-7,7,0,48
+rider/jay-vine,VINE Jay,race/vuelta-a-espana/2025/stage-7,7,3,51
 rider/jefferson-cepeda-hernandez,CEPEDA Jefferson Alveiro,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/jefferson-cepeda-hernandez,CEPEDA Jefferson Alveiro,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/jefferson-cepeda-hernandez,CEPEDA Jefferson Alveiro,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -628,7 +628,7 @@ rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-3,3,0,12
 rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-4,4,0,12
 rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-5,5,17,29
 rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-6,6,2,31
-rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-7,7,0,31
+rider/joao-almeida,ALMEIDA João,race/vuelta-a-espana/2025/stage-7,7,2,33
 rider/joel-nicolau,NICOLAU Joel,race/vuelta-a-espana/2025/stage-1,1,2,2
 rider/joel-nicolau,NICOLAU Joel,race/vuelta-a-espana/2025/stage-2,2,0,2
 rider/joel-nicolau,NICOLAU Joel,race/vuelta-a-espana/2025/stage-3,3,0,2
@@ -670,7 +670,7 @@ rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-3,3,30,6
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-4,4,3,72
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-5,5,17,89
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-6,6,0,89
-rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-7,7,0,89
+rider/jonas-vingegaard,VINGEGAARD Jonas,race/vuelta-a-espana/2025/stage-7,7,3,92
 rider/jordan-labrosse,LABROSSE Jordan,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/jordan-labrosse,LABROSSE Jordan,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/jordan-labrosse,LABROSSE Jordan,race/vuelta-a-espana/2025/stage-3,3,12,12
@@ -698,7 +698,7 @@ rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-3,3,3,12
 rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-4,4,3,15
 rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-5,5,21,36
 rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-6,6,0,36
-rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-7,7,30,66
+rider/juan-ayuso-pesquera,AYUSO Juan,race/vuelta-a-espana/2025/stage-7,7,31,67
 rider/julien-bernard,BERNARD Julien,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/julien-bernard,BERNARD Julien,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/julien-bernard,BERNARD Julien,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -796,7 +796,7 @@ rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-3,3,0,0
 rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-5,5,0,0
 rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-6,6,10,10
-rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-7,7,0,10
+rider/louis-vervaeke,VERVAEKE Louis,race/vuelta-a-espana/2025/stage-7,7,2,12
 rider/luca-van-boven,VAN BOVEN Luca,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/luca-van-boven,VAN BOVEN Luca,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/luca-van-boven,VAN BOVEN Luca,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -838,7 +838,7 @@ rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-3,3,25,25
 rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-4,4,13,38
 rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-5,5,13,51
 rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-6,6,3,54
-rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-7,7,0,54
+rider/mads-pedersen,PEDERSEN Mads,race/vuelta-a-espana/2025/stage-7,7,3,57
 rider/magnus-sheffield,SHEFFIELD Magnus,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/magnus-sheffield,SHEFFIELD Magnus,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/magnus-sheffield,SHEFFIELD Magnus,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -852,7 +852,7 @@ rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-3,3,0,0
 rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-5,5,15,15
 rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-6,6,0,15
-rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-7,7,0,15
+rider/marc-soler,SOLER Marc,race/vuelta-a-espana/2025/stage-7,7,4,19
 rider/marcel-camprubi,CAMPRUBÍ Marcel,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/marcel-camprubi,CAMPRUBÍ Marcel,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/marcel-camprubi,CAMPRUBÍ Marcel,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -908,7 +908,7 @@ rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-3,3,
 rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-5,5,0,0
 rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-6,6,2,2
-rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-7,7,0,2
+rider/matthew-riccitello,RICCITELLO Matthew,race/vuelta-a-espana/2025/stage-7,7,2,4
 rider/mauri-vansevenant,VANSEVENANT Mauri,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/mauri-vansevenant,VANSEVENANT Mauri,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/mauri-vansevenant,VANSEVENANT Mauri,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -1083,7 +1083,7 @@ rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-3,
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-5,5,0,0
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-6,6,0,0
-rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-7,7,20,20
+rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/vuelta-a-espana/2025/stage-7,7,21,21
 rider/remi-cavagna,CAVAGNA Rémi,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/remi-cavagna,CAVAGNA Rémi,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/remi-cavagna,CAVAGNA Rémi,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -1209,7 +1209,7 @@ rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-3,3,0,6
 rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-4,4,0,6
 rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-5,5,3,9
 rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-6,6,0,9
-rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-7,7,0,9
+rider/thomas-pidcock,PIDCOCK Thomas,race/vuelta-a-espana/2025/stage-7,7,2,11
 rider/tim-van-dijke,VAN DIJKE Tim,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/tim-van-dijke,VAN DIJKE Tim,race/vuelta-a-espana/2025/stage-2,2,0,0
 rider/tim-van-dijke,VAN DIJKE Tim,race/vuelta-a-espana/2025/stage-3,3,0,0
@@ -1237,7 +1237,7 @@ rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-3,3,0,0
 rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-4,4,0,0
 rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-5,5,0,0
 rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-6,6,30,30
-rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-7,7,0,30
+rider/torstein-traeen,TRÆEN Torstein,race/vuelta-a-espana/2025/stage-7,7,5,35
 rider/valentin-paret-peintre,PARET-PEINTRE Valentin,race/vuelta-a-espana/2025/stage-1,1,0,0
 rider/valentin-paret-peintre,PARET-PEINTRE Valentin,race/vuelta-a-espana/2025/stage-2,2,1,1
 rider/valentin-paret-peintre,PARET-PEINTRE Valentin,race/vuelta-a-espana/2025/stage-3,3,2,3
