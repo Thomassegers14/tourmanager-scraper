@@ -1,22 +1,22 @@
-stage,stage_id,stage_name,stage_type
-1,race/tour-de-france/2024/stage-1,Stage 1 | Firenze - Rimini,"Mountains, flat finish"
-2,race/tour-de-france/2024/stage-2,Stage 2 | Cesenatico - Bologna,"Hills, flat finish"
-3,race/tour-de-france/2024/stage-3,Stage 3 | Piacenza - Torino, Flat
-4,race/tour-de-france/2024/stage-4,Stage 4 | Pinerolo - Valloire,"Mountains, flat finish"
-5,race/tour-de-france/2024/stage-5,Stage 5 | Saint-Jean-de-Maurienne - Saint Vulbas, Flat
-6,race/tour-de-france/2024/stage-6,Stage 6 | Mâcon - Dijon, Flat
-7,race/tour-de-france/2024/stage-7,Stage 7 (ITT) | Nuits-Saint-Georges - Gevrey-Chambertin, Flat
-8,race/tour-de-france/2024/stage-8,Stage 8 | Semur-en-Auxois - Colombey-les-Deux-Eglises,"Hills, flat finish"
-9,race/tour-de-france/2024/stage-9,Stage 9 | Troyes - Troyes,"Hills, flat finish"
-10,race/tour-de-france/2024/stage-10,Stage 10 | Orléans - Saint-Amand-Montrond, Flat
-11,race/tour-de-france/2024/stage-11,Stage 11 | Évaux-les-Bains - Le Lioran,"Mountains, uphill finish"
-12,race/tour-de-france/2024/stage-12,Stage 12 | Aurillac - Villeneuve-sur-Lot, Flat
-13,race/tour-de-france/2024/stage-13,Stage 13 | Agen - Pau, Flat
-14,race/tour-de-france/2024/stage-14,Stage 14 | Pau - Saint-Lary-Soulan Pla d'Adet,"Mountains, uphill finish"
-15,race/tour-de-france/2024/stage-15,Stage 15 | Loudenvielle - Plateau de Beille,"Mountains, uphill finish"
-16,race/tour-de-france/2024/stage-16,Stage 16 | Gruissan - Nîmes, Flat
-17,race/tour-de-france/2024/stage-17,Stage 17 | Saint-Paul-Trois-Châteaux - Superdévoluy,"Hills, uphill finish"
-18,race/tour-de-france/2024/stage-18,Stage 18 | Gap - Barcelonnette,"Hills, flat finish"
-19,race/tour-de-france/2024/stage-19,Stage 19 | Embrun - Isola 2000,"Mountains, uphill finish"
-20,race/tour-de-france/2024/stage-20,Stage 20 | Nice - Col de la Couillole,"Mountains, uphill finish"
-21,race/tour-de-france/2024/stage-21,Stage 21 (ITT) | Monaco - Nice,"Mountains, flat finish"
+stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/tour-de-france/2024/stage-1,2024-06-29,1,"Mountains, flat finish",Firenze,Rimini,206,3821,176
+race/tour-de-france/2024/stage-2,2024-06-30,2,"Hills, flat finish",Cesenatico,Bologna,199.2,1859,109
+race/tour-de-france/2024/stage-3,2024-07-01,3, Flat,Piacenza,Torino,230.8,1190,16
+race/tour-de-france/2024/stage-4,2024-07-02,4,"Mountains, flat finish",Pinerolo,Valloire,139.6,3904,187
+race/tour-de-france/2024/stage-5,2024-07-03,5, Flat,Saint-Jean-de-Maurienne,Saint Vulbas,177.4,1126,25
+race/tour-de-france/2024/stage-6,2024-07-04,6, Flat,Mâcon,Dijon,163.5,881,7
+race/tour-de-france/2024/stage-7,2024-07-05,7, Flat,Nuits-Saint-Georges,Gevrey-Chambertin,25.3,283,13
+race/tour-de-france/2024/stage-8,2024-07-06,8,"Hills, flat finish",Semur-en-Auxois,Colombey-les-Deux-Eglises,183.4,2334,63
+race/tour-de-france/2024/stage-9,2024-07-07,9,"Hills, flat finish",Troyes,Troyes,199,2012,30
+race/tour-de-france/2024/stage-10,2024-07-09,10, Flat,Orléans,Saint-Amand-Montrond,187.3,888,6
+race/tour-de-france/2024/stage-11,2024-07-10,11,"Mountains, uphill finish",Évaux-les-Bains,Le Lioran,211,4177,241
+race/tour-de-france/2024/stage-12,2024-07-11,12, Flat,Aurillac,Villeneuve-sur-Lot,203.6,2253,53
+race/tour-de-france/2024/stage-13,2024-07-12,13, Flat,Agen,Pau,165.3,1884,53
+race/tour-de-france/2024/stage-14,2024-07-13,14,"Mountains, uphill finish",Pau,Saint-Lary-Soulan Pla d'Adet,151.9,4050,340
+race/tour-de-france/2024/stage-15,2024-07-14,15,"Mountains, uphill finish",Loudenvielle,Plateau de Beille,197.7,5071,366
+race/tour-de-france/2024/stage-16,2024-07-16,16, Flat,Gruissan,Nîmes,188.6,1176,15
+race/tour-de-france/2024/stage-17,2024-07-17,17,"Hills, uphill finish",Saint-Paul-Trois-Châteaux,Superdévoluy,177.8,3091,177
+race/tour-de-france/2024/stage-18,2024-07-18,18,"Hills, flat finish",Gap,Barcelonnette,179.5,3123,101
+race/tour-de-france/2024/stage-19,2024-07-19,19,"Mountains, uphill finish",Embrun,Isola 2000,144.6,4512,275
+race/tour-de-france/2024/stage-20,2024-07-20,20,"Mountains, uphill finish",Nice,Col de la Couillole,132.8,4748,380
+race/tour-de-france/2024/stage-21,2024-07-21,21,"Mountains, flat finish",Monaco,Nice,33.7,720,73

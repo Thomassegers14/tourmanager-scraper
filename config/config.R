@@ -3,6 +3,7 @@
 # List of events to scrape
 EVENT_YEARS <- tidyr::crossing(
   event_id   = c("vuelta-a-espana"),
+  # event_id = c("giro-d-italia", "tour-de-france", "vuelta-a-espana"),
   event_year = c(2025)
 )
 

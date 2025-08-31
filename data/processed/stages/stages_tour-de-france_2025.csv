@@ -1,22 +1,22 @@
-stage,stage_id,stage_name,stage_type
-1,race/tour-de-france/2025/stage-1,Stage 1 | Lille Métropole - Lille Métropole,"Hills, flat finish"
-2,race/tour-de-france/2025/stage-2,Stage 2 | Lauwin-Planque - Boulogne-sur-Mer,"Hills, uphill finish"
-3,race/tour-de-france/2025/stage-3,Stage 3 | Valenciennes - Dunkerque, Flat
-4,race/tour-de-france/2025/stage-4,Stage 4 | Amiens Métropole - Rouen,"Hills, flat finish"
-5,race/tour-de-france/2025/stage-5,Stage 5 (ITT) | Caen - Caen, Flat
-6,race/tour-de-france/2025/stage-6,Stage 6 | Bayeux - Vire Normandie,"Hills, uphill finish"
-7,race/tour-de-france/2025/stage-7,Stage 7 | Saint-Malo - Mûr-de-Bretagne (Guerlédan),"Hills, uphill finish"
-8,race/tour-de-france/2025/stage-8,Stage 8 | Saint-Méen-le-Grand - Laval (Espace Mayenne), Flat
-9,race/tour-de-france/2025/stage-9,Stage 9 | Chinon - Châteauroux, Flat
-10,race/tour-de-france/2025/stage-10,Stage 10 | Ennezat - Le Mont-Dore Puy de Sancy,"Hills, uphill finish"
-11,race/tour-de-france/2025/stage-11,Stage 11 | Toulouse - Toulouse, Flat
-12,race/tour-de-france/2025/stage-12,Stage 12 | Auch - Hautacam,"Mountains, uphill finish"
-13,race/tour-de-france/2025/stage-13,Stage 13 (ITT) | Loudenvielle - Peyragudes,"Mountains, uphill finish"
-14,race/tour-de-france/2025/stage-14,Stage 14 | Pau - Luchon-Superbagnères,"Mountains, uphill finish"
-15,race/tour-de-france/2025/stage-15,Stage 15 | Muret - Carcassonne,"Hills, flat finish"
-16,race/tour-de-france/2025/stage-16,Stage 16 | Montpellier - Mont Ventoux,"Mountains, uphill finish"
-17,race/tour-de-france/2025/stage-17,Stage 17 | Bollène - Valence, Flat
-18,race/tour-de-france/2025/stage-18,Stage 18 | Vif - Courchevel (Col de la Loze),"Mountains, uphill finish"
-19,race/tour-de-france/2025/stage-19,Stage 19 | Albertville - La Plagne,"Mountains, uphill finish"
-20,race/tour-de-france/2025/stage-20,Stage 20 | Nantua - Pontarlier,"Hills, flat finish"
-21,race/tour-de-france/2025/stage-21,Stage 21 | Mantes-la-Ville - Paris (Champs-Élysées), Flat
+stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/tour-de-france/2025/stage-1,2025-07-05,1,"Hills, flat finish",Lille Métropole,Lille Métropole,184.9,1065,17
+race/tour-de-france/2025/stage-2,2025-07-06,2,"Hills, uphill finish",Lauwin-Planque,Boulogne-sur-Mer,209.1,1953,73
+race/tour-de-france/2025/stage-3,2025-07-07,3, Flat,Valenciennes,Dunkerque,178.3,792,9
+race/tour-de-france/2025/stage-4,2025-07-08,4,"Hills, flat finish",Amiens Métropole,Rouen,174.2,1745,81
+race/tour-de-france/2025/stage-5,2025-07-09,5, Flat,Caen,Caen,33,191,1
+race/tour-de-france/2025/stage-6,2025-07-10,6,"Hills, uphill finish",Bayeux,Vire Normandie,201.5,3309,143
+race/tour-de-france/2025/stage-7,2025-07-11,7,"Hills, uphill finish",Saint-Malo,Mûr-de-Bretagne (Guerlédan),197,2096,80
+race/tour-de-france/2025/stage-8,2025-07-12,8, Flat,Saint-Méen-le-Grand,Laval (Espace Mayenne),171.4,1257,10
+race/tour-de-france/2025/stage-9,2025-07-13,9, Flat,Chinon,Châteauroux,174.1,1019,6
+race/tour-de-france/2025/stage-10,2025-07-14,10,"Hills, uphill finish",Ennezat,Le Mont-Dore Puy de Sancy,165.3,4307,240
+race/tour-de-france/2025/stage-11,2025-07-16,11, Flat,Toulouse,Toulouse,156.8,1567,78
+race/tour-de-france/2025/stage-12,2025-07-17,12,"Mountains, uphill finish",Auch,Hautacam,180.6,3794,333
+race/tour-de-france/2025/stage-13,2025-07-18,13,"Mountains, uphill finish",Loudenvielle,Peyragudes,10.9,645,119
+race/tour-de-france/2025/stage-14,2025-07-19,14,"Mountains, uphill finish",Pau,Luchon-Superbagnères,182.6,5020,396
+race/tour-de-france/2025/stage-15,2025-07-20,15,"Hills, flat finish",Muret,Carcassonne,169.3,2305,73
+race/tour-de-france/2025/stage-16,2025-07-22,16,"Mountains, uphill finish",Montpellier,Mont Ventoux,171.5,2929,302
+race/tour-de-france/2025/stage-17,2025-07-23,17, Flat,Bollène,Valence,160.4,1660,25
+race/tour-de-france/2025/stage-18,2025-07-24,18,"Mountains, uphill finish",Vif,Courchevel (Col de la Loze),171.5,5642,414
+race/tour-de-france/2025/stage-19,2025-07-25,19,"Mountains, uphill finish",Albertville,La Plagne,93.1,3431,340
+race/tour-de-france/2025/stage-20,2025-07-26,20,"Hills, flat finish",Nantua,Pontarlier,184.2,2916,107
+race/tour-de-france/2025/stage-21,2025-07-27,21, Flat,Mantes-la-Ville,Paris (Champs-Élysées),132.3,1129,26

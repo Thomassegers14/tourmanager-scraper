@@ -1,22 +1,22 @@
-stage,stage_id,stage_name,stage_type
-1,race/tour-de-france/2023/stage-1,Stage 1 | Bilbao - Bilbao,"Hills, uphill finish"
-2,race/tour-de-france/2023/stage-2,Stage 2 | Vitoria-Gasteiz - San Sébastián,"Hills, flat finish"
-3,race/tour-de-france/2023/stage-3,Stage 3 | Amorebieta-Etxano - Bayonne,"Hills, flat finish"
-4,race/tour-de-france/2023/stage-4,Stage 4 | Dax - Nogaro, Flat
-5,race/tour-de-france/2023/stage-5,Stage 5 | Pau - Laruns,"Mountains, flat finish"
-6,race/tour-de-france/2023/stage-6,Stage 6 | Tarbes - Cauterets-Cambasque,"Mountains, uphill finish"
-7,race/tour-de-france/2023/stage-7,Stage 7 | Mont-de-Marsan - Bordeaux, Flat
-8,race/tour-de-france/2023/stage-8,Stage 8 | Libourne - Limoges,"Hills, flat finish"
-9,race/tour-de-france/2023/stage-9,Stage 9 | Saint-Léonard-de-Noblat - Puy de Dôme,"Mountains, uphill finish"
-10,race/tour-de-france/2023/stage-10,Stage 10 | Vulcania - Issoire,"Hills, flat finish"
-11,race/tour-de-france/2023/stage-11,Stage 11 | Clermont-Ferrand - Moulins,"Hills, flat finish"
-12,race/tour-de-france/2023/stage-12,Stage 12 | Roanne - Belleville-en-Beaujolais,"Hills, flat finish"
-13,race/tour-de-france/2023/stage-13,Stage 13 | Châtillon-Sur-Chalaronne - Grand Colombier,"Mountains, uphill finish"
-14,race/tour-de-france/2023/stage-14,Stage 14 | Annemasse - Morzine les Portes du Soleil,"Mountains, flat finish"
-15,race/tour-de-france/2023/stage-15,Stage 15 | Les Gets les Portes du Soleil - Saint-Gervais Mont-Blanc,"Mountains, uphill finish"
-16,race/tour-de-france/2023/stage-16,Stage 16 (ITT) | Passy - Combloux,"Mountains, uphill finish"
-17,race/tour-de-france/2023/stage-17,Stage 17 | Saint-Gervais Mont-Blanc - Courchevel,"Mountains, flat finish"
-18,race/tour-de-france/2023/stage-18,Stage 18 | Moûtiers - Bourg-en-Bresse, Flat
-19,race/tour-de-france/2023/stage-19,Stage 19 | Moirans-en-Montagne - Poligny,"Hills, flat finish"
-20,race/tour-de-france/2023/stage-20,Stage 20 | Belfort - Le Markstein,"Mountains, flat finish"
-21,race/tour-de-france/2023/stage-21,Stage 21 | Saint-Quentin-en-Yvelines - Paris, Flat
+stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/tour-de-france/2023/stage-1,2023-07-01,1,"Hills, uphill finish",Bilbao,Bilbao,182,3221,166
+race/tour-de-france/2023/stage-2,2023-07-02,2,"Hills, flat finish",Vitoria-Gasteiz,San Sébastián,208.9,2949,141
+race/tour-de-france/2023/stage-3,2023-07-03,3,"Hills, flat finish",Amorebieta-Etxano,Bayonne,193.5,2667,68
+race/tour-de-france/2023/stage-4,2023-07-04,4, Flat,Dax,Nogaro,181.8,1427,20
+race/tour-de-france/2023/stage-5,2023-07-05,5,"Mountains, flat finish",Pau,Laruns,162.7,3652,239
+race/tour-de-france/2023/stage-6,2023-07-06,6,"Mountains, uphill finish",Tarbes,Cauterets-Cambasque,144.9,3894,310
+race/tour-de-france/2023/stage-7,2023-07-07,7, Flat,Mont-de-Marsan,Bordeaux,169.9,808,7
+race/tour-de-france/2023/stage-8,2023-07-08,8,"Hills, flat finish",Libourne,Limoges,200.7,1996,61
+race/tour-de-france/2023/stage-9,2023-07-09,9,"Mountains, uphill finish",Saint-Léonard-de-Noblat,Puy de Dôme,182.4,3441,273
+race/tour-de-france/2023/stage-10,2023-07-11,10,"Hills, flat finish",Vulcania,Issoire,167.2,3151,118
+race/tour-de-france/2023/stage-11,2023-07-12,11,"Hills, flat finish",Clermont-Ferrand,Moulins,179.3,1873,34
+race/tour-de-france/2023/stage-12,2023-07-13,12,"Hills, flat finish",Roanne,Belleville-en-Beaujolais,168.8,3120,147
+race/tour-de-france/2023/stage-13,2023-07-14,13,"Mountains, uphill finish",Châtillon-Sur-Chalaronne,Grand Colombier,137.8,2413,260
+race/tour-de-france/2023/stage-14,2023-07-15,14,"Mountains, flat finish",Annemasse,Morzine les Portes du Soleil,151.8,4281,308
+race/tour-de-france/2023/stage-15,2023-07-16,15,"Mountains, uphill finish",Les Gets les Portes du Soleil,Saint-Gervais Mont-Blanc,179,4483,335
+race/tour-de-france/2023/stage-16,2023-07-18,16,"Mountains, uphill finish",Passy,Combloux,22.4,636,109
+race/tour-de-france/2023/stage-17,2023-07-19,17,"Mountains, flat finish",Saint-Gervais Mont-Blanc,Courchevel,165.7,5399,445
+race/tour-de-france/2023/stage-18,2023-07-20,18, Flat,Moûtiers,Bourg-en-Bresse,184.9,1216,18
+race/tour-de-france/2023/stage-19,2023-07-21,19,"Hills, flat finish",Moirans-en-Montagne,Poligny,172.8,1934,50
+race/tour-de-france/2023/stage-20,2023-07-22,20,"Mountains, flat finish",Belfort,Le Markstein,133.5,3471,303
+race/tour-de-france/2023/stage-21,2023-07-23,21, Flat,Saint-Quentin-en-Yvelines,Paris,115.1,577,14
