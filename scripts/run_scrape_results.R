@@ -51,6 +51,8 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
     .options = furrr::furrr_options(seed = TRUE)
   )
 
+  all_results <- all_results %>% mutate(stage = plyr::mapvalues(stage_id, stages$stage_id, stages$stage)) %>% arrange(stage, match(category, c("stage", "gc", "kom", "points", "youth")), as.numeric(rank), rider_id) %>% select(-stage)
+
   if (nrow(all_results) > 0) {
     dir.create("data/processed/results", showWarnings = FALSE, recursive = TRUE)
     file <- glue("data/processed/results/{id}_{year}_all_stage_results.csv")
