@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/vuelta-a-espana/2025/stage-1,2025-08-23,1, Flat,Torino-Reggia di Venaria,Novara,186.7,1293,16
-race/vuelta-a-espana/2025/stage-2,2025-08-24,2,"Hills, uphill finish",Alba,Limone Piemonte,159.5,1910,100
-race/vuelta-a-espana/2025/stage-3,2025-08-25,3,"Hills, uphill finish",San Maurizio Canavese,Ceres,134.6,1948,87
-race/vuelta-a-espana/2025/stage-4,2025-08-26,4,"Hills, uphill finish",Susa,Voiron,206.7,3081,85
-race/vuelta-a-espana/2025/stage-5,2025-08-27,5, Flat,Figueres,Figueres,24.1,122,0
-race/vuelta-a-espana/2025/stage-6,2025-08-28,6,"Mountains, uphill finish",Olot,Pal. Andorra,170.3,3602,239
-race/vuelta-a-espana/2025/stage-7,2025-08-29,7,"Mountains, uphill finish",Andorra la Vella,Cerler. Huesca La Magia,188,4203,261
-race/vuelta-a-espana/2025/stage-8,2025-08-30,8, Flat,Monzón Templario,Zaragoza,163.5,1219,25
-race/vuelta-a-espana/2025/stage-9,2025-08-31,9,"Hills, uphill finish",Alfaro,Estación de Esquí de Valdezcaray,195.5,3123,138
-race/vuelta-a-espana/2025/stage-10,2025-09-02,10,"Hills, uphill finish",Parque de la Naturaleza Sendaviva,El Ferial Larra Belagua,175.3,2910,170
-race/vuelta-a-espana/2025/stage-11,2025-09-03,11,"Hills, flat finish",Bilbao,Bilbao,157.4,3081,190
-race/vuelta-a-espana/2025/stage-12,2025-09-04,12,"Hills, flat finish",Laredo,Los Corrales de Buelna,144.9,2504,138
-race/vuelta-a-espana/2025/stage-13,2025-09-05,13,"Mountains, uphill finish",Cabezón de la Sal,L'Angliru,202.7,3958,483
-race/vuelta-a-espana/2025/stage-14,2025-09-06,14,"Mountains, uphill finish",Avilés,La Farrapona. Lagos de Somiedo,135.9,4095,399
-race/vuelta-a-espana/2025/stage-15,2025-09-07,15,"Hills, flat finish",A Veiga/Vegadeo,Monforte de Lemos,167.8,3099,85
-race/vuelta-a-espana/2025/stage-16,2025-09-09,16,"Hills, uphill finish",Poio,Mos. Castro de Herville,167.9,3476,259
-race/vuelta-a-espana/2025/stage-17,2025-09-10,17,"Mountains, uphill finish",O Barco de Valdeorras,Alto de El Morredero,143.2,3234,301
-race/vuelta-a-espana/2025/stage-18,2025-09-11,18, Flat,Valladolid,Valladolid,27.2,204,9
-race/vuelta-a-espana/2025/stage-19,2025-09-12,19, Flat,Rueda,Guijuelo,161.9,1300,22
-race/vuelta-a-espana/2025/stage-20,2025-09-13,20,"Mountains, uphill finish",Robledo de Chavela,Bola del Mundo. Puerto de Navacerrada,164.8,4116,343
-race/vuelta-a-espana/2025/stage-21,2025-09-14,21, Flat,Alalpardo,Madrid,108,1678,92
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/vuelta-a-espana/2025/stage-1,2025-08-23,1,Stage 1, Flat,Torino-Reggia di Venaria,Novara,186.7,1293,16
+race/vuelta-a-espana/2025/stage-2,2025-08-24,2,Stage 2,"Hills, uphill finish",Alba,Limone Piemonte,159.5,1910,100
+race/vuelta-a-espana/2025/stage-3,2025-08-25,3,Stage 3,"Hills, uphill finish",San Maurizio Canavese,Ceres,134.6,1948,87
+race/vuelta-a-espana/2025/stage-4,2025-08-26,4,Stage 4,"Hills, uphill finish",Susa,Voiron,206.7,3081,85
+race/vuelta-a-espana/2025/stage-5,2025-08-27,5,Stage 5 (TTT), Flat,Figueres,Figueres,24.1,122,0
+race/vuelta-a-espana/2025/stage-6,2025-08-28,6,Stage 6,"Mountains, uphill finish",Olot,Pal. Andorra,170.3,3602,239
+race/vuelta-a-espana/2025/stage-7,2025-08-29,7,Stage 7,"Mountains, uphill finish",Andorra la Vella,Cerler. Huesca La Magia,188,4203,261
+race/vuelta-a-espana/2025/stage-8,2025-08-30,8,Stage 8, Flat,Monzón Templario,Zaragoza,163.5,1219,25
+race/vuelta-a-espana/2025/stage-9,2025-08-31,9,Stage 9,"Hills, uphill finish",Alfaro,Estación de Esquí de Valdezcaray,195.5,3123,138
+race/vuelta-a-espana/2025/stage-10,2025-09-02,10,Stage 10,"Hills, uphill finish",Parque de la Naturaleza Sendaviva,El Ferial Larra Belagua,175.3,2910,170
+race/vuelta-a-espana/2025/stage-11,2025-09-03,11,Stage 11,"Hills, flat finish",Bilbao,Bilbao,157.4,3081,190
+race/vuelta-a-espana/2025/stage-12,2025-09-04,12,Stage 12,"Hills, flat finish",Laredo,Los Corrales de Buelna,144.9,2504,138
+race/vuelta-a-espana/2025/stage-13,2025-09-05,13,Stage 13,"Mountains, uphill finish",Cabezón de la Sal,L'Angliru,202.7,3958,483
+race/vuelta-a-espana/2025/stage-14,2025-09-06,14,Stage 14,"Mountains, uphill finish",Avilés,La Farrapona. Lagos de Somiedo,135.9,4095,399
+race/vuelta-a-espana/2025/stage-15,2025-09-07,15,Stage 15,"Hills, flat finish",A Veiga/Vegadeo,Monforte de Lemos,167.8,3099,85
+race/vuelta-a-espana/2025/stage-16,2025-09-09,16,Stage 16,"Hills, uphill finish",Poio,Mos. Castro de Herville,167.9,3476,259
+race/vuelta-a-espana/2025/stage-17,2025-09-10,17,Stage 17,"Mountains, uphill finish",O Barco de Valdeorras,Alto de El Morredero,143.2,3234,301
+race/vuelta-a-espana/2025/stage-18,2025-09-11,18,Stage 18 (ITT), Flat,Valladolid,Valladolid,27.2,204,9
+race/vuelta-a-espana/2025/stage-19,2025-09-12,19,Stage 19, Flat,Rueda,Guijuelo,161.9,1300,22
+race/vuelta-a-espana/2025/stage-20,2025-09-13,20,Stage 20,"Mountains, uphill finish",Robledo de Chavela,Bola del Mundo. Puerto de Navacerrada,164.8,4116,343
+race/vuelta-a-espana/2025/stage-21,2025-09-14,21,Stage 21, Flat,Alalpardo,Madrid,108,1678,92
