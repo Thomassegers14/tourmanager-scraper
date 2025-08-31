@@ -45,7 +45,7 @@ scrape_stages <- function(id, year) {
       distance_km = as.numeric(str_replace(Distance, ",", ".")),
       vertical_m = as.numeric(str_replace(`Vertical meters`, ",", "."))
     ) %>%
-    select(stage_id, date, stage_nr, stage_type, departure, arrival, distance_km, vertical_m)
+    select(stage_id, date, stage = stage_nr, stage_name = `#`, stage_type, departure, arrival, distance_km, vertical_m)
 
   # Tweede tabel = hardest stages
   hardest_df <- tables[[2]] %>%
@@ -66,7 +66,7 @@ scrape_stages <- function(id, year) {
   # ---- Joinen ----
   result <- stages %>%
     left_join(hardest, by = "stage_id") %>%
-    arrange(as.numeric(stage_nr))
+    arrange(as.numeric(stage))
 
   return(result)
 }
