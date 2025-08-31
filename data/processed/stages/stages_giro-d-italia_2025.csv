@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/giro-d-italia/2025/stage-1,2025-05-09,1,"Hills, flat finish",Durrës,Tirana,160,1876,79
-race/giro-d-italia/2025/stage-2,2025-05-10,2,"Hills, flat finish",Tirana,Tirana,13.7,141,8
-race/giro-d-italia/2025/stage-3,2025-05-11,3,"Hills, flat finish",Vlorë,Vlorë,160,2921,164
-race/giro-d-italia/2025/stage-4,2025-05-13,4, Flat,Alberobello (Pietramadre),Lecce,189,730,5
-race/giro-d-italia/2025/stage-5,2025-05-14,5,"Hills, uphill finish",Ceglie Messapica,Matera,151,1487,91
-race/giro-d-italia/2025/stage-6,2025-05-15,6,"Hills, flat finish",Potenza,Napoli,227,2496,46
-race/giro-d-italia/2025/stage-7,2025-05-16,7,"Mountains, uphill finish",Castel di Sangro,Tagliacozzo (Marsia),168,3390,199
-race/giro-d-italia/2025/stage-8,2025-05-17,8,"Hills, flat finish",Giulianova,Castelraimondo,197,3792,161
-race/giro-d-italia/2025/stage-9,2025-05-18,9,"Hills, uphill finish",Gubbio,Siena,181,2346,117
-race/giro-d-italia/2025/stage-10,2025-05-20,10, Flat,Lucca,Pisa,28.6,125,0
-race/giro-d-italia/2025/stage-11,2025-05-21,11,"Mountains, flat finish",Viareggio,Castelnovo ne' Monti,186,3812,192
-race/giro-d-italia/2025/stage-12,2025-05-22,12, Flat,Modena,Viadana (Oglio-Po),172,1666,29
-race/giro-d-italia/2025/stage-13,2025-05-23,13,"Hills, uphill finish",Rovigo,Vicenza,180,1561,95
-race/giro-d-italia/2025/stage-14,2025-05-24,14, Flat,Treviso,Nova Gorica,195,987,51
-race/giro-d-italia/2025/stage-15,2025-05-25,15,"Hills, flat finish",Fiume Veneto,Asiago,219,3865,172
-race/giro-d-italia/2025/stage-16,2025-05-27,16,"Mountains, uphill finish",Piazzola sul Brenta,San Valentino (Brentonico),203,4737,384
-race/giro-d-italia/2025/stage-17,2025-05-28,17,"Mountains, flat finish",San Michele all’Adige (Fondazione Edmund Mach),Bormio,155,3813,220
-race/giro-d-italia/2025/stage-18,2025-05-29,18,"Hills, flat finish",Morbegno,Cesano Maderno,144,1669,51
-race/giro-d-italia/2025/stage-19,2025-05-30,19,"Mountains, flat finish",Biella,Champoluc,166,4908,328
-race/giro-d-italia/2025/stage-20,2025-05-31,20,"Mountains, uphill finish",Verrès,Sestrière (Vialattea),205,4399,351
-race/giro-d-italia/2025/stage-21,2025-06-01,21, Flat,Roma,Roma,143,1604,42
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/giro-d-italia/2025/stage-1,2025-05-09,1,Stage 1,"Hills, flat finish",Durrës,Tirana,160,1876,79
+race/giro-d-italia/2025/stage-2,2025-05-10,2,Stage 2 (ITT),"Hills, flat finish",Tirana,Tirana,13.7,141,8
+race/giro-d-italia/2025/stage-3,2025-05-11,3,Stage 3,"Hills, flat finish",Vlorë,Vlorë,160,2921,164
+race/giro-d-italia/2025/stage-4,2025-05-13,4,Stage 4, Flat,Alberobello (Pietramadre),Lecce,189,730,5
+race/giro-d-italia/2025/stage-5,2025-05-14,5,Stage 5,"Hills, uphill finish",Ceglie Messapica,Matera,151,1487,91
+race/giro-d-italia/2025/stage-6,2025-05-15,6,Stage 6,"Hills, flat finish",Potenza,Napoli,227,2496,46
+race/giro-d-italia/2025/stage-7,2025-05-16,7,Stage 7,"Mountains, uphill finish",Castel di Sangro,Tagliacozzo (Marsia),168,3390,199
+race/giro-d-italia/2025/stage-8,2025-05-17,8,Stage 8,"Hills, flat finish",Giulianova,Castelraimondo,197,3792,161
+race/giro-d-italia/2025/stage-9,2025-05-18,9,Stage 9,"Hills, uphill finish",Gubbio,Siena,181,2346,117
+race/giro-d-italia/2025/stage-10,2025-05-20,10,Stage 10 (ITT), Flat,Lucca,Pisa,28.6,125,0
+race/giro-d-italia/2025/stage-11,2025-05-21,11,Stage 11,"Mountains, flat finish",Viareggio,Castelnovo ne' Monti,186,3812,192
+race/giro-d-italia/2025/stage-12,2025-05-22,12,Stage 12, Flat,Modena,Viadana (Oglio-Po),172,1666,29
+race/giro-d-italia/2025/stage-13,2025-05-23,13,Stage 13,"Hills, uphill finish",Rovigo,Vicenza,180,1561,95
+race/giro-d-italia/2025/stage-14,2025-05-24,14,Stage 14, Flat,Treviso,Nova Gorica,195,987,51
+race/giro-d-italia/2025/stage-15,2025-05-25,15,Stage 15,"Hills, flat finish",Fiume Veneto,Asiago,219,3865,172
+race/giro-d-italia/2025/stage-16,2025-05-27,16,Stage 16,"Mountains, uphill finish",Piazzola sul Brenta,San Valentino (Brentonico),203,4737,384
+race/giro-d-italia/2025/stage-17,2025-05-28,17,Stage 17,"Mountains, flat finish",San Michele all’Adige (Fondazione Edmund Mach),Bormio,155,3813,220
+race/giro-d-italia/2025/stage-18,2025-05-29,18,Stage 18,"Hills, flat finish",Morbegno,Cesano Maderno,144,1669,51
+race/giro-d-italia/2025/stage-19,2025-05-30,19,Stage 19,"Mountains, flat finish",Biella,Champoluc,166,4908,328
+race/giro-d-italia/2025/stage-20,2025-05-31,20,Stage 20,"Mountains, uphill finish",Verrès,Sestrière (Vialattea),205,4399,351
+race/giro-d-italia/2025/stage-21,2025-06-01,21,Stage 21, Flat,Roma,Roma,143,1604,42

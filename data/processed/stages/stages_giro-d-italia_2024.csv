@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/giro-d-italia/2024/stage-1,2024-05-04,1,"Hills, flat finish",Venaria Reale,Torino,140,1851,145
-race/giro-d-italia/2024/stage-2,2024-05-05,2,"Mountains, uphill finish",San Francesco al Campo,Santuario di Oropa,161,2310,222
-race/giro-d-italia/2024/stage-3,2024-05-06,3, Flat,Novara,Fossano,166.3,865,35
-race/giro-d-italia/2024/stage-4,2024-05-07,4,"Hills, flat finish",Acqui Terme,Andora,190,2151,44
-race/giro-d-italia/2024/stage-5,2024-05-08,5,"Hills, flat finish",Genova,Lucca,178,2197,59
-race/giro-d-italia/2024/stage-6,2024-05-09,6, Flat,Viareggio,Rapolano Terme,180,2118,102
-race/giro-d-italia/2024/stage-7,2024-05-10,7,"Hills, uphill finish",Foligno,Perugia,40.6,408,42
-race/giro-d-italia/2024/stage-8,2024-05-11,8,"Mountains, uphill finish",Spoleto,Prati di Tivo,152,3658,265
-race/giro-d-italia/2024/stage-9,2024-05-12,9,"Hills, flat finish",Avezzano,Naples,214,1574,77
-race/giro-d-italia/2024/stage-10,2024-05-14,10,"Mountains, uphill finish",Pompei,Bocca della Selva,142,3029,267
-race/giro-d-italia/2024/stage-11,2024-05-15,11, Flat,Foiano di Val Fortore,Francavilla al Mare,207,1830,36
-race/giro-d-italia/2024/stage-12,2024-05-16,12,"Hills, flat finish",Martinsicuro,Fano,193,2162,95
-race/giro-d-italia/2024/stage-13,2024-05-17,13, Flat,Riccione,Cento,179,202,0
-race/giro-d-italia/2024/stage-14,2024-05-18,14, Flat,Castiglione delle Stiviere,Desenzano del Garda,31.2,250,9
-race/giro-d-italia/2024/stage-15,2024-05-19,15,"Mountains, uphill finish",Manerba del Garda,Livigno (Mottolino),222,5724,397
-race/giro-d-italia/2024/stage-16,2024-05-21,16,"Mountains, uphill finish",Laas,Santa Cristina Valgardena (Monte Pana),118.4,2151,234
-race/giro-d-italia/2024/stage-17,2024-05-22,17,"Mountains, uphill finish",Selva di Val Gardena,Passo Brocon,159,4087,341
-race/giro-d-italia/2024/stage-18,2024-05-23,18, Flat,Fiera di Primiero,Padova,178,873,18
-race/giro-d-italia/2024/stage-19,2024-05-24,19,"Hills, flat finish",Mortegliano,Sappada,157,3251,258
-race/giro-d-italia/2024/stage-20,2024-05-25,20,"Mountains, flat finish",Alpago,Bassano del Grappa,184,4540,316
-race/giro-d-italia/2024/stage-21,2024-05-26,21, Flat,Rome,Rome,125,676,13
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/giro-d-italia/2024/stage-1,2024-05-04,1,Stage 1,"Hills, flat finish",Venaria Reale,Torino,140,1851,145
+race/giro-d-italia/2024/stage-2,2024-05-05,2,Stage 2,"Mountains, uphill finish",San Francesco al Campo,Santuario di Oropa,161,2310,222
+race/giro-d-italia/2024/stage-3,2024-05-06,3,Stage 3, Flat,Novara,Fossano,166.3,865,35
+race/giro-d-italia/2024/stage-4,2024-05-07,4,Stage 4,"Hills, flat finish",Acqui Terme,Andora,190,2151,44
+race/giro-d-italia/2024/stage-5,2024-05-08,5,Stage 5,"Hills, flat finish",Genova,Lucca,178,2197,59
+race/giro-d-italia/2024/stage-6,2024-05-09,6,Stage 6, Flat,Viareggio,Rapolano Terme,180,2118,102
+race/giro-d-italia/2024/stage-7,2024-05-10,7,Stage 7 (ITT),"Hills, uphill finish",Foligno,Perugia,40.6,408,42
+race/giro-d-italia/2024/stage-8,2024-05-11,8,Stage 8,"Mountains, uphill finish",Spoleto,Prati di Tivo,152,3658,265
+race/giro-d-italia/2024/stage-9,2024-05-12,9,Stage 9,"Hills, flat finish",Avezzano,Naples,214,1574,77
+race/giro-d-italia/2024/stage-10,2024-05-14,10,Stage 10,"Mountains, uphill finish",Pompei,Bocca della Selva,142,3029,267
+race/giro-d-italia/2024/stage-11,2024-05-15,11,Stage 11, Flat,Foiano di Val Fortore,Francavilla al Mare,207,1830,36
+race/giro-d-italia/2024/stage-12,2024-05-16,12,Stage 12,"Hills, flat finish",Martinsicuro,Fano,193,2162,95
+race/giro-d-italia/2024/stage-13,2024-05-17,13,Stage 13, Flat,Riccione,Cento,179,202,0
+race/giro-d-italia/2024/stage-14,2024-05-18,14,Stage 14 (ITT), Flat,Castiglione delle Stiviere,Desenzano del Garda,31.2,250,9
+race/giro-d-italia/2024/stage-15,2024-05-19,15,Stage 15,"Mountains, uphill finish",Manerba del Garda,Livigno (Mottolino),222,5724,397
+race/giro-d-italia/2024/stage-16,2024-05-21,16,Stage 16,"Mountains, uphill finish",Laas,Santa Cristina Valgardena (Monte Pana),118.4,2151,234
+race/giro-d-italia/2024/stage-17,2024-05-22,17,Stage 17,"Mountains, uphill finish",Selva di Val Gardena,Passo Brocon,159,4087,341
+race/giro-d-italia/2024/stage-18,2024-05-23,18,Stage 18, Flat,Fiera di Primiero,Padova,178,873,18
+race/giro-d-italia/2024/stage-19,2024-05-24,19,Stage 19,"Hills, flat finish",Mortegliano,Sappada,157,3251,258
+race/giro-d-italia/2024/stage-20,2024-05-25,20,Stage 20,"Mountains, flat finish",Alpago,Bassano del Grappa,184,4540,316
+race/giro-d-italia/2024/stage-21,2024-05-26,21,Stage 21, Flat,Rome,Rome,125,676,13

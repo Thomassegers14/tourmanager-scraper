@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/vuelta-a-espana/2023/stage-1,2023-08-26,1, Flat,Barcelona,Barcelona,14.8,60,0
-race/vuelta-a-espana/2023/stage-2,2023-08-27,2,"Hills, flat finish",Mataró,Barcelona,181.8,2754,80
-race/vuelta-a-espana/2023/stage-3,2023-08-28,3,"Mountains, uphill finish",Súria,Arinsal,158.5,3472,263
-race/vuelta-a-espana/2023/stage-4,2023-08-29,4,"Hills, flat finish",Andorra la Vella,Tarragona,184.6,1822,57
-race/vuelta-a-espana/2023/stage-5,2023-08-30,5,"Hills, flat finish",Morella,Burriana,186.2,2395,65
-race/vuelta-a-espana/2023/stage-6,2023-08-31,6,"Mountains, uphill finish",La Vall d'Uixó,Observatorio Astrofísico de Javalambre,183.1,4013,273
-race/vuelta-a-espana/2023/stage-7,2023-09-01,7, Flat,Utiel,Oliva,200.8,1144,12
-race/vuelta-a-espana/2023/stage-8,2023-09-02,8,"Mountains, flat finish",Dénia,Xorret de Catí. Costa Blanca Interior,165,3619,235
-race/vuelta-a-espana/2023/stage-9,2023-09-03,9,"Mountains, uphill finish",Cartagena,Collado de la Cruz de Caravaca,184.5,3041,162
-race/vuelta-a-espana/2023/stage-10,2023-09-05,10, Flat,Valladolid,Valladolid,25.8,115,5
-race/vuelta-a-espana/2023/stage-11,2023-09-06,11,"Hills, uphill finish",Lerma,La Laguna Negra.Vinuesa,163.2,2203,112
-race/vuelta-a-espana/2023/stage-12,2023-09-07,12, Flat,Ólvega,Zaragoza,150.6,865,11
-race/vuelta-a-espana/2023/stage-13,2023-09-08,13,"Mountains, uphill finish",Formigal. Huesca la Magia,Col du Tourmalet,134.7,4266,400
-race/vuelta-a-espana/2023/stage-14,2023-09-09,14,"Mountains, uphill finish",Sauveterre-de-Béarn,Larra-Belagua,156.2,4531,406
-race/vuelta-a-espana/2023/stage-15,2023-09-10,15,"Hills, flat finish",Pamplona,Lekunberri,158.3,2494,111
-race/vuelta-a-espana/2023/stage-16,2023-09-12,16,"Hills, uphill finish",Liencres Playa,Bejes,120.1,2122,153
-race/vuelta-a-espana/2023/stage-17,2023-09-13,17,"Mountains, uphill finish",Ribadesella/Ribeseya,Altu de L'Angliru,124.4,3269,464
-race/vuelta-a-espana/2023/stage-18,2023-09-14,18,"Mountains, uphill finish",Pola de Allande,La Cruz de Linares,178.9,4630,422
-race/vuelta-a-espana/2023/stage-19,2023-09-15,19, Flat,La Bañeza,Íscar,177.1,919,8
-race/vuelta-a-espana/2023/stage-20,2023-09-16,20,"Hills, flat finish",Manzanares El Real,Guadarrama,207.8,4361,186
-race/vuelta-a-espana/2023/stage-21,2023-09-17,21, Flat,Hipódromo de la Zarzuela,Madrid. Paisaje de la Luz,101.5,878,12
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/vuelta-a-espana/2023/stage-1,2023-08-26,1,Stage 1 (TTT), Flat,Barcelona,Barcelona,14.8,60,0
+race/vuelta-a-espana/2023/stage-2,2023-08-27,2,Stage 2,"Hills, flat finish",Mataró,Barcelona,181.8,2754,80
+race/vuelta-a-espana/2023/stage-3,2023-08-28,3,Stage 3,"Mountains, uphill finish",Súria,Arinsal,158.5,3472,263
+race/vuelta-a-espana/2023/stage-4,2023-08-29,4,Stage 4,"Hills, flat finish",Andorra la Vella,Tarragona,184.6,1822,57
+race/vuelta-a-espana/2023/stage-5,2023-08-30,5,Stage 5,"Hills, flat finish",Morella,Burriana,186.2,2395,65
+race/vuelta-a-espana/2023/stage-6,2023-08-31,6,Stage 6,"Mountains, uphill finish",La Vall d'Uixó,Observatorio Astrofísico de Javalambre,183.1,4013,273
+race/vuelta-a-espana/2023/stage-7,2023-09-01,7,Stage 7, Flat,Utiel,Oliva,200.8,1144,12
+race/vuelta-a-espana/2023/stage-8,2023-09-02,8,Stage 8,"Mountains, flat finish",Dénia,Xorret de Catí. Costa Blanca Interior,165,3619,235
+race/vuelta-a-espana/2023/stage-9,2023-09-03,9,Stage 9,"Mountains, uphill finish",Cartagena,Collado de la Cruz de Caravaca,184.5,3041,162
+race/vuelta-a-espana/2023/stage-10,2023-09-05,10,Stage 10 (ITT), Flat,Valladolid,Valladolid,25.8,115,5
+race/vuelta-a-espana/2023/stage-11,2023-09-06,11,Stage 11,"Hills, uphill finish",Lerma,La Laguna Negra.Vinuesa,163.2,2203,112
+race/vuelta-a-espana/2023/stage-12,2023-09-07,12,Stage 12, Flat,Ólvega,Zaragoza,150.6,865,11
+race/vuelta-a-espana/2023/stage-13,2023-09-08,13,Stage 13,"Mountains, uphill finish",Formigal. Huesca la Magia,Col du Tourmalet,134.7,4266,400
+race/vuelta-a-espana/2023/stage-14,2023-09-09,14,Stage 14,"Mountains, uphill finish",Sauveterre-de-Béarn,Larra-Belagua,156.2,4531,406
+race/vuelta-a-espana/2023/stage-15,2023-09-10,15,Stage 15,"Hills, flat finish",Pamplona,Lekunberri,158.3,2494,111
+race/vuelta-a-espana/2023/stage-16,2023-09-12,16,Stage 16,"Hills, uphill finish",Liencres Playa,Bejes,120.1,2122,153
+race/vuelta-a-espana/2023/stage-17,2023-09-13,17,Stage 17,"Mountains, uphill finish",Ribadesella/Ribeseya,Altu de L'Angliru,124.4,3269,464
+race/vuelta-a-espana/2023/stage-18,2023-09-14,18,Stage 18,"Mountains, uphill finish",Pola de Allande,La Cruz de Linares,178.9,4630,422
+race/vuelta-a-espana/2023/stage-19,2023-09-15,19,Stage 19, Flat,La Bañeza,Íscar,177.1,919,8
+race/vuelta-a-espana/2023/stage-20,2023-09-16,20,Stage 20,"Hills, flat finish",Manzanares El Real,Guadarrama,207.8,4361,186
+race/vuelta-a-espana/2023/stage-21,2023-09-17,21,Stage 21, Flat,Hipódromo de la Zarzuela,Madrid. Paisaje de la Luz,101.5,878,12

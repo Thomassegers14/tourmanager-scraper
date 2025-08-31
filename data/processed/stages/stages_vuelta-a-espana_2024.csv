@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/vuelta-a-espana/2024/stage-1,2024-08-17,1, Flat,Lisbon,Oeiras,12,55,1
-race/vuelta-a-espana/2024/stage-2,2024-08-18,2,"Hills, flat finish",Cascais,Ourém,194,2678,86
-race/vuelta-a-espana/2024/stage-3,2024-08-19,3,"Hills, flat finish",Lousã,Castelo Branco,191.2,2620,58
-race/vuelta-a-espana/2024/stage-4,2024-08-20,4,"Mountains, uphill finish",Plasencia,Pico Villuercas,170.5,3519,238
-race/vuelta-a-espana/2024/stage-5,2024-08-21,5, Flat,Fuente del Maestre,Sevilla,177,1691,32
-race/vuelta-a-espana/2024/stage-6,2024-08-22,6,"Mountains, uphill finish",Jerez de la Frontera,Yunquera,185.5,3711,170
-race/vuelta-a-espana/2024/stage-7,2024-08-23,7,"Hills, flat finish",Archidona,Cordoba,180.5,1943,78
-race/vuelta-a-espana/2024/stage-8,2024-08-24,8,"Hills, uphill finish",Úbeda,Cazorla,159,2641,145
-race/vuelta-a-espana/2024/stage-9,2024-08-25,9,"Mountains, flat finish",Motril,Granada,178.5,4486,305
-race/vuelta-a-espana/2024/stage-10,2024-08-27,10,"Mountains, flat finish",Ponteareas,Baiona,160,3074,178
-race/vuelta-a-espana/2024/stage-11,2024-08-28,11,"Hills, flat finish",Campus Tecnológico Cortizo Padron,Campus Tecnológico Cortizo Padron,164.2,2890,148
-race/vuelta-a-espana/2024/stage-12,2024-08-29,12,"Mountains, uphill finish",Ourense Termal,Estacion de Montaña de Manzaneda,137.5,3088,174
-race/vuelta-a-espana/2024/stage-13,2024-08-30,13,"Mountains, uphill finish",Lugo,Puerto de Ancares,176,3708,299
-race/vuelta-a-espana/2024/stage-14,2024-08-31,14,"Mountains, flat finish",Villafranca del Bierzo,Villablino,200.5,2876,100
-race/vuelta-a-espana/2024/stage-15,2024-09-01,15,"Mountains, uphill finish",Infiesto,Valgrande-Pajares. Cuitu Negru,143,3804,372
-race/vuelta-a-espana/2024/stage-16,2024-09-03,16,"Mountains, uphill finish",Luanco,Lagos de Covadonga,181.5,4085,347
-race/vuelta-a-espana/2024/stage-17,2024-09-04,17,"Hills, flat finish",Arnuero,Santander,141.5,2498,107
-race/vuelta-a-espana/2024/stage-18,2024-09-05,18,"Hills, flat finish",Vitoria-Gasteiz,Maestu-Parque Natural de Izki,179.5,2699,139
-race/vuelta-a-espana/2024/stage-19,2024-09-06,19,"Mountains, uphill finish",Logroño,Alto de Moncalvillo,164.8,2601,217
-race/vuelta-a-espana/2024/stage-20,2024-09-07,20,"Mountains, uphill finish",Villarcayo,Picón Blanco,172,5077,340
-race/vuelta-a-espana/2024/stage-21,2024-09-08,21, Flat,Madrid,Madrid,24.6,190,6
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/vuelta-a-espana/2024/stage-1,2024-08-17,1,Stage 1 (ITT), Flat,Lisbon,Oeiras,12,55,1
+race/vuelta-a-espana/2024/stage-2,2024-08-18,2,Stage 2,"Hills, flat finish",Cascais,Ourém,194,2678,86
+race/vuelta-a-espana/2024/stage-3,2024-08-19,3,Stage 3,"Hills, flat finish",Lousã,Castelo Branco,191.2,2620,58
+race/vuelta-a-espana/2024/stage-4,2024-08-20,4,Stage 4,"Mountains, uphill finish",Plasencia,Pico Villuercas,170.5,3519,238
+race/vuelta-a-espana/2024/stage-5,2024-08-21,5,Stage 5, Flat,Fuente del Maestre,Sevilla,177,1691,32
+race/vuelta-a-espana/2024/stage-6,2024-08-22,6,Stage 6,"Mountains, uphill finish",Jerez de la Frontera,Yunquera,185.5,3711,170
+race/vuelta-a-espana/2024/stage-7,2024-08-23,7,Stage 7,"Hills, flat finish",Archidona,Cordoba,180.5,1943,78
+race/vuelta-a-espana/2024/stage-8,2024-08-24,8,Stage 8,"Hills, uphill finish",Úbeda,Cazorla,159,2641,145
+race/vuelta-a-espana/2024/stage-9,2024-08-25,9,Stage 9,"Mountains, flat finish",Motril,Granada,178.5,4486,305
+race/vuelta-a-espana/2024/stage-10,2024-08-27,10,Stage 10,"Mountains, flat finish",Ponteareas,Baiona,160,3074,178
+race/vuelta-a-espana/2024/stage-11,2024-08-28,11,Stage 11,"Hills, flat finish",Campus Tecnológico Cortizo Padron,Campus Tecnológico Cortizo Padron,164.2,2890,148
+race/vuelta-a-espana/2024/stage-12,2024-08-29,12,Stage 12,"Mountains, uphill finish",Ourense Termal,Estacion de Montaña de Manzaneda,137.5,3088,174
+race/vuelta-a-espana/2024/stage-13,2024-08-30,13,Stage 13,"Mountains, uphill finish",Lugo,Puerto de Ancares,176,3708,299
+race/vuelta-a-espana/2024/stage-14,2024-08-31,14,Stage 14,"Mountains, flat finish",Villafranca del Bierzo,Villablino,200.5,2876,100
+race/vuelta-a-espana/2024/stage-15,2024-09-01,15,Stage 15,"Mountains, uphill finish",Infiesto,Valgrande-Pajares. Cuitu Negru,143,3804,372
+race/vuelta-a-espana/2024/stage-16,2024-09-03,16,Stage 16,"Mountains, uphill finish",Luanco,Lagos de Covadonga,181.5,4085,347
+race/vuelta-a-espana/2024/stage-17,2024-09-04,17,Stage 17,"Hills, flat finish",Arnuero,Santander,141.5,2498,107
+race/vuelta-a-espana/2024/stage-18,2024-09-05,18,Stage 18,"Hills, flat finish",Vitoria-Gasteiz,Maestu-Parque Natural de Izki,179.5,2699,139
+race/vuelta-a-espana/2024/stage-19,2024-09-06,19,Stage 19,"Mountains, uphill finish",Logroño,Alto de Moncalvillo,164.8,2601,217
+race/vuelta-a-espana/2024/stage-20,2024-09-07,20,Stage 20,"Mountains, uphill finish",Villarcayo,Picón Blanco,172,5077,340
+race/vuelta-a-espana/2024/stage-21,2024-09-08,21,Stage 21 (ITT), Flat,Madrid,Madrid,24.6,190,6

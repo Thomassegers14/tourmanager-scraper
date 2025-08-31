@@ -1,22 +1,22 @@
-stage_id,date,stage_nr,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/giro-d-italia/2023/stage-1,2023-05-06,1, Flat,Fossacesia Marina,Ortona,19.6,171,11
-race/giro-d-italia/2023/stage-2,2023-05-07,2,"Hills, flat finish",Teramo,San Salvo,202,1831,51
-race/giro-d-italia/2023/stage-3,2023-05-08,3,"Hills, flat finish",Vasto,Melfi,213,1777,92
-race/giro-d-italia/2023/stage-4,2023-05-09,4,"Mountains, flat finish",Venosa,Lago Laceno,175,3667,207
-race/giro-d-italia/2023/stage-5,2023-05-10,5,"Hills, flat finish",Atripalda,Salerno,171,2529,77
-race/giro-d-italia/2023/stage-6,2023-05-11,6,"Hills, flat finish",Napoli,Napoli,162,2581,92
-race/giro-d-italia/2023/stage-7,2023-05-12,7,"Mountains, uphill finish",Capua,Gran Sasso d'Italia (Campo Imperatore),218,4143,253
-race/giro-d-italia/2023/stage-8,2023-05-13,8,"Hills, flat finish",Terni,Fossombrone,207,2790,180
-race/giro-d-italia/2023/stage-9,2023-05-14,9, Flat,Savignano sul Rubicone,Cesena,35,84,0
-race/giro-d-italia/2023/stage-10,2023-05-16,10,"Hills, flat finish",Scandiano,Viareggio,196,3020,76
-race/giro-d-italia/2023/stage-11,2023-05-17,11,"Hills, flat finish",Camaiore,Tortona,219,2430,60
-race/giro-d-italia/2023/stage-12,2023-05-18,12,"Hills, flat finish",Bra,Rivoli,185,2348,112
-race/giro-d-italia/2023/stage-13,2023-05-19,13,"Mountains, uphill finish",Le Châble,Crans-Montana,74.6,2456,283
-race/giro-d-italia/2023/stage-14,2023-05-20,14,"Hills, flat finish",Sierre,Cassano Magnago,194,2336,68
-race/giro-d-italia/2023/stage-15,2023-05-21,15,"Mountains, flat finish",Seregno,Bergamo,195,4040,202
-race/giro-d-italia/2023/stage-16,2023-05-23,16,"Mountains, uphill finish",Sabbio Chiese,Monte Bondone,203,5852,456
-race/giro-d-italia/2023/stage-17,2023-05-24,17, Flat,Pergine Valsugana,Caorle,197,523,5
-race/giro-d-italia/2023/stage-18,2023-05-25,18,"Mountains, uphill finish",Oderzo,Val di Zoldo (Palafavera),161,4153,362
-race/giro-d-italia/2023/stage-19,2023-05-26,19,"Mountains, uphill finish",Longarone,Tre Cime di Lavaredo,183,5423,478
-race/giro-d-italia/2023/stage-20,2023-05-27,20,"Mountains, uphill finish",Tarvisio,Monte Lussari,18.6,1070,197
-race/giro-d-italia/2023/stage-21,2023-05-28,21, Flat,Roma,Roma,126,692,21
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/giro-d-italia/2023/stage-1,2023-05-06,1,Stage 1 (ITT), Flat,Fossacesia Marina,Ortona,19.6,171,11
+race/giro-d-italia/2023/stage-2,2023-05-07,2,Stage 2,"Hills, flat finish",Teramo,San Salvo,202,1831,51
+race/giro-d-italia/2023/stage-3,2023-05-08,3,Stage 3,"Hills, flat finish",Vasto,Melfi,213,1777,92
+race/giro-d-italia/2023/stage-4,2023-05-09,4,Stage 4,"Mountains, flat finish",Venosa,Lago Laceno,175,3667,207
+race/giro-d-italia/2023/stage-5,2023-05-10,5,Stage 5,"Hills, flat finish",Atripalda,Salerno,171,2529,77
+race/giro-d-italia/2023/stage-6,2023-05-11,6,Stage 6,"Hills, flat finish",Napoli,Napoli,162,2581,92
+race/giro-d-italia/2023/stage-7,2023-05-12,7,Stage 7,"Mountains, uphill finish",Capua,Gran Sasso d'Italia (Campo Imperatore),218,4143,253
+race/giro-d-italia/2023/stage-8,2023-05-13,8,Stage 8,"Hills, flat finish",Terni,Fossombrone,207,2790,180
+race/giro-d-italia/2023/stage-9,2023-05-14,9,Stage 9 (ITT), Flat,Savignano sul Rubicone,Cesena,35,84,0
+race/giro-d-italia/2023/stage-10,2023-05-16,10,Stage 10,"Hills, flat finish",Scandiano,Viareggio,196,3020,76
+race/giro-d-italia/2023/stage-11,2023-05-17,11,Stage 11,"Hills, flat finish",Camaiore,Tortona,219,2430,60
+race/giro-d-italia/2023/stage-12,2023-05-18,12,Stage 12,"Hills, flat finish",Bra,Rivoli,185,2348,112
+race/giro-d-italia/2023/stage-13,2023-05-19,13,Stage 13,"Mountains, uphill finish",Le Châble,Crans-Montana,74.6,2456,283
+race/giro-d-italia/2023/stage-14,2023-05-20,14,Stage 14,"Hills, flat finish",Sierre,Cassano Magnago,194,2336,68
+race/giro-d-italia/2023/stage-15,2023-05-21,15,Stage 15,"Mountains, flat finish",Seregno,Bergamo,195,4040,202
+race/giro-d-italia/2023/stage-16,2023-05-23,16,Stage 16,"Mountains, uphill finish",Sabbio Chiese,Monte Bondone,203,5852,456
+race/giro-d-italia/2023/stage-17,2023-05-24,17,Stage 17, Flat,Pergine Valsugana,Caorle,197,523,5
+race/giro-d-italia/2023/stage-18,2023-05-25,18,Stage 18,"Mountains, uphill finish",Oderzo,Val di Zoldo (Palafavera),161,4153,362
+race/giro-d-italia/2023/stage-19,2023-05-26,19,Stage 19,"Mountains, uphill finish",Longarone,Tre Cime di Lavaredo,183,5423,478
+race/giro-d-italia/2023/stage-20,2023-05-27,20,Stage 20 (ITT),"Mountains, uphill finish",Tarvisio,Monte Lussari,18.6,1070,197
+race/giro-d-italia/2023/stage-21,2023-05-28,21,Stage 21, Flat,Roma,Roma,126,692,21
