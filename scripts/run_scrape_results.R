@@ -3,34 +3,30 @@ source("config/config.R")
 source("R/scrape_stage_results.R")
 source("R/scrape_stages.R")
 
-plan(multisession, workers = max(1, parallel::detectCores() - 1))
+# Parallel settings
+plan(multisession, workers = 2)
 
-# Safe wrapper zodat future_map niet crasht
-safe_scrape <- purrr::possibly(
-  .f = function(event_id, year, stage_id, category) {
-    df <- scrape_stage_results(event_id, year, stage_id, category)
-    if (is.null(df)) {
-      # altijd een tibble teruggeven
-      return(tibble::tibble(
-        event_id = character(),
-        year = numeric(),
-        stage_id = character(),
-        category = character(),
-        rank = character(),
-        rider_id = character()
-      ))
-    }
-    df
-  },
-  otherwise = tibble::tibble(
-    event_id = character(),
-    year = numeric(),
-    stage_id = character(),
-    category = character(),
-    rank = character(),
-    rider_id = character()
+# Wrapper met retry en fallback
+safe_scrape <- function(event_id, year, stage_id, category) {
+  out <- retry::retry(
+    scrape_stage_results(event_id, year, stage_id, category),
+    when = function(x) is.null(x) || inherits(x, "error"),
+    max_tries = 3
   )
-)
+
+  if (is.null(out)) {
+    return(tibble::tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  out
+}
 
 for (i in seq_len(nrow(EVENT_YEARS))) {
   id   <- EVENT_YEARS$event_id[i]
@@ -43,22 +39,50 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
 
   stage_cat <- tidyr::crossing(stage_id = stages$stage_id, category = categories)
 
-  all_results <- furrr::future_pmap_dfr(
+  # Parallel scraping per stage/category
+  furrr::future_pwalk(
     list(stage_cat$stage_id, stage_cat$category),
     function(stage_id, category) {
-      safe_scrape(event_id = id, year = year, stage_id = stage_id, category = category)
+      df <- safe_scrape(event_id = id, year = year, stage_id = stage_id, category = category)
+      stage <- stages$stage[match(stage_id, stages$stage_id)]
+
+      if (nrow(df) > 0) {
+        # sorteren consistent zoals vroeger
+        df <- df %>%
+          mutate(stage = stage,
+                 rank_num = suppressWarnings(as.numeric(rank))) %>%
+          arrange(
+            stage,
+            match(category, c("stage", "gc", "kom", "points", "youth")),
+            rank_num,
+            rider_id
+          ) %>%
+          select(-rank_num, -stage)
+
+        # Bepaal pad
+        file <- glue("data/raw/results/{id}/{year}/stage-{stage}-{category}.parquet")
+
+        # Zorg dat de directory bestaat
+        dir.create(dirname(file), recursive = TRUE, showWarnings = FALSE)
+
+        # Check bestaand bestand
+        if (file.exists(file)) {
+          old <- tryCatch(readr::read_csv(file, show_col_types = FALSE), error = function(e) NULL)
+          if (!is.null(old) && identical(old, df)) {
+            message(glue("ℹ Unchanged: {file}"))
+          } else {
+            arrow::write_parquet(df, file)
+            message(glue("✅ Updated results: {file}"))
+          }
+        } else {
+          arrow::write_parquet(df, file)
+          message(glue("🆕 Created results: {file}"))
+        }
+
+      } else {
+        message(glue("ℹ No results: {id} {year} {stage_id} {category}"))
+      }
     },
     .options = furrr::furrr_options(seed = TRUE)
   )
-
-  all_results <- all_results %>% mutate(stage = plyr::mapvalues(stage_id, stages$stage_id, stages$stage)) %>% arrange(stage, match(category, c("stage", "gc", "kom", "points", "youth")), as.numeric(rank), rider_id) %>% select(-stage)
-
-  if (nrow(all_results) > 0) {
-    dir.create("data/processed/results", showWarnings = FALSE, recursive = TRUE)
-    file <- glue("data/processed/results/{id}_{year}_all_stage_results.csv")
-    readr::write_csv(all_results, file)
-    message(glue("✅ Saved results: {file}"))
-  } else {
-    message("ℹ No results available yet.")
-  }
 }
