@@ -13,7 +13,7 @@ env:
   START_DATE: '2025-08-27'
   DAYS: '18'
   TARGET_FOLDER: 'data/processed'
-  R_SCRIPT: 'scripts/process_results.R'
+  R_SCRIPT: 'scripts/main/process_results.R'
 
 jobs:
   run-and-push:
