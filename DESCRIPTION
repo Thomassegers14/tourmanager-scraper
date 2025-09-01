@@ -26,4 +26,6 @@ Imports:
     lubridate,
     stringr,
     DBI,
-    RPostgres
+    RPostgres,
+    arrow,
+    data.table

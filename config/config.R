@@ -2,9 +2,9 @@
 
 # List of events to scrape
 EVENT_YEARS <- tidyr::crossing(
-  # event_id   = c("vuelta-a-espana"),
-  event_id = c("giro-d-italia", "tour-de-france", "vuelta-a-espana"),
-  event_year = c(2023:2025)
+  event_id   = c("vuelta-a-espana"),
+  # event_id = c("giro-d-italia", "tour-de-france", "vuelta-a-espana"),
+  event_year = c(2025)
 )
 
 BASE_URL <- "https://www.procyclingstats.com"
@@ -19,6 +19,8 @@ library(furrr)
 library(glue)
 library(readr)
 library(lubridate)
+library(arrow)
+library(data.table)
 
 # Helper om pagina's te laden met user-agent
 read_page <- function(url) {
