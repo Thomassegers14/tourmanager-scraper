@@ -28,4 +28,5 @@ Imports:
     DBI,
     RPostgres,
     arrow,
-    data.table
+    data.table,
+    retry
