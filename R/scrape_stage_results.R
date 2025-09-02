@@ -1,117 +1,158 @@
-scrape_stage_results <- function(event_id, year, stage_id, category) {
+scrape_stage_results <- function(event_id, year, stage_id, category, is_last_stage = FALSE) {
   options(timeout = 800)
 
   # URL bepalen
   url <- if (category == "stage") {
-    glue::glue("https://www.procyclingstats.com/{stage_id}/result/result")
-  } else if (stage_id == last(stages$stage_id)) {
-    if (year <= 2023 & category != "gc") {
-      glue::glue("https://www.procyclingstats.com/race/{event_id}/{year}/stage-21-{category}")
+    glue("https://www.procyclingstats.com/{stage_id}/result/result")
+  } else if (is_last_stage) {
+    if (year <= 2023 && category != "gc") {
+      glue("https://www.procyclingstats.com/race/{event_id}/{year}/stage-21-{category}")
     } else {
-      glue::glue("https://www.procyclingstats.com/race/{event_id}/{year}/{category}")
+      glue("https://www.procyclingstats.com/race/{event_id}/{year}/{category}")
     }
   } else {
-    glue::glue("https://www.procyclingstats.com/{stage_id}-{category}")
+    glue("https://www.procyclingstats.com/{stage_id}-{category}")
   }
-
-  message(glue::glue("Fetching: {url}"))
 
   # HTML laden
-  page <- tryCatch(read_html(url),
-    error = function(e) {
-      message(glue::glue("Could not fetch {url}: {e$message}"))
-      return(NULL)
-    }
-  )
-  if (is.null(page)) {
+  page <- tryCatch(read_html(url), error = function(e) {
     return(NULL)
-  }
+  })
+  if (is.null(page)) return(tibble(
+    event_id = character(),
+    year = numeric(),
+    stage_id = character(),
+    category = character(),
+    rank = character(),
+    rider_id = character()
+  ))
 
+  # Controleer op TTT
   ttt_list <- html_elements(page, "ul.ttt-results")
-  is_ttt <- length(ttt_list) > 0 & category == "stage"
+  is_ttt <- length(ttt_list) > 0 && category == "stage"
 
   if (is_ttt) {
-  teams <- ttt_list %>% html_elements("li")  # elk li = een team
-  df_ttt <- map_df(seq_along(teams), function(i) {
-    team <- teams[[i]]
-    rows <- team %>% html_elements("tr")
-    if (length(rows) == 0) return(NULL)
-
-    rider_ids <- map_chr(rows, ~ .x %>% html_element("a[href*='rider']") %>% html_attr("href"))
-
-    data.frame(
-      rider_id = rider_ids,
-      rank = i - 1,   # team rank = i -1 because first element is header
-      stringsAsFactors = FALSE
-    )
-  })
-
-  df <- data.frame(
-    event_id = event_id,
-    year = year,
-    stage_id = stage_id,
-    category = category,
-    rank = as.character(df_ttt$rank),
-    rider_id = df_ttt$rider_id,
-    stringsAsFactors = FALSE
-  )
-} else {
-    # Zoek resultaten-tabel
-    tables <- page %>%
-      html_elements("div:not(.hide).resTab") %>%
-      html_element(".results")
-
-    if (length(tables) == 0 || is.na(tables)) {
-      message(glue::glue("⚠️ No results table found for {stage_id} ({category}). Skipping."))
-      return(NULL)
+    teams <- ttt_list %>% html_elements("li")
+    if (length(teams) == 0) {
+      return(tibble(
+        event_id = character(),
+        year = numeric(),
+        stage_id = character(),
+        category = character(),
+        rank = character(),
+        rider_id = character()
+      ))
     }
 
-    # Stage datum ophalen
-    stage_page <- tryCatch(read_html(glue::glue("https://www.procyclingstats.com/{stage_id}")),
-      error = function(e) {
-        message(glue::glue("Could not fetch stage page {stage_id}: {e$message}"))
-        return(NULL)
-      }
-    )
-    if (is.null(stage_page)) {
-      return(NULL)
-    }
+    df_ttt <- map_df(seq_along(teams), function(i) {
+      team <- teams[[i]]
+      rows <- team %>% html_elements("tr")
+      if (length(rows) == 0) return(NULL)
 
-    stageDate <- stage_page %>%
-      html_element(".keyvalueList") %>%
-      html_element("li") %>%
-      html_text()
-    stageDate <- lubridate::dmy(trimws(gsub("Date: ", "", stageDate)), locale = "C")
+      rider_ids <- map_chr(rows, ~ .x %>% html_element("a[href*='rider']") %>% html_attr("href"))
+      tibble(
+        event_id = as.character(event_id),
+        year = as.integer(year),
+        stage_id = as.character(stage_id),
+        category = as.character(category),
+        rank = as.character(i - 1),
+        rider_id = rider_ids
+      )
+    })
 
-    if (is.na(stageDate) || stageDate > Sys.Date()) {
-      message(glue::glue("Stage {stage_id} ({category}) has not been run yet. Skipping."))
-      return(NULL)
-    }
-
-    # Resultaten verwerken
-    results_df <- tables %>%
-      html_table(convert = FALSE) %>%
-      as.data.frame() %>%
-      select(rank = 1) %>%
-      filter(!grepl("relegated", rank))
-
-    rider_ids <- tables %>%
-      html_elements("a") %>%
-      html_attr("href") %>%
-      str_subset("rider/")
-
-    df <- data.frame(
-      event_id = event_id,
-      year = year,
-      stage_id = stage_id,
-      category = category,
-      rank = results_df$rank,
-      rider_id = rider_ids,
-      stringsAsFactors = FALSE
-    )
+    return(df_ttt)
   }
 
-  # df <- df %>% arrange(stage_id, rank)
+  # Normale resultaten
+  tables <- page %>% html_elements("div:not(.hide).resTab") %>% html_element(".results")
+  if (length(tables) == 0 || is.na(tables)) {
+    return(tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  # Stage datum ophalen
+  stage_page <- tryCatch(read_html(glue("https://www.procyclingstats.com/{stage_id}")),
+                         error = function(e) {
+                           return(NULL)
+                         })
+  if (is.null(stage_page)) return(tibble(
+    event_id = character(),
+    year = numeric(),
+    stage_id = character(),
+    category = character(),
+    rank = character(),
+    rider_id = character()
+  ))
+
+  stageDate <- stage_page %>% html_element(".keyvalueList li") %>% html_text()
+  stageDate <- lubridate::dmy(trimws(gsub("Date: ", "", stageDate)), locale = "C")
+
+  if (is.na(stageDate) || stageDate > Sys.Date()) {
+    message(glue("ℹ️ Stage {stage_id} ({category}) has not been run yet. Skipping."))
+    return(tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  # Resultaten tabel verwerken
+  results_list <- tables %>% html_table(convert = FALSE)
+  if (length(results_list) == 0 || nrow(results_list[[1]]) == 0) {
+    return(tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  results_df <- results_list[[1]] %>% as.data.frame()
+  if (ncol(results_df) < 1) {
+    return(tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  results_df <- results_df %>% select(rank = 1) %>% filter(!grepl("relegated", rank))
+  rider_ids <- tables %>% html_elements("a") %>% html_attr("href") %>% str_subset("rider/")
+
+  n <- min(nrow(results_df), length(rider_ids))
+  if (n == 0) {
+    return(tibble(
+      event_id = character(),
+      year = numeric(),
+      stage_id = character(),
+      category = character(),
+      rank = character(),
+      rider_id = character()
+    ))
+  }
+
+  df <- tibble(
+    event_id = as.character(event_id),
+    year = as.integer(year),
+    stage_id = as.character(stage_id),
+    category = as.character(category),
+    rank = as.character(results_df$rank[seq_len(n)]),
+    rider_id = as.character(rider_ids[seq_len(n)])
+  )
 
   return(df)
 }

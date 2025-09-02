@@ -7,9 +7,9 @@ source("R/scrape_stages.R")
 plan(multisession, workers = 2)
 
 # Wrapper met retry en fallback
-safe_scrape <- function(event_id, year, stage_id, category) {
+safe_scrape <- function(event_id, year, stage_id, category, is_last_stage = FALSE) {
   out <- retry::retry(
-    scrape_stage_results(event_id, year, stage_id, category),
+    scrape_stage_results(event_id, year, stage_id, category, is_last_stage = is_last_stage),
     when = function(x) is.null(x) || inherits(x, "error"),
     max_tries = 3
   )
@@ -43,7 +43,8 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
   furrr::future_pwalk(
     list(stage_cat$stage_id, stage_cat$category),
     function(stage_id, category) {
-      df <- safe_scrape(event_id = id, year = year, stage_id = stage_id, category = category)
+      is_last_stage <- stage_id == stages$stage_id[length(stages$stage_id)]
+      df <- safe_scrape(event_id = id, year = year, stage_id = stage_id, category = category, is_last_stage = is_last_stage)
       stage <- stages$stage[match(stage_id, stages$stage_id)]
 
       if (nrow(df) > 0) {
