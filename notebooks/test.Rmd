@@ -6,6 +6,7 @@ output: html_notebook
 
 ```{r}
 
+library(tidyverse)
 library(ggplot2)
 library(lubridate)
 
@@ -47,7 +48,8 @@ startlists_favorites %>%
 
 ```{r}
 
-results_test <- map_df(list.files("../data/processed/results", full.names = T), ~read.csv(.x, encoding = "UTF-8"))
+
+results_test <- purrr::map_df(list.files("../data/raw/results", full.names = T, pattern = ".parquet", recursive = T), ~arrow::read_parquet(.x))
 results_test
 
 results_test %>% 
@@ -88,3 +90,20 @@ create_smtp_creds_key(
 
 
 
+```{r}
+
+library(tidyverse)
+
+vuelta_stages <- read.csv("../data/processed/stages/stages_vuelta-a-espana_2025.csv", encoding = "UTF-8")
+vuelta_stages
+
+```
+
+```{r}
+
+vuelta_stages %>% 
+  ggplot(aes(x = profile_score, y = vertical_m, colour = date < Sys.Date())) +
+  geom_point() +
+  ggrepel::geom_text_repel(aes(label = glue::glue("stage {stage_nr}")), size = 3)
+
+```
