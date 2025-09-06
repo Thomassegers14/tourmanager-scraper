@@ -1,9 +1,17 @@
 stage_id,id,stage,voornaam,achternaam,stage_points,cumulative_points,rank
+race/vuelta-a-espana/2025/stage-14,40,14,Justine,Vermonden,68,674,1
+race/vuelta-a-espana/2025/stage-14,42,14,Stefaan,Antoons,71,616,2
 race/vuelta-a-espana/2025/stage-13,40,13,Justine,Vermonden,84,606,1
+race/vuelta-a-espana/2025/stage-14,36,14,Christoph,Mouton,50,594,3
 race/vuelta-a-espana/2025/stage-13,42,13,Stefaan,Antoons,51,545,2
 race/vuelta-a-espana/2025/stage-13,36,13,Christoph,Mouton,50,544,3
+race/vuelta-a-espana/2025/stage-14,35,14,Thomas,Verelst,58,539,4
+race/vuelta-a-espana/2025/stage-14,34,14,Jens,Verstraeten,62,534,5
+race/vuelta-a-espana/2025/stage-14,41,14,Jorick,Triempont,41,527,6
 race/vuelta-a-espana/2025/stage-12,40,12,Justine,Vermonden,12,522,1
+race/vuelta-a-espana/2025/stage-14,38,14,Miguel,Reyntjens,49,513,7
 race/vuelta-a-espana/2025/stage-11,40,11,Justine,Vermonden,12,510,1
+race/vuelta-a-espana/2025/stage-14,37,14,Thomas,Motmans,41,498,8
 race/vuelta-a-espana/2025/stage-10,40,10,Justine,Vermonden,50,498,1
 race/vuelta-a-espana/2025/stage-12,36,12,Christoph,Mouton,18,494,2
 race/vuelta-a-espana/2025/stage-12,42,12,Stefaan,Antoons,15,494,3
@@ -17,6 +25,7 @@ race/vuelta-a-espana/2025/stage-10,36,10,Christoph,Mouton,42,464,3
 race/vuelta-a-espana/2025/stage-13,38,13,Miguel,Reyntjens,61,464,7
 race/vuelta-a-espana/2025/stage-13,37,13,Thomas,Motmans,52,457,8
 race/vuelta-a-espana/2025/stage-9,40,9,Justine,Vermonden,44,448,1
+race/vuelta-a-espana/2025/stage-14,30,14,Damiaan,Relaes,25,439,9
 race/vuelta-a-espana/2025/stage-12,41,12,Jorick,Triempont,23,435,4
 race/vuelta-a-espana/2025/stage-9,42,9,Stefaan,Antoons,47,431,2
 race/vuelta-a-espana/2025/stage-12,35,12,Thomas,Verelst,50,424,5
@@ -28,9 +37,11 @@ race/vuelta-a-espana/2025/stage-12,34,12,Jens,Verstraeten,12,404,7
 race/vuelta-a-espana/2025/stage-8,40,8,Justine,Vermonden,40,404,1
 race/vuelta-a-espana/2025/stage-12,38,12,Miguel,Reyntjens,25,403,8
 race/vuelta-a-espana/2025/stage-10,41,10,Jorick,Triempont,39,403,4
+race/vuelta-a-espana/2025/stage-14,31,14,Thomas,Segers,52,397,10
 race/vuelta-a-espana/2025/stage-11,34,11,Jens,Verstraeten,10,392,5
 race/vuelta-a-espana/2025/stage-12,30,12,Damiaan,Relaes,41,388,9
 race/vuelta-a-espana/2025/stage-8,42,8,Stefaan,Antoons,37,384,2
+race/vuelta-a-espana/2025/stage-14,39,14,Chad,Geepety,52,383,11
 race/vuelta-a-espana/2025/stage-10,34,10,Jens,Verstraeten,47,382,5
 race/vuelta-a-espana/2025/stage-8,36,8,Christoph,Mouton,40,382,3
 race/vuelta-a-espana/2025/stage-11,38,11,Miguel,Reyntjens,11,378,6
@@ -61,6 +72,7 @@ race/vuelta-a-espana/2025/stage-5,42,5,Stefaan,Antoons,70,302,2
 race/vuelta-a-espana/2025/stage-9,37,9,Thomas,Motmans,37,300,9
 race/vuelta-a-espana/2025/stage-5,36,5,Christoph,Mouton,66,295,3
 race/vuelta-a-espana/2025/stage-8,34,8,Jens,Verstraeten,37,294,6
+race/vuelta-a-espana/2025/stage-14,33,14,Kebab,Kebabbi,25,292,12
 race/vuelta-a-espana/2025/stage-8,35,8,Thomas,Verelst,21,291,7
 race/vuelta-a-espana/2025/stage-12,31,12,Thomas,Segers,16,283,10
 race/vuelta-a-espana/2025/stage-7,41,7,Jorick,Triempont,7,278,4
