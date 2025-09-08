@@ -68,7 +68,7 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
 
         # Check bestaand bestand
         if (file.exists(file)) {
-          old <- tryCatch(readr::read_csv(file, show_col_types = FALSE), error = function(e) NULL)
+          old <- tryCatch(readr::write_parquet(file, show_col_types = FALSE), error = function(e) NULL)
           if (!is.null(old) && identical(old, df)) {
             message(glue("ℹ Unchanged: {file}"))
           } else {
