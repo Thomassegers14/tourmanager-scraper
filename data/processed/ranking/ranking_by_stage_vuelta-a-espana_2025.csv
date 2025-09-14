@@ -1,4 +1,5 @@
 stage_id,id,stage,voornaam,achternaam,stage_points,cumulative_points,rank
+<<<<<<< HEAD
 final,40,22,Justine,Vermonden,451,1535,1
 final,35,22,Thomas,Verelst,459,1344,2
 final,36,22,Christoph,Mouton,356,1272,3
@@ -10,6 +11,9 @@ final,38,22,Miguel,Reyntjens,320,1104,8
 final,31,22,Thomas,Segers,449,1102,9
 race/vuelta-a-espana/2025/stage-20,40,20,Justine,Vermonden,98,1084,1
 final,37,22,Thomas,Motmans,245,994,10
+=======
+race/vuelta-a-espana/2025/stage-20,40,20,Justine,Vermonden,98,1084,1
+>>>>>>> 1057e801828e49e7a593cad292f0c595a279e708
 race/vuelta-a-espana/2025/stage-19,40,19,Justine,Vermonden,46,986,1
 race/vuelta-a-espana/2025/stage-18,40,18,Justine,Vermonden,80,940,1
 race/vuelta-a-espana/2025/stage-20,42,20,Stefaan,Antoons,76,925,2
@@ -19,7 +23,10 @@ race/vuelta-a-espana/2025/stage-19,36,19,Christoph,Mouton,46,863,2
 race/vuelta-a-espana/2025/stage-17,40,17,Justine,Vermonden,83,860,1
 race/vuelta-a-espana/2025/stage-19,42,19,Stefaan,Antoons,43,849,3
 race/vuelta-a-espana/2025/stage-20,41,20,Jorick,Triempont,76,835,5
+<<<<<<< HEAD
 final,30,22,Damiaan,Relaes,212,831,11
+=======
+>>>>>>> 1057e801828e49e7a593cad292f0c595a279e708
 race/vuelta-a-espana/2025/stage-19,35,19,Thomas,Verelst,35,826,4
 race/vuelta-a-espana/2025/stage-18,36,18,Christoph,Mouton,74,817,2
 race/vuelta-a-espana/2025/stage-18,42,18,Stefaan,Antoons,51,806,3
@@ -44,7 +51,10 @@ race/vuelta-a-espana/2025/stage-17,34,17,Jens,Verstraeten,77,677,5
 race/vuelta-a-espana/2025/stage-19,37,19,Thomas,Motmans,12,674,8
 race/vuelta-a-espana/2025/stage-14,40,14,Justine,Vermonden,68,674,1
 race/vuelta-a-espana/2025/stage-16,35,16,Thomas,Verelst,70,673,4
+<<<<<<< HEAD
 final,33,22,Kebab,Kebabbi,220,669,12
+=======
+>>>>>>> 1057e801828e49e7a593cad292f0c595a279e708
 race/vuelta-a-espana/2025/stage-20,39,20,Chad,Geepety,71,664,9
 race/vuelta-a-espana/2025/stage-18,37,18,Thomas,Motmans,77,662,8
 race/vuelta-a-espana/2025/stage-15,42,15,Stefaan,Antoons,42,658,2
