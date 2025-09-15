@@ -13,7 +13,6 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
   id <- EVENT_YEARS$event_id[i]
   year <- EVENT_YEARS$event_year[i]
 
-
   # ---- Data inladen ----
   startlist <- read.csv(glue("data/processed/startlists_favorites/startlist_{id}_{year}.csv"))
   stages <- read.csv(glue("data/processed/stages/stages_{id}_{year}.csv"))
@@ -99,13 +98,8 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
 
   all_participant_stage_scores <- bind_rows(participant_stage_points, final_scores_long)
 
-  # ---- Welke stages hebben effectief resultaten? ----
-  available_stage_ids <- unique(all_participant_stage_scores$stage_id)
-
-  # Lookup tabel voor stage nummer
-  stage_lookup <- stage_info %>%
-    filter(stage_id %in% available_stage_ids)
-
+  # ---- Lookup tabel voor stages (nu ALTIJD alle kalenderstages meenemen) ----
+  stage_lookup <- stage_info
   if ("final" %in% unique(all_participant_stage_scores$stage_id)) {
     stage_lookup <- bind_rows(
       stage_lookup,
@@ -113,9 +107,9 @@ for (i in seq_len(nrow(EVENT_YEARS))) {
     )
   }
 
-  # ---- Cross join deelnemers × beschikbare stages ----
+  # ---- Cross join deelnemers × ALLE stages (ook zonder resultaten) ----
   all_combinations <- tidyr::crossing(
-    stage_id = available_stage_ids,
+    stage_id = stage_lookup$stage_id,
     id = selections$id
   ) %>%
     left_join(stage_lookup, by = "stage_id") %>%
