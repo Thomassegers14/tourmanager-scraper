@@ -1,5 +1,29 @@
-.Rproj.user
+# ── Credentials & omgevingsvariabelen ────────────────────────────────────────
 .Renviron
+.env
+*.env
+notebooks/*.json
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ── R (legacy) ────────────────────────────────────────────────────────────────
+.Rproj.user/
 .RData
 .Rhistory
-.gitignore
+scraper.Rproj
+
+# ── Data — rauwe parquet bestanden worden niet getrackt ───────────────────────
+# Verwerkte CSV-bestanden (data/processed/) wél committen zodat de API altijd
+# up-to-date data heeft zonder de pipeline opnieuw te draaien.
+data/raw/
+
+# ── OS & editor rommel ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

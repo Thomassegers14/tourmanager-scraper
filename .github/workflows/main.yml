@@ -1,19 +1,18 @@
-name: Daily script run and push
+name: Daily results update
 
 on:
   schedule:
-    # Runs at 6, 15, 16, 19 UTC
+    # Draait om 6, 15, 16 en 19 UTC
     - cron: '0 6,15,16,19 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # ook manueel te starten
 
 permissions:
   contents: write
 
 env:
-  START_DATE: '2025-08-27'
-  DAYS: '18'
+  START_DATE: '2026-05-08'   # Aanpassen naar officiële startdatum Giro 2026
+  DAYS: '23'                 # Duurtijd wedstrijd in dagen (21 etappes + rustdagen)
   TARGET_FOLDER: 'data/processed'
-  R_SCRIPT: 'scripts/main/process_results.R'
 
 jobs:
   run-and-push:
@@ -25,60 +24,53 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Check date range (stop if outside 2-week window)
-        id: daterange
+      - name: Controleer datumbereik
+        id: datecheck
         run: |
           START=${{ env.START_DATE }}
-          DAYS=${{ env.DAYS }}
-          END=$(date -d "$START + $((DAYS - 1)) days" +%Y-%m-%d)
+          END=$(date -d "$START + ${{ env.DAYS }} days" +%Y-%m-%d)
           NOW=$(date -u +%Y-%m-%d)
           if [[ "$NOW" < "$START" || "$NOW" > "$END" ]]; then
-            echo "Outside date range - exiting."
-            exit 0
+            echo "Buiten datumbereik ($START → $END) — pipeline overgeslagen."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "Binnen datumbereik — pipeline wordt uitgevoerd."
+            echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
+      - name: Setup Python
+        if: steps.datecheck.outputs.skip == 'false'
+        uses: actions/setup-python@v5
         with:
-          r-version: '4.2'
+          python-version: '3.11'
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libxml2-dev \
-            libcurl4-openssl-dev \
-            libssl-dev \
-            libfontconfig1-dev \
-            libharfbuzz-dev \
-            libfribidi-dev \
-            libfreetype6-dev \
-            libpng-dev \
-            libtiff5-dev \
-            libjpeg-dev
-
-      - name: Cache R libraries
-        uses: actions/cache@v3
+      - name: Cache pip dependencies
+        if: steps.datecheck.outputs.skip == 'false'
+        uses: actions/cache@v4
         with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-R-${{ hashFiles('DESCRIPTION') }}
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-R-
+            ${{ runner.os }}-pip-
 
-      - name: Install pak
+      - name: Installeer dependencies
+        if: steps.datecheck.outputs.skip == 'false'
+        run: pip install -r requirements.txt
+
+      - name: Voer pipeline uit
+        if: steps.datecheck.outputs.skip == 'false'
+        env:
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
         run: |
-          Rscript -e 'install.packages("pak", repos = sprintf(
-            "https://r-lib.github.io/p/pak/stable/%s/%s/%s",
-            .Platform$pkgType, R.version$os, R.version$arch
-          ))'
+          cd scraper
+          python scripts/pipeline.py scrape_results process_results process_favorites process_selections compute_scores compute_rider_points
 
-      - name: Install R dependencies via pak
-        run: Rscript -e 'pak::pkg_install("local::.")'
-
-      - name: Run your R script
-        run: Rscript ${{ env.R_SCRIPT }}
-
-      - name: Commit & push generated folder
+      - name: Commit & push resultaten
+        if: steps.datecheck.outputs.skip == 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -86,8 +78,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ${{ env.TARGET_FOLDER }} || true
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "Geen wijzigingen om te committen."
           else
-            git commit -m "Automated update: write ${{ env.TARGET_FOLDER }} (run $GITHUB_RUN_ID)"
+            git commit -m "Automatische update: ${{ env.TARGET_FOLDER }} (run ${{ github.run_id }})"
             git push
           fi

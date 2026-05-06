@@ -107,3 +107,154 @@ vuelta_stages %>%
   ggrepel::geom_text_repel(aes(label = glue::glue("stage {stage_nr}")), size = 3)
 
 ```
+
+```{r}
+
+# devtools nodig om te installeren
+# install.packages("devtools")
+# devtools::install_github("MarkEdmondson1234/googleDataAnalyticsR")
+
+library(googleAnalyticsR)
+
+# Authenticate met service account
+ga_auth(json_file = "tourmanager-470819-1b87bef7e332.json")
+
+# Jouw GA4 property ID (bijv. 123456789)
+property_id <- "503214182"
+
+ga_meta("data", propertyId = property_id) %>% 
+  View()
+
+
+# Vraag een rapport op
+daily_users_device <- ga_data(
+  property_id,
+  dimensions = c("date", "dateHourMinute", "deviceCategory", "operatingSystem", "city", "fullPageUrl", "newVsReturning"),
+  metrics = c("activeUsers", "newUsers", "averageSessionDuration", "userEngagementDuration", "eventCount"),
+  date_range = c("2025-08-01", as.character(Sys.Date()))
+)
+
+daily_users_device
+
+```
+
+```{r}
+library(bigrquery)
+library(dplyr)
+library(glue)
+
+bq_auth(path = "tourmanager-470819-1b87bef7e332.json")
+
+project_id <- "tourmanager-470819"
+dataset_id <- "analytics_503214182"
+
+start_date <- "2025-08-01"
+end_date <- format(Sys.Date(), "%Y-%m-%d")
+
+start_suffix <- gsub("-", "", start_date)
+end_suffix   <- gsub("-", "", end_date)
+```
+
+```{r}
+
+library(bigrquery)
+library(glue)
+
+# Authenticeer bij BigQuery
+bq_auth(path = "tourmanager-470819-1b87bef7e332.json")
+
+project_id <- "tourmanager-470819"
+dataset_id <- "analytics_503214182"
+
+start_date <- "2025-08-01"
+end_date <- format(Sys.Date(), "%Y-%m-%d")
+
+start_suffix <- gsub("-", "", start_date)
+end_suffix   <- gsub("-", "", end_date)
+
+query <- glue("
+  SELECT
+    CAST(event_timestamp AS STRING) AS event_timestamp,  -- timestamp als tekst
+    TIMESTAMP_MICROS(event_timestamp) AS event_time,
+    *
+  FROM `{project_id}.{dataset_id}.events_*`
+  WHERE _TABLE_SUFFIX BETWEEN '{start_suffix}' AND '{end_suffix}'
+")
+
+# Query uitvoeren
+tb <- bq_project_query(project_id, query)
+df <- bq_table_download(tb)
+
+head(df)
+
+```
+
+```{r}
+
+all_events_df <- df %>% 
+  select(event_date, event_timestamp, event_time, user_pseudo_id, event_name, device, event_params, geo, batch_event_index) %>% 
+  unnest_wider(c(device, geo)) %>% 
+  unnest(event_params) %>%
+  unnest_longer(value) %>%
+  mutate(value = unlist(value)) %>% 
+  filter(!is.na(value)) %>% 
+  select(-value_id) %>% 
+  filter(event_name %in% c("page_view","user_engagement")) %>% 
+  spread(key, value) %>% 
+  group_by(event_date, event_time, event_timestamp, user_pseudo_id, page_location, event_name, category, mobile_brand_name, mobile_model_name, operating_system, language, country, region, city) %>%
+  summarise(
+    engagement_time_msec = sum(as.numeric(engagement_time_msec), na.rm = T)
+  ) %>% 
+  ungroup()
+
+all_events_df %>% 
+  View()
+
+```
+
+```{r}
+
+all_events_df %>%
+  mutate(
+    event_date = date(event_time),
+    page_location = gsub(".*com", "", page_location)
+    ) %>% 
+  group_by(event_date, event_name, page_location) %>% 
+  summarise(user_count = n_distinct(user_pseudo_id, na.rm = T)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = event_date, y = user_count)) +
+  geom_col(fill = "blue") +
+  facet_grid(page_location~event_name)
+
+```
+
+```{r}
+
+all_events_df %>%
+  mutate(
+    event_date = date(event_time),
+    page_location = gsub(".*com", "", page_location)
+    ) %>% 
+  group_by(event_date, event_name, page_location, user_pseudo_id) %>% 
+  summarise(engagement_time_msec = sum(engagement_time_msec, na.rm = T)) %>% 
+  ggplot(aes(x = event_date, y = engagement_time_msec / (1000 * 60))) +
+  geom_point(alpha = 0.5, size = 3, colour = "blue") +
+  facet_grid(page_location~event_name)
+
+```
+
+
+
+
+```{r}
+
+all_events_df %>%
+  group_by(event_name, city, category) %>% 
+  summarise(engagement_time_msec = sum(engagement_time_msec, na.rm = T)) %>% 
+  ggplot(aes(x = reorder(city, engagement_time_msec), y = engagement_time_msec, fill = category)) +
+  geom_col() +
+  coord_flip() +
+  facet_wrap(~event_name)
+
+```
+

@@ -1,3 +1,10 @@
 fastapi
 uvicorn
 pandas
+curl_cffi
+beautifulsoup4
+lxml
+pyarrow
+psycopg2-binary
+python-dotenv
+scipy

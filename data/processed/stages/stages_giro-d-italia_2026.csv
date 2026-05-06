@@ -1,0 +1,22 @@
+stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
+race/giro-d-italia/2026/stage-1,2026-05-08,1,Stage 1,Flat,Nessebar,Burgas,147,872,20
+race/giro-d-italia/2026/stage-2,2026-05-09,2,Stage 2,"Mountains, flat finish",Burgas,Veliko Tarnovo,221,2348,108
+race/giro-d-italia/2026/stage-3,2026-05-10,3,Stage 3,"Hills, flat finish",Plovdiv,Sofia,175,1577,40
+race/giro-d-italia/2026/stage-4,2026-05-12,4,Stage 4,"Mountains, flat finish",Catanzaro,Cosenza,138,1600,89
+race/giro-d-italia/2026/stage-5,2026-05-13,5,Stage 5,"Hills, flat finish",Praia a Mare,Potenza,203,3724,203
+race/giro-d-italia/2026/stage-6,2026-05-14,6,Stage 6,"Hills, flat finish",Paestum,Naples,141,680,14
+race/giro-d-italia/2026/stage-7,2026-05-15,7,Stage 7,"Mountains, uphill finish",Formia,Blockhaus,244,4467,368
+race/giro-d-italia/2026/stage-8,2026-05-16,8,Stage 8,"Hills, uphill finish",Chieti,Fermo,156,1804,152
+race/giro-d-italia/2026/stage-9,2026-05-17,9,Stage 9,"Mountains, uphill finish",Cervia,Corno alle Scale,184,2351,244
+race/giro-d-italia/2026/stage-10,2026-05-19,10,Stage 10 (ITT),Flat,Viareggio,Massa,42,105,2
+race/giro-d-italia/2026/stage-11,2026-05-20,11,Stage 11,"Hills, flat finish",Porcari (Paper District),Chiavari,195,2939,177
+race/giro-d-italia/2026/stage-12,2026-05-21,12,Stage 12,"Hills, flat finish",Imperia,Novi Ligure,175,2131,96
+race/giro-d-italia/2026/stage-13,2026-05-22,13,Stage 13,"Hills, flat finish",Alessandria,Verbania,189,1326,85
+race/giro-d-italia/2026/stage-14,2026-05-23,14,Stage 14,"Mountains, uphill finish",Aosta,Pila (Gressan),133,4209,381
+race/giro-d-italia/2026/stage-15,2026-05-24,15,Stage 15,Flat,Voghera,Milan,157,612,7
+race/giro-d-italia/2026/stage-16,2026-05-26,16,Stage 16,"Mountains, uphill finish",Bellinzona,Carì,113,2928,334
+race/giro-d-italia/2026/stage-17,2026-05-27,17,Stage 17,"Hills, uphill finish",Cassano d'Adda,Andalo,202,3257,181
+race/giro-d-italia/2026/stage-18,2026-05-28,18,Stage 18,"Hills, flat finish",Fai della Paganella,Pieve di Soligo,171,1896,103
+race/giro-d-italia/2026/stage-19,2026-05-29,19,Stage 19,"Mountains, uphill finish",Feltre,Alleghe (Piani di Pezzè),151,4888,396
+race/giro-d-italia/2026/stage-20,2026-05-30,20,Stage 20,"Mountains, uphill finish",Gemona del Friuli 1976-2026,Piancavallo,200,3751,379
+race/giro-d-italia/2026/stage-21,2026-05-31,21,Stage 21,Flat,Rome,Rome,131,1309,28
