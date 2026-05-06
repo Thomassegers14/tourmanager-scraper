@@ -232,7 +232,7 @@ def main() -> None:
         startlist = scrape_startlist(event_id, event_year)
         quality   = scrape_startlist_quality(event_id, event_year)
 
-        event_date = pd.to_datetime(startlist["event_date"].iloc[0], dayfirst=True, errors="coerce").date()
+        event_date = pd.to_datetime(startlist["event_date"].iloc[0], errors="coerce").date()
         if pd.isnull(event_date):
             print(f"  [WARN] Kon startdatum niet parsen, gebruik 1 mei {event_year}")
             event_date = date(event_year, 5, 1)

@@ -17,9 +17,14 @@ def main() -> None:
         print(f"\n=== Computing rider points: {event_id} {event_year} ===")
 
         # ── Data inladen ──────────────────────────────────────────────────────
+        results_file = BASE_DIR / "data" / "processed" / "results" / f"{event_id}_{event_year}_all_stage_results.csv"
+        if not results_file.exists():
+            print(f"  [SKIP] Geen resultaten beschikbaar voor {event_id} {event_year}")
+            continue
+
         startlist = pd.read_csv(BASE_DIR / "data" / "processed" / "startlists_favorites" / f"startlist_{event_id}_{event_year}.csv")
         stages    = pd.read_csv(BASE_DIR / "data" / "processed" / "stages"               / f"stages_{event_id}_{event_year}.csv")
-        results   = pd.read_csv(BASE_DIR / "data" / "processed" / "results"              / f"{event_id}_{event_year}_all_stage_results.csv")
+        results   = pd.read_csv(results_file)
 
         stage_info = stages[["stage_id", "stage"]].copy()
         stage_info["stage"] = pd.to_numeric(stage_info["stage"], errors="coerce").astype("Int64")
