@@ -17,6 +17,10 @@ WINSOR_COLS = [
     "pcs_gc_points", "pcs_sprint_points", "pcs_sprint_points_season",
 ]
 
+# Events die de GT-specifieke scoring gebruiken.
+# Originele berekening (classic_score) blijft beschikbaar als kolom voor vergelijking.
+GT_SCORING_EVENTS = {"giro-d-italia"}
+
 
 def _safe_zscore(series: pd.Series) -> pd.Series:
     """Z-score met fallback naar 0 als standaarddeviatie 0 is."""
@@ -42,9 +46,13 @@ def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
 
     # 2. Gecombineerde scores per event ────────────────────────────────────────
     def score_group(g):
+        event_id = g["event_id"].iloc[0]
+        is_gt    = event_id in GT_SCORING_EVENTS
+
         def z(col):
             return _safe_zscore(g[f"{col}_w"])
 
+        # gc_score: historische GC-prestaties (gewogen 3 jaar) + huidig seizoen
         g["gc_score"] = (
             -z("pcs_rank") * 0.5
             - z("event_rank") * 0.5
@@ -52,6 +60,8 @@ def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
             + z("pcs_gc_points_season") * 1.5
             + z("pcs_gc_points") * 1.5
         )
+
+        # classic_score: originele berekening — altijd aanwezig voor vergelijking
         g["classic_score"] = (
             -z("pcs_rank") * 0.5
             - z("event_rank") * 0.5
@@ -59,6 +69,8 @@ def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
             + z("pcs_points_season") * 1.5
             + z("pcs_points_last_60d") * 1.5
         )
+
+        # sprinter_score: vlakke-koersen specialisatie
         g["sprinter_score"] = (
             -z("pcs_rank") * 0.5
             - z("event_rank") * 0.5
@@ -66,11 +78,30 @@ def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
             + z("pcs_sprint_points_season") * 1.5
             + z("pcs_sprint_points") * 1.5
         )
-        g["combined_score"] = (
-            g["gc_score"] * 0.5
-            + g["classic_score"] * 0.3
-            + g["sprinter_score"] * 0.2
-        )
+
+        if is_gt:
+            # stage_form_score vervangt classic_score voor GT-events.
+            # Gebruikt pcs_gc_points_season i.p.v. pcs_points_season zodat sprinters
+            # niet onterecht hoog scoren door flat-race seizoenspunten.
+            g["stage_form_score"] = (
+                -z("pcs_rank") * 0.5
+                - z("event_rank") * 0.5
+                + z("uci_points") * 0.5
+                + z("pcs_gc_points_season") * 1.5   # GC-specifiek, niet alle race-types
+                + z("pcs_points_last_60d") * 1.5    # recente vorm (GT-voorbereiding)
+            )
+            g["combined_score"] = (
+                g["gc_score"] * 0.48
+                + g["stage_form_score"] * 0.27
+                + g["sprinter_score"] * 0.25
+            )
+        else:
+            g["combined_score"] = (
+                g["gc_score"] * 0.5
+                + g["classic_score"] * 0.3
+                + g["sprinter_score"] * 0.2
+            )
+
         return g
 
     df = df.groupby(["event_id", "event_date"], group_keys=False).apply(score_group)
@@ -86,20 +117,35 @@ def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
         if top15.empty:
             return g
 
+        event_id = g["event_id"].iloc[0]
+        is_gt    = event_id in GT_SCORING_EVENTS
+
         scores = top15["combined_score"].values
         std    = np.nanstd(scores)
 
-        diff_next = np.append(scores[:-1] - scores[1:], np.nan)
-        big_gap   = diff_next > std
+        if is_gt:
+            # Gap-progressie: tier-grens waar het verschil groter is dan de drempel.
+            # Meerdere rijders per tier zijn mogelijk — rank 1 is niet automatisch solo Tier 1.
+            gap_threshold = std * 0.8
+            current_tier  = 1
+            tiers         = [1]
+            for i in range(1, len(scores)):
+                if scores[i - 1] - scores[i] > gap_threshold:
+                    current_tier = min(current_tier + 1, 3)
+                tiers.append(current_tier)
+        else:
+            # Originele logica: rank 1 altijd Tier 1, gap-detectie enkel voor rank ≤ 3
+            diff_next = np.append(scores[:-1] - scores[1:], np.nan)
+            big_gap   = diff_next > std
+            tiers = []
+            for i, (rank_val, gap) in enumerate(zip(top15["rank"].values, big_gap)):
+                if rank_val == 1:
+                    tiers.append(1)
+                elif gap and rank_val <= 3:
+                    tiers.append(2)
+                else:
+                    tiers.append(3)
 
-        tiers = []
-        for i, (rank_val, gap) in enumerate(zip(top15["rank"].values, big_gap)):
-            if rank_val == 1:
-                tiers.append(1)
-            elif gap and rank_val <= 3:
-                tiers.append(2)
-            else:
-                tiers.append(3)
         top15["tier"] = tiers
 
         # Fallback als niet alle 3 tiers bezet zijn
@@ -162,7 +208,7 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for (event_id, event_date), group in df_enriched.groupby(["event_id", "event_date"]):
-        year     = pd.to_datetime(event_date, dayfirst=True, errors="coerce").year
+        year     = pd.to_datetime(event_date, errors="coerce").year
         out_file = out_dir / f"startlist_{event_id}_{year}.csv"
         group.to_csv(out_file, index=False)
         print(f"  Opgeslagen: {out_file} ({len(group)} renners)")
