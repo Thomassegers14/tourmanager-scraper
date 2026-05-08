@@ -63,9 +63,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-        run: |
-          cd scraper
-          python scripts/pipeline.py scrape_results process_results process_favorites process_selections compute_scores compute_rider_points
+        run: python scripts/pipeline.py scrape_results process_results process_favorites process_selections compute_scores compute_rider_points
 
       - name: Commit & push resultaten
         if: steps.datecheck.outputs.skip == 'false'
