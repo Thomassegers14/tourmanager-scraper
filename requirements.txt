@@ -7,4 +7,5 @@ lxml
 pyarrow
 psycopg2-binary
 python-dotenv
+supabase
 scipy

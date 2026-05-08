@@ -60,11 +60,8 @@ jobs:
       - name: Voer pipeline uit
         if: steps.datecheck.outputs.skip == 'false'
         env:
-          DB_NAME: ${{ secrets.DB_NAME }}
-          DB_HOST: ${{ secrets.DB_HOST }}
-          DB_PORT: ${{ secrets.DB_PORT }}
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASS: ${{ secrets.DB_PASS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           cd scraper
           python scripts/pipeline.py scrape_results process_results process_favorites process_selections compute_scores compute_rider_points
