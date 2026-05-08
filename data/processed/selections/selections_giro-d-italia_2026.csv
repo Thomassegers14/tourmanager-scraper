@@ -1,97 +1,97 @@
 id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/einer-rubio,RUBIO Einer
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/ethan-vernon,VERNON Ethan
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/jhonatan-narvaez,NARVÁEZ Jhonatan
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/michael-storer,STORER Michael
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/corbin-strong,STRONG Corbin
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/christian-scaroni,SCARONI Christian
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/giulio-pellizzari,PELLIZZARI Giulio
-11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
 3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/simone-gualdi,GUALDI Simone
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/erlend-blikra,BLIKRA Erlend
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/javier-romo,ROMO Javier
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/edoardo-zambanini,ZAMBANINI Edoardo
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/alessandro-pinarello,PINARELLO Alessandro
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
 3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/adam-yates,YATES Adam
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
 3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/guillermo-thomas-silva-coussan,SILVA Guillermo Thomas
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/guillermo-thomas-silva-coussan,SILVA Guillermo Thomas
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/derek-gee,GEE-WEST Derek
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jhonatan-narvaez,NARVÁEZ Jhonatan
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/santiago-buitrago-sanchez,BUITRAGO Santiago
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/egan-bernal,BERNAL Egan
-9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jay-vine,VINE Jay
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/damiano-caruso,CARUSO Damiano
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/marc-soler,SOLER Marc
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jai-hindley,HINDLEY Jai
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/aleksandr-vlasov,VLASOV Aleksandr
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/edoardo-zambanini,ZAMBANINI Edoardo
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/javier-romo,ROMO Javier
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/alessandro-pinarello,PINARELLO Alessandro
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/erlend-blikra,BLIKRA Erlend
+3,2026-05-07T08:06:32.094158+00:00,Christoph,Mouton,christoph.mouton@telenet.be,giro-d-italia,2026,rider/simone-gualdi,GUALDI Simone
 4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
 4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/paul-magnier,MAGNIER Paul
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/enric-mas,MAS Enric
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/alessandro-pinarello,PINARELLO Alessandro
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/marc-soler,SOLER Marc
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/jai-hindley,HINDLEY Jai
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/ben-o-connor,O'CONNOR Ben
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jay-vine,VINE Jay
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/aleksandr-vlasov,VLASOV Aleksandr
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/jai-hindley,HINDLEY Jai
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/marc-soler,SOLER Marc
+4,2026-05-07T08:41:31.639826+00:00,Justine,Vermonden,justinevermonden@hotmail.com,giro-d-italia,2026,rider/damiano-caruso,CARUSO Damiano
 5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/ben-o-connor,O'CONNOR Ben
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
 5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/joshua-giddings,GIDDINGS Joshua
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/simone-consonni,CONSONNI Simone
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-geens,GEENS Jonas
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/mirco-maestri,MAESTRI Mirco
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/victor-campenaerts,CAMPENAERTS Victor
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/ben-turner,TURNER Ben
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jay-vine,VINE Jay
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jasper-stuyven,STUYVEN Jasper
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/arnaud-de-lie,DE LIE Arnaud
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/wout-poels,POELS Wout
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/michael-valgren-andersen,VALGREN Michael
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/andreas-leknessund,LEKNESSUND Andreas
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/paul-magnier,MAGNIER Paul
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/jay-vine,VINE Jay
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/santiago-buitrago-sanchez,BUITRAGO Santiago
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
-8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/jai-hindley,HINDLEY Jai
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/paul-magnier,MAGNIER Paul
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/marc-soler,SOLER Marc
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/alessandro-pinarello,PINARELLO Alessandro
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/enric-mas,MAS Enric
+5,2026-05-07T08:53:34.837909+00:00,Karl,Van Overloop,kvanoverloop@gmail.com,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
 8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/santiago-buitrago-sanchez,BUITRAGO Santiago
 8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/guillermo-thomas-silva-coussan,SILVA Guillermo Thomas
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/jay-vine,VINE Jay
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/paul-magnier,MAGNIER Paul
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/andreas-leknessund,LEKNESSUND Andreas
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/kaden-groves,GROVES Kaden
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/michael-valgren-andersen,VALGREN Michael
+8,2026-05-07T14:47:18.137282+00:00,Raf,Carpentero,raf.carpentero@telenet.be,giro-d-italia,2026,rider/wout-poels,POELS Wout
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/egan-bernal,BERNAL Egan
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/santiago-buitrago-sanchez,BUITRAGO Santiago
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/jhonatan-narvaez,NARVÁEZ Jhonatan
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/guillermo-thomas-silva-coussan,SILVA Guillermo Thomas
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
+9,2026-05-08T08:25:28.273342+00:00,Claude,Code,claude@claude.be,giro-d-italia,2026,rider/derek-gee,GEE-WEST Derek
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/arnaud-de-lie,DE LIE Arnaud
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jasper-stuyven,STUYVEN Jasper
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jay-vine,VINE Jay
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/ben-turner,TURNER Ben
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/victor-campenaerts,CAMPENAERTS Victor
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/mirco-maestri,MAESTRI Mirco
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-geens,GEENS Jonas
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/simone-consonni,CONSONNI Simone
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/joshua-giddings,GIDDINGS Joshua
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/giulio-pellizzari,PELLIZZARI Giulio
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/christian-scaroni,SCARONI Christian
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/corbin-strong,STRONG Corbin
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/thymen-arensman,ARENSMAN Thymen
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/michael-storer,STORER Michael
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/jhonatan-narvaez,NARVÁEZ Jhonatan
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/sepp-kuss,KUSS Sepp
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/ethan-vernon,VERNON Ethan
+11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/einer-rubio,RUBIO Einer
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
 13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/christian-scaroni,SCARONI Christian
 13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/jonathan-milan,MILAN Jonathan
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/tobias-lund-andresen,ANDRESEN Tobias Lund
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/jonas-vingegaard,VINGEGAARD Jonas
-13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/derek-gee,GEE-WEST Derek
 13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/santiago-buitrago-sanchez,BUITRAGO Santiago
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/mathys-rondel,RONDEL Mathys
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/guillermo-thomas-silva-coussan,SILVA Guillermo Thomas
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/filippo-ganna,GANNA Filippo
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/filippo-zana,ZANA Filippo
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/giulio-ciccone,CICCONE Giulio
+13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/derek-gee,GEE-WEST Derek
 13,2026-05-08T13:17:23.83801+00:00,Thomas,Segers,segers.thomas@telenet.be,giro-d-italia,2026,rider/jai-hindley,HINDLEY Jai
