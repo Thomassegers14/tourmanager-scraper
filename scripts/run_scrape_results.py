@@ -88,7 +88,7 @@ def scrape_stage_results(
         return EMPTY_DF.copy()
 
     try:
-        results_df = pd.read_html(StringIO(str(results_el)), convert_float=False)[0]
+        results_df = pd.read_html(StringIO(str(results_el)))[0]
     except Exception:
         return EMPTY_DF.copy()
 
