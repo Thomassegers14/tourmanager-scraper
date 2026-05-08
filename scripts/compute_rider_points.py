@@ -41,11 +41,10 @@ def main() -> None:
             .copy()
         )
         stage_results["is_ttt"] = stage_results["stage_id"].isin(ttt_stages)
-        stage_results["points"] = stage_results.apply(
-            lambda r: STAGE_POINTS_TTT.get(int(r["rank"]), 0) if r["is_ttt"]
-                      else STAGE_POINTS.get(int(r["rank"]), 0),
-            axis=1,
-        )
+        stage_results["points"] = [
+            STAGE_POINTS_TTT.get(int(rank), 0) if is_ttt else STAGE_POINTS.get(int(rank), 0)
+            for rank, is_ttt in zip(stage_results["rank"], stage_results["is_ttt"])
+        ]
         stage_results = stage_results[["stage_id", "rider_id", "points"]]
 
         # ── Dagelijkse klassementen ───────────────────────────────────────────
@@ -59,9 +58,10 @@ def main() -> None:
             .query("rank <= 3")
             .copy()
         )
-        daily_results["points"] = daily_results.apply(
-            lambda r: DAILY_CLASS_POINTS.get((r["category"], int(r["rank"])), 0), axis=1
-        )
+        daily_results["points"] = [
+            DAILY_CLASS_POINTS.get((cat, int(rank)), 0)
+            for cat, rank in zip(daily_results["category"], daily_results["rank"])
+        ]
         daily_results = daily_results[["stage_id", "rider_id", "points"]]
 
         # ── Eindklassementen ──────────────────────────────────────────────────
@@ -78,9 +78,10 @@ def main() -> None:
             ((final_results["category"] == "gc") & (final_results["rank"] <= 20)) |
             ((final_results["category"] != "gc") & (final_results["rank"] <= 5))
         ].copy()
-        final_results["points"]   = final_results.apply(
-            lambda r: FINAL_CLASS_POINTS.get((r["category"], int(r["rank"])), 0), axis=1
-        )
+        final_results["points"] = [
+            FINAL_CLASS_POINTS.get((cat, int(rank)), 0)
+            for cat, rank in zip(final_results["category"], final_results["rank"])
+        ]
         final_results["stage_id"] = "final"
         final_results = final_results[["stage_id", "rider_id", "points"]]
 
