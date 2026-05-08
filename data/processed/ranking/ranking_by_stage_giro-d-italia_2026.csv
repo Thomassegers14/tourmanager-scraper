@@ -1,0 +1,169 @@
+stage_id,stage,id,voornaam,achternaam,stage_points,cumulative_points,rank
+race/giro-d-italia/2026/stage-1,1,8,Raf,Carpentero,86.0,86.0,1
+race/giro-d-italia/2026/stage-1,1,5,Karl,Van Overloop,55.0,55.0,2
+race/giro-d-italia/2026/stage-1,1,4,Justine,Vermonden,45.0,45.0,3
+race/giro-d-italia/2026/stage-1,1,13,Thomas,Segers,45.0,45.0,4
+race/giro-d-italia/2026/stage-1,1,11,Chad,Guy-Petit,35.0,35.0,5
+race/giro-d-italia/2026/stage-1,1,3,Christoph,Mouton,14.0,14.0,6
+race/giro-d-italia/2026/stage-1,1,9,Claude,Code,14.0,14.0,7
+race/giro-d-italia/2026/stage-1,1,10,Miguel,Reyntjens,14.0,14.0,8
+race/giro-d-italia/2026/stage-2,2,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-2,2,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-2,2,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-2,2,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-2,2,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-2,2,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-2,2,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-2,2,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-3,3,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-3,3,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-3,3,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-3,3,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-3,3,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-3,3,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-3,3,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-3,3,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-4,4,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-4,4,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-4,4,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-4,4,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-4,4,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-4,4,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-4,4,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-4,4,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-5,5,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-5,5,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-5,5,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-5,5,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-5,5,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-5,5,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-5,5,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-5,5,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-6,6,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-6,6,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-6,6,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-6,6,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-6,6,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-6,6,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-6,6,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-6,6,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-7,7,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-7,7,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-7,7,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-7,7,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-7,7,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-7,7,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-7,7,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-7,7,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-8,8,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-8,8,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-8,8,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-8,8,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-8,8,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-8,8,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-8,8,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-8,8,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-9,9,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-9,9,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-9,9,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-9,9,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-9,9,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-9,9,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-9,9,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-9,9,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-10,10,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-10,10,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-10,10,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-10,10,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-10,10,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-10,10,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-10,10,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-10,10,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-11,11,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-11,11,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-11,11,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-11,11,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-11,11,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-11,11,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-11,11,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-11,11,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-12,12,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-12,12,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-12,12,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-12,12,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-12,12,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-12,12,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-12,12,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-12,12,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-13,13,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-13,13,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-13,13,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-13,13,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-13,13,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-13,13,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-13,13,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-13,13,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-14,14,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-14,14,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-14,14,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-14,14,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-14,14,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-14,14,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-14,14,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-14,14,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-15,15,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-15,15,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-15,15,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-15,15,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-15,15,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-15,15,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-15,15,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-15,15,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-16,16,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-16,16,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-16,16,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-16,16,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-16,16,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-16,16,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-16,16,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-16,16,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-17,17,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-17,17,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-17,17,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-17,17,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-17,17,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-17,17,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-17,17,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-17,17,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-18,18,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-18,18,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-18,18,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-18,18,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-18,18,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-18,18,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-18,18,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-18,18,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-19,19,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-19,19,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-19,19,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-19,19,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-19,19,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-19,19,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-19,19,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-19,19,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-20,20,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-20,20,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-20,20,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-20,20,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-20,20,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-20,20,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-20,20,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-20,20,10,Miguel,Reyntjens,0.0,14.0,8
+race/giro-d-italia/2026/stage-21,21,8,Raf,Carpentero,0.0,86.0,1
+race/giro-d-italia/2026/stage-21,21,5,Karl,Van Overloop,0.0,55.0,2
+race/giro-d-italia/2026/stage-21,21,4,Justine,Vermonden,0.0,45.0,3
+race/giro-d-italia/2026/stage-21,21,13,Thomas,Segers,0.0,45.0,4
+race/giro-d-italia/2026/stage-21,21,11,Chad,Guy-Petit,0.0,35.0,5
+race/giro-d-italia/2026/stage-21,21,3,Christoph,Mouton,0.0,14.0,6
+race/giro-d-italia/2026/stage-21,21,9,Claude,Code,0.0,14.0,7
+race/giro-d-italia/2026/stage-21,21,10,Miguel,Reyntjens,0.0,14.0,8
