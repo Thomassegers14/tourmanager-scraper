@@ -120,9 +120,12 @@ def main() -> None:
             [participant_stage_points, final_stage_points], ignore_index=True
         )
 
-        # ── Cross join deelnemers × alle etappes ──────────────────────────────
+        # ── Cross join deelnemers × gereden etappes ──────────────────────────
+        ridden_stage_info = stage_info[
+            stage_info["stage_id"].isin(all_participant_stage_scores["stage_id"])
+        ]
         all_combinations = (
-            stage_info
+            ridden_stage_info
             .merge(selections[["id", "voornaam", "achternaam"]].drop_duplicates(), how="cross")
         )
 
