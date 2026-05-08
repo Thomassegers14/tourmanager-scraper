@@ -34,12 +34,10 @@ def process_selections(df: pd.DataFrame) -> pd.DataFrame:
     df[str_cols] = df[str_cols].apply(lambda c: c.str.strip())
 
     # Meest recente inzending per deelnemer per event bewaren
-    df = (
-        df
-        .sort_values("tijdstip")
-        .groupby(["voornaam", "achternaam", "email", "event_id", "event_year"], group_keys=False)
-        .apply(lambda g: g[g["tijdstip"] == g["tijdstip"].max()])
-    )
+    latest = df.groupby(
+        ["voornaam", "achternaam", "email", "event_id", "event_year"]
+    )["tijdstip"].transform("max")
+    df = df[df["tijdstip"] == latest]
 
     return df[[
         "id", "tijdstip", "voornaam", "achternaam", "email",
