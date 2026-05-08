@@ -18,14 +18,14 @@ def main() -> None:
         print(f"\n=== Processing stage results: {event_id} {event_year} ===")
 
         raw_dir = BASE_DIR / "data" / "raw" / "results" / event_id / str(event_year)
-        parquet_files = list(raw_dir.glob("*.parquet")) if raw_dir.exists() else []
+        csv_files = list(raw_dir.glob("*.csv")) if raw_dir.exists() else []
 
-        if not parquet_files:
-            print(f"  [SKIP] Geen parquet bestanden gevonden in {raw_dir}")
+        if not csv_files:
+            print(f"  [SKIP] Geen CSV bestanden gevonden in {raw_dir}")
             continue
 
-        # Alle parquet bestanden inlezen en samenvoegen
-        frames = [pd.read_parquet(f) for f in parquet_files]
+        # Alle CSV bestanden inlezen en samenvoegen
+        frames = [pd.read_csv(f) for f in csv_files]
         all_results = pd.concat(frames, ignore_index=True)
 
         # Stages inladen voor stage nummer lookup

@@ -9,9 +9,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from io import StringIO
 
 import pandas as pd
-import pyarrow as pa
-import pyarrow.parquet as pq
-
 from config import EVENT_YEARS, BASE_URL, BASE_DIR, CATEGORIES
 from utils import read_page
 from run_scrape_stages import scrape_stages
@@ -162,19 +159,19 @@ def main() -> None:
             df["_cat_ord"]  = df["category"].map(cat_order)
             df = df.sort_values(["_cat_ord", "_rank_num", "rider_id"]).drop(columns=["_rank_num", "_cat_ord"])
 
-            # Wegschrijven als parquet
+            # Wegschrijven als CSV
             out_dir = BASE_DIR / "data" / "raw" / "results" / event_id / str(event_year)
             out_dir.mkdir(parents=True, exist_ok=True)
-            out_file = out_dir / f"stage-{stage_nr}-{category}.parquet"
+            out_file = out_dir / f"stage-{stage_nr}-{category}.csv"
 
             # Alleen overschrijven als inhoud verschilt
             if out_file.exists():
-                old = pd.read_parquet(out_file)
+                old = pd.read_csv(out_file)
                 if old.equals(df.reset_index(drop=True)):
                     print(f"  [=] Ongewijzigd: {out_file.name}")
                     return
 
-            df.to_parquet(out_file, index=False)
+            df.to_csv(out_file, index=False)
             print(f"  [+] Opgeslagen: {out_file.name} ({len(df)} rijen)")
 
         with ThreadPoolExecutor(max_workers=2) as exe:
