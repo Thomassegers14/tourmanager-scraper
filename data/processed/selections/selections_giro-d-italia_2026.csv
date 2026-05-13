@@ -68,7 +68,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/ben-turner,TURNER Ben,True
 10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/victor-campenaerts,CAMPENAERTS Victor,True
 10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/mirco-maestri,MAESTRI Mirco,True
-10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-geens,GEENS Jonas,False
+10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/jonas-geens,GEENS Jonas,True
 10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/simone-consonni,CONSONNI Simone,True
 10,2026-05-08T08:40:56.390271+00:00,Miguel,Reyntjens,miguel.reyntjens@hotmail.com,giro-d-italia,2026,rider/joshua-giddings,GIDDINGS Joshua,False
 11,2026-05-08T08:50:23.610913+00:00,Chad,Guy-Petit,chadguy@chatgpt.com,giro-d-italia,2026,rider/giulio-pellizzari,PELLIZZARI Giulio,True
