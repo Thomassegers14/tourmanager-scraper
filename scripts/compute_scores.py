@@ -142,6 +142,31 @@ def main() -> None:
         ranked = ranked.sort_values(["stage", "cumulative_points"], ascending=[True, False])
         ranked["rank"] = ranked.groupby("stage").cumcount() + 1
 
+        # ── Actieve renners bepalen ───────────────────────────────────────────
+        # Renner is actief als hij een numeriek GC-rank heeft in de meest recent gereden etappe.
+        # Renners die zijn uitgevallen (DNF/abandon) verdwijnen uit de GC.
+        ridden_stages = stage_info[stage_info["stage_id"].isin(results["stage_id"].unique())]
+        if not ridden_stages.empty:
+            latest_ridden_id = ridden_stages.loc[
+                ridden_stages["stage"] == ridden_stages["stage"].max(), "stage_id"
+            ].iloc[0]
+            active_rider_ids = set(
+                results.loc[
+                    (results["stage_id"] == latest_ridden_id) &
+                    (results["category"] == "gc") &
+                    pd.to_numeric(results["rank"], errors="coerce").notna(),
+                    "rider_id",
+                ]
+            )
+        else:
+            active_rider_ids = set(startlist["rider_id"])
+
+        selections["active"] = selections["rider_id"].isin(active_rider_ids)
+        sel_path = BASE_DIR / "data" / "processed" / "selections" / f"selections_{event_id}_{event_year}.csv"
+        selections.to_csv(sel_path, index=False)
+        n_active = selections.drop_duplicates("rider_id")["active"].sum()
+        print(f"  Actief: {n_active}/{selections['rider_id'].nunique()} renners")
+
         # ── Wegschrijven ──────────────────────────────────────────────────────
         out_dir = BASE_DIR / "data" / "processed" / "ranking"
         out_dir.mkdir(parents=True, exist_ok=True)
