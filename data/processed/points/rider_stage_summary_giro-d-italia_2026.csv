@@ -283,12 +283,12 @@ rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-1,1,0.0,
 rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-2,2,14.0,14.0
 rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-3,3,0.0,14.0
 rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-4,4,0.0,14.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-5,5,12.0,26.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-6,6,0.0,26.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-7,7,0.0,26.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-8,8,10.0,36.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-9,9,0.0,36.0
-rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-10,10,0.0,36.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-5,5,14.0,28.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-6,6,2.0,30.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-7,7,0.0,30.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-8,8,10.0,40.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-9,9,0.0,40.0
+rider/christian-scaroni,SCARONI Christian,race/giro-d-italia/2026/stage-10,10,0.0,40.0
 rider/christopher-juul-jensen,JUUL-JENSEN Christopher,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/christopher-juul-jensen,JUUL-JENSEN Christopher,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/christopher-juul-jensen,JUUL-JENSEN Christopher,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -470,15 +470,15 @@ rider/edward-planckaert,PLANCKAERT Edward,race/giro-d-italia/2026/stage-8,8,0.0,
 rider/edward-planckaert,PLANCKAERT Edward,race/giro-d-italia/2026/stage-9,9,0.0,0.0
 rider/edward-planckaert,PLANCKAERT Edward,race/giro-d-italia/2026/stage-10,10,0.0,0.0
 rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-1,1,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-2,2,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-3,3,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-4,4,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-5,5,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-6,6,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-7,7,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-8,8,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-9,9,0.0,0.0
-rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-10,10,0.0,0.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-2,2,2.0,2.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-3,3,2.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-4,4,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-5,5,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-6,6,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-7,7,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-8,8,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-9,9,0.0,4.0
+rider/egan-bernal,BERNAL Egan,race/giro-d-italia/2026/stage-10,10,0.0,4.0
 rider/einer-rubio,RUBIO Einer,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/einer-rubio,RUBIO Einer,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/einer-rubio,RUBIO Einer,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -595,10 +595,10 @@ rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-3,3,0.0,0.0
 rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-4,4,0.0,0.0
 rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-5,5,0.0,0.0
 rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-6,6,0.0,0.0
-rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-7,7,26.0,26.0
-rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-8,8,1.0,27.0
-rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-9,9,26.0,53.0
-rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-10,10,1.0,54.0
+rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-7,7,28.0,28.0
+rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-8,8,3.0,31.0
+rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-9,9,28.0,59.0
+rider/felix-gall,GALL Felix,race/giro-d-italia/2026/stage-10,10,1.0,60.0
 rider/filippo-ganna,GANNA Filippo,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/filippo-ganna,GANNA Filippo,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/filippo-ganna,GANNA Filippo,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -640,15 +640,15 @@ rider/filippo-zana,ZANA Filippo,race/giro-d-italia/2026/stage-8,8,0.0,0.0
 rider/filippo-zana,ZANA Filippo,race/giro-d-italia/2026/stage-9,9,0.0,0.0
 rider/filippo-zana,ZANA Filippo,race/giro-d-italia/2026/stage-10,10,0.0,0.0
 rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-1,1,0.0,0.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-2,2,27.0,27.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-3,3,2.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-4,4,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-5,5,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-6,6,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-7,7,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-8,8,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-9,9,0.0,29.0
-rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-10,10,0.0,29.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-2,2,28.0,28.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-3,3,3.0,31.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-4,4,2.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-5,5,0.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-6,6,0.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-7,7,0.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-8,8,0.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-9,9,0.0,33.0
+rider/florian-stork,STORK Florian,race/giro-d-italia/2026/stage-10,10,0.0,33.0
 rider/fran-miholjevic,MIHOLJEVIĆ Fran,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/fran-miholjevic,MIHOLJEVIĆ Fran,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/fran-miholjevic,MIHOLJEVIĆ Fran,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -803,12 +803,12 @@ rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-1,1,0.0,
 rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-3,3,0.0,0.0
 rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-4,4,0.0,0.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-5,5,36.0,36.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-6,6,6.0,42.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-7,7,0.0,42.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-8,8,0.0,42.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-9,9,0.0,42.0
-rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-10,10,0.0,42.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-5,5,37.0,37.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-6,6,7.0,44.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-7,7,0.0,44.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-8,8,0.0,44.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-9,9,0.0,44.0
+rider/igor-arrieta-lizarraga,ARRIETA Igor,race/giro-d-italia/2026/stage-10,10,0.0,44.0
 rider/ivan-garcia-cortina,GARCÍA CORTINA Iván,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/ivan-garcia-cortina,GARCÍA CORTINA Iván,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/ivan-garcia-cortina,GARCÍA CORTINA Iván,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -862,13 +862,13 @@ rider/james-shaw,SHAW James,race/giro-d-italia/2026/stage-10,10,0.0,0.0
 rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-2,2,8.0,8.0
 rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-3,3,2.0,10.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-4,4,5.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-5,5,0.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-6,6,0.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-7,7,0.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-8,8,0.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-9,9,0.0,15.0
-rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-10,10,0.0,15.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-4,4,6.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-5,5,0.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-6,6,0.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-7,7,0.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-8,8,0.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-9,9,0.0,16.0
+rider/jan-christen,CHRISTEN Jan,race/giro-d-italia/2026/stage-10,10,0.0,16.0
 rider/jan-hirt,HIRT Jan,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/jan-hirt,HIRT Jan,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/jan-hirt,HIRT Jan,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -1015,10 +1015,10 @@ rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-3,3,1.0,3.
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-4,4,0.0,3.0
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-5,5,0.0,3.0
 rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-6,6,0.0,3.0
-rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-7,7,35.0,38.0
-rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-8,8,5.0,43.0
-rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-9,9,35.0,78.0
-rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-10,10,5.0,83.0
+rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-7,7,36.0,39.0
+rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-8,8,6.0,45.0
+rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-9,9,36.0,81.0
+rider/jonas-vingegaard,VINGEGAARD Jonas,race/giro-d-italia/2026/stage-10,10,6.0,87.0
 rider/jonathan-milan,MILAN Jonathan,race/giro-d-italia/2026/stage-1,1,14.0,14.0
 rider/jonathan-milan,MILAN Jonathan,race/giro-d-italia/2026/stage-2,2,1.0,15.0
 rider/jonathan-milan,MILAN Jonathan,race/giro-d-italia/2026/stage-3,3,27.0,42.0
@@ -1189,16 +1189,16 @@ rider/magnus-sheffield,SHEFFIELD Magnus,race/giro-d-italia/2026/stage-7,7,0.0,0.
 rider/magnus-sheffield,SHEFFIELD Magnus,race/giro-d-italia/2026/stage-8,8,0.0,0.0
 rider/magnus-sheffield,SHEFFIELD Magnus,race/giro-d-italia/2026/stage-9,9,0.0,0.0
 rider/magnus-sheffield,SHEFFIELD Magnus,race/giro-d-italia/2026/stage-10,10,0.0,0.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-1,1,2.0,2.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-2,2,0.0,2.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-3,3,2.0,4.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-4,4,1.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-5,5,0.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-6,6,0.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-7,7,0.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-8,8,0.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-9,9,0.0,5.0
-rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-10,10,0.0,5.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-1,1,4.0,4.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-2,2,0.0,4.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-3,3,2.0,6.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-4,4,1.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-5,5,0.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-6,6,0.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-7,7,0.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-8,8,0.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-9,9,0.0,7.0
+rider/manuele-tarozzi,TAROZZI Manuele,race/giro-d-italia/2026/stage-10,10,0.0,7.0
 rider/marc-soler,SOLER Marc,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/marc-soler,SOLER Marc,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/marc-soler,SOLER Marc,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -1678,7 +1678,7 @@ rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-6,6,0.0,0.0
 rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-7,7,2.0,2.0
 rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-8,8,0.0,2.0
 rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-9,9,14.0,16.0
-rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-10,10,25.0,41.0
+rider/thymen-arensman,ARENSMAN Thymen,race/giro-d-italia/2026/stage-10,10,27.0,43.0
 rider/tim-naberman,NABERMAN Tim,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/tim-naberman,NABERMAN Tim,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/tim-naberman,NABERMAN Tim,race/giro-d-italia/2026/stage-3,3,0.0,0.0
@@ -1739,16 +1739,16 @@ rider/tobias-bayer,BAYER Tobias,race/giro-d-italia/2026/stage-7,7,0.0,0.0
 rider/tobias-bayer,BAYER Tobias,race/giro-d-italia/2026/stage-8,8,0.0,0.0
 rider/tobias-bayer,BAYER Tobias,race/giro-d-italia/2026/stage-9,9,0.0,0.0
 rider/tobias-bayer,BAYER Tobias,race/giro-d-italia/2026/stage-10,10,0.0,0.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-1,1,31.0,31.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-2,2,2.0,33.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-3,3,5.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-4,4,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-5,5,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-6,6,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-7,7,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-8,8,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-9,9,0.0,38.0
-rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-10,10,0.0,38.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-1,1,32.0,32.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-2,2,2.0,34.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-3,3,5.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-4,4,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-5,5,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-6,6,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-7,7,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-8,8,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-9,9,0.0,39.0
+rider/tobias-lund-andresen,ANDRESEN Tobias Lund,race/giro-d-italia/2026/stage-10,10,0.0,39.0
 rider/tomas-kopecky,KOPECKÝ Tomáš,race/giro-d-italia/2026/stage-1,1,0.0,0.0
 rider/tomas-kopecky,KOPECKÝ Tomáš,race/giro-d-italia/2026/stage-2,2,0.0,0.0
 rider/tomas-kopecky,KOPECKÝ Tomáš,race/giro-d-italia/2026/stage-3,3,0.0,0.0
