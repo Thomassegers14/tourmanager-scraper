@@ -98,7 +98,7 @@ def scrape_stage_results(
 
     rider_ids = [
         a.get("href") for a in res_tabs[0].select("a")
-        if "rider" in (a.get("href") or "")
+        if (a.get("href") or "").startswith("rider/")
     ]
 
     n = min(len(results_df), len(rider_ids))
