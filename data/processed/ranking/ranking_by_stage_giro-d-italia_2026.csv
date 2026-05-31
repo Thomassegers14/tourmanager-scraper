@@ -1,201 +1,221 @@
 stage_id,stage,id,voornaam,achternaam,stage_points,cumulative_points,rank
-race/giro-d-italia/2026/stage-1,1,8,Raf,Carpentero,87.0,87.0,1
-race/giro-d-italia/2026/stage-1,1,5,Karl,Van Overloop,55.0,55.0,2
-race/giro-d-italia/2026/stage-1,1,14,Damiaan,Relaes,55.0,55.0,3
-race/giro-d-italia/2026/stage-1,1,4,Justine,Vermonden,46.0,46.0,4
-race/giro-d-italia/2026/stage-1,1,13,Thomas,Segers,46.0,46.0,5
-race/giro-d-italia/2026/stage-1,1,11,Chad,Guy-Petit,35.0,35.0,6
-race/giro-d-italia/2026/stage-1,1,3,Christoph,Mouton,14.0,14.0,7
-race/giro-d-italia/2026/stage-1,1,9,Claude,Code,14.0,14.0,8
-race/giro-d-italia/2026/stage-1,1,10,Miguel,Reyntjens,14.0,14.0,9
-race/giro-d-italia/2026/stage-1,1,15,Jens,Verstraeten,14.0,14.0,10
-race/giro-d-italia/2026/stage-2,2,13,Thomas,Segers,79.0,125.0,1
-race/giro-d-italia/2026/stage-2,2,8,Raf,Carpentero,36.0,123.0,2
-race/giro-d-italia/2026/stage-2,2,11,Chad,Guy-Petit,47.0,82.0,3
-race/giro-d-italia/2026/stage-2,2,14,Damiaan,Relaes,26.0,81.0,4
-race/giro-d-italia/2026/stage-2,2,9,Claude,Code,65.0,79.0,5
-race/giro-d-italia/2026/stage-2,2,4,Justine,Vermonden,25.0,71.0,6
-race/giro-d-italia/2026/stage-2,2,5,Karl,Van Overloop,8.0,63.0,7
-race/giro-d-italia/2026/stage-2,2,3,Christoph,Mouton,43.0,57.0,8
-race/giro-d-italia/2026/stage-2,2,15,Jens,Verstraeten,11.0,25.0,9
-race/giro-d-italia/2026/stage-2,2,10,Miguel,Reyntjens,4.0,18.0,10
-race/giro-d-italia/2026/stage-3,3,8,Raf,Carpentero,66.0,189.0,1
-race/giro-d-italia/2026/stage-3,3,13,Thomas,Segers,41.0,166.0,2
-race/giro-d-italia/2026/stage-3,3,14,Damiaan,Relaes,61.0,142.0,3
-race/giro-d-italia/2026/stage-3,3,5,Karl,Van Overloop,61.0,124.0,4
-race/giro-d-italia/2026/stage-3,3,9,Claude,Code,38.0,117.0,5
-race/giro-d-italia/2026/stage-3,3,11,Chad,Guy-Petit,27.0,109.0,6
-race/giro-d-italia/2026/stage-3,3,4,Justine,Vermonden,33.0,104.0,7
-race/giro-d-italia/2026/stage-3,3,3,Christoph,Mouton,46.0,103.0,8
-race/giro-d-italia/2026/stage-3,3,15,Jens,Verstraeten,28.0,53.0,9
-race/giro-d-italia/2026/stage-3,3,10,Miguel,Reyntjens,28.0,46.0,10
-race/giro-d-italia/2026/stage-4,4,14,Damiaan,Relaes,95.0,237.0,1
-race/giro-d-italia/2026/stage-4,4,8,Raf,Carpentero,32.0,221.0,2
-race/giro-d-italia/2026/stage-4,4,13,Thomas,Segers,27.0,193.0,3
-race/giro-d-italia/2026/stage-4,4,9,Claude,Code,58.0,175.0,4
-race/giro-d-italia/2026/stage-4,4,11,Chad,Guy-Petit,60.0,169.0,5
-race/giro-d-italia/2026/stage-4,4,5,Karl,Van Overloop,17.0,141.0,6
-race/giro-d-italia/2026/stage-4,4,4,Justine,Vermonden,27.0,131.0,7
-race/giro-d-italia/2026/stage-4,4,3,Christoph,Mouton,14.0,117.0,8
-race/giro-d-italia/2026/stage-4,4,10,Miguel,Reyntjens,16.0,62.0,9
-race/giro-d-italia/2026/stage-4,4,15,Jens,Verstraeten,2.0,55.0,10
-race/giro-d-italia/2026/stage-5,5,14,Damiaan,Relaes,6.0,243.0,1
-race/giro-d-italia/2026/stage-5,5,13,Thomas,Segers,36.0,229.0,2
-race/giro-d-italia/2026/stage-5,5,8,Raf,Carpentero,5.0,226.0,3
-race/giro-d-italia/2026/stage-5,5,9,Claude,Code,23.0,198.0,4
-race/giro-d-italia/2026/stage-5,5,11,Chad,Guy-Petit,17.0,186.0,5
-race/giro-d-italia/2026/stage-5,5,5,Karl,Van Overloop,5.0,146.0,6
-race/giro-d-italia/2026/stage-5,5,3,Christoph,Mouton,22.0,139.0,7
-race/giro-d-italia/2026/stage-5,5,4,Justine,Vermonden,2.0,133.0,8
-race/giro-d-italia/2026/stage-5,5,10,Miguel,Reyntjens,2.0,64.0,9
-race/giro-d-italia/2026/stage-5,5,15,Jens,Verstraeten,2.0,57.0,10
-race/giro-d-italia/2026/stage-6,6,14,Damiaan,Relaes,25.0,268.0,1
-race/giro-d-italia/2026/stage-6,6,8,Raf,Carpentero,25.0,251.0,2
-race/giro-d-italia/2026/stage-6,6,13,Thomas,Segers,4.0,233.0,3
-race/giro-d-italia/2026/stage-6,6,9,Claude,Code,2.0,200.0,4
-race/giro-d-italia/2026/stage-6,6,11,Chad,Guy-Petit,4.0,190.0,5
-race/giro-d-italia/2026/stage-6,6,5,Karl,Van Overloop,25.0,171.0,6
-race/giro-d-italia/2026/stage-6,6,3,Christoph,Mouton,2.0,141.0,7
-race/giro-d-italia/2026/stage-6,6,4,Justine,Vermonden,2.0,135.0,8
-race/giro-d-italia/2026/stage-6,6,10,Miguel,Reyntjens,39.0,103.0,9
-race/giro-d-italia/2026/stage-6,6,15,Jens,Verstraeten,37.0,94.0,10
-race/giro-d-italia/2026/stage-7,7,14,Damiaan,Relaes,61.0,329.0,1
-race/giro-d-italia/2026/stage-7,7,13,Thomas,Segers,83.0,316.0,2
-race/giro-d-italia/2026/stage-7,7,8,Raf,Carpentero,51.0,302.0,3
-race/giro-d-italia/2026/stage-7,7,9,Claude,Code,65.0,265.0,4
-race/giro-d-italia/2026/stage-7,7,5,Karl,Van Overloop,86.0,257.0,5
-race/giro-d-italia/2026/stage-7,7,11,Chad,Guy-Petit,32.0,222.0,6
-race/giro-d-italia/2026/stage-7,7,4,Justine,Vermonden,68.0,203.0,7
-race/giro-d-italia/2026/stage-7,7,3,Christoph,Mouton,51.0,192.0,8
-race/giro-d-italia/2026/stage-7,7,15,Jens,Verstraeten,64.0,158.0,9
-race/giro-d-italia/2026/stage-7,7,10,Miguel,Reyntjens,38.0,141.0,10
-race/giro-d-italia/2026/stage-8,8,14,Damiaan,Relaes,42.0,371.0,1
-race/giro-d-italia/2026/stage-8,8,13,Thomas,Segers,32.0,348.0,2
-race/giro-d-italia/2026/stage-8,8,8,Raf,Carpentero,39.0,341.0,3
-race/giro-d-italia/2026/stage-8,8,9,Claude,Code,54.0,319.0,4
-race/giro-d-italia/2026/stage-8,8,11,Chad,Guy-Petit,53.0,275.0,5
-race/giro-d-italia/2026/stage-8,8,5,Karl,Van Overloop,11.0,268.0,6
-race/giro-d-italia/2026/stage-8,8,3,Christoph,Mouton,22.0,214.0,7
-race/giro-d-italia/2026/stage-8,8,4,Justine,Vermonden,7.0,210.0,8
-race/giro-d-italia/2026/stage-8,8,15,Jens,Verstraeten,40.0,198.0,9
-race/giro-d-italia/2026/stage-8,8,10,Miguel,Reyntjens,7.0,148.0,10
-race/giro-d-italia/2026/stage-9,9,14,Damiaan,Relaes,68.0,439.0,1
-race/giro-d-italia/2026/stage-9,9,13,Thomas,Segers,61.0,409.0,2
-race/giro-d-italia/2026/stage-9,9,8,Raf,Carpentero,54.0,395.0,3
-race/giro-d-italia/2026/stage-9,9,9,Claude,Code,73.0,392.0,4
-race/giro-d-italia/2026/stage-9,9,5,Karl,Van Overloop,68.0,336.0,5
-race/giro-d-italia/2026/stage-9,9,11,Chad,Guy-Petit,26.0,301.0,6
-race/giro-d-italia/2026/stage-9,9,3,Christoph,Mouton,61.0,275.0,7
-race/giro-d-italia/2026/stage-9,9,4,Justine,Vermonden,61.0,271.0,8
-race/giro-d-italia/2026/stage-9,9,15,Jens,Verstraeten,57.0,255.0,9
-race/giro-d-italia/2026/stage-9,9,10,Miguel,Reyntjens,43.0,191.0,10
-race/giro-d-italia/2026/stage-10,10,14,Damiaan,Relaes,51.0,490.0,1
-race/giro-d-italia/2026/stage-10,10,9,Claude,Code,78.0,470.0,2
-race/giro-d-italia/2026/stage-10,10,13,Thomas,Segers,49.0,458.0,3
-race/giro-d-italia/2026/stage-10,10,8,Raf,Carpentero,37.0,432.0,4
-race/giro-d-italia/2026/stage-10,10,5,Karl,Van Overloop,67.0,403.0,5
-race/giro-d-italia/2026/stage-10,10,11,Chad,Guy-Petit,62.0,363.0,6
-race/giro-d-italia/2026/stage-10,10,15,Jens,Verstraeten,64.0,319.0,7
-race/giro-d-italia/2026/stage-10,10,3,Christoph,Mouton,34.0,309.0,8
-race/giro-d-italia/2026/stage-10,10,4,Justine,Vermonden,34.0,305.0,9
-race/giro-d-italia/2026/stage-10,10,10,Miguel,Reyntjens,7.0,198.0,10
-race/giro-d-italia/2026/stage-11,11,14,Damiaan,Relaes,56.0,546.0,1
-race/giro-d-italia/2026/stage-11,11,9,Claude,Code,41.0,511.0,2
-race/giro-d-italia/2026/stage-11,11,13,Thomas,Segers,17.0,475.0,3
-race/giro-d-italia/2026/stage-11,11,8,Raf,Carpentero,12.0,444.0,4
-race/giro-d-italia/2026/stage-11,11,5,Karl,Van Overloop,37.0,440.0,5
-race/giro-d-italia/2026/stage-11,11,11,Chad,Guy-Petit,47.0,410.0,6
-race/giro-d-italia/2026/stage-11,11,15,Jens,Verstraeten,9.0,328.0,7
-race/giro-d-italia/2026/stage-11,11,4,Justine,Vermonden,21.0,326.0,8
-race/giro-d-italia/2026/stage-11,11,3,Christoph,Mouton,15.0,324.0,9
-race/giro-d-italia/2026/stage-11,11,10,Miguel,Reyntjens,7.0,205.0,10
-race/giro-d-italia/2026/stage-12,12,14,Damiaan,Relaes,30.0,576.0,1
-race/giro-d-italia/2026/stage-12,12,9,Claude,Code,37.0,548.0,2
-race/giro-d-italia/2026/stage-12,12,13,Thomas,Segers,27.0,502.0,3
-race/giro-d-italia/2026/stage-12,12,8,Raf,Carpentero,12.0,456.0,4
-race/giro-d-italia/2026/stage-12,12,5,Karl,Van Overloop,12.0,452.0,5
-race/giro-d-italia/2026/stage-12,12,11,Chad,Guy-Petit,27.0,437.0,6
-race/giro-d-italia/2026/stage-12,12,15,Jens,Verstraeten,51.0,379.0,7
-race/giro-d-italia/2026/stage-12,12,3,Christoph,Mouton,33.0,357.0,8
-race/giro-d-italia/2026/stage-12,12,4,Justine,Vermonden,9.0,335.0,9
-race/giro-d-italia/2026/stage-12,12,10,Miguel,Reyntjens,19.0,224.0,10
-race/giro-d-italia/2026/stage-13,13,14,Damiaan,Relaes,14.0,590.0,1
-race/giro-d-italia/2026/stage-13,13,9,Claude,Code,11.0,559.0,2
-race/giro-d-italia/2026/stage-13,13,13,Thomas,Segers,7.0,509.0,3
-race/giro-d-italia/2026/stage-13,13,8,Raf,Carpentero,51.0,507.0,4
-race/giro-d-italia/2026/stage-13,13,5,Karl,Van Overloop,12.0,464.0,5
-race/giro-d-italia/2026/stage-13,13,11,Chad,Guy-Petit,7.0,444.0,6
-race/giro-d-italia/2026/stage-13,13,15,Jens,Verstraeten,54.0,433.0,7
-race/giro-d-italia/2026/stage-13,13,3,Christoph,Mouton,9.0,366.0,8
-race/giro-d-italia/2026/stage-13,13,4,Justine,Vermonden,9.0,344.0,9
-race/giro-d-italia/2026/stage-13,13,10,Miguel,Reyntjens,27.0,251.0,10
-race/giro-d-italia/2026/stage-14,14,14,Damiaan,Relaes,63.0,653.0,1
-race/giro-d-italia/2026/stage-14,14,9,Claude,Code,55.0,614.0,2
-race/giro-d-italia/2026/stage-14,14,13,Thomas,Segers,60.0,569.0,3
-race/giro-d-italia/2026/stage-14,14,8,Raf,Carpentero,58.0,565.0,4
-race/giro-d-italia/2026/stage-14,14,5,Karl,Van Overloop,71.0,535.0,5
-race/giro-d-italia/2026/stage-14,14,15,Jens,Verstraeten,77.0,510.0,6
-race/giro-d-italia/2026/stage-14,14,11,Chad,Guy-Petit,37.0,481.0,7
-race/giro-d-italia/2026/stage-14,14,3,Christoph,Mouton,49.0,415.0,8
-race/giro-d-italia/2026/stage-14,14,4,Justine,Vermonden,70.0,414.0,9
-race/giro-d-italia/2026/stage-14,14,10,Miguel,Reyntjens,39.0,290.0,10
-race/giro-d-italia/2026/stage-15,15,14,Damiaan,Relaes,27.0,680.0,1
-race/giro-d-italia/2026/stage-15,15,9,Claude,Code,12.0,626.0,2
-race/giro-d-italia/2026/stage-15,15,8,Raf,Carpentero,33.0,598.0,3
-race/giro-d-italia/2026/stage-15,15,13,Thomas,Segers,18.0,587.0,4
-race/giro-d-italia/2026/stage-15,15,5,Karl,Van Overloop,24.0,559.0,5
-race/giro-d-italia/2026/stage-15,15,15,Jens,Verstraeten,9.0,519.0,6
-race/giro-d-italia/2026/stage-15,15,11,Chad,Guy-Petit,12.0,493.0,7
-race/giro-d-italia/2026/stage-15,15,4,Justine,Vermonden,18.0,432.0,8
-race/giro-d-italia/2026/stage-15,15,3,Christoph,Mouton,9.0,424.0,9
-race/giro-d-italia/2026/stage-15,15,10,Miguel,Reyntjens,34.0,324.0,10
-race/giro-d-italia/2026/stage-16,16,14,Damiaan,Relaes,80.0,760.0,1
-race/giro-d-italia/2026/stage-16,16,9,Claude,Code,84.0,710.0,2
-race/giro-d-italia/2026/stage-16,16,13,Thomas,Segers,78.0,665.0,3
-race/giro-d-italia/2026/stage-16,16,8,Raf,Carpentero,62.0,660.0,4
-race/giro-d-italia/2026/stage-16,16,5,Karl,Van Overloop,83.0,642.0,5
-race/giro-d-italia/2026/stage-16,16,15,Jens,Verstraeten,81.0,600.0,6
-race/giro-d-italia/2026/stage-16,16,11,Chad,Guy-Petit,27.0,520.0,7
-race/giro-d-italia/2026/stage-16,16,4,Justine,Vermonden,77.0,509.0,8
-race/giro-d-italia/2026/stage-16,16,3,Christoph,Mouton,60.0,484.0,9
-race/giro-d-italia/2026/stage-16,16,10,Miguel,Reyntjens,39.0,363.0,10
-race/giro-d-italia/2026/stage-17,17,14,Damiaan,Relaes,35.0,795.0,1
-race/giro-d-italia/2026/stage-17,17,8,Raf,Carpentero,70.0,730.0,2
-race/giro-d-italia/2026/stage-17,17,9,Claude,Code,20.0,730.0,3
-race/giro-d-italia/2026/stage-17,17,13,Thomas,Segers,11.0,676.0,4
-race/giro-d-italia/2026/stage-17,17,5,Karl,Van Overloop,13.0,655.0,5
-race/giro-d-italia/2026/stage-17,17,15,Jens,Verstraeten,36.0,636.0,6
-race/giro-d-italia/2026/stage-17,17,4,Justine,Vermonden,46.0,555.0,7
-race/giro-d-italia/2026/stage-17,17,11,Chad,Guy-Petit,23.0,543.0,8
-race/giro-d-italia/2026/stage-17,17,3,Christoph,Mouton,11.0,495.0,9
-race/giro-d-italia/2026/stage-17,17,10,Miguel,Reyntjens,8.0,371.0,10
-race/giro-d-italia/2026/stage-18,18,14,Damiaan,Relaes,68.0,863.0,1
-race/giro-d-italia/2026/stage-18,18,8,Raf,Carpentero,66.0,796.0,2
-race/giro-d-italia/2026/stage-18,18,9,Claude,Code,46.0,776.0,3
-race/giro-d-italia/2026/stage-18,18,5,Karl,Van Overloop,65.0,720.0,4
-race/giro-d-italia/2026/stage-18,18,13,Thomas,Segers,42.0,718.0,5
-race/giro-d-italia/2026/stage-18,18,15,Jens,Verstraeten,43.0,679.0,6
-race/giro-d-italia/2026/stage-18,18,4,Justine,Vermonden,33.0,588.0,7
-race/giro-d-italia/2026/stage-18,18,11,Chad,Guy-Petit,39.0,582.0,8
-race/giro-d-italia/2026/stage-18,18,3,Christoph,Mouton,67.0,562.0,9
-race/giro-d-italia/2026/stage-18,18,10,Miguel,Reyntjens,29.0,400.0,10
-race/giro-d-italia/2026/stage-19,19,14,Damiaan,Relaes,74.0,937.0,1
-race/giro-d-italia/2026/stage-19,19,9,Claude,Code,71.0,847.0,2
-race/giro-d-italia/2026/stage-19,19,8,Raf,Carpentero,47.0,843.0,3
-race/giro-d-italia/2026/stage-19,19,13,Thomas,Segers,83.0,801.0,4
-race/giro-d-italia/2026/stage-19,19,5,Karl,Van Overloop,37.0,757.0,5
-race/giro-d-italia/2026/stage-19,19,15,Jens,Verstraeten,35.0,714.0,6
-race/giro-d-italia/2026/stage-19,19,4,Justine,Vermonden,94.0,682.0,7
-race/giro-d-italia/2026/stage-19,19,11,Chad,Guy-Petit,62.0,644.0,8
-race/giro-d-italia/2026/stage-19,19,3,Christoph,Mouton,23.0,585.0,9
-race/giro-d-italia/2026/stage-19,19,10,Miguel,Reyntjens,51.0,451.0,10
-race/giro-d-italia/2026/stage-20,20,14,Damiaan,Relaes,75.0,1012.0,1
-race/giro-d-italia/2026/stage-20,20,9,Claude,Code,78.0,925.0,2
-race/giro-d-italia/2026/stage-20,20,8,Raf,Carpentero,57.0,900.0,3
-race/giro-d-italia/2026/stage-20,20,13,Thomas,Segers,80.0,881.0,4
-race/giro-d-italia/2026/stage-20,20,5,Karl,Van Overloop,77.0,834.0,5
-race/giro-d-italia/2026/stage-20,20,15,Jens,Verstraeten,77.0,791.0,6
-race/giro-d-italia/2026/stage-20,20,4,Justine,Vermonden,82.0,764.0,7
-race/giro-d-italia/2026/stage-20,20,11,Chad,Guy-Petit,22.0,666.0,8
-race/giro-d-italia/2026/stage-20,20,3,Christoph,Mouton,53.0,638.0,9
-race/giro-d-italia/2026/stage-20,20,10,Miguel,Reyntjens,39.0,490.0,10
+race/giro-d-italia/2026/stage-1,1,8,Raf,Carpentero,87,87,1
+race/giro-d-italia/2026/stage-1,1,5,Karl,Van Overloop,55,55,2
+race/giro-d-italia/2026/stage-1,1,14,Damiaan,Relaes,55,55,3
+race/giro-d-italia/2026/stage-1,1,4,Justine,Vermonden,46,46,4
+race/giro-d-italia/2026/stage-1,1,13,Thomas,Segers,46,46,5
+race/giro-d-italia/2026/stage-1,1,11,Chad,Guy-Petit,35,35,6
+race/giro-d-italia/2026/stage-1,1,3,Christoph,Mouton,14,14,7
+race/giro-d-italia/2026/stage-1,1,9,Claude,Code,14,14,8
+race/giro-d-italia/2026/stage-1,1,10,Miguel,Reyntjens,14,14,9
+race/giro-d-italia/2026/stage-1,1,15,Jens,Verstraeten,14,14,10
+race/giro-d-italia/2026/stage-2,2,13,Thomas,Segers,79,125,1
+race/giro-d-italia/2026/stage-2,2,8,Raf,Carpentero,36,123,2
+race/giro-d-italia/2026/stage-2,2,11,Chad,Guy-Petit,47,82,3
+race/giro-d-italia/2026/stage-2,2,14,Damiaan,Relaes,26,81,4
+race/giro-d-italia/2026/stage-2,2,9,Claude,Code,65,79,5
+race/giro-d-italia/2026/stage-2,2,4,Justine,Vermonden,25,71,6
+race/giro-d-italia/2026/stage-2,2,5,Karl,Van Overloop,8,63,7
+race/giro-d-italia/2026/stage-2,2,3,Christoph,Mouton,43,57,8
+race/giro-d-italia/2026/stage-2,2,15,Jens,Verstraeten,11,25,9
+race/giro-d-italia/2026/stage-2,2,10,Miguel,Reyntjens,4,18,10
+race/giro-d-italia/2026/stage-3,3,8,Raf,Carpentero,66,189,1
+race/giro-d-italia/2026/stage-3,3,13,Thomas,Segers,41,166,2
+race/giro-d-italia/2026/stage-3,3,14,Damiaan,Relaes,61,142,3
+race/giro-d-italia/2026/stage-3,3,5,Karl,Van Overloop,61,124,4
+race/giro-d-italia/2026/stage-3,3,9,Claude,Code,38,117,5
+race/giro-d-italia/2026/stage-3,3,11,Chad,Guy-Petit,27,109,6
+race/giro-d-italia/2026/stage-3,3,4,Justine,Vermonden,33,104,7
+race/giro-d-italia/2026/stage-3,3,3,Christoph,Mouton,46,103,8
+race/giro-d-italia/2026/stage-3,3,15,Jens,Verstraeten,28,53,9
+race/giro-d-italia/2026/stage-3,3,10,Miguel,Reyntjens,28,46,10
+race/giro-d-italia/2026/stage-4,4,14,Damiaan,Relaes,95,237,1
+race/giro-d-italia/2026/stage-4,4,8,Raf,Carpentero,32,221,2
+race/giro-d-italia/2026/stage-4,4,13,Thomas,Segers,27,193,3
+race/giro-d-italia/2026/stage-4,4,9,Claude,Code,58,175,4
+race/giro-d-italia/2026/stage-4,4,11,Chad,Guy-Petit,60,169,5
+race/giro-d-italia/2026/stage-4,4,5,Karl,Van Overloop,17,141,6
+race/giro-d-italia/2026/stage-4,4,4,Justine,Vermonden,27,131,7
+race/giro-d-italia/2026/stage-4,4,3,Christoph,Mouton,14,117,8
+race/giro-d-italia/2026/stage-4,4,10,Miguel,Reyntjens,16,62,9
+race/giro-d-italia/2026/stage-4,4,15,Jens,Verstraeten,2,55,10
+race/giro-d-italia/2026/stage-5,5,14,Damiaan,Relaes,6,243,1
+race/giro-d-italia/2026/stage-5,5,13,Thomas,Segers,36,229,2
+race/giro-d-italia/2026/stage-5,5,8,Raf,Carpentero,5,226,3
+race/giro-d-italia/2026/stage-5,5,9,Claude,Code,23,198,4
+race/giro-d-italia/2026/stage-5,5,11,Chad,Guy-Petit,17,186,5
+race/giro-d-italia/2026/stage-5,5,5,Karl,Van Overloop,5,146,6
+race/giro-d-italia/2026/stage-5,5,3,Christoph,Mouton,22,139,7
+race/giro-d-italia/2026/stage-5,5,4,Justine,Vermonden,2,133,8
+race/giro-d-italia/2026/stage-5,5,10,Miguel,Reyntjens,2,64,9
+race/giro-d-italia/2026/stage-5,5,15,Jens,Verstraeten,2,57,10
+race/giro-d-italia/2026/stage-6,6,14,Damiaan,Relaes,25,268,1
+race/giro-d-italia/2026/stage-6,6,8,Raf,Carpentero,25,251,2
+race/giro-d-italia/2026/stage-6,6,13,Thomas,Segers,4,233,3
+race/giro-d-italia/2026/stage-6,6,9,Claude,Code,2,200,4
+race/giro-d-italia/2026/stage-6,6,11,Chad,Guy-Petit,4,190,5
+race/giro-d-italia/2026/stage-6,6,5,Karl,Van Overloop,25,171,6
+race/giro-d-italia/2026/stage-6,6,3,Christoph,Mouton,2,141,7
+race/giro-d-italia/2026/stage-6,6,4,Justine,Vermonden,2,135,8
+race/giro-d-italia/2026/stage-6,6,10,Miguel,Reyntjens,39,103,9
+race/giro-d-italia/2026/stage-6,6,15,Jens,Verstraeten,37,94,10
+race/giro-d-italia/2026/stage-7,7,14,Damiaan,Relaes,61,329,1
+race/giro-d-italia/2026/stage-7,7,13,Thomas,Segers,83,316,2
+race/giro-d-italia/2026/stage-7,7,8,Raf,Carpentero,51,302,3
+race/giro-d-italia/2026/stage-7,7,9,Claude,Code,65,265,4
+race/giro-d-italia/2026/stage-7,7,5,Karl,Van Overloop,86,257,5
+race/giro-d-italia/2026/stage-7,7,11,Chad,Guy-Petit,32,222,6
+race/giro-d-italia/2026/stage-7,7,4,Justine,Vermonden,68,203,7
+race/giro-d-italia/2026/stage-7,7,3,Christoph,Mouton,51,192,8
+race/giro-d-italia/2026/stage-7,7,15,Jens,Verstraeten,64,158,9
+race/giro-d-italia/2026/stage-7,7,10,Miguel,Reyntjens,38,141,10
+race/giro-d-italia/2026/stage-8,8,14,Damiaan,Relaes,42,371,1
+race/giro-d-italia/2026/stage-8,8,13,Thomas,Segers,32,348,2
+race/giro-d-italia/2026/stage-8,8,8,Raf,Carpentero,39,341,3
+race/giro-d-italia/2026/stage-8,8,9,Claude,Code,54,319,4
+race/giro-d-italia/2026/stage-8,8,11,Chad,Guy-Petit,53,275,5
+race/giro-d-italia/2026/stage-8,8,5,Karl,Van Overloop,11,268,6
+race/giro-d-italia/2026/stage-8,8,3,Christoph,Mouton,22,214,7
+race/giro-d-italia/2026/stage-8,8,4,Justine,Vermonden,7,210,8
+race/giro-d-italia/2026/stage-8,8,15,Jens,Verstraeten,40,198,9
+race/giro-d-italia/2026/stage-8,8,10,Miguel,Reyntjens,7,148,10
+race/giro-d-italia/2026/stage-9,9,14,Damiaan,Relaes,68,439,1
+race/giro-d-italia/2026/stage-9,9,13,Thomas,Segers,61,409,2
+race/giro-d-italia/2026/stage-9,9,8,Raf,Carpentero,54,395,3
+race/giro-d-italia/2026/stage-9,9,9,Claude,Code,73,392,4
+race/giro-d-italia/2026/stage-9,9,5,Karl,Van Overloop,68,336,5
+race/giro-d-italia/2026/stage-9,9,11,Chad,Guy-Petit,26,301,6
+race/giro-d-italia/2026/stage-9,9,3,Christoph,Mouton,61,275,7
+race/giro-d-italia/2026/stage-9,9,4,Justine,Vermonden,61,271,8
+race/giro-d-italia/2026/stage-9,9,15,Jens,Verstraeten,57,255,9
+race/giro-d-italia/2026/stage-9,9,10,Miguel,Reyntjens,43,191,10
+race/giro-d-italia/2026/stage-10,10,14,Damiaan,Relaes,51,490,1
+race/giro-d-italia/2026/stage-10,10,9,Claude,Code,78,470,2
+race/giro-d-italia/2026/stage-10,10,13,Thomas,Segers,49,458,3
+race/giro-d-italia/2026/stage-10,10,8,Raf,Carpentero,37,432,4
+race/giro-d-italia/2026/stage-10,10,5,Karl,Van Overloop,67,403,5
+race/giro-d-italia/2026/stage-10,10,11,Chad,Guy-Petit,62,363,6
+race/giro-d-italia/2026/stage-10,10,15,Jens,Verstraeten,64,319,7
+race/giro-d-italia/2026/stage-10,10,3,Christoph,Mouton,34,309,8
+race/giro-d-italia/2026/stage-10,10,4,Justine,Vermonden,34,305,9
+race/giro-d-italia/2026/stage-10,10,10,Miguel,Reyntjens,7,198,10
+race/giro-d-italia/2026/stage-11,11,14,Damiaan,Relaes,56,546,1
+race/giro-d-italia/2026/stage-11,11,9,Claude,Code,41,511,2
+race/giro-d-italia/2026/stage-11,11,13,Thomas,Segers,17,475,3
+race/giro-d-italia/2026/stage-11,11,8,Raf,Carpentero,12,444,4
+race/giro-d-italia/2026/stage-11,11,5,Karl,Van Overloop,37,440,5
+race/giro-d-italia/2026/stage-11,11,11,Chad,Guy-Petit,47,410,6
+race/giro-d-italia/2026/stage-11,11,15,Jens,Verstraeten,9,328,7
+race/giro-d-italia/2026/stage-11,11,4,Justine,Vermonden,21,326,8
+race/giro-d-italia/2026/stage-11,11,3,Christoph,Mouton,15,324,9
+race/giro-d-italia/2026/stage-11,11,10,Miguel,Reyntjens,7,205,10
+race/giro-d-italia/2026/stage-12,12,14,Damiaan,Relaes,30,576,1
+race/giro-d-italia/2026/stage-12,12,9,Claude,Code,37,548,2
+race/giro-d-italia/2026/stage-12,12,13,Thomas,Segers,27,502,3
+race/giro-d-italia/2026/stage-12,12,8,Raf,Carpentero,12,456,4
+race/giro-d-italia/2026/stage-12,12,5,Karl,Van Overloop,12,452,5
+race/giro-d-italia/2026/stage-12,12,11,Chad,Guy-Petit,27,437,6
+race/giro-d-italia/2026/stage-12,12,15,Jens,Verstraeten,51,379,7
+race/giro-d-italia/2026/stage-12,12,3,Christoph,Mouton,33,357,8
+race/giro-d-italia/2026/stage-12,12,4,Justine,Vermonden,9,335,9
+race/giro-d-italia/2026/stage-12,12,10,Miguel,Reyntjens,19,224,10
+race/giro-d-italia/2026/stage-13,13,14,Damiaan,Relaes,14,590,1
+race/giro-d-italia/2026/stage-13,13,9,Claude,Code,11,559,2
+race/giro-d-italia/2026/stage-13,13,13,Thomas,Segers,7,509,3
+race/giro-d-italia/2026/stage-13,13,8,Raf,Carpentero,51,507,4
+race/giro-d-italia/2026/stage-13,13,5,Karl,Van Overloop,12,464,5
+race/giro-d-italia/2026/stage-13,13,11,Chad,Guy-Petit,7,444,6
+race/giro-d-italia/2026/stage-13,13,15,Jens,Verstraeten,54,433,7
+race/giro-d-italia/2026/stage-13,13,3,Christoph,Mouton,9,366,8
+race/giro-d-italia/2026/stage-13,13,4,Justine,Vermonden,9,344,9
+race/giro-d-italia/2026/stage-13,13,10,Miguel,Reyntjens,27,251,10
+race/giro-d-italia/2026/stage-14,14,14,Damiaan,Relaes,63,653,1
+race/giro-d-italia/2026/stage-14,14,9,Claude,Code,55,614,2
+race/giro-d-italia/2026/stage-14,14,13,Thomas,Segers,60,569,3
+race/giro-d-italia/2026/stage-14,14,8,Raf,Carpentero,58,565,4
+race/giro-d-italia/2026/stage-14,14,5,Karl,Van Overloop,71,535,5
+race/giro-d-italia/2026/stage-14,14,15,Jens,Verstraeten,77,510,6
+race/giro-d-italia/2026/stage-14,14,11,Chad,Guy-Petit,37,481,7
+race/giro-d-italia/2026/stage-14,14,3,Christoph,Mouton,49,415,8
+race/giro-d-italia/2026/stage-14,14,4,Justine,Vermonden,70,414,9
+race/giro-d-italia/2026/stage-14,14,10,Miguel,Reyntjens,39,290,10
+race/giro-d-italia/2026/stage-15,15,14,Damiaan,Relaes,27,680,1
+race/giro-d-italia/2026/stage-15,15,9,Claude,Code,12,626,2
+race/giro-d-italia/2026/stage-15,15,8,Raf,Carpentero,33,598,3
+race/giro-d-italia/2026/stage-15,15,13,Thomas,Segers,18,587,4
+race/giro-d-italia/2026/stage-15,15,5,Karl,Van Overloop,24,559,5
+race/giro-d-italia/2026/stage-15,15,15,Jens,Verstraeten,9,519,6
+race/giro-d-italia/2026/stage-15,15,11,Chad,Guy-Petit,12,493,7
+race/giro-d-italia/2026/stage-15,15,4,Justine,Vermonden,18,432,8
+race/giro-d-italia/2026/stage-15,15,3,Christoph,Mouton,9,424,9
+race/giro-d-italia/2026/stage-15,15,10,Miguel,Reyntjens,34,324,10
+race/giro-d-italia/2026/stage-16,16,14,Damiaan,Relaes,80,760,1
+race/giro-d-italia/2026/stage-16,16,9,Claude,Code,84,710,2
+race/giro-d-italia/2026/stage-16,16,13,Thomas,Segers,78,665,3
+race/giro-d-italia/2026/stage-16,16,8,Raf,Carpentero,62,660,4
+race/giro-d-italia/2026/stage-16,16,5,Karl,Van Overloop,83,642,5
+race/giro-d-italia/2026/stage-16,16,15,Jens,Verstraeten,81,600,6
+race/giro-d-italia/2026/stage-16,16,11,Chad,Guy-Petit,27,520,7
+race/giro-d-italia/2026/stage-16,16,4,Justine,Vermonden,77,509,8
+race/giro-d-italia/2026/stage-16,16,3,Christoph,Mouton,60,484,9
+race/giro-d-italia/2026/stage-16,16,10,Miguel,Reyntjens,39,363,10
+race/giro-d-italia/2026/stage-17,17,14,Damiaan,Relaes,35,795,1
+race/giro-d-italia/2026/stage-17,17,8,Raf,Carpentero,70,730,2
+race/giro-d-italia/2026/stage-17,17,9,Claude,Code,20,730,3
+race/giro-d-italia/2026/stage-17,17,13,Thomas,Segers,11,676,4
+race/giro-d-italia/2026/stage-17,17,5,Karl,Van Overloop,13,655,5
+race/giro-d-italia/2026/stage-17,17,15,Jens,Verstraeten,36,636,6
+race/giro-d-italia/2026/stage-17,17,4,Justine,Vermonden,46,555,7
+race/giro-d-italia/2026/stage-17,17,11,Chad,Guy-Petit,23,543,8
+race/giro-d-italia/2026/stage-17,17,3,Christoph,Mouton,11,495,9
+race/giro-d-italia/2026/stage-17,17,10,Miguel,Reyntjens,8,371,10
+race/giro-d-italia/2026/stage-18,18,14,Damiaan,Relaes,68,863,1
+race/giro-d-italia/2026/stage-18,18,8,Raf,Carpentero,66,796,2
+race/giro-d-italia/2026/stage-18,18,9,Claude,Code,46,776,3
+race/giro-d-italia/2026/stage-18,18,5,Karl,Van Overloop,65,720,4
+race/giro-d-italia/2026/stage-18,18,13,Thomas,Segers,42,718,5
+race/giro-d-italia/2026/stage-18,18,15,Jens,Verstraeten,43,679,6
+race/giro-d-italia/2026/stage-18,18,4,Justine,Vermonden,33,588,7
+race/giro-d-italia/2026/stage-18,18,11,Chad,Guy-Petit,39,582,8
+race/giro-d-italia/2026/stage-18,18,3,Christoph,Mouton,67,562,9
+race/giro-d-italia/2026/stage-18,18,10,Miguel,Reyntjens,29,400,10
+race/giro-d-italia/2026/stage-19,19,14,Damiaan,Relaes,74,937,1
+race/giro-d-italia/2026/stage-19,19,9,Claude,Code,71,847,2
+race/giro-d-italia/2026/stage-19,19,8,Raf,Carpentero,47,843,3
+race/giro-d-italia/2026/stage-19,19,13,Thomas,Segers,83,801,4
+race/giro-d-italia/2026/stage-19,19,5,Karl,Van Overloop,37,757,5
+race/giro-d-italia/2026/stage-19,19,15,Jens,Verstraeten,35,714,6
+race/giro-d-italia/2026/stage-19,19,4,Justine,Vermonden,94,682,7
+race/giro-d-italia/2026/stage-19,19,11,Chad,Guy-Petit,62,644,8
+race/giro-d-italia/2026/stage-19,19,3,Christoph,Mouton,23,585,9
+race/giro-d-italia/2026/stage-19,19,10,Miguel,Reyntjens,51,451,10
+race/giro-d-italia/2026/stage-20,20,14,Damiaan,Relaes,75,1012,1
+race/giro-d-italia/2026/stage-20,20,9,Claude,Code,78,925,2
+race/giro-d-italia/2026/stage-20,20,8,Raf,Carpentero,57,900,3
+race/giro-d-italia/2026/stage-20,20,13,Thomas,Segers,80,881,4
+race/giro-d-italia/2026/stage-20,20,5,Karl,Van Overloop,77,834,5
+race/giro-d-italia/2026/stage-20,20,15,Jens,Verstraeten,77,791,6
+race/giro-d-italia/2026/stage-20,20,4,Justine,Vermonden,82,764,7
+race/giro-d-italia/2026/stage-20,20,11,Chad,Guy-Petit,22,666,8
+race/giro-d-italia/2026/stage-20,20,3,Christoph,Mouton,53,638,9
+race/giro-d-italia/2026/stage-20,20,10,Miguel,Reyntjens,39,490,10
+race/giro-d-italia/2026/stage-21,21,14,Damiaan,Relaes,30,1042,1
+race/giro-d-italia/2026/stage-21,21,9,Claude,Code,30,955,2
+race/giro-d-italia/2026/stage-21,21,8,Raf,Carpentero,40,940,3
+race/giro-d-italia/2026/stage-21,21,13,Thomas,Segers,40,921,4
+race/giro-d-italia/2026/stage-21,21,5,Karl,Van Overloop,30,864,5
+race/giro-d-italia/2026/stage-21,21,15,Jens,Verstraeten,36,827,6
+race/giro-d-italia/2026/stage-21,21,4,Justine,Vermonden,40,804,7
+race/giro-d-italia/2026/stage-21,21,11,Chad,Guy-Petit,36,702,8
+race/giro-d-italia/2026/stage-21,21,3,Christoph,Mouton,30,668,9
+race/giro-d-italia/2026/stage-21,21,10,Miguel,Reyntjens,30,520,10
+final,22,14,Damiaan,Relaes,455,1497,1
+final,22,9,Claude,Code,473,1428,2
+final,22,13,Thomas,Segers,438,1359,3
+final,22,5,Karl,Van Overloop,433,1297,4
+final,22,8,Raf,Carpentero,345,1285,5
+final,22,4,Justine,Vermonden,444,1248,6
+final,22,15,Jens,Verstraeten,380,1207,7
+final,22,3,Christoph,Mouton,308,976,8
+final,22,11,Chad,Guy-Petit,274,976,9
+final,22,10,Miguel,Reyntjens,194,714,10
