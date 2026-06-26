@@ -1,19 +1,21 @@
-name: Daily results update
+name: Startlist check (aanloop)
+
+# Ververst in de aanloop naar de Tour de France dagelijks om 07:00 CEST de
+# startlijst, zodat de ploegstatus (definitief/voorlopig) en de favorieten
+# bijgewerkt worden. Loopt enkel in het venster vóór de wedstrijdstart;
+# tijdens de wedstrijd neemt main.yml (resultaten) het over.
 
 on:
   schedule:
-    # Elke 15 min van 16:30 tot 20:00 CEST (= 14:30–18:00 UTC in de zomer)
-    - cron: '30,45 14 * * *'    # 16:30, 16:45 CEST
-    - cron: '*/15 15-17 * * *'  # 17:00–19:45 CEST
-    - cron: '0 18 * * *'        # 20:00 CEST
+    - cron: '0 5 * * *'   # 07:00 CEST (= 05:00 UTC in de zomer)
   workflow_dispatch:  # ook manueel te starten
 
 permissions:
   contents: write
 
 env:
-  START_DATE: '2026-07-04'   # Officiële startdatum Tour de France 2026
-  DAYS: '23'                 # Duurtijd wedstrijd in dagen (21 etappes + rustdagen)
+  START_DATE: '2026-06-27'   # vanaf morgen
+  END_DATE: '2026-07-04'     # t/m de ochtend van de wedstrijdstart
   TARGET_FOLDER: 'data/processed'
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -31,13 +33,13 @@ jobs:
         id: datecheck
         run: |
           START=${{ env.START_DATE }}
-          END=$(date -d "$START + ${{ env.DAYS }} days" +%Y-%m-%d)
+          END=${{ env.END_DATE }}
           NOW=$(date -u +%Y-%m-%d)
           if [[ "$NOW" < "$START" || "$NOW" > "$END" ]]; then
-            echo "Buiten datumbereik ($START → $END) — pipeline overgeslagen."
+            echo "Buiten aanloopvenster ($START → $END) — overgeslagen."
             echo "skip=true" >> $GITHUB_OUTPUT
           else
-            echo "Binnen datumbereik — pipeline wordt uitgevoerd."
+            echo "Binnen aanloopvenster — startlijst wordt ververst."
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
@@ -60,12 +62,12 @@ jobs:
         if: steps.datecheck.outputs.skip == 'false'
         run: pip install -r requirements.txt
 
-      - name: Voer pipeline uit
+      - name: Ververs startlijst en favorieten
         if: steps.datecheck.outputs.skip == 'false'
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-        run: python scripts/pipeline.py scrape_results process_results process_favorites process_selections compute_scores compute_rider_points
+        run: python scripts/pipeline.py scrape_startlists scrape_stages process_favorites
 
       - name: Commit & push resultaten
         if: steps.datecheck.outputs.skip == 'false'
@@ -78,6 +80,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Geen wijzigingen om te committen."
           else
-            git commit -m "Automatische update: ${{ env.TARGET_FOLDER }} (run ${{ github.run_id }})"
+            git commit -m "Automatische startlist-update: ${{ env.TARGET_FOLDER }} (run ${{ github.run_id }})"
             git push
           fi

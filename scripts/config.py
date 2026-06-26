@@ -8,7 +8,7 @@ BASE_DIR: Path = Path(__file__).parent.parent
 BASE_URL: str = "https://www.procyclingstats.com"
 
 EVENT_YEARS: list[dict] = [
-    {"event_id": "giro-d-italia", "event_year": 2026},
+    {"event_id": "tour-de-france", "event_year": 2026},
 ]
 
 HEADERS: dict = {

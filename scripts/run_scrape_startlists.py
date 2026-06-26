@@ -56,16 +56,21 @@ def scrape_startlist(event_id: str, year: int) -> pd.DataFrame:
         team_a    = team.find(class_="team")
         team_name = team_a.get_text(strip=True) if team_a else None
         team_id   = team_a.get("href")          if team_a else None
+        # PCS markeert een bevestigde (definitieve) ploegselectie met de extra
+        # class "ok" op de status-span; zonder "ok" is de selectie voorlopig.
+        status_span = team.find("span", class_="confirmed")
+        roster_confirmed = bool(status_span and "ok" in status_span.get("class", []))
         for li in team.find_all("li"):
             a = li.find("a")
             if a:
                 rows.append({
-                    "event_id":   event_id,
-                    "event_date": event_date,
-                    "team_name":  team_name,
-                    "team_id":    team_id,
-                    "rider_name": a.get_text(strip=True),
-                    "rider_id":   a.get("href"),
+                    "event_id":         event_id,
+                    "event_date":       event_date,
+                    "team_name":        team_name,
+                    "team_id":          team_id,
+                    "roster_confirmed": roster_confirmed,
+                    "rider_name":       a.get_text(strip=True),
+                    "rider_id":         a.get("href"),
                 })
 
     df = pd.DataFrame(rows)

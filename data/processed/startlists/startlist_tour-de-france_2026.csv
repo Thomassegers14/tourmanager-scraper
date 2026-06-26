@@ -1,0 +1,122 @@
+event_id,event_date,team_name,team_id,roster_confirmed,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_points_last_60d,pcs_gc_points,pcs_gc_points_season,pcs_sprint_points,pcs_sprint_points_season
+tour-de-france,2026-07-04,Alpecin - Premier Tech (WT),team/alpecin-premier-tech-2026,False,PHILIPSEN Jasper,rider/jasper-philipsen,7,6.0,1966.0,1055.0,432.0,375.0,175.0,2701.75,1331.0
+tour-de-france,2026-07-04,Alpecin - Premier Tech (WT),team/alpecin-premier-tech-2026,False,GROVES Kaden,rider/kaden-groves,285,89.0,2.0,7.0,0.0,77.5,25.0,255.0,92.0
+tour-de-france,2026-07-04,Alpecin - Premier Tech (WT),team/alpecin-premier-tech-2026,False,VAN DER POEL Mathieu,rider/mathieu-van-der-poel,12,10.0,2280.0,995.0,45.0,321.25,200.0,606.0,125.0
+tour-de-france,2026-07-04,Alpecin - Premier Tech (WT),team/alpecin-premier-tech-2026,False,VERSTRYNGE Emiel,rider/emiel-verstrynge,223,77.0,722.0,251.0,9.0,69.75,55.0,0.0,0.0
+tour-de-france,2026-07-04,Alpecin - Premier Tech (WT),team/alpecin-premier-tech-2026,False,RICKAERT Jonas,rider/jonas-rickaert,666,113.0,27.0,25.0,15.0,73.75,50.0,53.5,20.0
+tour-de-france,2026-07-04,Bahrain - Victorious (WT),team/bahrain-victorious-2026,False,TIBERI Antonio,rider/antonio-tiberi,61,35.0,905.0,487.0,5.0,1042.75,498.0,18.0,18.0
+tour-de-france,2026-07-04,Bahrain - Victorious (WT),team/bahrain-victorious-2026,False,MARTINEZ Lenny,rider/lenny-martinez,21,14.0,1593.0,853.0,36.0,1016.0,501.0,0.0,0.0
+tour-de-france,2026-07-04,Bahrain - Victorious (WT),team/bahrain-victorious-2026,False,MOHORIČ Matej,rider/matej-mohoric,180,70.0,349.28999999999996,167.0,0.0,444.0,30.0,92.25,72.0
+tour-de-france,2026-07-04,Decathlon CMA CGM Team (WT),team/decathlon-cma-cgm-team-2026,False,KOOIJ Olav,rider/olav-kooij,69,40.0,93.0,112.0,112.0,157.0,127.0,1078.5,403.0
+tour-de-france,2026-07-04,Decathlon CMA CGM Team (WT),team/decathlon-cma-cgm-team-2026,False,BENOOT Tiesj,rider/tiesj-benoot,232,78.0,40.0,45.0,45.0,152.5,70.0,142.0,0.0
+tour-de-france,2026-07-04,Decathlon CMA CGM Team (WT),team/decathlon-cma-cgm-team-2026,False,HOOLE Daan,rider/daan-hoole,346,93.0,157.79,92.0,0.0,89.25,41.0,79.5,40.0
+tour-de-france,2026-07-04,Decathlon CMA CGM Team (WT),team/decathlon-cma-cgm-team-2026,False,BISSEGGER Stefan,rider/stefan-bissegger,415,99.0,256.79,111.0,7.0,66.25,10.0,244.0,115.0
+tour-de-france,2026-07-04,Decathlon CMA CGM Team (WT),team/decathlon-cma-cgm-team-2026,False,SEIXAS Paul,rider/paul-seixas,11,9.0,2568.5,1266.0,4.0,1605.5,385.0,256.0,0.0
+tour-de-france,2026-07-04,EF Education - EasyPost (WT),team/ef-education-easypost-2026,False,HEALY Ben,rider/ben-healy,39,23.0,236.29,158.0,12.0,573.25,365.0,0.0,0.0
+tour-de-france,2026-07-04,EF Education - EasyPost (WT),team/ef-education-easypost-2026,False,ASGREEN Kasper,rider/kasper-asgreen,528,110.0,141.14,64.0,0.0,130.75,35.0,167.25,29.0
+tour-de-france,2026-07-04,EF Education - EasyPost (WT),team/ef-education-easypost-2026,False,CARAPAZ Richard,rider/richard-carapaz,93,49.0,643.0,374.0,264.0,998.0,378.0,18.25,0.0
+tour-de-france,2026-07-04,EF Education - EasyPost (WT),team/ef-education-easypost-2026,False,BAUDIN Alex,rider/alex-baudin,66,38.0,883.4300000000001,536.0,117.0,525.0,240.0,0.0,0.0
+tour-de-france,2026-07-04,Groupama - FDJ United (WT),team/groupama-fdj-united-2026,False,GAUDU David,rider/david-gaudu,308,90.0,98.71,71.0,28.0,522.0,58.0,0.0,0.0
+tour-de-france,2026-07-04,Groupama - FDJ United (WT),team/groupama-fdj-united-2026,False,MARTIN Guillaume,rider/guillaume-martin,158,65.0,284.0,225.0,88.0,818.75,291.0,0.0,0.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,GANNA Filippo,rider/filippo-ganna,75,45.0,775.0,454.0,115.0,347.5,45.0,327.5,245.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,RODRÍGUEZ Carlos,rider/carlos-rodriguez-cano,279,88.0,245.28,223.0,43.0,1101.5,168.0,0.0,0.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,KWIATKOWSKI Michał,rider/michal-kwiatkowski,417,101.0,22.57,40.0,5.0,230.0,80.0,0.0,0.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,VAUQUELIN Kévin,rider/kevin-vauquelin,45,27.0,682.28,473.0,58.0,1055.0,560.0,53.25,18.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,GODON Dorian,rider/dorian-godon,30,20.0,647.28,534.0,28.0,215.0,95.0,84.25,68.0
+tour-de-france,2026-07-04,Netcompany INEOS (WT),team/netcompany-ineos-2026,False,ARENSMAN Thymen,rider/thymen-arensman,23,16.0,1326.0,601.0,363.0,1074.25,585.0,0.0,0.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,CICCONE Giulio,rider/giulio-ciccone,24,17.0,883.0,439.0,275.0,787.0,335.0,22.5,0.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,AYUSO Juan,rider/juan-ayuso-pesquera,44,26.0,719.28,460.0,228.0,1102.5,330.0,0.75,0.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,PEDERSEN Mads,rider/mads-pedersen,26,18.0,1323.0,488.0,100.0,651.75,250.0,1150.0,232.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,VACEK Mathias,rider/mathias-vacek,145,59.0,472.71000000000004,272.0,195.0,449.5,280.0,149.75,59.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,SKJELMOSE Mattias,rider/mattias-skjelmose-jensen,22,15.0,1197.57,623.0,138.0,967.5,415.0,4.5,3.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,SIMMONS Quinn,rider/quinn-simmons,105,56.0,366.57,175.0,78.0,117.25,30.0,0.0,0.0
+tour-de-france,2026-07-04,Lidl - Trek (WT),team/lidl-trek-2026,False,KRAGH ANDERSEN Søren,rider/soren-kragh-andersen,220,75.0,174.71,152.0,64.0,276.5,105.0,103.0,74.0
+tour-de-france,2026-07-04,Lotto Intermarché (WT),team/lotto-intermarche-2026,False,DE LIE Arnaud,rider/arnaud-de-lie,5,5.0,722.0,393.0,141.0,534.5,370.0,641.5,318.0
+tour-de-france,2026-07-04,Lotto Intermarché (WT),team/lotto-intermarche-2026,False,VAN EETVELT Lennert,rider/lennert-van-eetvelt,324,91.0,393.0,209.0,22.0,657.0,110.0,37.75,3.0
+tour-de-france,2026-07-04,Lotto Intermarché (WT),team/lotto-intermarche-2026,False,ZIMMERMANN Georg,rider/georg-zimmermann,186,71.0,533.0,300.0,5.0,252.75,30.0,8.75,0.0
+tour-de-france,2026-07-04,Movistar Team (WT),team/movistar-team-2026,False,UIJTDEBROEKS Cian,rider/cian-uijtdebroeks,47,28.0,487.25,339.0,112.0,757.0,553.0,45.0,45.0
+tour-de-france,2026-07-04,Movistar Team (WT),team/movistar-team-2026,False,RUBIO Einer,rider/einer-rubio,336,92.0,269.0,103.0,98.0,530.25,105.0,44.25,0.0
+tour-de-france,2026-07-04,Movistar Team (WT),team/movistar-team-2026,False,CASTRILLO Pablo,rider/pablo-castrillo-zapater,269,86.0,164.82,144.0,16.0,481.0,99.0,5.25,0.0
+tour-de-france,2026-07-04,Movistar Team (WT),team/movistar-team-2026,False,ADRIÀ Roger,rider/roger-adria,357,95.0,67.0,57.0,5.0,150.0,67.0,4.0,0.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,GIRMAY Biniam,rider/biniam-girmay,52,30.0,768.0,417.0,94.0,77.5,31.0,830.0,321.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,STEWART Jake,rider/jake-stewart,583,112.0,25.0,18.0,0.0,94.75,45.0,95.25,2.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,ASKEY Lewis,rider/lewis-askey,152,63.0,539.0,341.0,237.0,283.0,170.0,217.0,56.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,NEILANDS Krists,rider/krists-neilands,354,94.0,68.0,106.0,76.0,156.75,104.0,7.75,1.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,FRIGO Marco,rider/marco-frigo,174,67.0,151.0,90.0,13.0,259.25,143.0,0.0,0.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,LOUVEL Matis,rider/matis-louvel,477,107.0,17.0,49.0,14.0,60.0,31.0,50.0,15.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,BENNETT George,rider/george-bennett,388,98.0,220.0,152.0,6.0,337.25,129.0,23.0,15.0
+tour-de-france,2026-07-04,NSN Cycling Team (WT),team/nsn-cycling-team-2026,True,VAN ASBROECK Tom,rider/tom-van-asbroeck,526,109.0,57.0,58.0,15.0,20.5,5.0,206.75,36.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,VAN DIJKE Tim,rider/tim-van-dijke,192,73.0,502.86,260.0,0.0,43.75,20.0,94.25,19.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,EVENEPOEL Remco,rider/remco-evenepoel,4,4.0,2512.86,1230.0,0.0,1185.0,450.0,5.0,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,DENZ Nico,rider/nico-denz,416,100.0,20.72,74.0,20.0,100.5,45.0,30.5,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,LIPOWITZ Florian,rider/florian-lipowitz,10,8.0,1570.86,1002.0,210.0,1820.0,1080.0,7.0,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,CATTANEO Mattia,rider/mattia-cattaneo,533,111.0,43.86,63.0,3.0,201.75,19.0,0.0,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,TRATNIK Jan,rider/jan-tratnik,766,117.0,34.0,47.0,0.0,123.25,10.0,5.75,5.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,VAN GILS Maxim,rider/maxim-van-gils,221,76.0,172.72000000000003,144.0,64.0,123.25,10.0,12.75,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,HINDLEY Jai,rider/jai-hindley,33,21.0,1339.0,492.0,411.0,1036.25,509.0,0.0,0.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,PARET-PEINTRE Valentin,rider/valentin-paret-peintre,114,57.0,486.0,332.0,14.0,493.5,248.0,2.0,0.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,LANDA Mikel,rider/mikel-landa,373,96.0,28.0,40.0,0.0,897.5,87.0,0.0,0.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,MERLIER Tim,rider/tim-merlier,43,25.0,593.0,413.0,206.0,58.0,30.0,2004.5,747.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,STUYVEN Jasper,rider/jasper-stuyven,62,36.0,1527.0,564.0,156.0,293.25,110.0,368.75,326.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,VAN WILDER Ilan,rider/ilan-van-wilder,101,53.0,380.0,232.0,135.0,973.25,299.0,9.0,7.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,VERVAEKE Louis,rider/louis-vervaeke,490,108.0,79.0,51.0,5.0,92.5,35.0,3.75,0.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,VAN BAARLE Dylan,rider/dylan-van-baarle,453,102.0,89.0,47.0,7.0,99.75,56.0,22.75,10.0
+tour-de-france,2026-07-04,Soudal Quick-Step (WT),team/soudal-quick-step-2026,False,VAN LERBERGHE Bert,rider/bert-van-lerberghe,859,119.0,31.0,24.0,5.0,56.5,30.0,50.0,19.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,MATTHEWS Michael,rider/michael-matthews,149,60.0,154.14,109.0,8.0,30.0,5.0,15.25,0.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,PLAPP Luke,rider/luke-plapp,56,32.0,1029.1399999999999,530.0,106.0,553.75,400.0,12.0,12.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,ACKERMANN Pascal,rider/pascal-ackermann,235,79.0,335.0,172.0,30.0,51.25,25.0,336.0,191.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,O'CONNOR Ben,rider/ben-o-connor,68,39.0,409.0,314.0,116.0,1260.0,455.0,9.0,0.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,SCHMID Mauro,rider/mauro-schmid,15,11.0,2077.0,1063.0,24.0,558.75,400.0,12.0,12.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,O'BRIEN Kelland,rider/kelland-brien,679,115.0,23.0,42.0,0.0,66.25,25.0,29.75,10.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,ENGELHARDT Felix,rider/felix-engelhardt,189,72.0,82.14,105.0,5.0,271.25,160.0,6.5,0.0
+tour-de-france,2026-07-04,Team Jayco AlUla (WT),team/team-jayco-alula-2026,True,DURBRIDGE Luke,rider/luke-durbridge,807,118.0,4.14,30.0,5.0,85.0,40.0,10.0,5.0
+tour-de-france,2026-07-04,Team Picnic PostNL (WT),team/team-picnic-postnl-2026,False,BITTNER Pavel,rider/pavel-bittner,55,31.0,485.0,248.0,0.0,178.75,145.0,520.5,405.0
+tour-de-france,2026-07-04,Team Picnic PostNL (WT),team/team-picnic-postnl-2026,False,BARGUIL Warren,rider/warren-barguil,472,104.0,43.0,33.0,28.0,276.75,105.0,0.0,0.0
+tour-de-france,2026-07-04,Team Picnic PostNL (WT),team/team-picnic-postnl-2026,False,VAN DEN BROEK Frank,rider/frank-van-den-broek,264,85.0,58.0,85.0,20.0,318.5,91.0,3.5,0.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,CAMPENAERTS Victor,rider/victor-campenaerts,258,84.0,53.57,65.0,20.0,168.25,112.0,6.25,0.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,AFFINI Edoardo,rider/edoardo-affini,473,105.0,12.14,48.0,25.0,83.75,35.0,23.0,5.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,HAGENES Per Strand,rider/per-strand-hagenes,179,69.0,592.5699999999999,336.0,123.0,234.5,5.0,105.25,85.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,JORGENSON Matteo,rider/matteo-jorgenson,28,19.0,1200.57,590.0,174.0,1311.0,590.0,233.75,50.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,KUSS Sepp,rider/sepp-kuss,63,37.0,419.0,268.0,252.0,1031.5,446.0,0.0,0.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,ARMIRAIL Bruno,rider/bruno-armirail,150,61.0,96.13999999999999,76.0,39.0,286.0,141.0,0.0,0.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,PIGANZOLI Davide,rider/davide-piganzoli,70,41.0,817.5699999999999,459.0,382.0,776.25,296.0,0.0,0.0
+tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,VINGEGAARD Jonas,rider/jonas-vingegaard,2,2.0,3363.57,1579.0,841.0,2977.5,1680.0,0.0,0.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,POGAČAR Tadej,rider/tadej-pogacar,1,1.0,5008.0,2123.0,403.0,2265.0,1000.0,428.25,240.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,DEL TORO Isaac,rider/isaac-del-toro,3,3.0,2249.71,1207.0,350.0,1582.0,1000.0,150.5,50.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,WELLENS Tim,rider/tim-wellens,103,55.0,212.0,148.0,15.0,777.0,242.0,46.25,0.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,MCNULTY Brandon,rider/brandon-mcnulty,20,13.0,443.14,268.0,119.0,1294.75,685.0,17.0,0.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,YATES Adam,rider/adam-yates,51,29.0,546.0,390.0,0.0,1315.25,324.0,44.5,7.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,VERMEERSCH Florian,rider/florian-vermeersch,98,51.0,838.0,366.0,0.0,255.0,60.0,208.0,47.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,False,POLITT Nils,rider/nils-politt,246,82.0,369.71,209.0,20.0,160.5,68.0,202.5,89.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,CORT Magnus,rider/magnus-cort-nielsen,382,97.0,140.71,144.0,23.0,383.25,35.0,22.0,2.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,JOHANNESSEN Tobias Halland,rider/tobias-halland-johannessen,16,12.0,1536.0,867.0,186.0,1147.75,760.0,162.5,86.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,SKAARSETH Anders,rider/anders-skaarseth,689,116.0,24.0,45.0,5.0,28.75,25.0,7.5,0.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,WÆRENSKJOLD Søren,rider/soren-waerenskjold,60,34.0,452.0,270.0,94.0,431.25,150.0,632.0,408.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,CHARMIG Anthon,rider/anthon-charmig,161,66.0,312.0,233.0,55.0,284.0,145.0,3.0,3.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,ABRAHAMSEN Jonas,rider/jonas-abrahamsen,81,46.0,478.0,260.0,71.0,132.75,75.0,248.5,57.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,TRÆEN Torstein,rider/torstein-traeen,178,68.0,40.0,44.0,7.0,346.25,259.0,0.0,0.0
+tour-de-france,2026-07-04,Uno-X Mobility (WT),team/uno-x-mobility-2026,True,JOHANNESSEN Anders Halland,rider/anders-halland-johannessen,199,74.0,44.0,66.0,0.0,336.5,181.0,32.25,0.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,False,TEUNISSEN Mike,rider/mike-teunissen,140,58.0,400.86,203.0,24.0,233.0,98.0,346.75,90.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,False,HIGUITA Sergio,rider/sergio-higuita,94,50.0,415.0,297.0,80.0,623.5,425.0,15.0,15.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,False,TEJADA Harold,rider/harold-tejada,71,42.0,580.0,370.0,10.0,704.5,415.0,3.0,0.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,False,FORTUNATO Lorenzo,rider/lorenzo-fortunato,151,62.0,273.0,199.0,0.0,728.25,265.0,52.5,30.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,False,KANTER Max,rider/max-kanter,92,48.0,553.86,319.0,58.0,42.5,10.0,666.5,451.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,KIRSCH Alex,rider/alex-kirsch,-,120.0,75.29,32.0,21.0,114.25,0.0,43.75,5.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,FRETIN Milan,rider/milan-fretin,153,64.0,475.29,277.0,125.0,41.25,0.0,422.0,114.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,BUCHMANN Emanuel,rider/emanuel-buchmann,670,114.0,0.0,0.0,0.0,296.5,75.0,0.0,0.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,PAGE Hugo,rider/hugo-page,474,106.0,65.0,72.0,5.0,68.0,25.0,176.0,74.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,ARANBURU Alex,rider/alex-aranburu,58,33.0,853.0,530.0,120.0,393.25,175.0,14.75,2.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,IZAGIRRE Ion,rider/ion-izagirre,35,22.0,1276.29,707.0,73.0,431.25,327.0,12.0,12.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,ALLEGAERT Piet,rider/piet-allegaert,-,121.0,0.29,5.0,0.0,31.75,5.0,109.25,0.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,BIERMANS Jenthe,rider/jenthe-biermans,237,80.0,305.0,172.0,46.0,32.5,20.0,266.5,139.0
+tour-de-france,2026-07-04,Cofidis (PRT),team/cofidis-2026,False,THOMAS Benjamin,rider/benjamin-thomas-2,251,83.0,86.28999999999999,84.0,36.0,138.25,59.0,6.5,5.0
+tour-de-france,2026-07-04,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2026,False,ALAPHILIPPE Julian,rider/julian-alaphilippe,83,47.0,111.0,57.0,28.0,364.25,124.0,24.0,3.0
+tour-de-france,2026-07-04,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2026,False,STORER Michael,rider/michael-storer,42,24.0,799.0,443.0,231.0,1074.5,380.0,56.25,22.0
+tour-de-france,2026-07-04,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2026,False,TRENTIN Matteo,rider/matteo-trentin,73,43.0,615.14,295.0,6.0,291.25,35.0,396.75,253.0
+tour-de-france,2026-07-04,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2026,False,PLUIMERS Rick,rider/rick-pluimers,243,81.0,273.14,170.0,53.0,98.0,5.0,55.75,37.0
+tour-de-france,2026-07-04,TotalEnergies (PRT),team/totalenergies-2026,False,JEGAT Jordan,rider/jordan-jegat,74,44.0,380.0,241.0,34.0,616.5,370.0,14.0,2.0
+tour-de-france,2026-07-04,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2026,False,MOLENAAR Alex,rider/alex-molenaar,273,87.0,294.0,193.0,55.0,115.75,62.0,13.25,8.0
+tour-de-france,2026-07-04,Caja Rural - Seguros RGA (PRT),team/caja-rural-seguros-rga-2026,False,NICOLAU Joel,rider/joel-nicolau,459,103.0,86.0,73.0,66.0,136.75,111.0,19.0,0.0
+tour-de-france,2026-07-04,Pinarello Q36.5 Pro Cycling Team (PRT),team/pinarello-q365-pro-cycling-team-2026,False,PIDCOCK Tom,rider/tom-pidcock,8,7.0,1851.0,896.0,75.0,942.5,440.0,201.5,133.0
+tour-de-france,2026-07-04,Pinarello Q36.5 Pro Cycling Team (PRT),team/pinarello-q365-pro-cycling-team-2026,False,WRIGHT Fred,rider/alfred-wright,100,52.0,270.0,185.0,156.0,303.75,165.0,145.0,17.0
+tour-de-france,2026-07-04,Pinarello Q36.5 Pro Cycling Team (PRT),team/pinarello-q365-pro-cycling-team-2026,False,HERMANS Quinten,rider/quinten-hermans,102,54.0,454.0,254.0,70.0,188.0,106.0,60.0,0.0

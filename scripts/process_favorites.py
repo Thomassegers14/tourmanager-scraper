@@ -146,6 +146,20 @@ def _assign_tiers_event(g: pd.DataFrame, event_id: str) -> pd.DataFrame:
     return g
 
 
+def _reorder_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """Zet roster_confirmed terug naast team_id voor een consistente kolomlayout.
+
+    Door de pd.concat over events met verschillende kolommen belandt de kolom
+    anders middenin de numerieke features; deze stap geeft alle favorites-
+    bestanden dezelfde volgorde.
+    """
+    if "roster_confirmed" not in df.columns or "team_id" not in df.columns:
+        return df
+    cols = [c for c in df.columns if c != "roster_confirmed"]
+    cols.insert(cols.index("team_id") + 1, "roster_confirmed")
+    return df[cols]
+
+
 def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
@@ -197,7 +211,7 @@ def main() -> None:
     df["pcs_rank"]   = pd.to_numeric(df["pcs_rank"],   errors="coerce")
     df["event_rank"] = pd.to_numeric(df["event_rank"], errors="coerce")
 
-    df_enriched = compute_favorites(df)
+    df_enriched = _reorder_columns(compute_favorites(df))
 
     out_dir = BASE_DIR / "data" / "processed" / "startlists_favorites"
     out_dir.mkdir(parents=True, exist_ok=True)
