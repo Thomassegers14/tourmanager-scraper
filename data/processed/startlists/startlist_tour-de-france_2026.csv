@@ -2,7 +2,7 @@ event_id,event_date,team_name,team_id,roster_confirmed,rider_name,rider_id,pcs_r
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,POGAČAR Tadej,rider/tadej-pogacar,1,1.0,5008.0,2123.0,403.0,2265.0,1000.0,428.25,240.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,DEL TORO Isaac,rider/isaac-del-toro,3,3.0,2249.71,1207.0,350.0,1582.0,1000.0,150.5,50.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,WELLENS Tim,rider/tim-wellens,105,58.0,242.0,155.0,22.0,777.0,242.0,46.25,0.0
-tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,MCNULTY Brandon,rider/brandon-mcnulty,20,14.0,,,,,,,
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,MCNULTY Brandon,rider/brandon-mcnulty,20,14.0,443.14,268.0,119.0,1294.75,685.0,17.0,0.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,YATES Adam,rider/adam-yates,51,30.0,546.0,390.0,0.0,1315.25,324.0,44.5,7.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,VERMEERSCH Florian,rider/florian-vermeersch,101,56.0,843.0,366.0,0.0,255.0,60.0,208.0,47.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,POLITT Nils,rider/nils-politt,221,97.0,419.71000000000004,213.0,24.0,160.5,68.0,202.5,89.0
@@ -136,7 +136,7 @@ tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,TE
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,HIGUITA Sergio,rider/sergio-higuita,96,53.0,415.0,297.0,80.0,623.5,425.0,15.0,15.0
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,TEJADA Harold,rider/harold-tejada,71,43.0,580.0,370.0,10.0,704.5,415.0,3.0,0.0
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,KANTER Max,rider/max-kanter,92,50.0,553.86,319.0,58.0,42.5,10.0,666.5,451.0
-tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,VINOKUROV Nicolas,rider/nicolas-vinokurov,127,65.0,549.3299999999999,336.0,27.0,327.25,282.0,82.5,70.0
+tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,VINOKUROV Nicolas,rider/nicolas-vinokurov,127,65.0,484.33,336.0,27.0,327.25,282.0,82.5,70.0
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,BALLERINI Davide,rider/davide-ballerini,136,68.0,343.0,196.0,90.0,106.25,70.0,317.5,230.0
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,GATE Aaron,rider/aaron-gate,332,119.0,142.0,110.0,15.0,390.25,36.0,107.0,61.0
 tour-de-france,2026-07-04,XDS Astana Team (WT),team/xds-astana-team-2026,True,VELASCO Simone,rider/simone-velasco,161,80.0,121.0,65.0,5.0,183.0,49.0,2.5,0.0

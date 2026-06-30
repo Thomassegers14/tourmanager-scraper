@@ -36,7 +36,16 @@ def _winsor_event(g: pd.DataFrame) -> pd.DataFrame:
     for col in WINSOR_COLS:
         if col in g.columns:
             vals = g[col].to_numpy(dtype=float)
-            g[f"{col}_w"] = np.array(winsorize(vals, limits=[0.01, 0.01]))
+            out  = vals.copy()
+            # Winsoriseer alleen de eindige waarden. winsorize() sorteert NaN
+            # als grootste waarde en knipt die anders terug naar het
+            # kolommaximum, waardoor renners met ontbrekende data (NaN) een
+            # kunstmatig topscore krijgen. Door NaN te behouden vallen ze via
+            # de z-score (nan_policy="omit") vanzelf uit de favorietenranking.
+            mask = np.isfinite(vals)
+            if mask.any():
+                out[mask] = np.asarray(winsorize(vals[mask], limits=[0.01, 0.01]))
+            g[f"{col}_w"] = out
     return g
 
 
