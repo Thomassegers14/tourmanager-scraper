@@ -21,6 +21,38 @@ WINSOR_COLS = [
 # Originele berekening (classic_score) blijft beschikbaar als kolom voor vergelijking.
 GT_SCORING_EVENTS = {"giro-d-italia"}
 
+# Handmatig samengestelde favorietenlijst per (event_id, jaar).
+# Overschrijft de algoritmische tier-/puntenindeling: de combined_score en
+# profielscores blijven als kolom behouden voor referentie, maar fav_points,
+# tier en rank worden vastgezet volgens deze curatie. Waarden 5/3/2/1; in het
+# spel geldt een budget van max. 10 favorietenpunten per ploeg.
+MANUAL_FAVORITES = {
+    ("tour-de-france", 2026): {
+        "rider/tadej-pogacar": 5,
+        "rider/jonas-vingegaard": 3,
+        "rider/paul-seixas": 3,
+        "rider/remco-evenepoel": 2,
+        "rider/isaac-del-toro": 2,
+        "rider/florian-lipowitz": 2,
+        "rider/mathieu-van-der-poel": 2,
+        "rider/jasper-philipsen": 2,
+        "rider/mads-pedersen": 1,
+        "rider/tim-merlier": 1,
+        "rider/lenny-martinez": 1,
+        "rider/juan-ayuso-pesquera": 1,
+        "rider/matteo-jorgenson": 1,
+        "rider/tom-pidcock": 1,
+        "rider/kevin-vauquelin": 1,
+        "rider/thymen-arensman": 1,
+        "rider/tobias-halland-johannessen": 1,
+        "rider/biniam-girmay": 1,
+        "rider/olav-kooij": 1,
+    },
+}
+
+# Map fav_points -> tier-nummer (alleen voor weergave/consistentie).
+_POINTS_TO_TIER = {5: 1, 3: 2, 2: 3, 1: 4}
+
 
 def _safe_zscore(series: pd.Series) -> pd.Series:
     """Z-score met fallback naar 0 als standaarddeviatie 0 is."""
@@ -169,6 +201,37 @@ def _reorder_columns(df: pd.DataFrame) -> pd.DataFrame:
     return df[cols]
 
 
+def _apply_manual_favorites(df: pd.DataFrame) -> pd.DataFrame:
+    """Zet fav_points/tier/rank vast volgens de handmatige curatie (MANUAL_FAVORITES).
+
+    Voor elk event/jaar dat in MANUAL_FAVORITES staat worden eerst alle
+    favorieten-velden genuld, daarna krijgen de gecureerde renners hun vaste
+    waarde. Events zonder curatie behouden de algoritmische indeling.
+    """
+    if not MANUAL_FAVORITES:
+        return df
+    df = df.copy()
+    years = pd.to_datetime(df["event_date"], errors="coerce").dt.year
+    for (event_id, year), mapping in MANUAL_FAVORITES.items():
+        sel = (df["event_id"] == event_id) & (years == year)
+        if not sel.any():
+            continue
+        # Reset de hele startlijst van dit event naar 'geen favoriet'.
+        df.loc[sel, ["fav_points", "tier", "rank"]] = 0
+        for rider_id, pts in mapping.items():
+            rsel = sel & (df["rider_id"] == rider_id)
+            if not rsel.any():
+                print(f"  [WAARSCHUWING] {rider_id} niet in startlijst {event_id} {year}")
+                continue
+            df.loc[rsel, "fav_points"] = pts
+            df.loc[rsel, "tier"] = _POINTS_TO_TIER[pts]
+        # Rank binnen de favorieten op fav_points (hoog -> laag) voor weergave.
+        fav_idx = df.loc[sel & (df["fav_points"] > 0)] \
+            .sort_values("fav_points", ascending=False).index
+        df.loc[fav_idx, "rank"] = range(1, len(fav_idx) + 1)
+    return df
+
+
 def compute_favorites(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
@@ -220,7 +283,7 @@ def main() -> None:
     df["pcs_rank"]   = pd.to_numeric(df["pcs_rank"],   errors="coerce")
     df["event_rank"] = pd.to_numeric(df["event_rank"], errors="coerce")
 
-    df_enriched = _reorder_columns(compute_favorites(df))
+    df_enriched = _reorder_columns(_apply_manual_favorites(compute_favorites(df)))
 
     out_dir = BASE_DIR / "data" / "processed" / "startlists_favorites"
     out_dir.mkdir(parents=True, exist_ok=True)
