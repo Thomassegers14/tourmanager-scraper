@@ -11,17 +11,13 @@ EVENT_YEARS: list[dict] = [
     {"event_id": "tour-de-france", "event_year": 2026},
 ]
 
+# Laat curl_cffi's impersonate="chrome" de fingerprint-gevoelige headers beheren
+# (User-Agent, Accept, Accept-Encoding, Sec-Fetch-*). Die handmatig overschrijven
+# zorgt voor een mismatch tussen de TLS/JA3-fingerprint en de headers, wat
+# Cloudflare vanaf datacenter-IP's (zoals GitHub Actions) als bot markeert (403).
+# We voegen enkel een taalvoorkeur toe, die niets aan de fingerprint verandert.
 HEADERS: dict = {
-    "User-Agent":                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept":                    "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language":           "nl-BE,nl;q=0.9,en;q=0.8",
-    "Accept-Encoding":           "gzip, deflate, br",
-    "Connection":                "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest":            "document",
-    "Sec-Fetch-Mode":            "navigate",
-    "Sec-Fetch-Site":            "none",
-    "Sec-Fetch-User":            "?1",
+    "Accept-Language": "nl-BE,nl;q=0.9,en;q=0.8",
 }
 
 # ── Puntensysteem (vervangt R/point_system.R) ────────────────────────────────
