@@ -67,6 +67,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SCRAPER_PROXY: ${{ secrets.SCRAPER_PROXY }}
         run: python scripts/pipeline.py scrape_startlists scrape_stages process_favorites
 
       - name: Commit & push resultaten

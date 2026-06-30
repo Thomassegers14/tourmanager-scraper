@@ -1,5 +1,6 @@
 # scripts/utils.py — gedeelde HTTP-utilities voor de hele pipeline
 
+import os
 import time
 import random
 from curl_cffi import requests
@@ -16,10 +17,33 @@ _RETRY_STATUS = {403, 429, 500, 502, 503, 504}
 
 _MAX_ATTEMPTS = 4
 
+# Optionele proxy om requests via een ander (residentieel) IP te routeren.
+# Cloudflare blokkeert datacenter-IP's (zoals GitHub Actions) op reputatie, wat
+# vanaf de runner een 403 geeft terwijl dezelfde code lokaal 200 teruggeeft.
+# Zet de env var SCRAPER_PROXY (bv. http://user:pass@host:port) om dat te omzeilen;
+# is hij leeg, dan draait alles als voorheen zonder proxy.
+_PROXY_URL = os.environ.get("SCRAPER_PROXY", "").strip()
+_PROXIES = {"http": _PROXY_URL, "https": _PROXY_URL} if _PROXY_URL else None
+
+
+def _masked_proxy(url: str) -> str:
+    """Toon de proxy-host zonder gebruikersnaam/wachtwoord (voor veilige logging)."""
+    if "@" in url:
+        return url.split("@", 1)[1]
+    return url
+
+
+if _PROXIES:
+    print(f"  [proxy] requests via proxy: {_masked_proxy(_PROXY_URL)}")
+else:
+    print("  [proxy] geen SCRAPER_PROXY gezet - directe verbinding")
+
 
 def _new_session(impersonate: str) -> requests.Session:
     s = requests.Session(impersonate=impersonate)
     s.headers.update(HEADERS)
+    if _PROXIES:
+        s.proxies.update(_PROXIES)
     return s
 
 
