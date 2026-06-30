@@ -7,7 +7,9 @@ name: Startlist check (aanloop)
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # 07:00 CEST (= 05:00 UTC in de zomer)
+    # Een paar keer per dag in de aanloop, t/m zaterdag (race-start = END_DATE).
+    # CEST = UTC+2 in de zomer, dus 07:00/13:00/19:00 CEST = 05:00/11:00/17:00 UTC.
+    - cron: '0 5,11,17 * * *'
   workflow_dispatch:  # ook manueel te starten
 
 permissions:
