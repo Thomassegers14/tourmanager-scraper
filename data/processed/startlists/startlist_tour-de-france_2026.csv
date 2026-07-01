@@ -1,6 +1,6 @@
 event_id,event_date,team_name,team_id,roster_confirmed,rider_name,rider_id,pcs_rank,event_rank,uci_points,pcs_points_season,pcs_points_last_60d,pcs_gc_points,pcs_gc_points_season,pcs_sprint_points,pcs_sprint_points_season
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,POGAČAR Tadej,rider/tadej-pogacar,1,1.0,5008.0,2123.0,403.0,2265.0,1000.0,428.25,240.0
-tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,DEL TORO Isaac,rider/isaac-del-toro,3,3.0,,,,,,,
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,DEL TORO Isaac,rider/isaac-del-toro,3,3.0,2249.71,1207.0,350.0,1582.0,1000.0,150.5,50.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,WELLENS Tim,rider/tim-wellens,105,59.0,242.0,155.0,22.0,777.0,242.0,46.25,0.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,MCNULTY Brandon,rider/brandon-mcnulty,20,14.0,443.14,268.0,119.0,1294.75,685.0,17.0,0.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,YATES Adam,rider/adam-yates,51,31.0,546.0,390.0,0.0,1315.25,324.0,44.5,7.0
