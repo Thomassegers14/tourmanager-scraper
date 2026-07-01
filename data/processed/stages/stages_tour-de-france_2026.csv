@@ -1,22 +1,22 @@
 stage_id,date,stage,stage_name,stage_type,departure,arrival,distance_km,vertical_m,profile_score
-race/tour-de-france/2026/stage-1,2026-07-04,1,Stage 1 (TTT),"Hills, uphill finish",Barcelona,Barcelona,19.4,220,23
-race/tour-de-france/2026/stage-2,2026-07-05,2,Stage 2,"Hills, uphill finish",Tarragona,Barcelona,169.2,2049,137
-race/tour-de-france/2026/stage-3,2026-07-06,3,Stage 3,"Mountains, uphill finish",Granollers,Les Angles,196.2,3940,185
-race/tour-de-france/2026/stage-4,2026-07-07,4,Stage 4,"Hills, flat finish",Carcassonne,Foix,182.4,2784,108
+race/tour-de-france/2026/stage-1,2026-07-04,1,Stage 1 (TTT),"Hills, uphill finish",Barcelona,Barcelona,19.6,220,23
+race/tour-de-france/2026/stage-2,2026-07-05,2,Stage 2,"Hills, uphill finish",Tarragona,Barcelona,168.5,2049,137
+race/tour-de-france/2026/stage-3,2026-07-06,3,Stage 3,"Mountains, uphill finish",Granollers,Les Angles,195.9,3940,185
+race/tour-de-france/2026/stage-4,2026-07-07,4,Stage 4,"Hills, flat finish",Carcassonne,Foix,181.9,2784,108
 race/tour-de-france/2026/stage-5,2026-07-08,5,Stage 5,Flat,Lannemezan,Pau,158.3,1395,58
-race/tour-de-france/2026/stage-6,2026-07-09,6,Stage 6,"Mountains, uphill finish",Pau,Gavarnie-Gèdre,186.4,4149,316
-race/tour-de-france/2026/stage-7,2026-07-10,7,Stage 7,Flat,Hagetmau,Bordeaux,175.0,701,13
-race/tour-de-france/2026/stage-8,2026-07-11,8,Stage 8,Flat,Périgueux,Bergerac,180.0,1353,30
-race/tour-de-france/2026/stage-9,2026-07-12,9,Stage 9,"Hills, flat finish",Malemort,Ussel,185.0,3244,124
-race/tour-de-france/2026/stage-10,2026-07-14,10,Stage 10,"Hills, uphill finish",Aurillac,Le Lioran,167.3,3791,261
-race/tour-de-france/2026/stage-11,2026-07-15,11,Stage 11,Flat,Vichy,Nevers,161.0,1107,32
-race/tour-de-france/2026/stage-12,2026-07-16,12,Stage 12,Flat,Circuit de Nevers Magny-Cours,Chalon-sur-Saône,179.1,1412,37
-race/tour-de-france/2026/stage-13,2026-07-17,13,Stage 13,"Hills, flat finish",Dole,Belfort,206.2,2309,109
-race/tour-de-france/2026/stage-14,2026-07-18,14,Stage 14,"Mountains, uphill finish",Mulhouse,Le Markstein,155.7,3941,332
-race/tour-de-france/2026/stage-15,2026-07-19,15,Stage 15,"Mountains, uphill finish",Champagnole,Plateau de Solaison,184.2,4098,382
-race/tour-de-france/2026/stage-16,2026-07-21,16,Stage 16 (ITT),"Hills, flat finish",Évian Les-Bains,Thonon Les-Bains,26.0,470,40
-race/tour-de-france/2026/stage-17,2026-07-22,17,Stage 17,"Hills, flat finish",Chambéry,Voiron,175.0,2362,70
-race/tour-de-france/2026/stage-18,2026-07-23,18,Stage 18,"Mountains, uphill finish",Voiron,Orcières Merlette,185.6,3944,233
-race/tour-de-france/2026/stage-19,2026-07-24,19,Stage 19,"Mountains, uphill finish",Gap,Alpe d'Huez,128.3,3572,357
-race/tour-de-france/2026/stage-20,2026-07-25,20,Stage 20,"Mountains, uphill finish",Le Bourg d'Oisans,Alpe d'Huez,172.1,5624,438
-race/tour-de-france/2026/stage-21,2026-07-26,21,Stage 21,Flat,Thoiry,Paris,132.6,1295,40
+race/tour-de-france/2026/stage-6,2026-07-09,6,Stage 6,"Mountains, uphill finish",Pau,Gavarnie-Gèdre,186.2,4149,316
+race/tour-de-france/2026/stage-7,2026-07-10,7,Stage 7,Flat,Hagetmau,Bordeaux,175.1,701,13
+race/tour-de-france/2026/stage-8,2026-07-11,8,Stage 8,Flat,Périgueux,Bergerac,180.4,1353,30
+race/tour-de-france/2026/stage-9,2026-07-12,9,Stage 9,"Hills, flat finish",Malemort,Ussel,185.5,3244,124
+race/tour-de-france/2026/stage-10,2026-07-14,10,Stage 10,"Hills, uphill finish",Aurillac,Le Lioran,166.6,3791,261
+race/tour-de-france/2026/stage-11,2026-07-15,11,Stage 11,Flat,Vichy,Nevers,161.3,1107,32
+race/tour-de-france/2026/stage-12,2026-07-16,12,Stage 12,Flat,Circuit Nevers Magny-Cours,Chalon-sur-Saône,179.1,1412,37
+race/tour-de-france/2026/stage-13,2026-07-17,13,Stage 13,"Hills, flat finish",Dole,Belfort,205.8,2309,109
+race/tour-de-france/2026/stage-14,2026-07-18,14,Stage 14,"Mountains, uphill finish",Mulhouse,Le Markstein,155.3,3941,332
+race/tour-de-france/2026/stage-15,2026-07-19,15,Stage 15,"Mountains, uphill finish",Champagnole,Plateau de Solaison,183.9,4098,382
+race/tour-de-france/2026/stage-16,2026-07-21,16,Stage 16 (ITT),"Hills, flat finish",Évian-les-Bains,Thonon-les-Bains,26.1,470,40
+race/tour-de-france/2026/stage-17,2026-07-22,17,Stage 17,"Hills, flat finish",Chambéry,Voiron,174.7,2362,70
+race/tour-de-france/2026/stage-18,2026-07-23,18,Stage 18,"Mountains, uphill finish",Voiron,Orcières-Merlette,185.2,3944,233
+race/tour-de-france/2026/stage-19,2026-07-24,19,Stage 19,"Mountains, uphill finish",Gap,Alpe d'Huez,127.9,3572,357
+race/tour-de-france/2026/stage-20,2026-07-25,20,Stage 20,"Mountains, uphill finish",Le Bourg d'Oisans,Alpe d'Huez,170.9,5624,438
+race/tour-de-france/2026/stage-21,2026-07-26,21,Stage 21,Flat,Thoiry,Paris,133.0,1295,40
