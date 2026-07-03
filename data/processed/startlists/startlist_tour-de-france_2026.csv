@@ -2,7 +2,7 @@ event_id,event_date,team_name,team_id,roster_confirmed,rider_name,rider_id,pcs_r
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,POGAČAR Tadej,rider/tadej-pogacar,1,1.0,5008.0,2123.0,403.0,2265.0,1000.0,428.25,240.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,DEL TORO Isaac,rider/isaac-del-toro,3,3.0,2249.71,1207.0,350.0,1582.0,1000.0,150.5,50.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,GROßSCHARTNER Felix,rider/felix-grossschartner,155,77.0,294.57,218.0,71.0,590.75,137.0,3.75,0.0
-tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,MCNULTY Brandon,rider/brandon-mcnulty,20,14.0,443.14,268.0,119.0,1294.75,685.0,17.0,0.0
+tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,MCNULTY Brandon,rider/brandon-mcnulty,20,14.0,,,,,,,
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,POLITT Nils,rider/nils-politt,221,99.0,419.71000000000004,213.0,24.0,160.5,68.0,202.5,89.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,VERMEERSCH Florian,rider/florian-vermeersch,101,57.0,843.0,366.0,0.0,255.0,60.0,208.0,47.0
 tour-de-france,2026-07-04,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2026,True,WELLENS Tim,rider/tim-wellens,105,59.0,242.0,155.0,22.0,777.0,242.0,46.25,0.0
@@ -16,7 +16,7 @@ tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a
 tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,KUSS Sepp,rider/sepp-kuss,63,39.0,419.0,268.0,252.0,1031.5,446.0,0.0,0.0
 tour-de-france,2026-07-04,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2026,True,PIGANZOLI Davide,rider/davide-piganzoli,70,43.0,817.5699999999999,459.0,382.0,776.25,296.0,0.0,0.0
 tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,EVENEPOEL Remco,rider/remco-evenepoel,4,4.0,2512.86,1230.0,0.0,1185.0,450.0,5.0,0.0
-tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,CATTANEO Mattia,rider/mattia-cattaneo,536,154.0,43.86,63.0,3.0,201.75,19.0,0.0,0.0
+tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,CATTANEO Mattia,rider/mattia-cattaneo,536,154.0,,,,,,,
 tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,DENZ Nico,rider/nico-denz,403,138.0,80.72,81.0,27.0,100.5,45.0,30.5,0.0
 tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,HINDLEY Jai,rider/jai-hindley,34,22.0,1339.0,492.0,411.0,1036.25,509.0,0.0,0.0
 tour-de-france,2026-07-04,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2026,True,LIPOWITZ Florian,rider/florian-lipowitz,10,8.0,1570.86,1002.0,210.0,1820.0,1080.0,7.0,0.0
