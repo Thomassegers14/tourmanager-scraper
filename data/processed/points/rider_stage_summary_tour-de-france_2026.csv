@@ -12,7 +12,7 @@ rider/alex-baudin,BAUDIN Alex,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/alex-kirsch,KIRSCH Alex,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/alex-kirsch,KIRSCH Alex,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/alex-molenaar,MOLENAAR Alex,race/tour-de-france/2026/stage-1,1,0.0,0.0
-rider/alex-molenaar,MOLENAAR Alex,race/tour-de-france/2026/stage-2,2,3.0,3.0
+rider/alex-molenaar,MOLENAAR Alex,race/tour-de-france/2026/stage-2,2,5.0,5.0
 rider/alexandre-delettre,DELETTRE Alexandre,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/alexandre-delettre,DELETTRE Alexandre,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/alfred-wright,WRIGHT Fred,race/tour-de-france/2026/stage-1,1,0.0,0.0
@@ -128,7 +128,7 @@ rider/ilan-van-wilder,VAN WILDER Ilan,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/ion-izagirre,IZAGIRRE Ion,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/ion-izagirre,IZAGIRRE Ion,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-1,1,12.0,12.0
-rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-2,2,30.0,42.0
+rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-2,2,36.0,48.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-1,1,6.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-2,2,0.0,6.0
 rider/jake-stewart,STEWART Jake,race/tour-de-france/2026/stage-1,1,0.0,0.0
@@ -168,7 +168,7 @@ rider/jose-felix-parra,PARRA José Félix,race/tour-de-france/2026/stage-2,2,0.0
 rider/joshua-tarling,TARLING Joshua,race/tour-de-france/2026/stage-1,1,12.0,12.0
 rider/joshua-tarling,TARLING Joshua,race/tour-de-france/2026/stage-2,2,0.0,12.0
 rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-1,1,10.0,10.0
-rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-2,2,0.0,10.0
+rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-2,2,2.0,12.0
 rider/julian-alaphilippe,ALAPHILIPPE Julian,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/julian-alaphilippe,ALAPHILIPPE Julian,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/julius-van-den-berg,VAN DEN BERG Julius,race/tour-de-france/2026/stage-1,1,0.0,0.0
@@ -188,7 +188,7 @@ rider/lars-craps,CRAPS Lars,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/lennert-van-eetvelt,VAN EETVELT Lennert,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/lennert-van-eetvelt,VAN EETVELT Lennert,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-1,1,2.0,2.0
-rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-2,2,6.0,8.0
+rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-2,2,4.0,6.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/liam-slock,SLOCK Liam,race/tour-de-france/2026/stage-1,1,0.0,0.0
@@ -278,7 +278,7 @@ rider/pascal-ackermann,ACKERMANN Pascal,race/tour-de-france/2026/stage-2,2,0.0,1
 rider/pascal-eenkhoorn,EENKHOORN Pascal,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/pascal-eenkhoorn,EENKHOORN Pascal,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-1,1,5.0,5.0
-rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-2,2,4.0,9.0
+rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-2,2,7.0,12.0
 rider/pavel-bittner,BITTNER Pavel,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/pavel-bittner,BITTNER Pavel,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/per-strand-hagenes,HAGENES Per Strand,race/tour-de-france/2026/stage-1,1,15.0,15.0
@@ -326,7 +326,7 @@ rider/soren-waerenskjold,WÆRENSKJOLD Søren,race/tour-de-france/2026/stage-2,2,
 rider/stefano-oldani,OLDANI Stefano,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/stefano-oldani,OLDANI Stefano,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2026/stage-1,1,15.0,15.0
-rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2026/stage-2,2,28.0,43.0
+rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2026/stage-2,2,29.0,44.0
 rider/thibault-guernalec,GUERNALEC Thibault,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/thibault-guernalec,GUERNALEC Thibault,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/thymen-arensman,ARENSMAN Thymen,race/tour-de-france/2026/stage-1,1,12.0,12.0
