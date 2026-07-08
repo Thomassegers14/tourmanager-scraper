@@ -1,216 +1,216 @@
 stage_id,stage,id,voornaam,achternaam,stage_points,cumulative_points,rank
-race/tour-de-france/2026/stage-1,1,63,Flor,De Meulenaer,103.0,103.0,1
-race/tour-de-france/2026/stage-1,1,30,Kristiaan,Van Laecke,99.0,99.0,2
+race/tour-de-france/2026/stage-1,1,63,Flor,De Meulenaer,100.0,100.0,1
+race/tour-de-france/2026/stage-1,1,30,Kristiaan,Van Laecke,96.0,96.0,2
 race/tour-de-france/2026/stage-1,1,27,Hubert,VanDamme,91.0,91.0,3
-race/tour-de-france/2026/stage-1,1,21,Thomas,Segers,77.0,77.0,4
-race/tour-de-france/2026/stage-1,1,17,Andreas,De Rycke,76.0,76.0,5
-race/tour-de-france/2026/stage-1,1,25,Gunther,Van Broeck,75.0,75.0,6
-race/tour-de-france/2026/stage-1,1,18,Damiaan,Relaes,74.0,74.0,7
-race/tour-de-france/2026/stage-1,1,31,Clovis,De Blanger,74.0,74.0,8
-race/tour-de-france/2026/stage-1,1,54,peter,de maeyer,74.0,74.0,9
-race/tour-de-france/2026/stage-1,1,37,Jacob,Relaes,73.0,73.0,10
-race/tour-de-france/2026/stage-1,1,64,Stefaan,Wauters,73.0,73.0,11
-race/tour-de-france/2026/stage-1,1,55,bart,truyman,72.0,72.0,12
-race/tour-de-france/2026/stage-1,1,23,Christoph,Mouton,70.0,70.0,13
-race/tour-de-france/2026/stage-1,1,32,Bert,Noppe,70.0,70.0,14
-race/tour-de-france/2026/stage-1,1,45,Joris,Relaes,70.0,70.0,15
-race/tour-de-france/2026/stage-1,1,58,Katleen,Smet,70.0,70.0,16
-race/tour-de-france/2026/stage-1,1,24,Justine,Vermonden,69.0,69.0,17
-race/tour-de-france/2026/stage-1,1,46,Katrien,Van Raemdonck,69.0,69.0,18
-race/tour-de-france/2026/stage-1,1,62,Tine,Wittemans,68.0,68.0,19
-race/tour-de-france/2026/stage-1,1,50,Dirk,Van Raemdonck,66.0,66.0,20
-race/tour-de-france/2026/stage-1,1,35,Jens,Verstraeten,63.0,63.0,21
-race/tour-de-france/2026/stage-1,1,44,Matteo,Relaes,63.0,63.0,22
-race/tour-de-france/2026/stage-1,1,47,Bart,Smet,62.0,62.0,23
-race/tour-de-france/2026/stage-1,1,66,Thomas,Verelst,62.0,62.0,24
-race/tour-de-france/2026/stage-1,1,20,Bart,Vleminckx,61.0,61.0,25
-race/tour-de-france/2026/stage-1,1,33,Emilie,Riga,61.0,61.0,26
-race/tour-de-france/2026/stage-1,1,61,Michiel,Decleyre,61.0,61.0,27
-race/tour-de-france/2026/stage-1,1,34,Stinkbeer,Stinkbeer,60.0,60.0,28
-race/tour-de-france/2026/stage-1,1,41,Francis,Relaes,59.0,59.0,29
-race/tour-de-france/2026/stage-1,1,51,Robert,Janssens,58.0,58.0,30
-race/tour-de-france/2026/stage-1,1,29,Vivienne,Bosman,55.0,55.0,31
-race/tour-de-france/2026/stage-1,1,38,Wanne,Verstraeten,54.0,54.0,32
-race/tour-de-france/2026/stage-1,1,40,Lucie,Relaes,51.0,51.0,33
-race/tour-de-france/2026/stage-1,1,48,Inneke,Goossens,51.0,51.0,34
-race/tour-de-france/2026/stage-1,1,19,Junot,Maes,50.0,50.0,35
-race/tour-de-france/2026/stage-1,1,26,G-Motmans69,MissYouWoutjes,50.0,50.0,36
-race/tour-de-france/2026/stage-1,1,57,Simon,Decleyre,50.0,50.0,37
-race/tour-de-france/2026/stage-1,1,56,Silke,Liers,48.0,48.0,38
-race/tour-de-france/2026/stage-1,1,36,Laurens,De Maeyer,47.0,47.0,39
-race/tour-de-france/2026/stage-1,1,22,Matthew,Derycke,46.0,46.0,40
-race/tour-de-france/2026/stage-1,1,53,Arno,Smet,44.0,44.0,41
-race/tour-de-france/2026/stage-1,1,60,Siel,De Meulenaer,44.0,44.0,42
-race/tour-de-france/2026/stage-1,1,39,Kelly,Van Damme,29.0,29.0,43
-race/tour-de-france/2026/stage-2,2,63,Flor,De Meulenaer,70.0,173.0,1
-race/tour-de-france/2026/stage-2,2,30,Kristiaan,Van Laecke,70.0,169.0,2
-race/tour-de-france/2026/stage-2,2,25,Gunther,Van Broeck,90.0,165.0,3
-race/tour-de-france/2026/stage-2,2,62,Tine,Wittemans,96.0,164.0,4
-race/tour-de-france/2026/stage-2,2,37,Jacob,Relaes,87.0,160.0,5
-race/tour-de-france/2026/stage-2,2,20,Bart,Vleminckx,90.0,151.0,6
-race/tour-de-france/2026/stage-2,2,17,Andreas,De Rycke,68.0,144.0,7
-race/tour-de-france/2026/stage-2,2,24,Justine,Vermonden,72.0,141.0,8
-race/tour-de-france/2026/stage-2,2,33,Emilie,Riga,79.0,140.0,9
-race/tour-de-france/2026/stage-2,2,51,Robert,Janssens,82.0,140.0,10
-race/tour-de-france/2026/stage-2,2,27,Hubert,VanDamme,48.0,139.0,11
-race/tour-de-france/2026/stage-2,2,23,Christoph,Mouton,68.0,138.0,12
-race/tour-de-france/2026/stage-2,2,21,Thomas,Segers,60.0,137.0,13
-race/tour-de-france/2026/stage-2,2,41,Francis,Relaes,78.0,137.0,14
-race/tour-de-france/2026/stage-2,2,66,Thomas,Verelst,75.0,137.0,15
-race/tour-de-france/2026/stage-2,2,18,Damiaan,Relaes,60.0,134.0,16
-race/tour-de-france/2026/stage-2,2,31,Clovis,De Blanger,56.0,130.0,17
-race/tour-de-france/2026/stage-2,2,46,Katrien,Van Raemdonck,60.0,129.0,18
-race/tour-de-france/2026/stage-2,2,57,Simon,Decleyre,79.0,129.0,19
-race/tour-de-france/2026/stage-2,2,55,bart,truyman,56.0,128.0,20
-race/tour-de-france/2026/stage-2,2,61,Michiel,Decleyre,67.0,128.0,21
-race/tour-de-france/2026/stage-2,2,19,Junot,Maes,70.0,120.0,22
-race/tour-de-france/2026/stage-2,2,58,Katleen,Smet,50.0,120.0,23
-race/tour-de-france/2026/stage-2,2,45,Joris,Relaes,48.0,118.0,24
-race/tour-de-france/2026/stage-2,2,50,Dirk,Van Raemdonck,51.0,117.0,25
-race/tour-de-france/2026/stage-2,2,29,Vivienne,Bosman,61.0,116.0,26
-race/tour-de-france/2026/stage-2,2,47,Bart,Smet,53.0,115.0,27
-race/tour-de-france/2026/stage-2,2,32,Bert,Noppe,44.0,114.0,28
-race/tour-de-france/2026/stage-2,2,44,Matteo,Relaes,50.0,113.0,29
-race/tour-de-france/2026/stage-2,2,48,Inneke,Goossens,59.0,110.0,30
-race/tour-de-france/2026/stage-2,2,54,peter,de maeyer,33.0,107.0,31
-race/tour-de-france/2026/stage-2,2,39,Kelly,Van Damme,75.0,104.0,32
-race/tour-de-france/2026/stage-2,2,64,Stefaan,Wauters,31.0,104.0,33
-race/tour-de-france/2026/stage-2,2,40,Lucie,Relaes,52.0,103.0,34
-race/tour-de-france/2026/stage-2,2,56,Silke,Liers,55.0,103.0,35
-race/tour-de-france/2026/stage-2,2,34,Stinkbeer,Stinkbeer,42.0,102.0,36
-race/tour-de-france/2026/stage-2,2,35,Jens,Verstraeten,36.0,99.0,37
-race/tour-de-france/2026/stage-2,2,60,Siel,De Meulenaer,53.0,97.0,38
-race/tour-de-france/2026/stage-2,2,38,Wanne,Verstraeten,37.0,91.0,39
-race/tour-de-france/2026/stage-2,2,22,Matthew,Derycke,44.0,90.0,40
-race/tour-de-france/2026/stage-2,2,53,Arno,Smet,44.0,88.0,41
-race/tour-de-france/2026/stage-2,2,26,G-Motmans69,MissYouWoutjes,36.0,86.0,42
-race/tour-de-france/2026/stage-2,2,36,Laurens,De Maeyer,29.0,76.0,43
-race/tour-de-france/2026/stage-3,3,62,Tine,Wittemans,98.0,262.0,1
-race/tour-de-france/2026/stage-3,3,20,Bart,Vleminckx,104.0,255.0,2
-race/tour-de-france/2026/stage-3,3,63,Flor,De Meulenaer,74.0,247.0,3
-race/tour-de-france/2026/stage-3,3,25,Gunther,Van Broeck,74.0,239.0,4
-race/tour-de-france/2026/stage-3,3,30,Kristiaan,Van Laecke,68.0,237.0,5
-race/tour-de-france/2026/stage-3,3,41,Francis,Relaes,100.0,237.0,6
-race/tour-de-france/2026/stage-3,3,51,Robert,Janssens,94.0,234.0,7
-race/tour-de-france/2026/stage-3,3,37,Jacob,Relaes,71.0,231.0,8
-race/tour-de-france/2026/stage-3,3,21,Thomas,Segers,92.0,229.0,9
-race/tour-de-france/2026/stage-3,3,24,Justine,Vermonden,88.0,229.0,10
-race/tour-de-france/2026/stage-3,3,23,Christoph,Mouton,88.0,226.0,11
-race/tour-de-france/2026/stage-3,3,18,Damiaan,Relaes,88.0,222.0,12
-race/tour-de-france/2026/stage-3,3,66,Thomas,Verelst,82.0,219.0,13
-race/tour-de-france/2026/stage-3,3,31,Clovis,De Blanger,88.0,218.0,14
-race/tour-de-france/2026/stage-3,3,17,Andreas,De Rycke,68.0,212.0,15
-race/tour-de-france/2026/stage-3,3,61,Michiel,Decleyre,84.0,212.0,16
-race/tour-de-france/2026/stage-3,3,57,Simon,Decleyre,72.0,201.0,17
-race/tour-de-france/2026/stage-3,3,19,Junot,Maes,79.0,199.0,18
-race/tour-de-france/2026/stage-3,3,46,Katrien,Van Raemdonck,68.0,197.0,19
-race/tour-de-france/2026/stage-3,3,58,Katleen,Smet,73.0,193.0,20
-race/tour-de-france/2026/stage-3,3,27,Hubert,VanDamme,53.0,192.0,21
-race/tour-de-france/2026/stage-3,3,33,Emilie,Riga,52.0,192.0,22
-race/tour-de-france/2026/stage-3,3,55,bart,truyman,63.0,191.0,23
-race/tour-de-france/2026/stage-3,3,47,Bart,Smet,74.0,189.0,24
-race/tour-de-france/2026/stage-3,3,44,Matteo,Relaes,68.0,181.0,25
-race/tour-de-france/2026/stage-3,3,29,Vivienne,Bosman,56.0,172.0,26
-race/tour-de-france/2026/stage-3,3,45,Joris,Relaes,51.0,169.0,27
-race/tour-de-france/2026/stage-3,3,60,Siel,De Meulenaer,71.0,168.0,28
-race/tour-de-france/2026/stage-3,3,32,Bert,Noppe,53.0,167.0,29
-race/tour-de-france/2026/stage-3,3,54,peter,de maeyer,58.0,165.0,30
-race/tour-de-france/2026/stage-3,3,64,Stefaan,Wauters,58.0,162.0,31
-race/tour-de-france/2026/stage-3,3,50,Dirk,Van Raemdonck,44.0,161.0,32
-race/tour-de-france/2026/stage-3,3,53,Arno,Smet,73.0,161.0,33
-race/tour-de-france/2026/stage-3,3,26,G-Motmans69,MissYouWoutjes,73.0,159.0,34
-race/tour-de-france/2026/stage-3,3,39,Kelly,Van Damme,54.0,158.0,35
-race/tour-de-france/2026/stage-3,3,48,Inneke,Goossens,44.0,154.0,36
-race/tour-de-france/2026/stage-3,3,35,Jens,Verstraeten,53.0,152.0,37
-race/tour-de-france/2026/stage-3,3,36,Laurens,De Maeyer,76.0,152.0,38
-race/tour-de-france/2026/stage-3,3,56,Silke,Liers,48.0,151.0,39
-race/tour-de-france/2026/stage-3,3,22,Matthew,Derycke,53.0,143.0,40
-race/tour-de-france/2026/stage-3,3,40,Lucie,Relaes,38.0,141.0,41
-race/tour-de-france/2026/stage-3,3,38,Wanne,Verstraeten,42.0,133.0,42
-race/tour-de-france/2026/stage-3,3,34,Stinkbeer,Stinkbeer,10.0,112.0,43
-race/tour-de-france/2026/stage-4,4,63,Flor,De Meulenaer,28.0,275.0,1
-race/tour-de-france/2026/stage-4,4,37,Jacob,Relaes,39.0,270.0,2
-race/tour-de-france/2026/stage-4,4,62,Tine,Wittemans,4.0,266.0,3
-race/tour-de-france/2026/stage-4,4,20,Bart,Vleminckx,10.0,265.0,4
-race/tour-de-france/2026/stage-4,4,30,Kristiaan,Van Laecke,28.0,265.0,5
-race/tour-de-france/2026/stage-4,4,23,Christoph,Mouton,36.0,262.0,6
-race/tour-de-france/2026/stage-4,4,18,Damiaan,Relaes,36.0,258.0,7
-race/tour-de-france/2026/stage-4,4,31,Clovis,De Blanger,36.0,254.0,8
-race/tour-de-france/2026/stage-4,4,47,Bart,Smet,60.0,249.0,9
-race/tour-de-france/2026/stage-4,4,41,Francis,Relaes,10.0,247.0,10
-race/tour-de-france/2026/stage-4,4,25,Gunther,Van Broeck,3.0,242.0,11
-race/tour-de-france/2026/stage-4,4,17,Andreas,De Rycke,28.0,240.0,12
-race/tour-de-france/2026/stage-4,4,24,Justine,Vermonden,10.0,239.0,13
-race/tour-de-france/2026/stage-4,4,51,Robert,Janssens,3.0,237.0,14
-race/tour-de-france/2026/stage-4,4,46,Katrien,Van Raemdonck,36.0,233.0,15
-race/tour-de-france/2026/stage-4,4,21,Thomas,Segers,3.0,232.0,16
-race/tour-de-france/2026/stage-4,4,66,Thomas,Verelst,10.0,229.0,17
-race/tour-de-france/2026/stage-4,4,55,bart,truyman,27.0,218.0,18
-race/tour-de-france/2026/stage-4,4,48,Inneke,Goossens,60.0,214.0,19
-race/tour-de-france/2026/stage-4,4,61,Michiel,Decleyre,2.0,214.0,20
-race/tour-de-france/2026/stage-4,4,29,Vivienne,Bosman,35.0,207.0,21
-race/tour-de-france/2026/stage-4,4,60,Siel,De Meulenaer,38.0,206.0,22
-race/tour-de-france/2026/stage-4,4,36,Laurens,De Maeyer,52.0,204.0,23
-race/tour-de-france/2026/stage-4,4,57,Simon,Decleyre,3.0,204.0,24
-race/tour-de-france/2026/stage-4,4,32,Bert,Noppe,35.0,202.0,25
-race/tour-de-france/2026/stage-4,4,19,Junot,Maes,2.0,201.0,26
-race/tour-de-france/2026/stage-4,4,54,peter,de maeyer,35.0,200.0,27
-race/tour-de-france/2026/stage-4,4,53,Arno,Smet,35.0,196.0,28
-race/tour-de-france/2026/stage-4,4,33,Emilie,Riga,3.0,195.0,29
-race/tour-de-france/2026/stage-4,4,58,Katleen,Smet,2.0,195.0,30
-race/tour-de-france/2026/stage-4,4,27,Hubert,VanDamme,2.0,194.0,31
-race/tour-de-france/2026/stage-4,4,40,Lucie,Relaes,44.0,185.0,32
-race/tour-de-france/2026/stage-4,4,44,Matteo,Relaes,3.0,184.0,33
-race/tour-de-france/2026/stage-4,4,45,Joris,Relaes,11.0,180.0,34
-race/tour-de-france/2026/stage-4,4,64,Stefaan,Wauters,2.0,164.0,35
-race/tour-de-france/2026/stage-4,4,50,Dirk,Van Raemdonck,2.0,163.0,36
-race/tour-de-france/2026/stage-4,4,39,Kelly,Van Damme,4.0,162.0,37
-race/tour-de-france/2026/stage-4,4,26,G-Motmans69,MissYouWoutjes,2.0,161.0,38
-race/tour-de-france/2026/stage-4,4,35,Jens,Verstraeten,2.0,154.0,39
-race/tour-de-france/2026/stage-4,4,56,Silke,Liers,2.0,153.0,40
-race/tour-de-france/2026/stage-4,4,22,Matthew,Derycke,2.0,145.0,41
-race/tour-de-france/2026/stage-4,4,38,Wanne,Verstraeten,12.0,145.0,42
-race/tour-de-france/2026/stage-4,4,34,Stinkbeer,Stinkbeer,15.0,127.0,43
-race/tour-de-france/2026/stage-5,5,37,Jacob,Relaes,35.0,305.0,1
-race/tour-de-france/2026/stage-5,5,41,Francis,Relaes,51.0,298.0,2
-race/tour-de-france/2026/stage-5,5,62,Tine,Wittemans,31.0,297.0,3
-race/tour-de-france/2026/stage-5,5,18,Damiaan,Relaes,35.0,293.0,4
-race/tour-de-france/2026/stage-5,5,23,Christoph,Mouton,31.0,293.0,5
-race/tour-de-france/2026/stage-5,5,31,Clovis,De Blanger,31.0,285.0,6
-race/tour-de-france/2026/stage-5,5,66,Thomas,Verelst,56.0,285.0,7
-race/tour-de-france/2026/stage-5,5,47,Bart,Smet,31.0,280.0,8
-race/tour-de-france/2026/stage-5,5,30,Kristiaan,Van Laecke,12.0,277.0,9
-race/tour-de-france/2026/stage-5,5,63,Flor,De Meulenaer,0.0,275.0,10
-race/tour-de-france/2026/stage-5,5,20,Bart,Vleminckx,5.0,270.0,11
-race/tour-de-france/2026/stage-5,5,55,bart,truyman,50.0,268.0,12
-race/tour-de-france/2026/stage-5,5,24,Justine,Vermonden,25.0,264.0,13
-race/tour-de-france/2026/stage-5,5,46,Katrien,Van Raemdonck,31.0,264.0,14
-race/tour-de-france/2026/stage-5,5,17,Andreas,De Rycke,12.0,252.0,15
-race/tour-de-france/2026/stage-5,5,21,Thomas,Segers,20.0,252.0,16
-race/tour-de-france/2026/stage-5,5,29,Vivienne,Bosman,45.0,252.0,17
-race/tour-de-france/2026/stage-5,5,36,Laurens,De Maeyer,42.0,246.0,18
-race/tour-de-france/2026/stage-5,5,60,Siel,De Meulenaer,40.0,246.0,19
-race/tour-de-france/2026/stage-5,5,48,Inneke,Goossens,31.0,245.0,20
-race/tour-de-france/2026/stage-5,5,54,peter,de maeyer,43.0,243.0,21
-race/tour-de-france/2026/stage-5,5,25,Gunther,Van Broeck,0.0,242.0,22
-race/tour-de-france/2026/stage-5,5,32,Bert,Noppe,37.0,239.0,23
-race/tour-de-france/2026/stage-5,5,51,Robert,Janssens,0.0,237.0,24
-race/tour-de-france/2026/stage-5,5,40,Lucie,Relaes,48.0,233.0,25
-race/tour-de-france/2026/stage-5,5,53,Arno,Smet,37.0,233.0,26
-race/tour-de-france/2026/stage-5,5,61,Michiel,Decleyre,19.0,233.0,27
-race/tour-de-france/2026/stage-5,5,58,Katleen,Smet,24.0,219.0,28
-race/tour-de-france/2026/stage-5,5,57,Simon,Decleyre,13.0,217.0,29
-race/tour-de-france/2026/stage-5,5,27,Hubert,VanDamme,21.0,215.0,30
-race/tour-de-france/2026/stage-5,5,33,Emilie,Riga,19.0,214.0,31
-race/tour-de-france/2026/stage-5,5,19,Junot,Maes,4.0,205.0,32
-race/tour-de-france/2026/stage-5,5,45,Joris,Relaes,20.0,200.0,33
-race/tour-de-france/2026/stage-5,5,56,Silke,Liers,43.0,196.0,34
-race/tour-de-france/2026/stage-5,5,64,Stefaan,Wauters,32.0,196.0,35
-race/tour-de-france/2026/stage-5,5,50,Dirk,Van Raemdonck,32.0,195.0,36
-race/tour-de-france/2026/stage-5,5,44,Matteo,Relaes,0.0,184.0,37
-race/tour-de-france/2026/stage-5,5,35,Jens,Verstraeten,24.0,178.0,38
-race/tour-de-france/2026/stage-5,5,26,G-Motmans69,MissYouWoutjes,12.0,173.0,39
-race/tour-de-france/2026/stage-5,5,39,Kelly,Van Damme,4.0,166.0,40
-race/tour-de-france/2026/stage-5,5,22,Matthew,Derycke,18.0,163.0,41
-race/tour-de-france/2026/stage-5,5,38,Wanne,Verstraeten,2.0,147.0,42
-race/tour-de-france/2026/stage-5,5,34,Stinkbeer,Stinkbeer,5.0,132.0,43
+race/tour-de-france/2026/stage-1,1,17,Andreas,De Rycke,73.0,73.0,4
+race/tour-de-france/2026/stage-1,1,18,Damiaan,Relaes,71.0,71.0,5
+race/tour-de-france/2026/stage-1,1,21,Thomas,Segers,71.0,71.0,6
+race/tour-de-france/2026/stage-1,1,25,Gunther,Van Broeck,71.0,71.0,7
+race/tour-de-france/2026/stage-1,1,54,peter,de maeyer,71.0,71.0,8
+race/tour-de-france/2026/stage-1,1,31,Clovis,De Blanger,70.0,70.0,9
+race/tour-de-france/2026/stage-1,1,45,Joris,Relaes,70.0,70.0,10
+race/tour-de-france/2026/stage-1,1,64,Stefaan,Wauters,70.0,70.0,11
+race/tour-de-france/2026/stage-1,1,55,bart,truyman,69.0,69.0,12
+race/tour-de-france/2026/stage-1,1,37,Jacob,Relaes,68.0,68.0,13
+race/tour-de-france/2026/stage-1,1,23,Christoph,Mouton,67.0,67.0,14
+race/tour-de-france/2026/stage-1,1,32,Bert,Noppe,67.0,67.0,15
+race/tour-de-france/2026/stage-1,1,58,Katleen,Smet,67.0,67.0,16
+race/tour-de-france/2026/stage-1,1,24,Justine,Vermonden,66.0,66.0,17
+race/tour-de-france/2026/stage-1,1,46,Katrien,Van Raemdonck,66.0,66.0,18
+race/tour-de-france/2026/stage-1,1,50,Dirk,Van Raemdonck,63.0,63.0,19
+race/tour-de-france/2026/stage-1,1,62,Tine,Wittemans,63.0,63.0,20
+race/tour-de-france/2026/stage-1,1,44,Matteo,Relaes,60.0,60.0,21
+race/tour-de-france/2026/stage-1,1,35,Jens,Verstraeten,59.0,59.0,22
+race/tour-de-france/2026/stage-1,1,47,Bart,Smet,59.0,59.0,23
+race/tour-de-france/2026/stage-1,1,20,Bart,Vleminckx,58.0,58.0,24
+race/tour-de-france/2026/stage-1,1,34,Stinkbeer,Stinkbeer,58.0,58.0,25
+race/tour-de-france/2026/stage-1,1,41,Francis,Relaes,56.0,56.0,26
+race/tour-de-france/2026/stage-1,1,61,Michiel,Decleyre,56.0,56.0,27
+race/tour-de-france/2026/stage-1,1,51,Robert,Janssens,55.0,55.0,28
+race/tour-de-france/2026/stage-1,1,66,Thomas,Verelst,54.0,54.0,29
+race/tour-de-france/2026/stage-1,1,33,Emilie,Riga,53.0,53.0,30
+race/tour-de-france/2026/stage-1,1,29,Vivienne,Bosman,52.0,52.0,31
+race/tour-de-france/2026/stage-1,1,40,Lucie,Relaes,49.0,49.0,32
+race/tour-de-france/2026/stage-1,1,38,Wanne,Verstraeten,48.0,48.0,33
+race/tour-de-france/2026/stage-1,1,48,Inneke,Goossens,48.0,48.0,34
+race/tour-de-france/2026/stage-1,1,19,Junot,Maes,47.0,47.0,35
+race/tour-de-france/2026/stage-1,1,26,G-Motmans69,MissYouWoutjes,47.0,47.0,36
+race/tour-de-france/2026/stage-1,1,56,Silke,Liers,46.0,46.0,37
+race/tour-de-france/2026/stage-1,1,36,Laurens,De Maeyer,44.0,44.0,38
+race/tour-de-france/2026/stage-1,1,22,Matthew,Derycke,43.0,43.0,39
+race/tour-de-france/2026/stage-1,1,57,Simon,Decleyre,42.0,42.0,40
+race/tour-de-france/2026/stage-1,1,53,Arno,Smet,41.0,41.0,41
+race/tour-de-france/2026/stage-1,1,60,Siel,De Meulenaer,38.0,38.0,42
+race/tour-de-france/2026/stage-1,1,39,Kelly,Van Damme,27.0,27.0,43
+race/tour-de-france/2026/stage-2,2,63,Flor,De Meulenaer,59.0,159.0,1
+race/tour-de-france/2026/stage-2,2,30,Kristiaan,Van Laecke,59.0,155.0,2
+race/tour-de-france/2026/stage-2,2,25,Gunther,Van Broeck,79.0,150.0,3
+race/tour-de-france/2026/stage-2,2,37,Jacob,Relaes,77.0,145.0,4
+race/tour-de-france/2026/stage-2,2,62,Tine,Wittemans,81.0,144.0,5
+race/tour-de-france/2026/stage-2,2,20,Bart,Vleminckx,79.0,137.0,6
+race/tour-de-france/2026/stage-2,2,17,Andreas,De Rycke,59.0,132.0,7
+race/tour-de-france/2026/stage-2,2,27,Hubert,VanDamme,40.0,131.0,8
+race/tour-de-france/2026/stage-2,2,24,Justine,Vermonden,63.0,129.0,9
+race/tour-de-france/2026/stage-2,2,23,Christoph,Mouton,59.0,126.0,10
+race/tour-de-france/2026/stage-2,2,51,Robert,Janssens,71.0,126.0,11
+race/tour-de-france/2026/stage-2,2,41,Francis,Relaes,69.0,125.0,12
+race/tour-de-france/2026/stage-2,2,18,Damiaan,Relaes,51.0,122.0,13
+race/tour-de-france/2026/stage-2,2,33,Emilie,Riga,67.0,120.0,14
+race/tour-de-france/2026/stage-2,2,55,bart,truyman,51.0,120.0,15
+race/tour-de-france/2026/stage-2,2,21,Thomas,Segers,47.0,118.0,16
+race/tour-de-france/2026/stage-2,2,31,Clovis,De Blanger,47.0,117.0,17
+race/tour-de-france/2026/stage-2,2,46,Katrien,Van Raemdonck,51.0,117.0,18
+race/tour-de-france/2026/stage-2,2,66,Thomas,Verelst,63.0,117.0,19
+race/tour-de-france/2026/stage-2,2,58,Katleen,Smet,45.0,112.0,20
+race/tour-de-france/2026/stage-2,2,19,Junot,Maes,63.0,110.0,21
+race/tour-de-france/2026/stage-2,2,45,Joris,Relaes,40.0,110.0,22
+race/tour-de-france/2026/stage-2,2,61,Michiel,Decleyre,54.0,110.0,23
+race/tour-de-france/2026/stage-2,2,57,Simon,Decleyre,67.0,109.0,24
+race/tour-de-france/2026/stage-2,2,50,Dirk,Van Raemdonck,45.0,108.0,25
+race/tour-de-france/2026/stage-2,2,29,Vivienne,Bosman,55.0,107.0,26
+race/tour-de-france/2026/stage-2,2,32,Bert,Noppe,39.0,106.0,27
+race/tour-de-france/2026/stage-2,2,47,Bart,Smet,47.0,106.0,28
+race/tour-de-france/2026/stage-2,2,44,Matteo,Relaes,41.0,101.0,29
+race/tour-de-france/2026/stage-2,2,48,Inneke,Goossens,53.0,101.0,30
+race/tour-de-france/2026/stage-2,2,54,peter,de maeyer,29.0,100.0,31
+race/tour-de-france/2026/stage-2,2,40,Lucie,Relaes,46.0,95.0,32
+race/tour-de-france/2026/stage-2,2,64,Stefaan,Wauters,25.0,95.0,33
+race/tour-de-france/2026/stage-2,2,34,Stinkbeer,Stinkbeer,36.0,94.0,34
+race/tour-de-france/2026/stage-2,2,39,Kelly,Van Damme,66.0,93.0,35
+race/tour-de-france/2026/stage-2,2,35,Jens,Verstraeten,31.0,90.0,36
+race/tour-de-france/2026/stage-2,2,56,Silke,Liers,44.0,90.0,37
+race/tour-de-france/2026/stage-2,2,60,Siel,De Meulenaer,45.0,83.0,38
+race/tour-de-france/2026/stage-2,2,22,Matthew,Derycke,39.0,82.0,39
+race/tour-de-france/2026/stage-2,2,53,Arno,Smet,39.0,80.0,40
+race/tour-de-france/2026/stage-2,2,38,Wanne,Verstraeten,31.0,79.0,41
+race/tour-de-france/2026/stage-2,2,26,G-Motmans69,MissYouWoutjes,31.0,78.0,42
+race/tour-de-france/2026/stage-2,2,36,Laurens,De Maeyer,25.0,69.0,43
+race/tour-de-france/2026/stage-3,3,20,Bart,Vleminckx,89.0,226.0,1
+race/tour-de-france/2026/stage-3,3,62,Tine,Wittemans,81.0,225.0,2
+race/tour-de-france/2026/stage-3,3,63,Flor,De Meulenaer,59.0,218.0,3
+race/tour-de-france/2026/stage-3,3,41,Francis,Relaes,87.0,212.0,4
+race/tour-de-france/2026/stage-3,3,30,Kristiaan,Van Laecke,55.0,210.0,5
+race/tour-de-france/2026/stage-3,3,25,Gunther,Van Broeck,59.0,209.0,6
+race/tour-de-france/2026/stage-3,3,51,Robert,Janssens,79.0,205.0,7
+race/tour-de-france/2026/stage-3,3,24,Justine,Vermonden,75.0,204.0,8
+race/tour-de-france/2026/stage-3,3,23,Christoph,Mouton,75.0,201.0,9
+race/tour-de-france/2026/stage-3,3,37,Jacob,Relaes,56.0,201.0,10
+race/tour-de-france/2026/stage-3,3,18,Damiaan,Relaes,75.0,197.0,11
+race/tour-de-france/2026/stage-3,3,21,Thomas,Segers,77.0,195.0,12
+race/tour-de-france/2026/stage-3,3,31,Clovis,De Blanger,75.0,192.0,13
+race/tour-de-france/2026/stage-3,3,17,Andreas,De Rycke,55.0,187.0,14
+race/tour-de-france/2026/stage-3,3,66,Thomas,Verelst,68.0,185.0,15
+race/tour-de-france/2026/stage-3,3,61,Michiel,Decleyre,73.0,183.0,16
+race/tour-de-france/2026/stage-3,3,19,Junot,Maes,68.0,178.0,17
+race/tour-de-france/2026/stage-3,3,58,Katleen,Smet,64.0,176.0,18
+race/tour-de-france/2026/stage-3,3,27,Hubert,VanDamme,43.0,174.0,19
+race/tour-de-france/2026/stage-3,3,55,bart,truyman,54.0,174.0,20
+race/tour-de-france/2026/stage-3,3,46,Katrien,Van Raemdonck,55.0,172.0,21
+race/tour-de-france/2026/stage-3,3,47,Bart,Smet,64.0,170.0,22
+race/tour-de-france/2026/stage-3,3,57,Simon,Decleyre,58.0,167.0,23
+race/tour-de-france/2026/stage-3,3,33,Emilie,Riga,38.0,158.0,24
+race/tour-de-france/2026/stage-3,3,44,Matteo,Relaes,55.0,156.0,25
+race/tour-de-france/2026/stage-3,3,29,Vivienne,Bosman,46.0,153.0,26
+race/tour-de-france/2026/stage-3,3,45,Joris,Relaes,43.0,153.0,27
+race/tour-de-france/2026/stage-3,3,32,Bert,Noppe,44.0,150.0,28
+race/tour-de-france/2026/stage-3,3,54,peter,de maeyer,50.0,150.0,29
+race/tour-de-france/2026/stage-3,3,64,Stefaan,Wauters,50.0,145.0,30
+race/tour-de-france/2026/stage-3,3,53,Arno,Smet,64.0,144.0,31
+race/tour-de-france/2026/stage-3,3,26,G-Motmans69,MissYouWoutjes,64.0,142.0,32
+race/tour-de-france/2026/stage-3,3,50,Dirk,Van Raemdonck,34.0,142.0,33
+race/tour-de-france/2026/stage-3,3,60,Siel,De Meulenaer,56.0,139.0,34
+race/tour-de-france/2026/stage-3,3,36,Laurens,De Maeyer,68.0,137.0,35
+race/tour-de-france/2026/stage-3,3,39,Kelly,Van Damme,44.0,137.0,36
+race/tour-de-france/2026/stage-3,3,48,Inneke,Goossens,34.0,135.0,37
+race/tour-de-france/2026/stage-3,3,35,Jens,Verstraeten,44.0,134.0,38
+race/tour-de-france/2026/stage-3,3,40,Lucie,Relaes,34.0,129.0,39
+race/tour-de-france/2026/stage-3,3,56,Silke,Liers,39.0,129.0,40
+race/tour-de-france/2026/stage-3,3,22,Matthew,Derycke,44.0,126.0,41
+race/tour-de-france/2026/stage-3,3,38,Wanne,Verstraeten,32.0,111.0,42
+race/tour-de-france/2026/stage-3,3,34,Stinkbeer,Stinkbeer,6.0,100.0,43
+race/tour-de-france/2026/stage-4,4,63,Flor,De Meulenaer,25.0,243.0,1
+race/tour-de-france/2026/stage-4,4,30,Kristiaan,Van Laecke,25.0,235.0,2
+race/tour-de-france/2026/stage-4,4,23,Christoph,Mouton,30.0,231.0,3
+race/tour-de-france/2026/stage-4,4,37,Jacob,Relaes,30.0,231.0,4
+race/tour-de-france/2026/stage-4,4,20,Bart,Vleminckx,2.0,228.0,5
+race/tour-de-france/2026/stage-4,4,18,Damiaan,Relaes,30.0,227.0,6
+race/tour-de-france/2026/stage-4,4,47,Bart,Smet,55.0,225.0,7
+race/tour-de-france/2026/stage-4,4,62,Tine,Wittemans,0.0,225.0,8
+race/tour-de-france/2026/stage-4,4,31,Clovis,De Blanger,30.0,222.0,9
+race/tour-de-france/2026/stage-4,4,41,Francis,Relaes,2.0,214.0,10
+race/tour-de-france/2026/stage-4,4,17,Andreas,De Rycke,25.0,212.0,11
+race/tour-de-france/2026/stage-4,4,25,Gunther,Van Broeck,0.0,209.0,12
+race/tour-de-france/2026/stage-4,4,24,Justine,Vermonden,2.0,206.0,13
+race/tour-de-france/2026/stage-4,4,51,Robert,Janssens,0.0,205.0,14
+race/tour-de-france/2026/stage-4,4,46,Katrien,Van Raemdonck,30.0,202.0,15
+race/tour-de-france/2026/stage-4,4,55,bart,truyman,25.0,199.0,16
+race/tour-de-france/2026/stage-4,4,21,Thomas,Segers,0.0,195.0,17
+race/tour-de-france/2026/stage-4,4,48,Inneke,Goossens,55.0,190.0,18
+race/tour-de-france/2026/stage-4,4,66,Thomas,Verelst,2.0,187.0,19
+race/tour-de-france/2026/stage-4,4,29,Vivienne,Bosman,30.0,183.0,20
+race/tour-de-france/2026/stage-4,4,61,Michiel,Decleyre,0.0,183.0,21
+race/tour-de-france/2026/stage-4,4,32,Bert,Noppe,30.0,180.0,22
+race/tour-de-france/2026/stage-4,4,54,peter,de maeyer,30.0,180.0,23
+race/tour-de-france/2026/stage-4,4,36,Laurens,De Maeyer,42.0,179.0,24
+race/tour-de-france/2026/stage-4,4,19,Junot,Maes,0.0,178.0,25
+race/tour-de-france/2026/stage-4,4,58,Katleen,Smet,0.0,176.0,26
+race/tour-de-france/2026/stage-4,4,27,Hubert,VanDamme,0.0,174.0,27
+race/tour-de-france/2026/stage-4,4,53,Arno,Smet,30.0,174.0,28
+race/tour-de-france/2026/stage-4,4,40,Lucie,Relaes,40.0,169.0,29
+race/tour-de-france/2026/stage-4,4,60,Siel,De Meulenaer,30.0,169.0,30
+race/tour-de-france/2026/stage-4,4,57,Simon,Decleyre,0.0,167.0,31
+race/tour-de-france/2026/stage-4,4,45,Joris,Relaes,10.0,163.0,32
+race/tour-de-france/2026/stage-4,4,33,Emilie,Riga,0.0,158.0,33
+race/tour-de-france/2026/stage-4,4,44,Matteo,Relaes,0.0,156.0,34
+race/tour-de-france/2026/stage-4,4,64,Stefaan,Wauters,0.0,145.0,35
+race/tour-de-france/2026/stage-4,4,26,G-Motmans69,MissYouWoutjes,0.0,142.0,36
+race/tour-de-france/2026/stage-4,4,50,Dirk,Van Raemdonck,0.0,142.0,37
+race/tour-de-france/2026/stage-4,4,39,Kelly,Van Damme,0.0,137.0,38
+race/tour-de-france/2026/stage-4,4,35,Jens,Verstraeten,0.0,134.0,39
+race/tour-de-france/2026/stage-4,4,56,Silke,Liers,0.0,129.0,40
+race/tour-de-france/2026/stage-4,4,22,Matthew,Derycke,0.0,126.0,41
+race/tour-de-france/2026/stage-4,4,38,Wanne,Verstraeten,10.0,121.0,42
+race/tour-de-france/2026/stage-4,4,34,Stinkbeer,Stinkbeer,14.0,114.0,43
+race/tour-de-france/2026/stage-5,5,18,Damiaan,Relaes,32.0,259.0,1
+race/tour-de-france/2026/stage-5,5,23,Christoph,Mouton,28.0,259.0,2
+race/tour-de-france/2026/stage-5,5,37,Jacob,Relaes,28.0,259.0,3
+race/tour-de-france/2026/stage-5,5,41,Francis,Relaes,45.0,259.0,4
+race/tour-de-france/2026/stage-5,5,62,Tine,Wittemans,29.0,254.0,5
+race/tour-de-france/2026/stage-5,5,47,Bart,Smet,28.0,253.0,6
+race/tour-de-france/2026/stage-5,5,31,Clovis,De Blanger,28.0,250.0,7
+race/tour-de-france/2026/stage-5,5,55,bart,truyman,50.0,249.0,8
+race/tour-de-france/2026/stage-5,5,30,Kristiaan,Van Laecke,12.0,247.0,9
+race/tour-de-france/2026/stage-5,5,63,Flor,De Meulenaer,0.0,243.0,10
+race/tour-de-france/2026/stage-5,5,66,Thomas,Verelst,50.0,237.0,11
+race/tour-de-france/2026/stage-5,5,46,Katrien,Van Raemdonck,28.0,230.0,12
+race/tour-de-france/2026/stage-5,5,20,Bart,Vleminckx,0.0,228.0,13
+race/tour-de-france/2026/stage-5,5,24,Justine,Vermonden,20.0,226.0,14
+race/tour-de-france/2026/stage-5,5,29,Vivienne,Bosman,42.0,225.0,15
+race/tour-de-france/2026/stage-5,5,17,Andreas,De Rycke,12.0,224.0,16
+race/tour-de-france/2026/stage-5,5,48,Inneke,Goossens,28.0,218.0,17
+race/tour-de-france/2026/stage-5,5,54,peter,de maeyer,38.0,218.0,18
+race/tour-de-france/2026/stage-5,5,21,Thomas,Segers,20.0,215.0,19
+race/tour-de-france/2026/stage-5,5,32,Bert,Noppe,34.0,214.0,20
+race/tour-de-france/2026/stage-5,5,36,Laurens,De Maeyer,34.0,213.0,21
+race/tour-de-france/2026/stage-5,5,40,Lucie,Relaes,44.0,213.0,22
+race/tour-de-france/2026/stage-5,5,25,Gunther,Van Broeck,0.0,209.0,23
+race/tour-de-france/2026/stage-5,5,53,Arno,Smet,34.0,208.0,24
+race/tour-de-france/2026/stage-5,5,51,Robert,Janssens,0.0,205.0,25
+race/tour-de-france/2026/stage-5,5,60,Siel,De Meulenaer,34.0,203.0,26
+race/tour-de-france/2026/stage-5,5,58,Katleen,Smet,24.0,200.0,27
+race/tour-de-france/2026/stage-5,5,61,Michiel,Decleyre,16.0,199.0,28
+race/tour-de-france/2026/stage-5,5,27,Hubert,VanDamme,20.0,194.0,29
+race/tour-de-france/2026/stage-5,5,45,Joris,Relaes,20.0,183.0,30
+race/tour-de-france/2026/stage-5,5,19,Junot,Maes,4.0,182.0,31
+race/tour-de-france/2026/stage-5,5,57,Simon,Decleyre,12.0,179.0,32
+race/tour-de-france/2026/stage-5,5,64,Stefaan,Wauters,32.0,177.0,33
+race/tour-de-france/2026/stage-5,5,33,Emilie,Riga,18.0,176.0,34
+race/tour-de-france/2026/stage-5,5,50,Dirk,Van Raemdonck,32.0,174.0,35
+race/tour-de-france/2026/stage-5,5,56,Silke,Liers,42.0,171.0,36
+race/tour-de-france/2026/stage-5,5,35,Jens,Verstraeten,24.0,158.0,37
+race/tour-de-france/2026/stage-5,5,44,Matteo,Relaes,0.0,156.0,38
+race/tour-de-france/2026/stage-5,5,26,G-Motmans69,MissYouWoutjes,12.0,154.0,39
+race/tour-de-france/2026/stage-5,5,22,Matthew,Derycke,18.0,144.0,40
+race/tour-de-france/2026/stage-5,5,39,Kelly,Van Damme,0.0,137.0,41
+race/tour-de-france/2026/stage-5,5,38,Wanne,Verstraeten,2.0,123.0,42
+race/tour-de-france/2026/stage-5,5,34,Stinkbeer,Stinkbeer,4.0,118.0,43
