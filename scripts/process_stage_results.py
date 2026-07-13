@@ -28,6 +28,34 @@ def main() -> None:
         frames = [pd.read_csv(f) for f in csv_files]
         all_results = pd.concat(frames, ignore_index=True)
 
+        # ── Carry-forward: bescherm reeds-gepubliceerde uitslagen ─────────────
+        # Dit aggregaat wordt elke run vanaf nul herbouwd uit de raw-scrape.
+        # Mislukt één stage/categorie tijdelijk (bv. 403/timeout → lege scrape,
+        # dus geen raw-bestand), dan zou de betreffende uitslag zonder deze guard
+        # volledig uit het aggregaat verdwijnen — ook al stond hij er de vorige
+        # run correct in (dit gebeurde met de etappe-8-uitslag). We nemen daarom
+        # elke (stage_id, category)-groep die deze run ontbreekt, maar in de
+        # vorige gecommitte uitslag wél bestond, ongewijzigd over.
+        prev_file = (
+            BASE_DIR / "data" / "processed" / "results"
+            / f"{event_id}_{event_year}_all_stage_results.csv"
+        )
+        if prev_file.exists():
+            previous = pd.read_csv(prev_file)
+            if not previous.empty:
+                new_keys = set(
+                    map(tuple, all_results[["stage_id", "category"]].drop_duplicates().to_numpy())
+                )
+                missing = previous[
+                    ~previous[["stage_id", "category"]].apply(tuple, axis=1).isin(new_keys)
+                ]
+                if not missing.empty:
+                    for (sid, cat), grp in missing.groupby(["stage_id", "category"]):
+                        print(f"  [carry-forward] {sid} ({cat}): {len(grp)} rijen behouden uit vorige run")
+                    all_results = pd.concat(
+                        [all_results, missing[all_results.columns]], ignore_index=True
+                    )
+
         # Stages inladen voor stage nummer lookup
         stages_file = BASE_DIR / "data" / "processed" / "stages" / f"stages_{event_id}_{event_year}.csv"
         if stages_file.exists():
