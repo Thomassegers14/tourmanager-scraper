@@ -216,7 +216,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 35,2026-07-03T11:11:45.060211+00:00,Jens,Verstraeten,jens@sfidasolutions.be,tour-de-france,2026,rider/soren-waerenskjold,WÆRENSKJOLD Søren,True
 35,2026-07-03T11:11:45.060211+00:00,Jens,Verstraeten,jens@sfidasolutions.be,tour-de-france,2026,rider/valentin-paret-peintre,PARET-PEINTRE Valentin,True
 36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/tadej-pogacar,POGAČAR Tadej,True
-36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,True
+36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,False
 36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/tim-merlier,MERLIER Tim,False
 36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/mads-pedersen,PEDERSEN Mads,True
 36,2026-07-03T12:05:39.391716+00:00,Laurens,De Maeyer,laurensdemaeyer@hotmail.com,tour-de-france,2026,rider/kevin-vauquelin,VAUQUELIN Kévin,True
@@ -252,7 +252,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 38,2026-07-03T14:24:27.669858+00:00,Wanne,Verstraeten,wanneverstraeten@gmail.com,tour-de-france,2026,rider/joris-delbove,DELBOVE Joris,True
 38,2026-07-03T14:24:27.669858+00:00,Wanne,Verstraeten,wanneverstraeten@gmail.com,tour-de-france,2026,rider/jenthe-biermans,BIERMANS Jenthe,True
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/isaac-del-toro,DEL TORO Isaac,True
-39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,True
+39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,False
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/tobias-halland-johannessen,JOHANNESSEN Tobias Halland,True
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/paul-seixas,SEIXAS Paul,True
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/remco-evenepoel,EVENEPOEL Remco,True
@@ -264,7 +264,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/george-bennett,BENNETT George,True
 39,2026-07-03T15:04:50.580883+00:00,Kelly,Van Damme,kelly.van.damme@hotmail.com,tour-de-france,2026,rider/niklas-markl,MÄRKL Niklas,True
 40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/isaac-del-toro,DEL TORO Isaac,True
-40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,True
+40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,False
 40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/jasper-philipsen,PHILIPSEN Jasper,True
 40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/lenny-martinez,MARTINEZ Lenny,True
 40,2026-07-03T15:14:15.334225+00:00,Lucie,Relaes,lucierelaes@gmail.com,tour-de-france,2026,rider/tim-merlier,MERLIER Tim,False
@@ -409,7 +409,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 55,2026-07-04T06:35:55.812401+00:00,bart,truyman,barttruyman@hotmail.com,tour-de-france,2026,rider/quinn-simmons,SIMMONS Quinn,True
 56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/jonas-vingegaard,VINGEGAARD Jonas,False
 56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/isaac-del-toro,DEL TORO Isaac,True
-56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,True
+56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,False
 56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/jasper-philipsen,PHILIPSEN Jasper,True
 56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/arnaud-de-lie,DE LIE Arnaud,False
 56,2026-07-04T07:05:38.992861+00:00,Silke,Liers,silke.liers@hotmail.com,tour-de-france,2026,rider/ben-o-connor,O'CONNOR Ben,True
@@ -457,7 +457,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 60,2026-07-04T10:32:51.681999+00:00,Siel,De Meulenaer,siel.de.meulenaer@gmail.com,tour-de-france,2026,rider/maxim-van-gils,VAN GILS Maxim,True
 61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/jonas-vingegaard,VINGEGAARD Jonas,False
 61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/isaac-del-toro,DEL TORO Isaac,True
-61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,True
+61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/florian-lipowitz,LIPOWITZ Florian,False
 61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/tobias-halland-johannessen,JOHANNESSEN Tobias Halland,True
 61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/juan-ayuso-pesquera,AYUSO Juan,True
 61,2026-07-04T11:08:27.274462+00:00,Michiel,Decleyre,m.decleyre@telenet.be,tour-de-france,2026,rider/richard-carapaz,CARAPAZ Richard,True
