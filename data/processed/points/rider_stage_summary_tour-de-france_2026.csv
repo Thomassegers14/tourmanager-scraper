@@ -15,7 +15,7 @@ rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-13,13,0.0,0.0
 rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-14,14,0.0,0.0
 rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-15,15,0.0,0.0
 rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-16,16,0.0,0.0
-rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-17,17,0.0,0.0
+rider/aaron-gate,GATE Aaron,race/tour-de-france/2026/stage-17,17,2.0,2.0
 rider/abel-balderstone-roumens,BALDERSTONE Abel,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/abel-balderstone-roumens,BALDERSTONE Abel,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/abel-balderstone-roumens,BALDERSTONE Abel,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -559,7 +559,7 @@ rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-13,13,0.0,21.0
 rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-14,14,0.0,21.0
 rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-15,15,0.0,21.0
 rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-16,16,0.0,21.0
-rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-17,17,0.0,21.0
+rider/clement-russo,RUSSO Clément,race/tour-de-france/2026/stage-17,17,8.0,29.0
 rider/daan-hoole,HOOLE Daan,race/tour-de-france/2026/stage-1,1,5.0,5.0
 rider/daan-hoole,HOOLE Daan,race/tour-de-france/2026/stage-2,2,0.0,5.0
 rider/daan-hoole,HOOLE Daan,race/tour-de-france/2026/stage-3,3,0.0,5.0
@@ -1052,7 +1052,7 @@ rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-13,13,0.0,36.0
 rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-14,14,0.0,36.0
 rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-15,15,0.0,36.0
 rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-16,16,0.0,36.0
-rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-17,17,0.0,36.0
+rider/huub-artz,ARTZ Huub,race/tour-de-france/2026/stage-17,17,10.0,46.0
 rider/ilan-van-wilder,VAN WILDER Ilan,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/ilan-van-wilder,VAN WILDER Ilan,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/ilan-van-wilder,VAN WILDER Ilan,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -1188,7 +1188,7 @@ rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-13,13,2.0
 rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-14,14,2.0,88.0
 rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-15,15,2.0,90.0
 rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-16,16,2.0,92.0
-rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-17,17,2.0,94.0
+rider/jasper-philipsen,PHILIPSEN Jasper,race/tour-de-france/2026/stage-17,17,32.0,124.0
 rider/jasper-stuyven,STUYVEN Jasper,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/jasper-stuyven,STUYVEN Jasper,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/jasper-stuyven,STUYVEN Jasper,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -1630,7 +1630,7 @@ rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-13,13,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-14,14,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-15,15,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-16,16,0.0,0.0
-rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-17,17,0.0,0.0
+rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-17,17,14.0,14.0
 rider/liam-slock,SLOCK Liam,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/liam-slock,SLOCK Liam,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/liam-slock,SLOCK Liam,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -1732,7 +1732,7 @@ rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-13,13,3.0,93.0
 rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-14,14,3.0,96.0
 rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-15,15,3.0,99.0
 rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-16,16,3.0,102.0
-rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-17,17,3.0,105.0
+rider/mads-pedersen,PEDERSEN Mads,race/tour-de-france/2026/stage-17,17,9.0,111.0
 rider/magnus-cort-nielsen,CORT Magnus,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/magnus-cort-nielsen,CORT Magnus,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/magnus-cort-nielsen,CORT Magnus,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2004,7 +2004,7 @@ rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-13,13,30.0,31.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-14,14,0.0,31.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-15,15,0.0,31.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-16,16,0.0,31.0
-rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-17,17,0.0,31.0
+rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-17,17,25.0,56.0
 rider/max-kanter,KANTER Max,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/max-kanter,KANTER Max,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/max-kanter,KANTER Max,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2072,7 +2072,7 @@ rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-13,13,0.0
 rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-14,14,0.0,9.0
 rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-15,15,0.0,9.0
 rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-16,16,0.0,9.0
-rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-17,17,0.0,9.0
+rider/michael-matthews,MATTHEWS Michael,race/tour-de-france/2026/stage-17,17,4.0,13.0
 rider/michael-storer,STORER Michael,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/michael-storer,STORER Michael,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/michael-storer,STORER Michael,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2310,7 +2310,7 @@ rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-13,13,0.0,105.0
 rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-14,14,0.0,105.0
 rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-15,15,0.0,105.0
 rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-16,16,0.0,105.0
-rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-17,17,0.0,105.0
+rider/olav-kooij,KOOIJ Olav,race/tour-de-france/2026/stage-17,17,20.0,125.0
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2582,7 +2582,7 @@ rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-13,13,0.0,10.0
 rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-14,14,0.0,10.0
 rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-15,15,0.0,10.0
 rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-16,16,0.0,10.0
-rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-17,17,0.0,10.0
+rider/rick-pluimers,PLUIMERS Rick,race/tour-de-france/2026/stage-17,17,12.0,22.0
 rider/robbe-dhondt,DHONDT Robbe,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/robbe-dhondt,DHONDT Robbe,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/robbe-dhondt,DHONDT Robbe,race/tour-de-france/2026/stage-3,3,0.0,0.0
