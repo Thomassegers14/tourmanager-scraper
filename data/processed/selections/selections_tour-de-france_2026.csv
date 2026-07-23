@@ -52,7 +52,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/jai-hindley,HINDLEY Jai,True
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/tim-merlier,MERLIER Tim,False
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/matthew-riccitello,RICCITELLO Matthew,True
-21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,True
+21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,False
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/mauro-schmid,SCHMID Mauro,True
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/derek-gee,GEE-WEST Derek,True
 21,2026-07-01T22:18:48.656613+00:00,Thomas,Segers,thomas.014@hotmail.com,tour-de-france,2026,rider/juan-ayuso-pesquera,AYUSO Juan,True
@@ -147,7 +147,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/jonas-vingegaard,VINGEGAARD Jonas,False
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/jasper-philipsen,PHILIPSEN Jasper,True
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/jai-hindley,HINDLEY Jai,True
-30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,True
+30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,False
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,True
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/romain-gregoire,GRÉGOIRE Romain,True
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/cian-uijtdebroeks,UIJTDEBROEKS Cian,False
@@ -494,7 +494,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/tadej-pogacar,POGAČAR Tadej,True
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/jasper-philipsen,PHILIPSEN Jasper,True
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/tim-merlier,MERLIER Tim,False
-64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,True
+64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/brandon-mcnulty,MCNULTY Brandon,False
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/mathieu-van-der-poel,VAN DER POEL Mathieu,True
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/arnaud-de-lie,DE LIE Arnaud,False
 64,2026-07-04T13:14:01.496449+00:00,Stefaan,Wauters,stefaan.wauters@mow.vlaanderen.be,tour-de-france,2026,rider/sepp-kuss,KUSS Sepp,True
