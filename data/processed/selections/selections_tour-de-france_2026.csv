@@ -154,7 +154,7 @@ id,tijdstip,voornaam,achternaam,email,event_id,event_year,rider_id,rider_name,ac
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/dorian-godon,GODON Dorian,True
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/valentin-paret-peintre,PARET-PEINTRE Valentin,True
 30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/quinn-simmons,SIMMONS Quinn,True
-30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/edoardo-affini,AFFINI Edoardo,True
+30,2026-07-02T20:33:30.290226+00:00,Kristiaan,Van Laecke,kristiaan.vanlaecke@ilvo.vlaanderen.be,tour-de-france,2026,rider/edoardo-affini,AFFINI Edoardo,False
 31,2026-07-02T23:59:51.330881+00:00,Clovis,De Blanger,clovisdeblanger@gmail.com,tour-de-france,2026,rider/tadej-pogacar,POGAČAR Tadej,True
 31,2026-07-02T23:59:51.330881+00:00,Clovis,De Blanger,clovisdeblanger@gmail.com,tour-de-france,2026,rider/jonas-vingegaard,VINGEGAARD Jonas,False
 31,2026-07-02T23:59:51.330881+00:00,Clovis,De Blanger,clovisdeblanger@gmail.com,tour-de-france,2026,rider/jai-hindley,HINDLEY Jai,True
