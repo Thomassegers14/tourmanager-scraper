@@ -514,11 +514,11 @@ rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-12,12,0.0,15.
 rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-13,13,0.0,15.0
 rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-14,14,0.0,15.0
 rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-15,15,0.0,15.0
-rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-16,16,4.0,19.0
-rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-17,17,0.0,19.0
-rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-18,18,0.0,19.0
-rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-19,19,0.0,19.0
-rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-20,20,0.0,19.0
+rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-16,16,6.0,21.0
+rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-17,17,0.0,21.0
+rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-18,18,0.0,21.0
+rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-19,19,0.0,21.0
+rider/bruno-armirail,ARMIRAIL Bruno,race/tour-de-france/2026/stage-20,20,0.0,21.0
 rider/carlos-verona,VERONA Carlos,race/tour-de-france/2026/stage-1,1,7.0,7.0
 rider/carlos-verona,VERONA Carlos,race/tour-de-france/2026/stage-2,2,0.0,7.0
 rider/carlos-verona,VERONA Carlos,race/tour-de-france/2026/stage-3,3,0.0,7.0
@@ -1297,8 +1297,8 @@ rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-15,15,25.0,15
 rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-16,16,17.0,176.0
 rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-17,17,5.0,181.0
 rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-18,18,5.0,186.0
-rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-19,19,15.0,201.0
-rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-20,20,17.0,218.0
+rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-19,19,13.0,199.0
+rider/isaac-del-toro,DEL TORO Isaac,race/tour-de-france/2026/stage-20,20,17.0,216.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-1,1,6.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-2,2,0.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-3,3,0.0,6.0
@@ -1318,7 +1318,7 @@ rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-16,16,0.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-17,17,0.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-18,18,0.0,6.0
 rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-19,19,0.0,6.0
-rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-20,20,10.0,16.0
+rider/jai-hindley,HINDLEY Jai,race/tour-de-france/2026/stage-20,20,8.0,14.0
 rider/jake-stewart,STEWART Jake,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/jake-stewart,STEWART Jake,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/jake-stewart,STEWART Jake,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -1698,7 +1698,7 @@ rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-16,16,1.0,76
 rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-17,17,1.0,77.0
 rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-18,18,1.0,78.0
 rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-19,19,0.0,78.0
-rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-20,20,4.0,82.0
+rider/juan-ayuso-pesquera,AYUSO Juan,race/tour-de-france/2026/stage-20,20,6.0,84.0
 rider/julian-alaphilippe,ALAPHILIPPE Julian,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/julian-alaphilippe,ALAPHILIPPE Julian,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/julian-alaphilippe,ALAPHILIPPE Julian,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -1896,9 +1896,9 @@ rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-14,14,0.0,18.
 rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-15,15,10.0,28.0
 rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-16,16,0.0,28.0
 rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-17,17,0.0,28.0
-rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-18,18,6.0,34.0
-rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-19,19,26.0,60.0
-rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-20,20,9.0,69.0
+rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-18,18,4.0,32.0
+rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-19,19,26.0,58.0
+rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2026/stage-20,20,11.0,69.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/lewis-askey,ASKEY Lewis,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2337,8 +2337,8 @@ rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-
 rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-16,16,20.0,65.0
 rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-17,17,0.0,65.0
 rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-18,18,0.0,65.0
-rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-19,19,6.0,71.0
-rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-20,20,6.0,77.0
+rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-19,19,4.0,69.0
+rider/mattias-skjelmose-jensen,SKJELMOSE Mattias,race/tour-de-france/2026/stage-20,20,4.0,73.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-1,1,1.0,1.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-2,2,0.0,1.0
 rider/mauro-schmid,SCHMID Mauro,race/tour-de-france/2026/stage-3,3,0.0,1.0
@@ -2734,11 +2734,11 @@ rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-12,
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-13,13,0.0,4.0
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-14,14,0.0,4.0
 rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-15,15,0.0,4.0
-rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-16,16,6.0,10.0
-rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-17,17,0.0,10.0
-rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-18,18,10.0,20.0
-rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-19,19,0.0,20.0
-rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-20,20,0.0,20.0
+rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-16,16,4.0,8.0
+rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-17,17,0.0,8.0
+rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-18,18,8.0,16.0
+rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-19,19,0.0,16.0
+rider/pablo-castrillo-zapater,CASTRILLO Pablo,race/tour-de-france/2026/stage-20,20,0.0,16.0
 rider/pascal-ackermann,ACKERMANN Pascal,race/tour-de-france/2026/stage-1,1,1.0,1.0
 rider/pascal-ackermann,ACKERMANN Pascal,race/tour-de-france/2026/stage-2,2,0.0,1.0
 rider/pascal-ackermann,ACKERMANN Pascal,race/tour-de-france/2026/stage-3,3,0.0,1.0
@@ -2797,8 +2797,8 @@ rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-15,15,16.0,108.0
 rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-16,16,16.0,124.0
 rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-17,17,2.0,126.0
 rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-18,18,2.0,128.0
-rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-19,19,6.0,134.0
-rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-20,20,4.0,138.0
+rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-19,19,8.0,136.0
+rider/paul-seixas,SEIXAS Paul,race/tour-de-france/2026/stage-20,20,4.0,140.0
 rider/pavel-bittner,BITTNER Pavel,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/pavel-bittner,BITTNER Pavel,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/pavel-bittner,BITTNER Pavel,race/tour-de-france/2026/stage-3,3,0.0,0.0
@@ -2976,9 +2976,9 @@ rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-14,
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-15,15,0.0,21.0
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-16,16,0.0,21.0
 rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-17,17,0.0,21.0
-rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-18,18,8.0,29.0
-rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-19,19,0.0,29.0
-rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-20,20,0.0,29.0
+rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-18,18,10.0,31.0
+rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-19,19,0.0,31.0
+rider/raul-garcia-pierna,GARCÍA PIERNA Raúl,race/tour-de-france/2026/stage-20,20,0.0,31.0
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-1,1,6.0,6.0
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-2,2,22.0,28.0
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-3,3,8.0,36.0
@@ -2996,9 +2996,9 @@ rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-14,14,14.0,
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-15,15,33.0,130.0
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-16,16,33.0,163.0
 rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-17,17,3.0,166.0
-rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-18,18,7.0,173.0
-rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-19,19,11.0,184.0
-rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-20,20,28.0,212.0
+rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-18,18,9.0,175.0
+rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-19,19,13.0,188.0
+rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2026/stage-20,20,28.0,216.0
 rider/richard-carapaz,CARAPAZ Richard,race/tour-de-france/2026/stage-1,1,0.0,0.0
 rider/richard-carapaz,CARAPAZ Richard,race/tour-de-france/2026/stage-2,2,0.0,0.0
 rider/richard-carapaz,CARAPAZ Richard,race/tour-de-france/2026/stage-3,3,20.0,20.0
